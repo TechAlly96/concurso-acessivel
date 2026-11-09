@@ -656,7 +656,7 @@ Letra E: Chefia Adjunta da P C M G.
 
 Pense na sua resposta antes de ouvir a explicação.
 
-**A explicação.** A Lei Complementar 129 dá à Superintendência de Investigação e Polícia Judiciária a coordenação dos departamentos de polícia que fazem a investigação, e com isso a remoção por permuta de policiais dentro dos limites de um mesmo departamento. A Corregedoria cuida da disciplina; a Inteligência, das informações; e a Planejamento, Gestão e Finanças, da administração de recursos. Nas aulas de Lei Orgânica, vamos ler esse artigo palavra por palavra.
+**A explicação.** É o artigo 38 da Lei Complementar 129. A Superintendência de Investigação e Polícia Judiciária tem a finalidade de planejar, coordenar e supervisionar a execução da investigação criminal, e o inciso cinco do artigo lhe dá a competência para remover investigadores de polícia e escrivães de polícia, a pedido ou por permuta. A Corregedoria cuida da disciplina; a Inteligência, das informações; e a Planejamento, Gestão e Finanças, da administração de recursos.
 
 **Resposta: letra C, superintendência de Investigação e Polícia Judiciária.**
 
@@ -734,7 +734,7 @@ Letra E: um, dois e três.
 
 Pense na sua resposta antes de ouvir a explicação.
 
-**A explicação.** Os itens um e três reproduzem a Lei Complementar 129: o auxílio-natalidade, com uma única percepção quando pai e mãe são da P C M G, e o translado do policial ferido, acidentado ou falecido em serviço. O item dois é a pegadinha: ele modifica as condições da ajuda de custo previstas na lei. Na aula de direitos e vantagens, vamos ler o artigo da ajuda de custo palavra por palavra para você não cair nessa troca.
+**A explicação.** O artigo 49 da Lei Complementar 129 lista as indenizações e gratificações. O item um está certo: o auxílio-natalidade, do inciso 14, é devido pelo nascimento de filho ou adoção, no valor da remuneração do servidor, com uma única percepção quando pai e mãe são da P C M G. O item três também está certo: o translado ou remoção quando ferido, acidentado ou falecido em serviço está no inciso 6. O item dois é a pegadinha: pelo inciso 1, a ajuda de custo é devida em caso de remoção de ofício, ou seja, por interesse da Administração, ou de designação para serviço ou estudo que importe alteração do domicílio. A questão incluiu a remoção a pedido, que a lei não prevê. A F G V acrescentou duas palavras, "ou a pedido", e isso bastou para tornar o item falso.
 
 **Resposta: letra D, um e três, apenas.**
 
@@ -760,7 +760,7 @@ Letra E: um, dois e três.
 
 Pense na sua resposta antes de ouvir a explicação.
 
-**A explicação.** Só o item três reproduz a lei: o policial afastado para estudo não pode exercer outra atividade, sob pena de cassação do afastamento e retorno imediato. Os itens um e dois alteram os prazos previstos na Lei Complementar 129, a pegadinha preferida da F G V em lei seca. Na aula sobre afastamentos, você vai ouvir os prazos exatos e um jeito de memorizá-los.
+**A explicação.** Só o item três reproduz a lei: é o artigo 69 da Lei Complementar 129. O policial afastado não pode exercer nenhuma de suas funções, ou outra, pública ou particular, diversa da que motivou o ato, sob pena de cassação do afastamento e retorno imediato. Os itens um e dois trocaram os números do artigo 68. O afastamento para curso é concedido pelo prazo de três meses, prorrogável até o máximo de três meses, e não seis. E quem se afasta para estudo, sem prejuízo da remuneração ou com ônus para a P C M G, fica obrigado a prestar serviços por mais três anos depois do afastamento, e não cinco, ou a ressarcir o Estado. Macete: no afastamento para curso, tudo é três: três meses, mais três de prorrogação, e três anos de serviço depois.
 
 **Resposta: letra C, três, apenas.**
 
