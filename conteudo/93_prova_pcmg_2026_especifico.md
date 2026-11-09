@@ -1,6 +1,6 @@
-# Prova P C M G 2026. Eixo específico, questões 31 a 60: Auxiliar de Necropsia e Biossegurança
+# Prova Polícia Civil de Minas Gerais, Técnico-Assistente da Polícia Civil e de Atividades Governamentais (T P A G) — Auxiliar de Perícia, 2026. Eixo específico, questões 31 a 60: Auxiliar de Necropsia e Biossegurança
 
-Esta é a prova real aplicada em 2026 pela banca Cebraspe para o cargo de Técnico-Assistente da Polícia Civil e de Atividades Governamentais (TPAG) — Auxiliar de Perícia. Os gabaritos são os oficiais definitivos.
+Esta é a prova real aplicada em 2026 pela banca Cebraspe para o cargo de Técnico-Assistente da Polícia Civil e de Atividades Governamentais (T P A G) — Auxiliar de Perícia. Os gabaritos são os oficiais definitivos.
 
 Em cada questão, eu leio o enunciado e as quatro alternativas. Depois faço uma pausa para você pensar, e só então explico e dou a resposta. Se quiser treinar de verdade, pause o áudio na pausa, escolha a sua letra e depois continue.
 
@@ -504,7 +504,7 @@ Letra D: A avaliação de risco em biossegurança deve considerar agente, ativid
 
 Pense na sua resposta antes de ouvir a explicação.
 
-**A explicação.** Avaliar risco é olhar o conjunto: qual o agente, o que se faz, por onde ele entra no corpo e como é o ambiente. A biossegurança minimiza riscos, não promete zerar, e o E P I é a última barreira, depois das medidas coletivas e administrativas, como você conhece da NR-9 e da NR-32. Precaução é agir antes da prova científica. E a responsabilidade é de todos, empregador incluído.
+**A explicação.** Avaliar risco é olhar o conjunto: qual o agente, o que se faz, por onde ele entra no corpo e como é o ambiente. A biossegurança minimiza riscos, não promete zerar, e o E P I é a última barreira, depois das medidas coletivas e administrativas, como você conhece da N R-9 e da N R-32. Precaução é agir antes da prova científica. E a responsabilidade é de todos, empregador incluído.
 
 **Resposta: letra D, a avaliação de risco em biossegurança deve considerar agente, atividade, vias de exposição e condições do ambiente de trabalho.**
 
@@ -600,7 +600,7 @@ Letra D: O descarte deve ocorrer imediatamente após o uso, em recipientes rígi
 
 Pense na sua resposta antes de ouvir a explicação.
 
-**A explicação.** Regras de ouro da NR-32: descarte logo após o uso, em coletor rígido e resistente a perfuração; reencapar agulha com as mãos é proibido; e o coletor é de uso único, nunca reutilizado. O risco também é biológico, como hepatite B, hepatite C e HIV, e não só de corte.
+**A explicação.** Regras de ouro da N R-32: descarte logo após o uso, em coletor rígido e resistente a perfuração; reencapar agulha com as mãos é proibido; e o coletor é de uso único, nunca reutilizado. O risco também é biológico, como hepatite B, hepatite C e H I V, e não só de corte.
 
 **Resposta: letra D, o descarte deve ocorrer imediatamente após o uso, em recipientes rígidos e resistentes à perfuração.**
 
@@ -624,7 +624,7 @@ Letra D: A segregação dos resíduos pode ocorrer em local distinto daquele ond
 
 Pense na sua resposta antes de ouvir a explicação.
 
-**A explicação.** Acondicionar bem, em saco e recipiente certos, evita vazamento, acidente e contaminação. Pela RDC 222 de 2018 da Anvisa, a segregação deve ocorrer no local e no momento da geração, por isso a D erra. O tratamento pode ser feito por empresa externa licenciada, e um erro em qualquer etapa afeta todas as outras.
+**A explicação.** Acondicionar bem, em saco e recipiente certos, evita vazamento, acidente e contaminação. Pela R D C 222 de 2018 da Anvisa, a segregação deve ocorrer no local e no momento da geração, por isso a D erra. O tratamento pode ser feito por empresa externa licenciada, e um erro em qualquer etapa afeta todas as outras.
 
 **Resposta: letra A, o acondicionamento adequado desses resíduos, conforme as normas vigentes, previne vazamentos, acidentes e contaminações.**
 
@@ -682,23 +682,23 @@ Pense na sua resposta antes de ouvir a explicação.
 
 **Disciplina.** Biossegurança.
 
-**O enunciado.** No contexto das atividades forenses, a biossegurança orienta práticas que objetivam proteger o trabalhador, o ambiente e a coletividade. Em relação à biossegurança, julgue os seguintes itens. Item I: A biossegurança aplica-se não apenas a ambientes laboratoriais, mas também a atividades externas, como locais de crime e exumações. Item II: A biossegurança envolve medidas técnicas, administrativas e comportamentais, devendo ser incorporada de forma sistemática às rotinas de trabalho. Item III: O uso de E P I é suficiente para garantir a biossegurança, independentemente das condições do ambiente e da organização do trabalho. Assinale a opção correta.
+**O enunciado.** No contexto das atividades forenses, a biossegurança orienta práticas que objetivam proteger o trabalhador, o ambiente e a coletividade. Em relação à biossegurança, julgue os seguintes itens. Item um: A biossegurança aplica-se não apenas a ambientes laboratoriais, mas também a atividades externas, como locais de crime e exumações. Item dois: A biossegurança envolve medidas técnicas, administrativas e comportamentais, devendo ser incorporada de forma sistemática às rotinas de trabalho. Item três: O uso de E P I é suficiente para garantir a biossegurança, independentemente das condições do ambiente e da organização do trabalho. Assinale a opção correta.
 
 **As alternativas.**
 
-Letra A: Apenas o item I está certo.
+Letra A: Apenas o item um está certo.
 
-Letra B: Apenas o item III está certo.
+Letra B: Apenas o item três está certo.
 
-Letra C: Apenas os itens I e II estão certos.
+Letra C: Apenas os itens um e dois estão certos.
 
-Letra D: Apenas os itens II e III estão certos.
+Letra D: Apenas os itens dois e três estão certos.
 
 Pense na sua resposta antes de ouvir a explicação.
 
-**A explicação.** O item I está certo: biossegurança vale no local de crime e na exumação também. O item II está certo: ela junta medidas técnicas, administrativas e de comportamento, de forma contínua. O item III está errado: E P I sozinho nunca é suficiente, é a última barreira. Então apenas I e II.
+**A explicação.** O item um está certo: biossegurança vale no local de crime e na exumação também. O item dois está certo: ela junta medidas técnicas, administrativas e de comportamento, de forma contínua. O item três está errado: E P I sozinho nunca é suficiente, é a última barreira. Então apenas um e dois.
 
-**Resposta: letra C, apenas os itens I e II estão certos.**
+**Resposta: letra C, apenas os itens um e dois estão certos.**
 
 ---
 

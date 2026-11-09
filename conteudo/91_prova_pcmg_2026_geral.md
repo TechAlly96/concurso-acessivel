@@ -1,6 +1,6 @@
-# Prova P C M G 2026. Eixo geral, questões 1 a 15: Língua Portuguesa, Informática e Raciocínio Lógico
+# Prova Polícia Civil de Minas Gerais, Técnico-Assistente da Polícia Civil e de Atividades Governamentais (T P A G) — Auxiliar de Perícia, 2026. Eixo geral, questões 1 a 15: Língua Portuguesa, Informática e Raciocínio Lógico
 
-Esta é a prova real aplicada em 2026 pela banca Cebraspe para o cargo de Técnico-Assistente da Polícia Civil e de Atividades Governamentais (TPAG) — Auxiliar de Perícia. Os gabaritos são os oficiais definitivos.
+Esta é a prova real aplicada em 2026 pela banca Cebraspe para o cargo de Técnico-Assistente da Polícia Civil e de Atividades Governamentais (T P A G) — Auxiliar de Perícia. Os gabaritos são os oficiais definitivos.
 
 Em cada questão, eu leio o enunciado e as quatro alternativas. Depois faço uma pausa para você pensar, e só então explico e dou a resposta. Se quiser treinar de verdade, pause o áudio na pausa, escolha a sua letra e depois continue.
 

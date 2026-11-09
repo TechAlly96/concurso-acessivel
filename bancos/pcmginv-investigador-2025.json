@@ -1,0 +1,1204 @@
+{
+ "versao": 1,
+ "concurso": {
+  "id": "pcmginv-investigador-2025",
+  "orgao": "Polícia Civil de Minas Gerais (PCMG)",
+  "cargo": "Investigador de Polícia I",
+  "banca": "FGV",
+  "editais": [
+   "Edital nº 04/2024 – PCMG, de 20/8/2024, retificado em 17/10/2024"
+  ],
+  "data_prova": "2025-01-26",
+  "vagas": "165 (148 ampla concorrência e 17 reservadas a pessoas com deficiência)",
+  "remuneracao": "R$ 5.332,62 (edital de 2024)",
+  "escolaridade": "Nível superior completo em qualquer área: tecnólogo, licenciatura ou bacharelado (art. 85 da LC 129/2013)",
+  "prova": {
+   "duracao": "4 horas",
+   "total_questoes": 70,
+   "valor_total": 70,
+   "tipo": "Múltipla escolha, 5 opções (A a E), uma correta; cada acerto vale 1 ponto",
+   "modulos": [
+    {
+     "nome": "Módulo I, Conhecimentos Básicos",
+     "questoes": "1 a 30",
+     "disciplinas": {
+      "Língua Portuguesa": "1 a 10",
+      "Raciocínio Lógico-Matemático": "11 a 16",
+      "Informática Básica": "17 a 24",
+      "Lei Orgânica da PCMG": "25 a 30"
+     }
+    },
+    {
+     "nome": "Módulo II, Conhecimentos Específicos",
+     "questoes": "31 a 70",
+     "disciplinas": {
+      "Direito Administrativo": "31 a 36",
+      "Direito Constitucional": "37 a 42",
+      "Direito Penal": "43 a 47",
+      "Direito Processual Penal": "48 a 52",
+      "Legislação Penal e Processual Extravagante": "53 a 56",
+      "Direitos Humanos": "57 a 60",
+      "Medicina Legal": "61 a 65",
+      "Criminologia": "66 a 70"
+     }
+    }
+   ],
+   "aprovacao": "Mínimo de 35 acertos (50%)",
+   "anuladas": [
+    59
+   ]
+  },
+  "etapas": [
+   "Prova objetiva",
+   "Exames biomédicos (inclui acuidade visual mínima no pior olho: 30% sem correção e 80% com correção)",
+   "Exames biofísicos: flexão de braço, corrida de 50 metros, impulsão horizontal e teste de Cooper de 12 minutos",
+   "Avaliação psicológica",
+   "Prova de títulos",
+   "Investigação social",
+   "Curso de Formação Técnico-Profissional"
+  ]
+ },
+ "eixos": [
+  {
+   "id": "basicos",
+   "prefixo": "94",
+   "nome": "Módulo I, conhecimentos básicos, questões 1 a 30: Português, Raciocínio Lógico, Informática e Lei Orgânica"
+  },
+  {
+   "id": "especificos",
+   "prefixo": "95",
+   "nome": "Módulo II, conhecimentos específicos, questões 31 a 70: Direito, Direitos Humanos, Medicina Legal e Criminologia"
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "eixo": "basicos",
+   "disciplina": "Língua Portuguesa",
+   "tema": "Leitura de cartaz e coesão",
+   "enunciado": "Analise o cartaz a seguir. Sobre o cartaz, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "Todas as frases do cartaz estão gramaticalmente corretas.",
+    "B": "A frase “que te sustenta” tem valor conclusivo, em relação à frase anterior.",
+    "C": "“Beba muita água e evite desperdícios” é um conselho de valor medicinal.",
+    "D": "Pela presença da garrafa ao pé do cartaz, nota-se que a água referida é a água mineral.",
+    "E": "A presença da borboleta, do beija-flor e da própria flor documentam a vida sustentada pela água."
+   },
+   "gabarito": "E",
+   "explicacao": "O cartaz mostra água, flor, borboleta e beija-flor formando um coração: as imagens dizem que a água sustenta a vida, e é isso que a letra E afirma. A letra A está errada porque o cartaz mistura tratamentos: “lembre-se”, que é você, com “te sustenta”, que é tu; isso fere a uniformidade de tratamento. A letra B erra porque “que te sustenta” é oração adjetiva, caracteriza a água, não conclui nada. A C erra porque o conselho é ambiental, de economia, e não medicinal. A D tira uma conclusão que o cartaz não autoriza.",
+   "figura_descricao": "Descrição do cartaz: no alto, o título “Água é VIDA”. Abaixo, o texto: “Neste Dia Mundial da Água, lembre-se de dar valor a ela que te sustenta. Beba muita água e evite desperdícios!”. No centro, um coração formado por respingos de água, com uma flor de lírio no meio, uma borboleta de um lado e um beija-flor do outro. No canto de baixo, à direita, uma pequena garrafa. No rodapé: “22 de março, Dia Mundial da Água”."
+  },
+  {
+   "numero": 2,
+   "eixo": "basicos",
+   "disciplina": "Língua Portuguesa",
+   "tema": "Linguagem figurada",
+   "enunciado": "Assinale a opção que apresenta a frase que documenta a linguagem figurada.",
+   "alternativas": {
+    "A": "Serviço sem pagamento é castigo.",
+    "B": "Nosso objetivo é dominar o mundo, como a Microsoft.",
+    "C": "Pior do que não ter dinheiro é ter dinheiro em excesso.",
+    "D": "Um povo só se deixa guiar quando lhe apontam um futuro.",
+    "E": "O homem esquece mais facilmente a morte do pai que a perda do patrimônio."
+   },
+   "gabarito": "B",
+   "explicacao": "Linguagem figurada é quando as palavras não estão no sentido literal. “Dominar o mundo” é um exagero, uma hipérbole: ninguém domina literalmente o planeta; a ideia é ter enorme sucesso. As demais frases são opiniões ditas em sentido literal, mesmo que sejam polêmicas."
+  },
+  {
+   "numero": 3,
+   "eixo": "basicos",
+   "disciplina": "Língua Portuguesa",
+   "tema": "Tipos textuais",
+   "enunciado": "Assinale a opção que indica o texto classificado como descritivo.",
+   "alternativas": {
+    "A": "Seja feliz!",
+    "B": "A riqueza é a felicidade na Terra.",
+    "C": "Trabalhe sempre e muito e ficará rico.",
+    "D": "Nunca deixe para hoje o que pode fazer amanhã.",
+    "E": "Trabalhei muito, economizei bastante, fiquei rico."
+   },
+   "gabarito": "B",
+   "explicacao": "Texto descritivo caracteriza um ser, atribuindo-lhe qualidades, geralmente com verbo de ligação, como “é”. “A riqueza é a felicidade na Terra” define e caracteriza a riqueza. As letras A, C e D têm verbo no imperativo, dando ordem ou conselho: são injuntivas. A letra E conta ações em sequência no tempo: é narrativa."
+  },
+  {
+   "numero": 4,
+   "eixo": "basicos",
+   "disciplina": "Língua Portuguesa",
+   "tema": "Discurso direto e indireto",
+   "enunciado": "Assinale a frase que está expressa em discurso indireto.",
+   "alternativas": {
+    "A": "O capital é trabalho roubado.",
+    "B": "Fazer bons negócios é ver primeiro que os demais.",
+    "C": "Quer que seus negócios continuem bem? Faça-os você.",
+    "D": "Já foi dito que dinheiro disponível é uma lâmpada de Aladim.",
+    "E": "Quando o assunto é dinheiro, todos os homens pertencem à mesma religião."
+   },
+   "gabarito": "D",
+   "explicacao": "No discurso indireto, o narrador conta com as próprias palavras o que alguém disse, usando um verbo de dizer seguido de “que”. “Já foi dito que...” é exatamente essa estrutura. As outras frases são afirmações feitas diretamente, sem relatar a fala de ninguém."
+  },
+  {
+   "numero": 5,
+   "eixo": "basicos",
+   "disciplina": "Língua Portuguesa",
+   "tema": "Adjetivos: estado e qualidade",
+   "enunciado": "Os adjetivos em Língua Portuguesa expressam estados, qualidades, características e relações; assinale a opção em que o adjetivo sublinhado mostra um estado. Os adjetivos sublinhados são, na ordem: feliz, alto, arranhada, importado e presidencial.",
+   "alternativas": {
+    "A": "País feliz.",
+    "B": "Homem alto.",
+    "C": "Mesa arranhada.",
+    "D": "Produto importado.",
+    "E": "Discurso presidencial."
+   },
+   "gabarito": "C",
+   "explicacao": "Estado é uma condição passageira, resultado de algo que aconteceu. “Arranhada” mostra a situação em que a mesa ficou depois de ser arranhada. “Alto” é característica permanente; “feliz”, aplicado a país, é qualidade; “importado” indica origem; e “presidencial” é adjetivo de relação, quer dizer “do presidente”."
+  },
+  {
+   "numero": 6,
+   "eixo": "basicos",
+   "disciplina": "Língua Portuguesa",
+   "tema": "Inferência",
+   "enunciado": "Em todas as frases a seguir foi indicada uma inferência, ou seja, algo que pode ser deduzido da leitura. Assinale a opção que apresenta a frase em que a dedução é inadequada.",
+   "alternativas": {
+    "A": "O Flamengo ganhou o campeonato mundial. / O time do Flamengo é magnífico.",
+    "B": "As mulheres já podem servir nas Forças Armadas. / As mulheres mostram ascensão na sociedade.",
+    "C": "Muita gente no Rio de Janeiro vive nas favelas. / As favelas do Rio são lugares aprazíveis.",
+    "D": "Uma multidão atacou o supermercado de alimentos. / O país atravessa uma crise social.",
+    "E": "A temperatura no estádio atingiu 40 graus. / O futebol devia alterar alguns horários de partidas."
+   },
+   "gabarito": "C",
+   "explicacao": "Uma inferência adequada decorre logicamente do que foi dito. O fato de muita gente morar em favelas não permite concluir que elas sejam lugares agradáveis; pode indicar justamente falta de moradia. Nas outras opções, a conclusão é razoável a partir do fato apresentado."
+  },
+  {
+   "numero": 7,
+   "eixo": "basicos",
+   "disciplina": "Língua Portuguesa",
+   "tema": "Elementos da comunicação",
+   "enunciado": "Observe o seguinte ato comunicativo: O gerente da loja pegou o cartaz feito pela empresa de publicidade contratada e o colocou na entrada da loja. A promessa de preços mais baixos deveria atrair clientes, promessa essa ajudada pelas belas imagens das camisas. Sobre esse ato, assinale a afirmativa inadequada.",
+   "alternativas": {
+    "A": "O emissor do cartaz é o gerente da loja.",
+    "B": "A mensagem do cartaz é de tipo publicitário.",
+    "C": "O código empregado é feito de palavras e imagens.",
+    "D": "Os receptores pretendidos são possíveis clientes.",
+    "E": "Preços mais baixos são argumento para a venda."
+   },
+   "gabarito": "A",
+   "explicacao": "O gerente apenas pendurou o cartaz; quem produziu a mensagem foi a empresa de publicidade, em nome da loja. Por isso dizer que o emissor é o gerente é inadequado. As outras afirmativas estão certas: a mensagem é publicitária, usa palavras e imagens, mira possíveis clientes e argumenta com preço baixo."
+  },
+  {
+   "numero": 8,
+   "eixo": "basicos",
+   "disciplina": "Língua Portuguesa",
+   "tema": "Semântica: intensificação",
+   "enunciado": "Nas frases abaixo, o termo sublinhado foi substituído por outro termo, indicado ao final da frase. Assinale a opção em que esse novo termo é intensificador do anterior. Os termos sublinhados são, na ordem: magra, se separou, grudaram, pálida e rabiscou.",
+   "alternativas": {
+    "A": "Ela ficou magra após a dieta. / abatida.",
+    "B": "Ele se separou da esposa. / abandonou.",
+    "C": "As páginas do livro grudaram. / se uniram.",
+    "D": "Após o acidente, ela ficou pálida. / apavorada.",
+    "E": "O aluno rabiscou as páginas do livro. / escreveu."
+   },
+   "gabarito": "B",
+   "explicacao": "Intensificar é dizer a mesma ideia com mais força. Separar-se é afastar-se; abandonar é separar-se de forma mais forte, deixando a pessoa desamparada. “Abatida” muda o sentido de “magra”; “se uniram” e “escreveu” enfraquecem ou neutralizam a ideia; e “apavorada” troca uma aparência física por um sentimento."
+  },
+  {
+   "numero": 9,
+   "eixo": "basicos",
+   "disciplina": "Língua Portuguesa",
+   "tema": "Precisão das informações",
+   "enunciado": "As frases a seguir tentam tornar suas informações mais precisas. A forma de fazer isso que não está corretamente indicada é:",
+   "alternativas": {
+    "A": "As medidas propostas – redução de impostos, demissão de funcionários, abandono de projetos – não foram bem recebidas / enumeração.",
+    "B": "Nesse nosso imenso país – quatorze vezes maior que a França – os casos de escravidão são raríssimos / elemento informativo acidental.",
+    "C": "Três mil e cem de pessoas manifestaram seu protesto / quantificação precisa.",
+    "D": "O empresário Henry Ford defendia a divisão de tarefas / o emprego de nomes próprios.",
+    "E": "Não se trata das importações, mas das exportações / utilização de palavras de sentido próximo."
+   },
+   "gabarito": "E",
+   "explicacao": "Importação e exportação têm sentidos opostos, não próximos. A precisão, nesse caso, vem do contraste, da oposição entre as duas palavras. Nas demais opções, o recurso indicado corresponde ao que a frase faz: enumerar, acrescentar informação, quantificar e citar nome próprio."
+  },
+  {
+   "numero": 10,
+   "eixo": "basicos",
+   "disciplina": "Língua Portuguesa",
+   "tema": "Orações substantivas e substantivos",
+   "enunciado": "Procurando reduzir a extensão dos textos, em todas as frases abaixo as orações substantivas sublinhadas foram substituídas por substantivos. Assinale a opção em que isso foi feito de forma adequada. As orações sublinhadas são, na ordem: quem não escuta, quem vive sozinho, quem não se casou, quem vive pedindo na rua e quem vive de herança.",
+   "alternativas": {
+    "A": "Quem não escuta é feliz. / o surdo-mudo.",
+    "B": "Quem vive sozinho não conversa. / o solitário.",
+    "C": "Quem não se casou perde tempo na vida. / o viúvo.",
+    "D": "Quem vive pedindo na rua se vicia. / o desempregado.",
+    "E": "Quem vive de herança pode descansar. / o preguiçoso."
+   },
+   "gabarito": "B",
+   "explicacao": "O substantivo precisa ter exatamente o mesmo sentido da oração. Quem vive sozinho é o solitário. Surdo-mudo também não fala, não é só quem não escuta; viúvo já foi casado; quem pede na rua é o pedinte, não necessariamente o desempregado; e quem vive de herança é o herdeiro, não o preguiçoso."
+  },
+  {
+   "numero": 11,
+   "eixo": "basicos",
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "tema": "Porcentagem",
+   "enunciado": "Durante uma operação da polícia civil para investigar fraudes fiscais, constatou-se que, em uma amostra de 600 documentos analisados, 55% apresentaram indícios de irregularidades. Ao examinar mais detalhadamente esses documentos com indícios, apurou-se que 30% dos valores neles declarados foram fraudados. Além disso, desses valores fraudulentos, um terço correspondeu a fraudes envolvendo notas “frias” emitidas por empresas fictícias. Com base nessas informações, o número total de documentos analisados que apresentaram indícios e que envolvem fraudes relacionadas a notas “frias” emitidas por empresas fictícias é",
+   "alternativas": {
+    "A": "30.",
+    "B": "32.",
+    "C": "33.",
+    "D": "35.",
+    "E": "36."
+   },
+   "gabarito": "C",
+   "explicacao": "Vá por etapas, como uma escada. 55 por cento de 600 dá 330 documentos com indícios. 30 por cento de 330 dá 99. Um terço de 99 dá 33. Dica: porcentagem de porcentagem se calcula em sequência, multiplicando, nunca somando."
+  },
+  {
+   "numero": 12,
+   "eixo": "basicos",
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "tema": "Probabilidade condicional",
+   "enunciado": "Uma delegacia recebeu, no mês de dezembro de 2024, denúncias relacionadas a três tipos de crimes: roubo, fraude eletrônica e tráfico de drogas. Após uma triagem, constatou-se que: 44% das denúncias são sobre roubos; 36% das denúncias são sobre fraudes eletrônicas; 20% das denúncias são sobre tráfico de drogas. Historicamente, sabe-se que 30% das denúncias contra fraudes eletrônicas são improcedentes, assim como 10% das denúncias contra roubo e 20% das denúncias contra tráfico de drogas. Se uma denúncia é escolhida ao acaso, a probabilidade de ela ser contra roubo, sabendo-se que é uma denúncia procedente, é de aproximadamente",
+   "alternativas": {
+    "A": "50%.",
+    "B": "49%.",
+    "C": "48%.",
+    "D": "47%.",
+    "E": "46%."
+   },
+   "gabarito": "B",
+   "explicacao": "Imagine 100 denúncias. Roubo: 44, e 90 por cento procedentes, dá 39,6. Fraude: 36, com 70 por cento procedentes, dá 25,2. Tráfico: 20, com 80 por cento procedentes, dá 16. Total de procedentes: 80,8. Como já sabemos que a denúncia é procedente, o universo agora é 80,8. A chance de ser roubo é 39,6 dividido por 80,8, cerca de 0,49, ou 49 por cento. Essa é a probabilidade condicional: o “sabendo que” reduz o universo."
+  },
+  {
+   "numero": 13,
+   "eixo": "basicos",
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "tema": "Proporção e tabela",
+   "enunciado": "A polícia civil recebeu um relatório sobre o número de ocorrências registradas em uma delegacia ao longo de um mês. A tabela apresenta dados parciais sobre as quantidades de ocorrências e o número de casos solucionados para diferentes tipos de crimes. Sabendo-se que a proporção de casos solucionados em relação às ocorrências é a mesma para cada tipo de crime, pode-se concluir corretamente que as ocorrências de roubo, com relação ao total de ocorrências registradas, correspondem a",
+   "alternativas": {
+    "A": "45%.",
+    "B": "48%.",
+    "C": "50%.",
+    "D": "54%.",
+    "E": "55%."
+   },
+   "gabarito": "A",
+   "explicacao": "No roubo, 135 solucionados em 180 ocorrências: 75 por cento. Essa proporção vale para todos. Tráfico: 45 solucionados são 75 por cento de 60 ocorrências. Lesão corporal: 30 solucionados são 75 por cento de 40. Total de ocorrências: 180 mais 60 mais 120 mais 40, igual a 400. Roubo: 180 de 400, ou seja, 45 por cento.",
+   "figura_descricao": "Descrição da tabela, com três colunas: tipo de crime, ocorrências e casos solucionados. Roubo: 180 ocorrências e 135 solucionados. Tráfico de drogas: ocorrências em branco e 45 solucionados. Estelionato: 120 ocorrências e solucionados em branco. Lesão corporal: ocorrências em branco e 30 solucionados."
+  },
+  {
+   "numero": 14,
+   "eixo": "basicos",
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "tema": "Proporção inversa",
+   "enunciado": "Em uma investigação, a quantidade de policiais trabalhando é inversamente proporcional ao tempo necessário para a sua conclusão. Se houvesse apenas três policiais desde o início da investigação, o tempo para a sua conclusão seria de 20 dias. A inclusão de um policial a mais no início da investigação permitiria que a conclusão do trabalho fosse antecipada em",
+   "alternativas": {
+    "A": "um dia.",
+    "B": "dois dias.",
+    "C": "três dias.",
+    "D": "quatro dias.",
+    "E": "cinco dias."
+   },
+   "gabarito": "E",
+   "explicacao": "Inversamente proporcional quer dizer que o produto é constante: 3 policiais vezes 20 dias dá 60 dias de trabalho. Com 4 policiais, 60 dividido por 4 dá 15 dias. Antecipa 20 menos 15, ou seja, 5 dias. Cuidado: a pergunta é quanto antecipa, não quanto tempo leva."
+  },
+  {
+   "numero": 15,
+   "eixo": "basicos",
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "tema": "Sequências e calendário",
+   "enunciado": "Uma delegacia de polícia está investigando uma série de quatro ataques a caixas eletrônicos ocorridos em diferentes localidades da cidade. Os policiais identificaram que os criminosos aparentemente seguem um padrão de ataque baseado em dias específicos e em distâncias da delegacia. Histórico: primeiro ataque, domingo, dia 1º de dezembro, a 5 km da delegacia. Segundo ataque, terça-feira, dia 3 de dezembro, a 6 km. Terceiro ataque, sexta-feira, dia 6 de dezembro, a 8 km. Quarto ataque, terça-feira, dia 10 de dezembro, a 11 km. Com base no padrão identificado, provavelmente o próximo ataque, se ocorrer, acontecerá",
+   "alternativas": {
+    "A": "na sexta-feira, dia 13 de dezembro, a 13 km da delegacia.",
+    "B": "no sábado, dia 14 de dezembro, a 15 km da delegacia.",
+    "C": "no sábado, dia 15 de dezembro, a 16 km da delegacia.",
+    "D": "no domingo, dia 15 de dezembro, a 15 km da delegacia.",
+    "E": "no domingo, dia 16 de dezembro, a 14 km da delegacia."
+   },
+   "gabarito": "D",
+   "explicacao": "Os dias são 1, 3, 6 e 10: os intervalos crescem 2, 3, 4, então o próximo é mais 5, dia 15. As distâncias são 5, 6, 8 e 11: os aumentos crescem 1, 2, 3, então o próximo é mais 4, igual a 15 quilômetros. Se o dia 1º foi domingo, os dias 8 e 15 também são domingos. Resposta: domingo, dia 15, a 15 quilômetros."
+  },
+  {
+   "numero": 16,
+   "eixo": "basicos",
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "tema": "Mediana e média",
+   "enunciado": "Um policial civil está analisando os tempos de resposta de oito patrulhas, em minutos. Ele recebeu um relatório com os registros e a mediana já calculada, mas um dos valores estava ilegível. Com base nos dados fornecidos, ele conseguiu recuperar o valor ilegível e, com isso, calculou corretamente a média desse conjunto de valores. O valor que o policial obteve para a média foi",
+   "alternativas": {
+    "A": "27,00.",
+    "B": "27,25.",
+    "C": "27,50.",
+    "D": "28,00.",
+    "E": "28,15."
+   },
+   "gabarito": "B",
+   "explicacao": "Ordene os valores conhecidos: 22, 24, 25, 26, 29, 30 e 34. Com oito valores, a mediana é a média do quarto com o quinto. Para a mediana dar 27, o valor perdido precisa ficar entre 26 e 29, e 26 mais x, dividido por 2, igual a 27, dá x igual a 28. Some tudo: 22, 30, 26, 25, 28, 34, 29 e 24 dão 218. Dividido por 8, a média é 27,25.",
+   "figura_descricao": "Descrição do relatório: patrulha 1, 22 minutos; patrulha 2, 30 minutos; patrulha 3, 26 minutos; patrulha 4, 25 minutos; patrulha 5, valor ilegível; patrulha 6, 34 minutos; patrulha 7, 29 minutos; patrulha 8, 24 minutos. Mediana: 27 minutos."
+  },
+  {
+   "numero": 17,
+   "eixo": "basicos",
+   "disciplina": "Informática Básica",
+   "tema": "Redes: IPv4 e IPv6",
+   "enunciado": "Com o crescimento da internet ao longo dos anos, a quantidade de endereços IP disponíveis no protocolo IPv4 tornou-se insuficiente. Para solucionar esse problema e incorporar outras melhorias tecnológicas, o protocolo IPv6 foi desenvolvido como sucessor do IPv4. No contexto dos protocolos de internet IPv4 e IPv6, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "O IPv4 utiliza endereços de 64 bits, enquanto o IPv6 utiliza endereços de 128 bits.",
+    "B": "O IPv6 elimina completamente a necessidade de NAT (Network Address Translation).",
+    "C": "O IPv4 oferece maior eficiência no roteamento, pois possui cabeçalhos menores que o IPv6.",
+    "D": "O IPv6 inclui o suporte nativo a funcionalidades como segurança e mobilidade, que são apenas opcionais no IPv4.",
+    "E": "O IPv6 permite até quatro vezes mais endereços únicos do que o IPv4."
+   },
+   "gabarito": "D",
+   "explicacao": "O IPv6 foi projetado com segurança, o IPsec, e mobilidade como recursos nativos, enquanto no IPv4 eles são acréscimos opcionais. A letra A erra o tamanho: o IPv4 tem 32 bits, não 64. A E erra feio: 128 bits contra 32 não dá quatro vezes mais endereços, dá 2 elevado a 96 vezes mais, um número astronômico. A B usa “elimina completamente”, palavra absoluta. E o cabeçalho do IPv6, apesar de maior, é mais simples e eficiente para rotear."
+  },
+  {
+   "numero": 18,
+   "eixo": "basicos",
+   "disciplina": "Informática Básica",
+   "tema": "Redes com fio e sem fio",
+   "enunciado": "No início da Internet, as redes eram predominantemente cabeadas. Com a crescente demanda por mobilidade, as redes sem fio (Wi-Fi) surgiram e se tornaram amplamente utilizadas. Considere os aspectos técnicos e operacionais de redes com fio (Ethernet) e redes sem fio. Assinale a opção que apresenta uma comparação tecnicamente correta e mais abrangente entre essas duas tecnologias.",
+   "alternativas": {
+    "A": "Redes sem fio alcançam taxas de latência menores que redes com fio devido à ausência de infraestrutura física de cabeamento.",
+    "B": "Redes com fio oferecem maior estabilidade, largura de banda e segurança física, enquanto redes sem fio priorizam mobilidade e flexibilidade de implantação.",
+    "C": "Redes sem fio são imunes a interferências de dispositivos externos devido à utilização de canais exclusivos para transmissão de dados.",
+    "D": "Redes com fio utilizam cabeamento coaxial como padrão principal, enquanto redes sem fio operam exclusivamente na frequência de 2,4 GHz para evitar congestionamento.",
+    "E": "Redes sem fio oferecem maior largura de banda e maior alcance em comparação às redes com fio devido ao uso de ondas de rádio para transmissão."
+   },
+   "gabarito": "B",
+   "explicacao": "O cabo é mais estável, mais rápido e mais difícil de espionar, porque é preciso acesso físico; o Wi-Fi ganha em mobilidade e facilidade de instalação. O Wi-Fi tem latência maior, sofre interferência, opera em várias frequências, como 2,4 e 5 gigahertz, e o padrão das redes cabeadas hoje é o par trançado, não o coaxial."
+  },
+  {
+   "numero": 19,
+   "eixo": "basicos",
+   "disciplina": "Informática Básica",
+   "tema": "Word e Writer",
+   "enunciado": "Processadores de texto são programas projetados para criar, editar, formatar e imprimir documentos textuais. O Microsoft Word e o LibreOffice Writer possuem funcionalidades semelhantes para facilitar a formatação de documentos. As opções a seguir apresentam funcionalidades comuns nativas entre os dois softwares, à exceção de uma. Assinale-a.",
+   "alternativas": {
+    "A": "Inserção de tabelas para a organização de dados.",
+    "B": "Aplicação de estilos para formatar títulos e parágrafos.",
+    "C": "Inserção de mala direta para o envio de documentos personalizados.",
+    "D": "Colaboração em tempo real com múltiplos usuários diretamente no arquivo.",
+    "E": "Exportação de documentos no formato PDF."
+   },
+   "gabarito": "D",
+   "explicacao": "Os dois programas têm tabelas, estilos, mala direta e exportação para PDF. Edição simultânea por várias pessoas em tempo real não é recurso nativo dos dois: no Word depende da nuvem da Microsoft, e o Writer de mesa não oferece isso. Repare no comando “à exceção de uma”: procure a que não é comum."
+  },
+  {
+   "numero": 20,
+   "eixo": "basicos",
+   "disciplina": "Informática Básica",
+   "tema": "Excel e Calc",
+   "enunciado": "Planilhas eletrônicas são programas projetados para criar, organizar, calcular e analisar dados em formato tabular. No Microsoft Excel e no LibreOffice Calc, é possível realizar diversas operações para a manipulação e análise de dados. Assinale a funcionalidade que não é nativamente suportada por ambos os softwares.",
+   "alternativas": {
+    "A": "Criação de gráficos a partir de dados em planilhas.",
+    "B": "Aplicação de filtros automáticos em tabelas.",
+    "C": "Uso de tabelas dinâmicas para sumarização de dados.",
+    "D": "Programação de macros em Python.",
+    "E": "Importação de arquivos CSV para edição."
+   },
+   "gabarito": "D",
+   "explicacao": "As macros do Excel são escritas em VBA, o Visual Basic for Applications. O Calc aceita macros em Basic e também em Python. Como o Excel não programa macros em Python, esse recurso não é comum aos dois. Gráficos, filtros, tabelas dinâmicas e importação de CSV existem em ambos."
+  },
+  {
+   "numero": 21,
+   "eixo": "basicos",
+   "disciplina": "Informática Básica",
+   "tema": "Malware: worm e cavalo de Troia",
+   "enunciado": "Um malware é qualquer programa ou código projetado para prejudicar, explorar ou comprometer dispositivos, redes ou usuários. Entre os tipos principais de malware podemos citar worm, cavalo de Troia, spyware, adware, phishing, botnets, entre outros. Assinale a opção que descreve corretamente a principal diferença entre um worm e um cavalo de Troia.",
+   "alternativas": {
+    "A": "Worms dependem de um programa legítimo para se espalhar, enquanto cavalos de Troia são autônomos e se replicam automaticamente.",
+    "B": "Worms podem se replicar automaticamente e se espalhar por redes, enquanto cavalos de Troia precisam ser instalados pelo usuário como se fossem programas legítimos.",
+    "C": "Worms roubam informações sensíveis sem o conhecimento do usuário, enquanto cavalos de Troia criptografam dados para pedir resgate.",
+    "D": "Worms não causam danos diretos, enquanto cavalos de Troia são exclusivamente destrutivos.",
+    "E": "Worms exigem interação do usuário para ativação, enquanto cavalos de Troia se propagam sem necessidade de ação humana."
+   },
+   "gabarito": "B",
+   "explicacao": "O worm, que quer dizer verme, se copia sozinho e se espalha pela rede explorando falhas. O cavalo de Troia, como o presente grego da história, se disfarça de programa útil e depende de a vítima instalar. As letras A e E invertem os papéis. A C descreve spyware e ransomware."
+  },
+  {
+   "numero": 22,
+   "eixo": "basicos",
+   "disciplina": "Informática Básica",
+   "tema": "Phishing",
+   "enunciado": "João, um profissional de TI, recebeu um e-mail com o título “Atualize sua senha agora para evitar bloqueio de conta”. O e-mail continha um link que levava a uma página idêntica ao site de sua instituição bancária, onde ele inseriu suas credenciais. Dias depois, João percebeu que sua conta havia sido acessada sem autorização, resultando em um prejuízo financeiro. Com base na situação descrita, assinale a opção que classifica corretamente o ataque cibernético sofrido por João.",
+   "alternativas": {
+    "A": "Ransomware, pois houve uma tentativa de bloqueio do acesso à conta de João, o que caracteriza o ataque.",
+    "B": "Phishing, pois o atacante usou um e-mail fraudulento para capturar as credenciais de João.",
+    "C": "DoS (Denial of Service), já que a conta de João foi acessada sem autorização, prejudicando o serviço.",
+    "D": "Spoofing, porque João foi induzido a revelar informações sensíveis.",
+    "E": "Malware, porque o e-mail provavelmente continha um programa malicioso que invadiu o sistema de João."
+   },
+   "gabarito": "B",
+   "explicacao": "Mensagem falsa, com urgência, que leva a uma página falsa onde a própria vítima digita a senha: é phishing, a pescaria de dados. Não houve sequestro de arquivos, que seria ransomware, nem derrubada de serviço, que seria DoS, nem instalação de programa. Spoofing é falsificar a identidade de origem, como o remetente; aqui ele pode até ter sido usado, mas o golpe como um todo é phishing."
+  },
+  {
+   "numero": 23,
+   "eixo": "basicos",
+   "disciplina": "Informática Básica",
+   "tema": "Criptografia assimétrica",
+   "enunciado": "Considere o uso de criptografia assimétrica em uma transação online. Maria deseja enviar uma mensagem confidencial para João, garantindo que apenas ele possa ler o conteúdo. Para que essa segurança seja alcançada, Maria deve criptografar a mensagem",
+   "alternativas": {
+    "A": "usando a chave privada dela, garantindo que apenas João consiga descriptografar.",
+    "B": "usando a chave pública de João, garantindo que somente João possa descriptografar com sua chave privada.",
+    "C": "usando a chave pública dela, para que João possa descriptografar com sua chave privada.",
+    "D": "com a chave privada de João, pois apenas João poderá descriptografá-la com sua chave pública.",
+    "E": "com uma chave simétrica gerada por João, garantindo que ambos tenham acesso à mesma chave."
+   },
+   "gabarito": "B",
+   "explicacao": "Regra de ouro para sigilo: cifra com a chave pública do destinatário; só a chave privada dele abre. Pense num cadeado aberto que João distribui para todos: qualquer um tranca, só João tem a chave. Cifrar com a própria chave privada serve para assinatura, para provar autoria, não para sigilo. E Maria nunca tem a chave privada de João."
+  },
+  {
+   "numero": 24,
+   "eixo": "basicos",
+   "disciplina": "Informática Básica",
+   "tema": "Software livre: licenças",
+   "enunciado": "As licenças BSD, GPLv2 e GPLv3 possuem diferenças importantes quanto às permissões e restrições no uso, na modificação e na redistribuição de software. Assinale a opção que descreve corretamente uma característica distintiva entre essas licenças.",
+   "alternativas": {
+    "A": "A licença BSD exige que qualquer redistribuição de código modificado seja feita sob a mesma licença, assim como as licenças GPLv2 e GPLv3.",
+    "B": "A GPLv3 introduz cláusulas adicionais para proteção contra práticas como a implementação de DRM (Digital Rights Management), o que não é abordado pela GPLv2.",
+    "C": "As licenças BSD e GPLv2 possuem a mesma abordagem em relação à obrigatoriedade de compartilhar modificações do código.",
+    "D": "A GPLv3 permite que o software licenciado sob a GPLv2 seja automaticamente compatível com a nova versão, independentemente do termo, ou qualquer versão posterior.",
+    "E": "A licença BSD impede explicitamente o uso do software em projetos proprietários, o que a diferencia das licenças GPLv2 e GPLv3."
+   },
+   "gabarito": "B",
+   "explicacao": "A GPLv3, de 2007, trouxe proteções contra DRM e contra a chamada tivoização, que é usar software livre em aparelhos travados para o usuário não poder modificar. A BSD é permissiva: deixa usar o código até em programas fechados e não obriga a manter a mesma licença. As GPL são copyleft: obrigam quem distribui versões modificadas a manter a mesma liberdade. E a compatibilidade da GPLv2 com a v3 só existe se o autor usar a cláusula “ou qualquer versão posterior”."
+  },
+  {
+   "numero": 25,
+   "eixo": "basicos",
+   "disciplina": "Lei Orgânica da PCMG",
+   "tema": "LC 129: competências das superintendências",
+   "enunciado": "João e Matheus, investigadores de polícia e integrantes de um mesmo Departamento da Polícia Civil do Estado de Minas Gerais, estão interessados em realizar remoção por permuta. Nesse cenário, considerando as disposições da Lei Complementar Estadual nº 129/2013, a remoção de investigadores de polícia por permuta, nos limites de determinado Departamento de Polícia Civil, ingressa na competência da",
+   "alternativas": {
+    "A": "Superintendência de Informações e Inteligência Policial.",
+    "B": "Superintendência de Planejamento, Gestão e Finanças.",
+    "C": "Superintendência de Investigação e Polícia Judiciária.",
+    "D": "Corregedoria-Geral de Polícia Civil.",
+    "E": "Chefia Adjunta da PCMG."
+   },
+   "gabarito": "C",
+   "explicacao": "A Lei Complementar 129 dá à Superintendência de Investigação e Polícia Judiciária a coordenação dos departamentos de polícia que fazem a investigação, e com isso a remoção por permuta de policiais dentro dos limites de um mesmo departamento. A Corregedoria cuida da disciplina; a Inteligência, das informações; e a Planejamento, Gestão e Finanças, da administração de recursos. Nas aulas de Lei Orgânica, vamos ler esse artigo palavra por palavra.",
+   "conferir_lei_seca": true
+  },
+  {
+   "numero": 26,
+   "eixo": "basicos",
+   "disciplina": "Lei Orgânica da PCMG",
+   "tema": "Lei 5.406: pena de demissão",
+   "enunciado": "O Corregedor-Geral de Polícia Civil ministrou palestra aos novos policiais civis da PCMG, abordando a temática disciplinar e as penalidades previstas em lei. Avalie as afirmativas: Item I. Ausência do serviço, sem causa justificável, por mais de 30 dias, interpoladamente, durante um ano. Item II. Exercício de qualquer atividade remunerada, estando o servidor licenciado para tratamento de saúde. Item III. Procedimento irregular de natureza grave. Considerando as disposições da Lei Estadual nº 5.406/1969, será aplicada a pena de demissão na hipótese ou hipóteses elencadas em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "explicacao": "Os itens II e III estão no rol de hipóteses de demissão da Lei 5.406: exercer atividade remunerada durante licença para tratamento de saúde e procedimento irregular de natureza grave. O item I é a pegadinha: ele altera o número de faltas interpoladas que a lei exige para a demissão. A FGV adora trocar números em lei seca. Na aula da Lei 5.406, vamos fixar o número exato com uma técnica de memorização.",
+   "conferir_lei_seca": true
+  },
+  {
+   "numero": 27,
+   "eixo": "basicos",
+   "disciplina": "Lei Orgânica da PCMG",
+   "tema": "Lei 5.406: causas de justificação",
+   "enunciado": "Lucas, policial civil do Estado de Minas Gerais, responde, na esfera administrativa, por ter praticado, em tese, transgressão disciplinar. Após a observância do contraditório e da ampla defesa, constatou-se que existia, no caso apresentado, uma causa justificante, influindo no julgamento em andamento. Nesse cenário, considerando as disposições da Lei Estadual nº 5.406/1969, assinale a opção que apresenta uma causa justificante.",
+   "alternativas": {
+    "A": "Ter o transgressor confessado, espontaneamente, a falta perante a autoridade sindicante.",
+    "B": "Apresentar motivo de força maior plenamente comprovado e justificado.",
+    "C": "Ter sido cometida a transgressão para evitar mal maior.",
+    "D": "Ter bom comportamento anterior.",
+    "E": "Ter prestado serviços relevantes."
+   },
+   "gabarito": "B",
+   "explicacao": "A Lei 5.406 separa duas coisas. Causa de justificação apaga a transgressão: não há punição. Circunstância atenuante só diminui a pena. O motivo de força maior, plenamente comprovado e justificado, é causa de justificação. Já ter cometido a falta para evitar mal maior, a confissão espontânea, o bom comportamento anterior e os serviços relevantes aparecem na lei como atenuantes. A pegadinha está na letra C, que lembra o estado de necessidade do Direito Penal, mas na Lei 5.406 é tratada como atenuante.",
+   "conferir_lei_seca": true
+  },
+  {
+   "numero": 28,
+   "eixo": "basicos",
+   "disciplina": "Lei Orgânica da PCMG",
+   "tema": "LC 129: indenizações e gratificações",
+   "enunciado": "Aos integrantes das carreiras da PCMG, de acordo com a Lei Complementar Estadual nº 129/2013, serão atribuídas verbas indenizatórias e de gratificação, observados os respectivos critérios e requisitos. Avalie se serão atribuídas aos policiais civis as seguintes verbas: Item I. Auxílio-natalidade, devido pelo nascimento de filho ou adoção, no valor da remuneração percebida pelo servidor na ocasião do nascimento ou da adoção, a ser paga à vista de certidão, admitida uma única percepção no caso de pai e mãe serem dos quadros da PCMG. Item II. Ajuda de custo, em caso de remoção de ofício ou a pedido ou designação para serviço ou estudo que importe em alteração do domicílio, no valor de um mês de vencimento do servidor. Item III. Translado ou remoção quando ferido, acidentado ou falecido em serviço. Está correto o que se apresenta em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "explicacao": "Os itens I e III reproduzem a Lei Complementar 129: o auxílio-natalidade, com uma única percepção quando pai e mãe são da PCMG, e o translado do policial ferido, acidentado ou falecido em serviço. O item II é a pegadinha: ele modifica as condições da ajuda de custo previstas na lei. Na aula de direitos e vantagens, vamos ler o artigo da ajuda de custo palavra por palavra para você não cair nessa troca.",
+   "conferir_lei_seca": true
+  },
+  {
+   "numero": 29,
+   "eixo": "basicos",
+   "disciplina": "Lei Orgânica da PCMG",
+   "tema": "LC 129: afastamento para estudo",
+   "enunciado": "Carlos, policial civil do Estado de Minas Gerais, pretende afastar-se de suas funções, sem prejuízo da remuneração, com o objetivo de frequentar determinado curso. Avalie as afirmativas: Item I. O Chefe da PCMG poderá conceder afastamento ao policial civil, sem prejuízo da remuneração, para frequentar cursos relacionados com o exercício das funções do cargo ocupado pelo policial civil, pelo prazo de seis meses, prorrogável até o máximo de seis meses. Item II. O policial civil que tenha se afastado das funções para estudo, especialização ou aperfeiçoamento, sem prejuízo da remuneração ou com ônus para a PCMG, ficará obrigado a prestar serviços pelo menos por mais cinco anos após o período do afastamento ou a ressarcir o Estado da importância despendida, inclusive com o custeio da viagem, em conformidade com o disposto em regulamento. Item III. O policial civil afastado não pode exercer nenhuma de suas funções, ou outra, pública ou particular, diversa da que motivou o ato, sob pena de cassação do ato de afastamento e do imediato retorno às atividades. Nesse cenário, considerando as disposições da Lei Complementar Estadual nº 129/2013, está correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "explicacao": "Só o item III reproduz a lei: o policial afastado para estudo não pode exercer outra atividade, sob pena de cassação do afastamento e retorno imediato. Os itens I e II alteram os prazos previstos na Lei Complementar 129, a pegadinha preferida da FGV em lei seca. Na aula sobre afastamentos, você vai ouvir os prazos exatos e um jeito de memorizá-los.",
+   "conferir_lei_seca": true
+  },
+  {
+   "numero": 30,
+   "eixo": "basicos",
+   "disciplina": "Lei Orgânica da PCMG",
+   "tema": "Lei 5.406: revisão do processo administrativo",
+   "enunciado": "Matheus tomou conhecimento, por determinação do seu superior hierárquico, de que integrará comissão responsável pelo processamento de um pedido de revisão de pena aplicada no bojo de determinado processo administrativo disciplinar, sob o fundamento de que a decisão tomada foi contrária ao texto expresso na lei. Considerando as disposições da Lei Estadual nº 5.406/1969, assinale a afirmativa incorreta.",
+   "alternativas": {
+    "A": "A revisão poderá ser pedida pelo próprio punido ou por procurador legalmente habilitado, vedada, em caso de morte, a postulação por cônjuge sobrevivente.",
+    "B": "Aquele que houver integrado a comissão de processo administrativo será impedido de atuar na revisão.",
+    "C": "A Administração, julgada procedente a revisão, determinará a redução ou o cancelamento da pena.",
+    "D": "A revisão, que poderá verificar-se a qualquer tempo, não autoriza a agravação da pena.",
+    "E": "A simples alegação de injustiça da penalidade não constitui fundamento para revisão."
+   },
+   "gabarito": "A",
+   "explicacao": "Atenção, a questão pede a incorreta. A revisão existe para reparar injustiça, inclusive a memória de quem já morreu; por isso, em caso de morte, o cônjuge sobrevivente pode pedir a revisão. Dizer que é vedado é o erro. As outras afirmativas estão certas: quem integrou a comissão original fica impedido, a revisão procedente reduz ou cancela a pena, pode acontecer a qualquer tempo, nunca agrava a pena, e alegar injustiça sem fatos novos não basta.",
+   "conferir_lei_seca": true
+  },
+  {
+   "numero": 31,
+   "eixo": "especificos",
+   "disciplina": "Direito Administrativo",
+   "tema": "Organização administrativa",
+   "enunciado": "Antes de ser nomeado e empossado na qualidade de inspetor de polícia, Lucas, com o objetivo de melhor entender as funções que futuramente desempenhará, resolveu analisar como a Polícia Civil do Estado de Minas Gerais está inserida no contexto da Administração Pública. Considerando os entendimentos doutrinário e jurisprudencial dominantes, é correto afirmar que a Polícia Civil do Estado de Minas Gerais é",
+   "alternativas": {
+    "A": "um órgão público, integrante da Administração Pública Direta, fruto da desconcentração administrativa.",
+    "B": "um órgão público, integrante da Administração Pública Direta, fruto da descentralização administrativa.",
+    "C": "um órgão público, integrante da Administração Pública Indireta, fruto da desconcentração administrativa.",
+    "D": "uma autarquia, integrante da Administração Pública Indireta, fruto da desconcentração administrativa.",
+    "E": "uma autarquia, integrante da Administração Pública Indireta, fruto da descentralização administrativa."
+   },
+   "gabarito": "A",
+   "explicacao": "A Polícia Civil não tem personalidade jurídica própria: é um órgão do próprio Estado de Minas Gerais, portanto da Administração Direta. Quando o Estado divide tarefas entre seus próprios órgãos, dentro da mesma pessoa jurídica, isso se chama desconcentração. Descentralização é passar a tarefa para outra pessoa jurídica, como uma autarquia. Truque para memorizar: desconcentração fica dentro de casa; descentralização sai de casa."
+  },
+  {
+   "numero": 32,
+   "eixo": "especificos",
+   "disciplina": "Direito Administrativo",
+   "tema": "Responsabilidade civil do Estado",
+   "enunciado": "Durante o cumprimento de uma diligência externa, determinada pela autoridade policial, Carlos, policial civil do Estado de Minas Gerais, agindo de forma negligente, acabou por atropelar um transeunte. Constatou-se que o pedestre não teve qualquer culpa. Considerando as disposições da Constituição Federal e os entendimentos doutrinário e jurisprudencial dominantes, avalie as afirmativas e assinale V para a verdadeira e F para a falsa. Primeira: O Estado de Minas Gerais poderá ser responsabilizado, subsidiariamente, em razão da conduta praticada por Carlos, caso este não tenha capacidade para arcar com eventual indenização fixada em benefício do transeunte. Segunda: A responsabilidade civil de Carlos, na qualidade de agente público, é objetiva, pressupondo-se a demonstração do elemento anímico. Terceira: Para que a responsabilidade civil do Estado de Minas Gerais possa ser invocada, é necessário que se demonstre, em juízo, no que consistiu a conduta negligente de Carlos. As afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – F – V.",
+    "B": "F – F – F.",
+    "C": "V – V – F.",
+    "D": "F – V – F.",
+    "E": "V – V – V."
+   },
+   "gabarito": "B",
+   "explicacao": "Pelo artigo 37, parágrafo 6º, da Constituição, o Estado responde de forma direta e objetiva: basta provar a conduta do agente, o dano e o nexo entre eles, sem discutir culpa. Por isso a primeira é falsa, porque a responsabilidade do Estado não é subsidiária, e a terceira também, porque não é preciso provar a negligência. Já o agente responde de forma subjetiva, em ação de regresso do Estado, provando-se dolo ou culpa. A segunda é falsa porque chama de objetiva uma responsabilidade que depende do elemento anímico, ou seja, de dolo ou culpa. O STF ainda firmou que a vítima deve acionar o Estado, e não o servidor diretamente."
+  },
+  {
+   "numero": 33,
+   "eixo": "especificos",
+   "disciplina": "Direito Administrativo",
+   "tema": "Agentes públicos",
+   "enunciado": "Após ser aprovado em concorrido concurso público, José passará, em breve, a atuar na qualidade de inspetor de polícia da Polícia Civil do Estado de Minas Gerais. Considerando os entendimentos doutrinário e jurisprudencial dominantes, é correto afirmar que José será um servidor público",
+   "alternativas": {
+    "A": "estatutário, espécie de agente público de fato, ocupante de um emprego público.",
+    "B": "estatutário, espécie de agente público de direito, ocupante de um emprego público.",
+    "C": "estatutário, espécie de agente público de direito, ocupante de um cargo público.",
+    "D": "celetista, espécie de agente público de direito, ocupante de um cargo público.",
+    "E": "celetista, espécie de agente público de fato, ocupante de um cargo público."
+   },
+   "gabarito": "C",
+   "explicacao": "Policial civil é regido por estatuto, uma lei própria, e não pela CLT: é estatutário. Estatutário ocupa cargo público; emprego público é de quem é celetista. E quem entra por concurso e posse regulares é agente de direito; agente de fato é quem exerce a função sem investidura regular. Três palavras que andam juntas: estatutário, cargo, de direito."
+  },
+  {
+   "numero": 34,
+   "eixo": "especificos",
+   "disciplina": "Direito Administrativo",
+   "tema": "Improbidade administrativa",
+   "enunciado": "Após longa investigação, a Polícia Civil apurou que o agente público João, em março de 2024, agindo com dolo, teria percebido vantagem econômica direta para facilitar a contratação de serviços por preço superior ao valor de mercado, por parte do Estado de Minas Gerais. De acordo com a narrativa e considerando as disposições da Lei nº 8.429/1992, analise as afirmativas. Item I. João praticou ato de improbidade administrativa que importa enriquecimento ilícito. Item II. No curso da ação judicial, será assegurado a João o direito de ser interrogado sobre os fatos de que trata a demanda, e a sua recusa ou o seu silêncio não implicarão confissão. Item III. Em caso de condenação em primeira instância, a sentença de procedência estará sujeita ao instituto do reexame obrigatório. Está correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "explicacao": "O item I está certo: receber vantagem econômica para facilitar contratação acima do preço de mercado é enriquecimento ilícito, no artigo 9º da Lei de Improbidade. O item II está certo: a reforma de 2021, Lei 14.230, garantiu o interrogatório e disse que silêncio ou recusa não são confissão. O item III está errado: a mesma reforma afastou a remessa necessária, o reexame obrigatório, nas sentenças da Lei de Improbidade. Lembre: depois de 2021, a improbidade exige dolo e ganhou garantias parecidas com as do processo penal."
+  },
+  {
+   "numero": 35,
+   "eixo": "especificos",
+   "disciplina": "Direito Administrativo",
+   "tema": "Poderes administrativos",
+   "enunciado": "A autoridade competente, no âmbito da Polícia Civil de Minas Gerais, editou um decreto, com o objetivo de esmiuçar determinada legislação aprovada pela Assembleia Legislativa e sancionada pelo Governador do Estado, aplicável à referida instituição policial. Após alguns meses, descobriu-se que João, policial civil, havia descumprido, dolosamente, diversas determinações existentes no decreto. Após o contraditório e a ampla defesa, o agente público foi punido na esfera administrativa. É correto afirmar que o decreto editado pela autoridade competente, no âmbito da Polícia Civil de Minas Gerais,",
+   "alternativas": {
+    "A": "é uma manifestação do poder regulamentar. Por sua vez, a punição suportada por João é fruto do poder disciplinar.",
+    "B": "é uma manifestação do poder regulamentar. Por sua vez, a punição suportada por João é fruto do poder de polícia.",
+    "C": "é uma manifestação do poder hierárquico. Por sua vez, a punição suportada por João é fruto do poder de polícia.",
+    "D": "é uma manifestação do poder de polícia. Por sua vez, a punição suportada por João é fruto do poder disciplinar.",
+    "E": "e a punição suportada por João são manifestações do poder de polícia."
+   },
+   "gabarito": "A",
+   "explicacao": "Detalhar uma lei para que ela seja fielmente executada, por decreto, é poder regulamentar. Punir quem tem vínculo especial com a Administração, como um servidor, é poder disciplinar. Poder de polícia é diferente: é limitar a liberdade e a propriedade dos particulares em geral, como interditar um bar ou multar um motorista. Servidor punido, poder disciplinar; cidadão comum limitado, poder de polícia."
+  },
+  {
+   "numero": 36,
+   "eixo": "especificos",
+   "disciplina": "Direito Administrativo",
+   "tema": "Improbidade: processo e sanções",
+   "enunciado": "Fábio, agente público, tomou conhecimento de que existe uma investigação em curso em seu detrimento, em razão da suposta prática de ato doloso de improbidade administrativa. O referido servidor passou a buscar informações junto à legislação de regência, em especial porque ele já teria sido punido pelo órgão de controle interno da sua instituição. Considerando as disposições da Lei nº 8.429/1992, analise as afirmativas. Item I. Na apuração dos ilícitos previstos na Lei de Improbidade Administrativa, será garantido ao investigado a oportunidade de manifestação por escrito e de juntada de documentos que comprovem suas alegações e auxiliem na elucidação dos fatos. Item II. As provas produzidas perante os órgãos de controle e as correspondentes decisões deverão ser consideradas na formação da convicção do Juiz, sem prejuízo da análise acerca do dolo na conduta do agente. Item III. As sanções eventualmente aplicadas em outras esferas deverão ser compensadas com as sanções aplicadas nos termos da Lei de Improbidade Administrativa. Está correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "E",
+   "explicacao": "Os três itens reproduzem dispositivos incluídos pela reforma de 2021. O investigado tem direito de se manifestar por escrito e juntar documentos já na apuração. As provas e decisões dos órgãos de controle devem ser consideradas pelo juiz, mas sem dispensar a análise do dolo. E as sanções aplicadas em outras esferas devem ser compensadas, para evitar punição dobrada pelo mesmo fato."
+  },
+  {
+   "numero": 37,
+   "eixo": "especificos",
+   "disciplina": "Direito Constitucional",
+   "tema": "Objetivos fundamentais da República",
+   "enunciado": "Após amplos estudos realizados pelo Ministério competente, foi sugerido ao Presidente da República a apresentação de projeto de lei estabelecendo uma política pública especificamente direcionada a duas regiões do país, fundada em níveis de desenvolvimento humano, o que redundaria em direcionamento diferenciado de recursos e tratamento mais favorecido, quando cotejado com aquele dispensado às demais regiões. O presidente do partido político Alfa solicitou que sua assessoria analisasse a sua compatibilidade com os objetivos fundamentais da República Federativa do Brasil. A assessoria esclareceu corretamente que a proposta",
+   "alternativas": {
+    "A": "não possui conformidade constitucional por destoar do objetivo fundamental de garantir o desenvolvimento nacional.",
+    "B": "deve ser veiculada por meio de emenda constitucional, de modo a excepcionar a exigência de tratamento igualitário entre os entes federativos.",
+    "C": "afronta a concepção de igualdade formal que deve reger o Estado de Direito, legitimando distinções de caráter arbitrário que buscarão amparo no subjetivismo do gestor.",
+    "D": "é expressamente vedada pela ordem constitucional, que exige uniformidade das políticas públicas promovidas por cada ente federativo no interior do seu território.",
+    "E": "se ajusta ao objetivo fundamental de reduzir as desigualdades sociais e regionais, ainda que redunde em tratamento inicial distinto entre as regiões do país."
+   },
+   "gabarito": "E",
+   "explicacao": "O artigo 3º da Constituição lista os objetivos fundamentais, e o inciso III é erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais. Tratar de forma diferente regiões menos desenvolvidas, com critério objetivo, é igualdade material: tratar desigualmente os desiguais na medida da sua desigualdade. Para lembrar os objetivos do artigo 3º, os verbos começam com construir, garantir, erradicar e promover: a sequência con, ga, er, pro."
+  },
+  {
+   "numero": 38,
+   "eixo": "especificos",
+   "disciplina": "Direito Constitucional",
+   "tema": "Escusa de consciência",
+   "enunciado": "De acordo com a Lei Federal nº X, a generalidade das pessoas maiores e capazes, que se encontrem no pleno gozo dos seus direitos políticos, deveria participar de determinada atividade de interesse coletivo desenvolvida pelas estruturas estatais de poder. A participação ocorreria mediante convocação e em caráter gratuito. Jonas foi convocado, mas se sentiu extremamente desconfortável em atuar, pois a atividade a ser desenvolvida era francamente contrária à sua convicção política. Na situação descrita, consoante a ordem constitucional, é correto afirmar que Jonas",
+   "alternativas": {
+    "A": "praticará crime inafiançável, se não cumprir a obrigação legal a todos imposta.",
+    "B": "não pode eximir-se, em nenhuma hipótese, de cumprir obrigação legal a todos imposta.",
+    "C": "estará em harmonia com a juridicidade caso cumpra prestação alternativa fixada em lei.",
+    "D": "somente pode deixar de cumprir a obrigação legal, por motivo de crença religiosa, se a lei for inconstitucional.",
+    "E": "somente pode eximir-se de cumprir obrigação legal a todos imposta por motivo de crença religiosa, o que não é o caso."
+   },
+   "gabarito": "C",
+   "explicacao": "É a escusa de consciência, do artigo 5º, inciso VIII: ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se a invocar para se eximir de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa fixada em lei. Repare que convicção política também vale, não só religião, por isso a E erra. Se Jonas cumprir a prestação alternativa, está tudo certo. Se recusar as duas, pode perder direitos políticos, conforme o artigo 15, mas não comete crime inafiançável."
+  },
+  {
+   "numero": 39,
+   "eixo": "especificos",
+   "disciplina": "Direito Constitucional",
+   "tema": "Teoria do Estado: finalidade",
+   "enunciado": "João, cientista político, ao analisar as características do Estado de Direito Alfa, constatou que se trata de unidade existencial que apregoa uma concepção de máximo desenvolvimento material, ainda que redunde em sacrifício da liberdade individual. Ao analisar a referida característica à luz da finalidade do Estado, João concluiu corretamente que se está perante fins",
+   "alternativas": {
+    "A": "limitados.",
+    "B": "subjetivos.",
+    "C": "descritivos.",
+    "D": "expansivos.",
+    "E": "dogmáticos."
+   },
+   "gabarito": "D",
+   "explicacao": "Na classificação dos fins do Estado, os fins expansivos dão ao Estado papel enorme, que cresce até sacrificar a liberdade individual em nome do desenvolvimento material ou de uma ideia de bem comum, como nos regimes totalitários. Os fins limitados são o oposto: o Estado mínimo, que só garante segurança e liberdade. Expandir o Estado e encolher o indivíduo: fins expansivos."
+  },
+  {
+   "numero": 40,
+   "eixo": "especificos",
+   "disciplina": "Direito Constitucional",
+   "tema": "Intervenção",
+   "enunciado": "Foi identificada uma grave crise política no Município Beta, localizado no território do Estado Sigma e no qual está situado um importante porto nacional, de grande relevância estratégica para a exportação de determinado gênero alimentício. Diversas estruturas orgânicas federais se reuniram com o objetivo de apresentar ao Presidente da República proposta de decretação de intervenção federal no referido município. Ao fim da reunião, concluiu-se corretamente que",
+   "alternativas": {
+    "A": "a decretação da intervenção pressupõe prévia autorização do Supremo Tribunal Federal.",
+    "B": "em razão do nível federativo no qual os fatos ocorreram, a União não pode decretar a intervenção.",
+    "C": "a intervenção pode ser decretada, considerando que a narrativa não descreve típico interesse local.",
+    "D": "a decretação da intervenção pressupõe requerimento nesse sentido do Chefe do Poder Executivo de Beta.",
+    "E": "a intervenção pode ser decretada pelo Presidente da República independentemente da provocação de outro órgão."
+   },
+   "gabarito": "B",
+   "explicacao": "A União só intervém nos Estados e no Distrito Federal, conforme o artigo 34, e nos Municípios localizados em Territórios Federais, pelo artigo 35. Em Município de um Estado, quem intervém é o Estado. Por mais importante que seja o porto, a União não pode intervir diretamente no Município Beta. Regra de bolso: cada ente intervém no ente imediatamente abaixo."
+  },
+  {
+   "numero": 41,
+   "eixo": "especificos",
+   "disciplina": "Direito Constitucional",
+   "tema": "Polícia penal e segurança pública",
+   "enunciado": "O Secretário de Administração Penitenciária do Estado Alfa, autoridade máxima do sistema penitenciário e do seu órgão administrador, foi comunicado do início de uma rebelião na unidade prisional Kappa. A assessoria do Secretário constatou a necessidade de ser reforçada a segurança no local. À luz da sistemática constitucional, é correto afirmar que o Secretário",
+   "alternativas": {
+    "A": "pode determinar que a polícia penal ou a polícia militar realize a segurança do local.",
+    "B": "pode determinar que a polícia penal, vinculada que é à Secretaria, realize a segurança do local.",
+    "C": "deve requerer ao Governador do Estado que determine à polícia penal a realização da segurança do local.",
+    "D": "deve requerer ao Comandante Geral da Polícia Militar que determine o comparecimento de efetivo ao local.",
+    "E": "deve requerer ao Governador do Estado que determine a realização da segurança do local, o que pode ser feito pela polícia penal ou pela polícia militar."
+   },
+   "gabarito": "B",
+   "explicacao": "A Emenda Constitucional 104, de 2019, criou as polícias penais. Pelo artigo 144, parágrafo 5º-A, elas são vinculadas ao órgão administrador do sistema penal da unidade federativa, e cabe a elas a segurança dos estabelecimentos penais. Como a polícia penal está ligada à própria Secretaria, o Secretário pode acioná-la diretamente. Ele não comanda a Polícia Militar, que tem chefia própria."
+  },
+  {
+   "numero": 42,
+   "eixo": "especificos",
+   "disciplina": "Direito Constitucional",
+   "tema": "Direito ao silêncio",
+   "enunciado": "A Lei Federal nº X, com o objetivo de exasperar o combate ao crime organizado, dispôs que o silêncio dos investigados que se encontrem presos provisoriamente pela prática da infração penal de organização criminosa, bem como pela prática de crimes conexos, seria interpretado em seu desfavor. Considerando os balizamentos estabelecidos pela ordem constitucional, é correto afirmar que",
+   "alternativas": {
+    "A": "esse diploma normativo afronta o direito fundamental ao silêncio, de modo que a prova produzida com base na Lei Federal nº X é ilícita.",
+    "B": "a prova a ser obtida é lícita, na medida em que foi produzida em harmonia com a lei, logo, pode ser considerada pela autoridade competente.",
+    "C": "ainda que se trate de prova ilícita, pode ser considerada pela autoridade competente na medida em que se mostre relevante para a conclusão da investigação.",
+    "D": "a sistemática de combate às organizações criminosas não pode ser objeto de disciplina diferenciada, sob pena de afronta à isonomia, logo, a Lei Federal nº X é inconstitucional.",
+    "E": "o silêncio, enquanto projeção da personalidade individual, não é matéria afeta a padrões normativos, mas mera circunstância fática, que pode ser avaliada conforme a lei, logo, a Lei Federal nº X é constitucional."
+   },
+   "gabarito": "A",
+   "explicacao": "O artigo 5º, inciso LXIII, garante ao preso o direito de permanecer calado, e ninguém é obrigado a produzir prova contra si mesmo. Uma lei não pode transformar o silêncio em prova contra o investigado; isso é inconstitucional, e a prova obtida assim é ilícita, inadmissível pelo inciso LVI. A D erra o motivo: o crime organizado pode ter tratamento diferenciado, como tem na Lei 12.850, só não pode ferir garantias fundamentais."
+  },
+  {
+   "numero": 43,
+   "eixo": "especificos",
+   "disciplina": "Direito Penal",
+   "tema": "Tráfico de influência",
+   "enunciado": "Daniel, ao ter conhecimento de que um colega de trabalho foi vítima de determinado crime contra o patrimônio, ensejando elevado prejuízo financeiro, dirigiu-se a ele e, agindo com dolo, solicitou, para si, a quantia de três salários mínimos, a pretexto de influir em ato praticado por policiais civis da Delegacia de Polícia da cidade, com o objetivo de agilizar as investigações. Disse, por fim, que os referidos agentes públicos eram seus amigos há anos e que atenderiam ao seu pleito. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Daniel responderá pelo crime de",
+   "alternativas": {
+    "A": "advocacia administrativa.",
+    "B": "exploração de prestígio.",
+    "C": "tráfico de influência.",
+    "D": "corrupção passiva.",
+    "E": "corrupção ativa."
+   },
+   "gabarito": "C",
+   "explicacao": "Tráfico de influência, artigo 332 do Código Penal: solicitar vantagem a pretexto de influir em ato praticado por funcionário público. É a famosa venda de fumaça. A pegadinha é a exploração de prestígio, artigo 357, que é a mesma conduta, mas quando a influência prometida é sobre juiz, jurado, membro do Ministério Público, funcionário de justiça, perito, tradutor, intérprete ou testemunha. Policial civil não está nessa lista, então é tráfico de influência. Daniel não é funcionário público, por isso não é corrupção passiva nem advocacia administrativa."
+  },
+  {
+   "numero": 44,
+   "eixo": "especificos",
+   "disciplina": "Direito Penal",
+   "tema": "Importunação sexual",
+   "enunciado": "Após o encerramento da jornada de trabalho diária, Maria, maior e capaz, ingressou em um coletivo com destino à sua casa, sentando-se ao lado de Luís, que ela desconhecia. Durante o trajeto do ônibus, Maria percebeu que o agente estava tocando suas próprias partes íntimas, enquanto olhava, incessantemente, para ela. Diante do intenso incômodo, a vítima pediu para que Luís interrompesse o comportamento em curso, mas ele deu continuidade à conduta, praticando ato libidinoso com o objetivo de satisfazer a própria lascívia. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Luís responderá pelo crime de",
+   "alternativas": {
+    "A": "importunação sexual, com a incidência de uma causa de aumento de pena, já que a conduta ocorreu no interior de um transporte coletivo de passageiros.",
+    "B": "assédio sexual, com a incidência de uma causa de aumento de pena, já que a conduta ocorreu no interior de um transporte coletivo de passageiros.",
+    "C": "violação sexual mediante fraude, sem causas de aumento de pena.",
+    "D": "importunação sexual, sem causas de aumento de pena.",
+    "E": "assédio sexual, sem causas de aumento de pena."
+   },
+   "gabarito": "D",
+   "explicacao": "Importunação sexual, artigo 215-A, criado em 2018: praticar contra alguém, sem a sua anuência, ato libidinoso para satisfazer a própria lascívia ou a de terceiro. Foi criado justamente para casos em transporte público. Mas não existe causa de aumento por ser no ônibus, essa é a pegadinha. Assédio sexual exige relação de hierarquia ou ascendência no trabalho, e violação mediante fraude exige enganar a vítima."
+  },
+  {
+   "numero": 45,
+   "eixo": "especificos",
+   "disciplina": "Direito Penal",
+   "tema": "Roubo: consumação e arma branca",
+   "enunciado": "Em janeiro de 2025, no Município de Viçosa, Minas Gerais, Jonas se aproximou de um transeunte e, mediante grave ameaça, consubstanciada no emprego de uma faca, determinou a entrega do seu telefone celular, sendo atendido. Em seguida, Jonas, na posse da coisa roubada, correu, mas acabou sendo capturado em flagrante por um policial civil à paisana, três quarteirões depois. Sendo assim, a vítima logrou recuperar o bem móvel que havia sido levado. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Jonas responderá pelo crime de",
+   "alternativas": {
+    "A": "extorsão tentada, sem a incidência de causas de aumento de pena, pois o emprego de arma branca deixou de ser majorante no referido delito.",
+    "B": "roubo tentado, sem a incidência de causas de aumento de pena, pois o emprego de arma branca deixou de ser majorante no referido delito.",
+    "C": "extorsão consumada, com a incidência da causa de aumento de pena atrelada ao emprego de arma branca.",
+    "D": "roubo tentado, com a incidência da causa de aumento de pena atrelada ao emprego de arma branca.",
+    "E": "roubo consumado, com a incidência da causa de aumento de pena atrelada ao emprego de arma branca."
+   },
+   "gabarito": "E",
+   "explicacao": "Pela Súmula 582 do STJ, o roubo se consuma com a inversão da posse do bem, ainda que por breve tempo e mesmo com perseguição imediata e recuperação da coisa: é a teoria da amotio. Por isso é roubo consumado. Sobre a faca: em 2018 a arma branca deixou de ser causa de aumento, mas o Pacote Anticrime, em 2019, a trouxe de volta no artigo 157, parágrafo 2º, inciso VII. Não é extorsão porque o celular foi tomado na hora, sem depender de uma colaboração futura da vítima."
+  },
+  {
+   "numero": 46,
+   "eixo": "especificos",
+   "disciplina": "Direito Penal",
+   "tema": "Lesão corporal contra policial",
+   "enunciado": "Lucas, investigador de polícia, cumprindo ordens da autoridade policial, compareceu ao imóvel de Matheus, em Divinópolis, Minas Gerais, com o objetivo de intimá-lo para ser ouvido em um inquérito policial em curso. Matheus, irritado e agindo com dolo de lesionar, desferiu dois socos no rosto de Lucas. Em razão da conduta praticada, o policial permaneceu afastado de suas funções por uma semana. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Matheus responderá pelo crime de lesão corporal",
+   "alternativas": {
+    "A": "simples, sendo certo que a pena será aumentada de um a dois terços, já que a conduta foi praticada contra policial civil, no exercício da função.",
+    "B": "culposa, sendo certo que o fato de a vítima ser policial civil, no exercício da função, não dá azo ao aumento da pena.",
+    "C": "simples, sendo certo que o fato de a vítima ser policial civil, no exercício da função, não dá azo ao aumento da pena.",
+    "D": "gravíssima, já que a conduta foi praticada contra policial civil, no exercício da função.",
+    "E": "grave, já que a conduta foi praticada contra policial civil, no exercício da função."
+   },
+   "gabarito": "A",
+   "explicacao": "Uma semana afastado não chega aos 30 dias que tornariam a lesão grave, então é lesão corporal simples, e dolosa, porque ele quis machucar. Mas o artigo 129, parágrafo 12, aumenta a pena de um a dois terços quando a lesão é contra agente de segurança pública, como o policial civil, no exercício da função ou em razão dela. A condição de policial aumenta a pena; não muda o tipo de lesão para grave ou gravíssima."
+  },
+  {
+   "numero": 47,
+   "eixo": "especificos",
+   "disciplina": "Direito Penal",
+   "tema": "Denunciação caluniosa",
+   "enunciado": "João, servidor público do Município de Belo Horizonte, agindo com dolo, compareceu a uma delegacia de polícia, afirmando que Lucas, colega de repartição pública, estaria desviando bens públicos em proveito próprio. João tinha conhecimento da inocência de Lucas, mas agiu para prejudicá-lo. Instaurado um inquérito policial para apurar os fatos, constatou-se que as alegações eram falsas. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que João responderá pelo crime de",
+   "alternativas": {
+    "A": "comunicação falsa de crime, na modalidade qualificada, por envolver alegação de prática de crime contra a Administração Pública.",
+    "B": "denunciação caluniosa, na modalidade qualificada, por envolver alegação de prática de crime contra a Administração Pública.",
+    "C": "falso testemunho, na modalidade qualificada, por envolver alegação de prática de crime contra a Administração Pública.",
+    "D": "comunicação falsa de crime, na modalidade simples.",
+    "E": "denunciação caluniosa, na modalidade simples."
+   },
+   "gabarito": "E",
+   "explicacao": "Denunciação caluniosa, artigo 339: dar causa à instauração de inquérito ou processo contra alguém, imputando-lhe crime de que o sabe inocente. Há uma pessoa determinada acusada, por isso não é comunicação falsa de crime, que não aponta culpado. E não existe forma qualificada por o crime imputado ser contra a Administração Pública: o aumento de pena previsto é para quem usa anonimato ou nome falso. Por isso, modalidade simples."
+  },
+  {
+   "numero": 48,
+   "eixo": "especificos",
+   "disciplina": "Direito Processual Penal",
+   "tema": "Prisão em flagrante: procedimento",
+   "enunciado": "Encerrado o curso de formação, João foi designado para atuar como plantonista no norte de Minas Gerais. Logo no início do primeiro plantão, a Polícia Militar encaminhou Caio, capturado em flagrante, à Delegacia de Polícia. Avalie as afirmativas. Item I. Apresentado o preso à autoridade competente, esta ouvirá o condutor e colherá, desde logo, sua assinatura, entregando-lhe a cópia do termo e o recibo de entrega do preso. Em seguida, procederá à oitiva das testemunhas que o acompanharem e ao interrogatório do acusado sobre a imputação que lhe é feita, colhendo, após cada oitiva, suas respectivas assinaturas, lavrando, a autoridade, afinal, o auto. Item II. A prisão de qualquer pessoa e o local onde se encontra serão comunicados, em até 24 horas, ao Ministério Público e à família do preso ou à pessoa por ele indicada. Item III. Em até 48 horas após a realização da prisão, será encaminhado ao Juiz competente o auto de prisão em flagrante e, caso o autuado não informe o nome de seu advogado, a cópia integral para a Defensoria Pública. Considerando as disposições do Código de Processo Penal, está correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "A",
+   "explicacao": "O item I reproduz o artigo 304 do Código de Processo Penal: condutor, testemunhas, interrogatório e, ao final, o auto. O item II erra: pelo artigo 306, a comunicação ao juiz, ao Ministério Público e à família é imediata, e não em até 24 horas; além disso, o item esqueceu o juiz. O item III erra o prazo: o auto vai ao juiz, e a cópia à Defensoria, em até 24 horas, e não 48. Guarde: comunicação imediata, remessa do auto em 24 horas."
+  },
+  {
+   "numero": 49,
+   "eixo": "especificos",
+   "disciplina": "Direito Processual Penal",
+   "tema": "Inquérito: providências da autoridade (artigo 6º)",
+   "enunciado": "João, agindo com dolo, efetuou disparos de arma de fogo em Bruno, seu desafeto, o qual, imediatamente, faleceu, ensejando forte repercussão social. Assim que tiver conhecimento da infração penal, a autoridade policial pode, com base no Código de Processo Penal, assumir os procedimentos a seguir, à exceção de um. Assinale-o.",
+   "alternativas": {
+    "A": "Deverá colher informações sobre a existência de filhos, respectivas idades, se possuem alguma deficiência e o nome e o contato de eventual responsável pelos cuidados dos filhos, indicados pela pessoa presa.",
+    "B": "Deverá dirigir-se ao local, providenciando para que não se alterem o estado e a conservação das coisas, até a chegada dos peritos criminais.",
+    "C": "Deverá apreender os objetos que tiverem relação com o fato, após liberados pelos investigadores de polícia.",
+    "D": "Deverá determinar, se for o caso, que se proceda a exame de corpo de delito e a quaisquer outras perícias.",
+    "E": "Deverá colher todas as provas que servirem para o esclarecimento do fato e suas circunstâncias."
+   },
+   "gabarito": "C",
+   "explicacao": "O artigo 6º, inciso II, diz que a autoridade apreenderá os objetos relacionados ao fato após liberados pelos peritos criminais, e não pelos investigadores. A troca de uma palavra é a pegadinha. As outras opções reproduzem incisos do mesmo artigo, inclusive o inciso X, sobre filhos da pessoa presa, incluído em 2016."
+  },
+  {
+   "numero": 50,
+   "eixo": "especificos",
+   "disciplina": "Direito Processual Penal",
+   "tema": "Inquérito: arquivamento e devolução",
+   "enunciado": "Jonas, recém-empossado no cargo de investigador de polícia, participou de diversas palestras sobre o inquérito policial. Considerando as disposições do Código de Processo Penal, avalie as afirmativas e assinale V para a verdadeira e F para a falsa. Primeira: Depois de ordenado o arquivamento do inquérito pela autoridade judiciária, por falta de base para a denúncia, a autoridade policial não poderá proceder a novas pesquisas, inclusive se tiver notícia de outras provas. Segunda: O Ministério Público não poderá requerer a devolução do inquérito à autoridade policial, senão para novas diligências, imprescindíveis ao oferecimento da denúncia. Terceira: A autoridade policial não poderá mandar arquivar os autos de inquérito. As afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – F – V.",
+    "B": "F – V – F.",
+    "C": "V – V – F.",
+    "D": "V – V – V.",
+    "E": "F – V – V."
+   },
+   "gabarito": "E",
+   "explicacao": "A primeira é falsa: pelo artigo 18, mesmo arquivado por falta de base, a autoridade policial pode fazer novas pesquisas se tiver notícia de outras provas. A segunda é verdadeira, é o artigo 16. A terceira é verdadeira, artigo 17: o delegado nunca arquiva inquérito. Frase para lembrar: delegado instaura, investiga e relata, mas não arquiva."
+  },
+  {
+   "numero": 51,
+   "eixo": "especificos",
+   "disciplina": "Direito Processual Penal",
+   "tema": "Representação na ação penal",
+   "enunciado": "O direito de representação no contexto da ação penal, de acordo com o Código de Processo Penal, poderá ser exercido pessoalmente ou por procurador, com poderes especiais. Avalie as afirmativas. Item I. Se com a representação forem oferecidos elementos que habilitem o Ministério Público a promover a ação penal, o órgão ministerial solicitará que o inquérito policial seja concluído no prazo de 15 dias, findo o qual oferecerá denúncia. Item II. Oferecida ou reduzida a termo a representação, a autoridade policial procederá a inquérito, ou, não sendo competente, remetê-lo-á à autoridade que o for. Item III. A representação conterá todas as informações que possam servir à apuração do fato e da autoria. Considerando as disposições do Código de Processo Penal, está correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "explicacao": "Os itens II e III reproduzem o artigo 39 do Código de Processo Penal. O item I distorce o parágrafo 5º: se a representação já trouxer elementos suficientes, o Ministério Público dispensará o inquérito e oferecerá a denúncia em 15 dias. Não há pedido de conclusão do inquérito. A palavra-chave é dispensar: o inquérito não é obrigatório."
+  },
+  {
+   "numero": 52,
+   "eixo": "especificos",
+   "disciplina": "Direito Processual Penal",
+   "tema": "Teoria geral da prova",
+   "enunciado": "Acerca da teoria geral da prova, segundo o Código de Processo Penal, avalie as afirmativas. Item I. O Juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas. Item II. São inadmissíveis, devendo ser desentranhadas do processo, as provas ilícitas, assim entendidas aquelas obtidas em violação a normas constitucionais ou legais. Item III. Preclusa a decisão de desentranhamento da prova declarada inadmissível, esta será inutilizada por decisão judicial, facultado às partes acompanhar o incidente. Está correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "E",
+   "explicacao": "Os três itens são cópia da lei. O item I é o artigo 155: o juiz não condena só com o que foi colhido no inquérito, salvo provas cautelares, não repetíveis e antecipadas. O item II é o artigo 157, sobre provas ilícitas. E o item III é o parágrafo 3º do mesmo artigo, sobre a inutilização da prova ilícita. Para o investigador, a lição prática é: prova colhida violando a lei se perde, e pode derrubar a investigação inteira."
+  },
+  {
+   "numero": 53,
+   "eixo": "especificos",
+   "disciplina": "Legislação Penal e Processual Extravagante",
+   "tema": "Lei Maria da Penha: oitiva da vítima",
+   "enunciado": "Após ser agredida, física e verbalmente, por seu companheiro, Maria, rompendo com o ciclo de violência existente, resolve se encaminhar à Delegacia de Polícia, onde pretende narrar o ocorrido. Considerando as disposições da Lei nº 11.340/2006, avalie se a inquirição de Maria deve seguir as diretrizes abaixo. Item I. A garantia de que, em nenhuma hipótese, ela terá contato direto com investigados ou suspeitos ou com pessoas a eles relacionadas. Item II. A não revitimização da depoente, evitando sucessivas inquirições sobre o mesmo fato nos âmbitos criminal, cível e administrativo, bem como questionamentos sobre a vida privada. Item III. A salvaguarda da integridade física, psíquica e emocional da depoente, considerada a sua condição peculiar de pessoa em situação de violência doméstica e familiar. Está correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "E",
+   "explicacao": "Os três itens estão no artigo 10-A da Lei Maria da Penha, incluído em 2017, que trata da oitiva da mulher em situação de violência. Repare que, aqui, até a expressão “em nenhuma hipótese” está certa, porque é literal da lei. Lição: palavra absoluta costuma indicar erro, mas, se estiver na lei, está certa. Por isso é preciso conhecer a lei seca."
+  },
+  {
+   "numero": 54,
+   "eixo": "especificos",
+   "disciplina": "Legislação Penal e Processual Extravagante",
+   "tema": "Lei de Execução Penal: permissão de saída",
+   "enunciado": "Fábio, reincidente em crime doloso, cumpre pena definitiva, em regime fechado, pela prática do crime de roubo circunstanciado pelo emprego de arma de fogo. No curso da execução penal, sobrevém o falecimento do cônjuge do apenado. Nesse cenário, considerando as disposições da Lei de Execução Penal, é correto afirmar que Fábio",
+   "alternativas": {
+    "A": "tem direito à permissão de saída, que será concedida pelo diretor do estabelecimento onde se encontra preso.",
+    "B": "tem direito à saída temporária, que será concedida pelo diretor do estabelecimento onde se encontra preso.",
+    "C": "tem direito à saída temporária, mediante escolta, perdurando pelo tempo necessário à finalidade da saída.",
+    "D": "não tem direito à permissão de saída, por estar cumprindo pena em regime fechado.",
+    "E": "não tem direito à permissão de saída, por ser reincidente em crime doloso."
+   },
+   "gabarito": "A",
+   "explicacao": "Pelo artigo 120 da Lei de Execução Penal, a permissão de saída, sempre com escolta, vale para condenados do regime fechado e semiaberto e para presos provisórios, em caso de morte ou doença grave de cônjuge, companheira, ascendente, descendente ou irmão, ou para tratamento médico. Quem concede é o diretor do estabelecimento. Não confunda com a saída temporária, que é do semiaberto, sem escolta, concedida pelo juiz. Reincidência não impede a permissão de saída."
+  },
+  {
+   "numero": 55,
+   "eixo": "especificos",
+   "disciplina": "Legislação Penal e Processual Extravagante",
+   "tema": "Lei de Drogas: laudo e destruição",
+   "enunciado": "Após ser capturado em flagrante com 500 pinos de cocaína, em local dominado pelo tráfico de drogas, Mário foi encaminhado, por policiais militares, à Delegacia de Polícia de plantão. Considerando as disposições da Lei nº 11.343/2006, avalie as afirmativas e assinale V para a verdadeira e F para a falsa. Primeira: Para efeito da lavratura do auto de prisão em flagrante e do estabelecimento da materialidade do delito, é suficiente o laudo de constatação da natureza e quantidade da droga, firmado por perito oficial ou, na falta deste, por duas pessoas idôneas. Segunda: Recebida a cópia do auto de prisão em flagrante, o Juiz, no prazo de dez dias, certificará a regularidade formal do laudo de constatação e determinará a destruição das drogas apreendidas, guardando-se amostra necessária à realização do laudo definitivo. Terceira: A destruição das drogas será executada pelo Delegado de Polícia competente no prazo de 30 dias na presença do Juiz, do Ministério Público e da autoridade sanitária. As afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – F – V.",
+    "B": "V – V – V.",
+    "C": "F – V – F.",
+    "D": "F – F – F.",
+    "E": "F – V – V."
+   },
+   "gabarito": "C",
+   "explicacao": "Artigo 50 da Lei de Drogas. A primeira é falsa por um detalhe: na falta de perito oficial, o laudo de constatação é firmado por pessoa idônea, no singular, e não por duas. A segunda é verdadeira, é o parágrafo 3º. A terceira é falsa: o delegado destrói a droga em 15 dias, na presença do Ministério Público e da autoridade sanitária; o juiz não precisa estar presente. Números da destruição: juiz em 10 dias, delegado em 15."
+  },
+  {
+   "numero": 56,
+   "eixo": "especificos",
+   "disciplina": "Legislação Penal e Processual Extravagante",
+   "tema": "Lei de Organizações Criminosas: infiltração",
+   "enunciado": "De acordo com a Lei nº 12.850/2013, a infiltração de agentes de polícia em tarefas de investigação, representada pelo Delegado de Polícia ou requerida pelo Ministério Público, após manifestação técnica do Delegado de Polícia quando solicitada no curso de inquérito policial, será precedida de circunstanciada, motivada e sigilosa autorização judicial, que estabelecerá seus limites. Avalie as afirmativas. Item I. No curso do inquérito policial, o Delegado de Polícia poderá determinar aos seus agentes, e o Ministério Público poderá requisitar, a qualquer tempo, relatório da atividade de infiltração. Item II. A infiltração será autorizada pelo prazo de seis meses, prorrogável uma única vez, por igual período, desde que comprovada sua necessidade. Item III. Na hipótese de representação do Delegado de Polícia, o Juiz competente, antes de decidir, ouvirá o Ministério Público. Está correto o que se afirme em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "explicacao": "Os itens I e III estão no artigo 10 da Lei 12.850. O item II erra: a infiltração é autorizada por até seis meses, sem prejuízo de eventuais renovações, desde que comprovada a necessidade. Não há limite de uma única prorrogação. Atenção: para a infiltração virtual, criada pelo Pacote Anticrime, existe limite total de 720 dias."
+  },
+  {
+   "numero": 57,
+   "eixo": "especificos",
+   "disciplina": "Direitos Humanos",
+   "tema": "Características dos direitos humanos",
+   "enunciado": "Assinale a opção que apresenta corretamente uma característica dos Direitos Humanos, aqueles direitos essenciais e indispensáveis à vida digna.",
+   "alternativas": {
+    "A": "Renunciabilidade, pois o titular do direito pode abdicar do seu exercício.",
+    "B": "Alienabilidade, uma vez que podem ser objetos de ação indenizatória, quando violados.",
+    "C": "Essencialidade, em razão de serem essenciais por natureza, do ponto de vista material e formal.",
+    "D": "Prescritibilidade, posto que devem ser exercidos em um determinado período, sob pena de preclusão.",
+    "E": "Dependência, uma vez que são direitos autônomos, que são exercidos de forma independente, um dos outros."
+   },
+   "gabarito": "C",
+   "explicacao": "As características clássicas são: universalidade, essencialidade, irrenunciabilidade, inalienabilidade, imprescritibilidade, indivisibilidade, interdependência, historicidade e vedação do retrocesso. A banca tirou o “in” de várias delas para criar alternativas erradas: renunciabilidade, alienabilidade, prescritibilidade. E a E se contradiz: diz dependência, mas descreve independência."
+  },
+  {
+   "numero": 58,
+   "eixo": "especificos",
+   "disciplina": "Direitos Humanos",
+   "tema": "Sistema interamericano",
+   "enunciado": "O Estado Brasileiro integra o Sistema Interamericano de Direitos Humanos. Nesse contexto, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "O Sistema interamericano de Direitos Humanos é composto pela Comissão Interamericana de Direitos Humanos e pela Corte Internacional de Justiça.",
+    "B": "A Convenção Interamericana contra o Racismo, a Discriminação Racial e Formas Correlatas de Intolerância foi incorporada pelo Brasil com status de emenda constitucional.",
+    "C": "A sentença do Caso Favela Nova Brasília para ser válida, precisa ser homologada pelo Superior Tribunal de Justiça, conforme o rito das sentenças estrangeiras.",
+    "D": "A Declaração Americana de Direitos Humanos é o instrumento normativo fundamental da Organização dos Estados Americanos.",
+    "E": "O sistema interamericano pode ser acionado por qualquer cidadão, que tenha um direito humano violado, que sempre terá seu caso diretamente julgado pela Corte DH."
+   },
+   "gabarito": "B",
+   "explicacao": "A Convenção Interamericana contra o Racismo foi aprovada pelo rito do artigo 5º, parágrafo 3º, e promulgada em 2022: tem status de emenda constitucional. A A erra o tribunal: é a Corte Interamericana de Direitos Humanos, em San José; a Corte Internacional de Justiça é da ONU. A C erra porque sentença de corte internacional não é sentença estrangeira e não precisa de homologação. A E erra porque o cidadão peticiona à Comissão, e só a Comissão e os Estados levam casos à Corte."
+  },
+  {
+   "numero": 59,
+   "eixo": "especificos",
+   "disciplina": "Direitos Humanos",
+   "tema": "Sistema global (questão anulada)",
+   "enunciado": "O Estado Brasileiro faz parte do Sistema Global de Proteção dos Direitos Humanos, decorrente da Organização das Nações Unidas. Sobre este assunto, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "A Declaração Universal dos Direitos Humanos é norma jurídica de observância obrigatória por todos os Estados que a ratificaram.",
+    "B": "O Pacto Internacional sobre direitos civis e políticos foi incorporado automaticamente no âmbito interno do Brasil, com a sua ratificação perante a ONU.",
+    "C": "O Caso Alyne Pimentel é um caso de condenação do Brasil sobre morte materna proferida pelo Comitê pela Eliminação de Todas as Formas de Discriminação contra a Mulher.",
+    "D": "Com a criação das Nações Unidas, os Estados integrantes do Sistema ONU se obrigaram a observar os Direitos Humanos previstos nos tratados aprovados por aquele colegiado.",
+    "E": "A Convenção sobre os direitos da Criança é um exemplo de normativa que foi ratificada, sem ressalvas, por todos os Estados-membros da ONU."
+   },
+   "gabarito": "anulada",
+   "explicacao": "Esta questão foi anulada pela banca, e vale ponto para todos. Mesmo assim, ela ensina. A Declaração Universal de 1948 é uma resolução da Assembleia Geral; não é um tratado sujeito a ratificação. Tratados não entram automaticamente no Brasil: precisam de aprovação do Congresso e de decreto presidencial. O caso Alyne Pimentel, de 2011, foi a primeira manifestação do Comitê da ONU sobre a Mulher, o chamado CEDAW, a respeito de morte materna, responsabilizando o Brasil; a discussão é que o Comitê emite recomendações, e não uma condenação judicial. E a Convenção sobre os Direitos da Criança não foi ratificada pelos Estados Unidos."
+  },
+  {
+   "numero": 60,
+   "eixo": "especificos",
+   "disciplina": "Direitos Humanos",
+   "tema": "Tratados e a Emenda Constitucional 45",
+   "enunciado": "A Emenda Constitucional nº 45/2004 aprimorou as regras de internalização dos tratados internacionais sobre Direitos Humanos. Avalie as afirmativas e assinale V para a verdadeira e F para a falsa. Primeira: Prevalece o entendimento do Supremo Tribunal Federal de que, após o advento da EC nº 45/2004, todos os tratados de Direitos Humanos têm natureza de norma constitucional. Segunda: Os tratados e convenções internacionais sobre Direitos Humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais. Terceira: Os tratados e convenções de Direitos Humanos ratificados pelo Brasil não precisam ser aprovados pelo Congresso Nacional, tendo em vista o disposto no Art. 5º, § 1º, da Constituição Federal. As afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "F – V – F.",
+    "B": "F – F – V.",
+    "C": "F – F – F.",
+    "D": "V – V – F.",
+    "E": "V – F – V."
+   },
+   "gabarito": "A",
+   "explicacao": "A primeira é falsa: para o STF, só os tratados aprovados pelo rito especial têm força de emenda; os demais tratados de direitos humanos têm status supralegal, acima das leis e abaixo da Constituição. A segunda é verdadeira, é o próprio artigo 5º, parágrafo 3º: dois turnos, três quintos, nas duas Casas. A terceira é falsa: todo tratado passa pelo Congresso, conforme o artigo 49, inciso I; a aplicação imediata do parágrafo 1º não dispensa essa etapa. Os tratados com força de emenda, até hoje, são a Convenção sobre pessoas com deficiência e seu protocolo, o Tratado de Marraqueche e a Convenção contra o Racismo."
+  },
+  {
+   "numero": 61,
+   "eixo": "especificos",
+   "disciplina": "Medicina Legal",
+   "tema": "Perícia e laudo",
+   "enunciado": "Sobre perícia, como o conjunto de procedimentos técnicos que tem como finalidade o esclarecimento de um fato à Justiça, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "O laudo pericial sempre será um documento sigiloso.",
+    "B": "A perícia não pode ser negada às partes pelo Juiz ou autoridade policial.",
+    "C": "O Juiz não ficará adstrito ao laudo, podendo rejeitá-lo no todo ou em partes.",
+    "D": "A perícia pode ser substituída pela confissão do acusado, mesmo quando a infração deixar vestígios.",
+    "E": "A perícia é um ato de instrução exclusivo da fase de inquérito policial, não podendo ser realizada na fase processual penal."
+   },
+   "gabarito": "C",
+   "explicacao": "Pelo artigo 182 do Código de Processo Penal, o juiz não fica preso ao laudo: pode aceitá-lo ou rejeitá-lo no todo ou em parte. É o sistema liberatório. A D é falsa pelo artigo 158: quando a infração deixa vestígios, o exame de corpo de delito é indispensável e a confissão não supre. A B é falsa: pelo artigo 184, a perícia pedida pelas partes pode ser negada se não for necessária, exceto o exame de corpo de delito. E a perícia pode acontecer também durante o processo."
+  },
+  {
+   "numero": 62,
+   "eixo": "especificos",
+   "disciplina": "Medicina Legal",
+   "tema": "Cadeia de custódia: etapas",
+   "enunciado": "Relacione as etapas do rastreamento do vestígio que compõem a cadeia de custódia às respectivas características. Etapas: 1, fixação; 2, isolamento; 3, reconhecimento; 4, descarte; 5, processamento. Características, na ordem: primeira, ato de distinguir um elemento como de potencial interesse para a produção da prova pericial. Segunda, descrição detalhada do vestígio, como foi encontrado na cena do crime. Terceira, ato pericial propriamente dito, manipulação do vestígio e confecção do laudo. Quarta, ato de evitar que se altere o estado das coisas, preservando o ambiente imediato, mediato e relacionado aos vestígios do local de crime. Quinta, liberação do vestígio mediante autorização judicial. Assinale a opção que apresenta a relação correta, segundo a ordem apresentada.",
+   "alternativas": {
+    "A": "1 – 3 – 4 – 5 – 2.",
+    "B": "2 – 1 – 5 – 3 – 4.",
+    "C": "2 – 5 – 1 – 4 – 3.",
+    "D": "3 – 1 – 5 – 2 – 4.",
+    "E": "3 – 2 – 1 – 5 – 4."
+   },
+   "gabarito": "D",
+   "explicacao": "As etapas do artigo 158-B do Código de Processo Penal, incluídas pelo Pacote Anticrime, em ordem: reconhecimento, isolamento, fixação, coleta, acondicionamento, transporte, recebimento, processamento, armazenamento e descarte. Distinguir o vestígio é reconhecimento, 3. Descrever como foi encontrado é fixação, 1. O exame pericial é processamento, 5. Preservar o local é isolamento, 2. Liberar com autorização judicial é descarte, 4. Sequência: 3, 1, 5, 2, 4."
+  },
+  {
+   "numero": 63,
+   "eixo": "especificos",
+   "disciplina": "Medicina Legal",
+   "tema": "Identificação humana",
+   "enunciado": "Sobre a identificação humana, assinale a afirmativa incorreta.",
+   "alternativas": {
+    "A": "O exame de DNA é sempre a melhor opção para a identificação de remanescentes humanos.",
+    "B": "O exame odontológico para identificação depende do confronto de informações ante mortem e post mortem.",
+    "C": "Os ossos do crânio e da pelve permitem a estimativa do sexo do indivíduo por métodos não métricos ou morfológicos.",
+    "D": "A primeira fase da identificação necropapiloscópica busca coincidências entre as figuras delta, arco, presilhas externa e interna e verticilo.",
+    "E": "São necessários doze pontos coincidentes e nenhum excludente para a comprovação da identificação necropapiloscópica."
+   },
+   "gabarito": "A",
+   "explicacao": "A questão pede a incorreta. O DNA não é sempre a melhor opção: é mais caro, mais demorado e depende de material de referência, como parentes. Muitas vezes as digitais ou a arcada dentária identificam mais rápido e com a mesma segurança. As outras afirmativas estão certas: odontologia compara registros de antes e depois da morte; crânio e pelve indicam o sexo; as digitais são classificadas primeiro pelos tipos fundamentais, e a identificação exige doze pontos coincidentes e nenhum divergente."
+  },
+  {
+   "numero": 64,
+   "eixo": "especificos",
+   "disciplina": "Medicina Legal",
+   "tema": "Balística: anel de Fisch",
+   "enunciado": "Os elementos da balística terminal são importantes para estimar a distância entre a vítima e o atirador. Sobre o anel de Fisch, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "Só existe em disparos a curta distância.",
+    "B": "Corresponde aos orifícios de saída de arma longa.",
+    "C": "É formado por orla de equimose, escoriação e enxugo.",
+    "D": "Está presente em orifícios de entrada com cano encostado.",
+    "E": "É formado por zonas de tatuagem, queimadura e esfumaçamento."
+   },
+   "gabarito": "C",
+   "explicacao": "O anel de Fisch é o conjunto das orlas que o próprio projétil deixa ao entrar na pele: orla de contusão ou equimose, orla de escoriação e orla de enxugo, que é a sujeira limpa do projétil na pele. Por depender só do projétil, aparece no orifício de entrada em qualquer distância. Tatuagem, queimadura e esfumaçamento são efeitos secundários do tiro, que indicam disparo a curta distância."
+  },
+  {
+   "numero": 65,
+   "eixo": "especificos",
+   "disciplina": "Medicina Legal",
+   "tema": "Tanatologia: cronotanatognose",
+   "enunciado": "A tanatologia forense estuda, por meio da cronotanatognose, a sequência de fenômenos cadavéricos para determinação da hora da morte. Sobre esse período, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "O resfriamento é o primeiro sinal de morte.",
+    "B": "A putrefação tem início após 48 horas de morte.",
+    "C": "A rigidez cadavérica é o primeiro sinal de certeza de morte.",
+    "D": "A rigidez cadavérica e a putrefação são sinais precoces de morte.",
+    "E": "O período de incerteza corresponde às primeiras seis horas após a morte."
+   },
+   "gabarito": "E",
+   "explicacao": "Nas primeiras horas após a morte, os sinais ainda não são seguros: é o chamado período de incerteza, de cerca de seis horas, até surgirem os sinais tardios e seguros. A putrefação começa bem antes de 48 horas; a mancha verde no abdômen costuma aparecer entre 18 e 24 horas. Resfriamento e rigidez são progressivos e não são o primeiro sinal; e a putrefação é um sinal tardio, não precoce."
+  },
+  {
+   "numero": 66,
+   "eixo": "especificos",
+   "disciplina": "Criminologia",
+   "tema": "Cifras da criminalidade",
+   "enunciado": "O fenômeno criminológico que se refere à estatística de crimes cometidos por funcionários públicos contra vítimas que não denunciam o fato por temor de represálias é denominado:",
+   "alternativas": {
+    "A": "Cifra negra.",
+    "B": "Cifra amarela.",
+    "C": "Cifra dourada.",
+    "D": "Cifra verde.",
+    "E": "Cifra cinza."
+   },
+   "gabarito": "B",
+   "explicacao": "As cifras medem os crimes que escapam às estatísticas oficiais. Cifra negra: crimes que nunca chegam ao conhecimento das autoridades. Cifra dourada: crimes de colarinho branco, dos poderosos. Cifra cinza: ocorrências registradas que não são esclarecidas. Cifra verde: crimes ambientais. Cifra amarela: violência de funcionários públicos, como abuso policial, que a vítima não denuncia por medo. Amarela, de medo, como se diz: ficou amarelo de medo."
+  },
+  {
+   "numero": 67,
+   "eixo": "especificos",
+   "disciplina": "Criminologia",
+   "tema": "Escolas da Criminologia",
+   "enunciado": "No que se refere às Escolas da Criminologia, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "A Escola Clássica da Criminologia tinha como principal expoente Cesare Lombroso.",
+    "B": "A Escola da Criminologia Crítica tem como principal objeto de estudo o delinquente.",
+    "C": "A Criminologia Radical rechaça a metodologia interdisciplinar.",
+    "D": "A Teoria do Etiquetamento Penal preconiza a noção de atavismo.",
+    "E": "A Escola da Criminologia Positivista baseia-se no paradigma etiológico."
+   },
+   "gabarito": "E",
+   "explicacao": "A Escola Positivista, de Lombroso, Ferri e Garofalo, buscava as causas do crime no criminoso: é o paradigma etiológico, de etiologia, estudo das causas. Lombroso, com a ideia do atavismo, do criminoso nato, é positivista, e não clássico; o grande nome da Escola Clássica é Beccaria. A Criminologia Crítica estuda o sistema de controle e o poder de punir, não o delinquente. E o etiquetamento, o labeling approach, estuda como a sociedade rotula alguém como criminoso, o oposto do atavismo."
+  },
+  {
+   "numero": 68,
+   "eixo": "especificos",
+   "disciplina": "Criminologia",
+   "tema": "Política criminal: teorias",
+   "enunciado": "Pierri participou de um congresso sobre Criminologia. Algumas apresentações de estudantes lhe chamaram a atenção. Item I: O discurso Tolerância Zero surgiu a partir da política de segurança pública implementada na Colômbia a partir de 1994. Item II: O Direito Penal do Inimigo é a teoria cunhada pelo jurista alemão Claus Roxin que preconiza dois direitos penais. Item III: A Política Criminal Atuarial se baseia em análises quantitativas e previsões estatísticas com foco na prevenção do delito. Item IV: O Direito Penal Mínimo defende a limitação do poder punitivo com respeito aos direitos e às garantias fundamentais. Analisando o conteúdo acima descrito, conclui-se que está correto o que se afirma em",
+   "alternativas": {
+    "A": "I, III e IV.",
+    "B": "II, III e IV.",
+    "C": "I, II e III.",
+    "D": "IV, apenas.",
+    "E": "III e IV, apenas."
+   },
+   "gabarito": "E",
+   "explicacao": "O item I troca o lugar: a Tolerância Zero nasceu em Nova York, na gestão do prefeito Rudolph Giuliani, a partir de 1994, inspirada na teoria das janelas quebradas. O item II troca o autor: o Direito Penal do Inimigo é de Günther Jakobs, e não de Roxin. Os itens III e IV estão certos. Repare na técnica da FGV: a afirmação parece verdadeira, mas troca um único dado, o lugar ou o nome."
+  },
+  {
+   "numero": 69,
+   "eixo": "especificos",
+   "disciplina": "Criminologia",
+   "tema": "Prevenção do delito",
+   "enunciado": "Com relação aos modelos de prevenção ao delito, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "A implementação de políticas públicas de saúde, de educação e de saneamento básico é compreendida como prevenção secundária ao delito.",
+    "B": "Entende-se por prevenção primária o monitoramento de grupos sociais mais propensos à prática delitiva.",
+    "C": "A prevenção terciária pretende evitar a reincidência criminal por meio de políticas voltadas à ressocialização do apenado.",
+    "D": "O modelo de prevenção integral ou integrada preconiza a redução da criminalidade apenas por meio de políticas criminais.",
+    "E": "Os programas de prevenção primária e secundária devem ser implementados pelas instituições policiais."
+   },
+   "gabarito": "C",
+   "explicacao": "Três níveis. Primária: ataca as raízes do crime, com saúde, educação, saneamento, emprego; age a médio e longo prazo e envolve toda a sociedade. Secundária: atua onde e em quem o crime aparece mais, com policiamento e monitoramento de áreas e grupos de risco. Terciária: atua sobre quem já cometeu crime, para evitar a reincidência, com ressocialização. As letras A e B trocam primária com secundária."
+  },
+  {
+   "numero": 70,
+   "eixo": "especificos",
+   "disciplina": "Criminologia",
+   "tema": "Criminologia e saberes afins",
+   "enunciado": "Acerca do conceito de Criminologia e saberes penais afins, relacione os enunciados aos respectivos termos. Enunciado I: Estudo empírico e interdisciplinar que se propõe a explicar as causas da criminalidade. Enunciado II: Se refere ao conjunto de medidas e programas governamentais voltados à prevenção e à repressão do delito. Enunciado III: Compreende o arcabouço de normas e princípios que estabelecem os crimes e suas respectivas sanções. Termos, na ordem: Dogmática Penal, Política Criminal e Criminologia. Assinale a opção que indica a relação correta, na ordem apresentada.",
+   "alternativas": {
+    "A": "III – II – I.",
+    "B": "III – I – II.",
+    "C": "II – III – I.",
+    "D": "II – I – III.",
+    "E": "I – II – III."
+   },
+   "gabarito": "A",
+   "explicacao": "Dogmática penal é o Direito Penal como conjunto de normas: o que é crime e qual a pena, enunciado III. Política criminal são as estratégias do Estado para prevenir e reprimir o crime, enunciado II. Criminologia é a ciência empírica e interdisciplinar que estuda o crime, o criminoso, a vítima e o controle social, enunciado I. Frase para lembrar: a Criminologia estuda o ser, a Política Criminal decide o que fazer, e o Direito Penal diz o que deve ser."
+  }
+ ]
+}

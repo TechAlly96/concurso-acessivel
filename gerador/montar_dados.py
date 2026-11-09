@@ -26,7 +26,8 @@ INFO = {
 #   1x a 6x curso completo: 1 Portugues, 2 Informatica, 3 Raciocinio Logico,
 #           4 Direitos Humanos, 5 Legislacao, 6 Eixo especifico
 #   9x      provas anteriores resolvidas (geradas por ferramentas/prova_para_conteudo.py)
-EIXOS_PROVA = {"geral": "eixo geral", "legislacao": "eixo legislação", "especifico": "eixo específico"}
+EIXOS_PROVA = {"geral": "eixo geral", "legislacao": "eixo legislação", "especifico": "eixo específico",
+               "basicos": "conhecimentos básicos", "especificos": "conhecimentos específicos"}
 
 
 def curto_prova(pid):
@@ -34,7 +35,7 @@ def curto_prova(pid):
     m = re.match(r"\d+_prova_([a-z0-9]+)_(\d{4})_([a-z]+)$", pid)
     if not m:
         return pid
-    sigla = {"pcmg": "PC-MG"}.get(m[1], m[1].upper())
+    sigla = {"pcmg": "PC-MG Técnico Assistente", "pcmginv": "PC-MG Investigador"}.get(m[1], m[1].upper())
     return f"{sigla} {m[2]}, {EIXOS_PROVA.get(m[3], m[3])}"
 
 

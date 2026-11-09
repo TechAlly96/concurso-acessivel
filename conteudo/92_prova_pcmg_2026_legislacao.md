@@ -1,6 +1,6 @@
-# Prova P C M G 2026. Eixo legislação, questões 16 a 30: Direitos Humanos e Legislação
+# Prova Polícia Civil de Minas Gerais, Técnico-Assistente da Polícia Civil e de Atividades Governamentais (T P A G) — Auxiliar de Perícia, 2026. Eixo legislação, questões 16 a 30: Direitos Humanos e Legislação
 
-Esta é a prova real aplicada em 2026 pela banca Cebraspe para o cargo de Técnico-Assistente da Polícia Civil e de Atividades Governamentais (TPAG) — Auxiliar de Perícia. Os gabaritos são os oficiais definitivos.
+Esta é a prova real aplicada em 2026 pela banca Cebraspe para o cargo de Técnico-Assistente da Polícia Civil e de Atividades Governamentais (T P A G) — Auxiliar de Perícia. Os gabaritos são os oficiais definitivos.
 
 Em cada questão, eu leio o enunciado e as quatro alternativas. Depois faço uma pausa para você pensar, e só então explico e dou a resposta. Se quiser treinar de verdade, pause o áudio na pausa, escolha a sua letra e depois continue.
 
@@ -42,7 +42,7 @@ Letra A: A existência dos direitos humanos é resultado da atuação autônoma 
 
 Letra B: O reconhecimento dos direitos humanos ocorreu de maneira simultânea e positivada em todos os países europeus a partir da Declaração Universal dos Direitos Humanos de 1948.
 
-Letra C: A existência de direitos humanos somente pôde ser reconhecida após sua positivação em tratados internacionais, inexistindo proteção à dignidade humana antes do século XX.
+Letra C: A existência de direitos humanos somente pôde ser reconhecida após sua positivação em tratados internacionais, inexistindo proteção à dignidade humana antes do século vinte.
 
 Letra D: A afirmação histórica dos direitos humanos decorre de um processo contínuo e cumulativo, no qual esses direitos foram sendo reconhecidos gradativamente, em resposta às lutas sociais e transformações políticas ao longo do tempo.
 
@@ -120,7 +120,7 @@ Letra D: O Programa Nacional de Direitos Humanos foi instituído no ordenamento 
 
 Pense na sua resposta antes de ouvir a explicação.
 
-**A explicação.** A dignidade da pessoa humana é fundamento da República, no artigo 1º, inciso III, da Constituição. O Programa Nacional de Direitos Humanos, atualmente o PNDH-3, abrange todas as dimensões de direitos e foi feito por decreto comum, sem força de emenda constitucional. A proteção cabe a todos os entes: União, estados e municípios.
+**A explicação.** A dignidade da pessoa humana é fundamento da República, no artigo 1º, inciso três, da Constituição. O Programa Nacional de Direitos Humanos, atualmente o P N D H-3, abrange todas as dimensões de direitos e foi feito por decreto comum, sem força de emenda constitucional. A proteção cabe a todos os entes: União, estados e municípios.
 
 **Resposta: letra A, as políticas públicas em direitos humanos no Brasil possuem como fundamento constitucional a dignidade da pessoa humana.**
 
@@ -168,7 +168,7 @@ Letra D: Os tratados internacionais de direitos humanos que não observarem o ri
 
 Pense na sua resposta antes de ouvir a explicação.
 
-**A explicação.** A alternativa A copia o artigo 5º, parágrafo 2º. Pelo parágrafo 3º, o tratado aprovado em dois turnos, por três quintos dos votos em cada casa do Congresso, vale como emenda constitucional. Os que não seguem esse rito continuam valendo, com status supralegal, como decidiu o STF sobre o próprio Pacto de São José. Os tratados são promulgados por decreto, não por lei complementar.
+**A explicação.** A alternativa A copia o artigo 5º, parágrafo 2º. Pelo parágrafo 3º, o tratado aprovado em dois turnos, por três quintos dos votos em cada casa do Congresso, vale como emenda constitucional. Os que não seguem esse rito continuam valendo, com status supralegal, como decidiu o S T F sobre o próprio Pacto de São José. Os tratados são promulgados por decreto, não por lei complementar.
 
 **Resposta: letra A, os direitos e garantias expressos na Constituição Federal não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.**
 
@@ -360,6 +360,6 @@ Letra D: contratação temporária, para atender a necessidade excepcional de in
 
 Pense na sua resposta antes de ouvir a explicação.
 
-**A explicação.** Cargo efetivo só se ocupa por concurso público de provas ou de provas e títulos, regra do artigo 37, inciso II, da Constituição. Promoção é movimentação dentro da carreira, não ingresso. Comissão e contratação temporária não criam vínculo efetivo.
+**A explicação.** Cargo efetivo só se ocupa por concurso público de provas ou de provas e títulos, regra do artigo 37, inciso dois, da Constituição. Promoção é movimentação dentro da carreira, não ingresso. Comissão e contratação temporária não criam vínculo efetivo.
 
 **Resposta: letra A, concurso público de provas ou de provas e títulos, conforme previsto em lei.**
