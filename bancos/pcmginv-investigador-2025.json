@@ -488,8 +488,7 @@
     "E": "I, II e III."
    },
    "gabarito": "D",
-   "explicacao": "Os itens II e III estão no rol de hipóteses de demissão da Lei 5.406: exercer atividade remunerada durante licença para tratamento de saúde e procedimento irregular de natureza grave. O item I é a pegadinha: ele altera o número de faltas interpoladas que a lei exige para a demissão. A FGV adora trocar números em lei seca. Na aula da Lei 5.406, vamos fixar o número exato com uma técnica de memorização.",
-   "conferir_lei_seca": true
+   "explicacao": "Os itens II e III estão no artigo 158 da Lei 5.406, que lista os casos de demissão: o inciso 6 fala em exercer atividade remunerada estando licenciado para tratamento de saúde, e o inciso 2 em procedimento irregular de natureza grave. O item I é a pegadinha da troca de número: a lei exige ausência sem causa justificável por mais de quarenta e cinco dias, interpoladamente, durante um ano, e não trinta. Trinta dias aparece em outro lugar: o abandono de cargo, que é a falta por mais de trinta dias consecutivos. Macete: trinta seguidos é abandono; quarenta e cinco salteados no ano também demite."
   },
   {
    "numero": 27,
@@ -505,8 +504,7 @@
     "E": "Ter prestado serviços relevantes."
    },
    "gabarito": "B",
-   "explicacao": "A Lei 5.406 separa duas coisas. Causa de justificação apaga a transgressão: não há punição. Circunstância atenuante só diminui a pena. O motivo de força maior, plenamente comprovado e justificado, é causa de justificação. Já ter cometido a falta para evitar mal maior, a confissão espontânea, o bom comportamento anterior e os serviços relevantes aparecem na lei como atenuantes. A pegadinha está na letra C, que lembra o estado de necessidade do Direito Penal, mas na Lei 5.406 é tratada como atenuante.",
-   "conferir_lei_seca": true
+   "explicacao": "O artigo 153 da Lei 5.406 separa causas justificativas, que afastam a punição, de circunstâncias atenuantes, que só diminuem a pena. O motivo de força maior plenamente comprovado e justificado está no parágrafo 1º, inciso 2: é causa justificativa. Já ter cometido a falta para evitar mal maior, a confissão espontânea perante a autoridade sindicante, o bom comportamento anterior e a relevância dos serviços prestados estão no parágrafo 2º: são atenuantes. A pegadinha está na letra C, que lembra o estado de necessidade do Direito Penal, mas na Lei 5.406 é atenuante. Atenção: a legítima defesa e a obediência a ordem superior, sim, são causas justificativas."
   },
   {
    "numero": 28,
@@ -554,8 +552,7 @@
     "E": "A simples alegação de injustiça da penalidade não constitui fundamento para revisão."
    },
    "gabarito": "A",
-   "explicacao": "Atenção, a questão pede a incorreta. A revisão existe para reparar injustiça, inclusive a memória de quem já morreu; por isso, em caso de morte, o cônjuge sobrevivente pode pedir a revisão. Dizer que é vedado é o erro. As outras afirmativas estão certas: quem integrou a comissão original fica impedido, a revisão procedente reduz ou cancela a pena, pode acontecer a qualquer tempo, nunca agrava a pena, e alegar injustiça sem fatos novos não basta.",
-   "conferir_lei_seca": true
+   "explicacao": "Atenção, a questão pede a incorreta. Pelo artigo 197 da Lei 5.406, a revisão pode ser pedida pelo próprio punido ou por procurador e, no caso de morte do punido, pelo cônjuge, ascendente, descendente ou irmão. Dizer que é vedado ao cônjuge é o erro. As outras estão certas: quem integrou a comissão do processo fica impedido de atuar na revisão, pelo artigo 199; julgada procedente, a revisão reduz ou cancela a pena, pelo artigo 204; pode ser pedida a qualquer tempo e não autoriza agravar a pena, pelo artigo 196; e a simples alegação de injustiça não é fundamento, pelo artigo 198."
   },
   {
    "numero": 31,
