@@ -414,4 +414,4 @@ Pense na sua resposta.
 
 Excelente trabalho! Você agora sabe como o Estado age, com que poderes, e o que acontece quando ele erra ou quando um agente é desonesto. Repita em voz alta: cofifomob, pati, fo-co, e a escada da improbidade: 14, 12 e 4.
 
-No próximo módulo de Direito Administrativo, vamos estudar o processo administrativo disciplinar, as licitações e contratos, os serviços públicos e o controle da Administração.
+No próximo módulo de Direito Administrativo, vamos completar o edital, com os fatos administrativos, a classificação e as espécies dos atos, os serviços públicos, os direitos e deveres dos servidores e a responsabilidade administrativa, civil e penal, com o processo disciplinar.
