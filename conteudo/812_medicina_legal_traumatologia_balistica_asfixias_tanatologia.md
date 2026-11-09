@@ -426,4 +426,4 @@ Pense na sua resposta.
 
 Parabéns! Você estudou a parte mais técnica da Medicina Legal. Repita em voz alta: orlas a qualquer distância, zonas só de perto; Fisch é escoriação, enxugo e equimose; esfumaçamento sai, tatuagem fica; enforcamento é peso do corpo, estrangulamento é força de alguém, esganadura é a mão; a rigidez desce, da mandíbula para os pés.
 
-No próximo módulo de Medicina Legal, vamos estudar a sexologia forense, com os crimes contra a dignidade sexual, a gravidez, o parto e o aborto, o infanticídio, a toxicologia e a psicopatologia forense, que trata da imputabilidade.
+Nos próximos módulos de Medicina Legal, vamos completar as energias químicas e físicas e a tanatologia, e estudar a sexologia forense, com os crimes contra a dignidade sexual, a gravidez, o parto e o aborto, o infanticídio, a toxicologia e a psicopatologia forense, que trata da imputabilidade.
