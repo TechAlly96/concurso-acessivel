@@ -14,7 +14,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: publicar-enem
+  group: publicar-concurso
   cancel-in-progress: false
 
 jobs:
@@ -95,7 +95,7 @@ jobs:
           mkdir -p _site/app
           cp -r app/. _site/app/
           cp -r dados _site/dados
-          printf '%s\n' '<!doctype html><meta charset="utf-8"><title>Enem Acessível</title><meta http-equiv="refresh" content="0; url=app/"><a href="app/">Abrir o Enem Acessível</a>' > _site/index.html
+          printf '%s\n' '<!doctype html><meta charset="utf-8"><title>Concurso Acessível</title><meta http-equiv="refresh" content="0; url=app/"><a href="app/">Abrir o Concurso Acessível</a>' > _site/index.html
           du -sh _site | sed 's/^/  total do site: /'
           find _site -name '*.ogg' -printf '%s\n' | awk '{s+=$1; n++} END {printf "  audio: %d arquivos, %.1f MB\n", n, s/1048576}'
 

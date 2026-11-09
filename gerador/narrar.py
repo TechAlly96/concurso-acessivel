@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Enem Acessivel - narra uma parte inteira em UM arquivo de audio com capitulos.
+"""Concurso Acessivel - narra uma parte inteira em UM arquivo de audio com capitulos.
 
 Mesmo desenho do boletim do GIN (validado no celular):
 - Piper (voz pt_BR-faber-medium) roda como PROGRAMA SEPARADO; ffmpeg converte para Opus.
@@ -20,7 +20,7 @@ import wave
 from datetime import datetime, timezone
 from pathlib import Path
 
-SITE = "https://techally96.github.io/enem-acessivel/dados/"
+SITE = "https://techally96.github.io/concurso-acessivel/dados/"
 VOZ = "pt_BR-faber-medium"
 PAUSA_S = 1.2          # silencio entre questoes
 SILENCIO_FRASE = "0.35"  # silencio entre frases (fala mais pausada, para aprender)
@@ -33,7 +33,7 @@ def ler(caminho, padrao=None):
 
 def baixar_publicado(parte, arquivo, destino):
     try:
-        req = urllib.request.Request(SITE + f"{parte}/{arquivo}", headers={"User-Agent": "enem-acessivel"})
+        req = urllib.request.Request(SITE + f"{parte}/{arquivo}", headers={"User-Agent": "concurso-acessivel"})
         with urllib.request.urlopen(req, timeout=120) as r:
             destino.write_bytes(r.read())
         return destino.stat().st_size > 0

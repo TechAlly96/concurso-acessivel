@@ -1,12 +1,12 @@
 "use strict";
-// Enem Acessivel - app de estudo em audio. Toca com a tela apagada e em segundo plano
+// Concurso Acessivel - app de estudo em audio. Toca com a tela apagada e em segundo plano
 // (elemento <audio> + Media Session, mesmo desenho do GIN). Sem dependencias.
 const DADOS = "../dados/";
-const CACHE_AUDIO = "enem-audio-v1";
-const CACHE_DADOS = "enem-dados-v1";
+const CACHE_AUDIO = "concurso-audio-v1";
+const CACHE_DADOS = "concurso-dados-v1";
 const VELOCIDADES = [0.75, 1, 1.25, 1.5, 1.75];
-const GRUPOS = [["geral", "Comece por aqui"], ["curso", "Curso completo: aprenda do zero"], ["dia1", "Primeiro dia: Linguagens, Humanas e Redação"], ["dia2", "Segundo dia: Natureza e Matemática"]];
-const AREAS = { "1": "Linguagens", "2": "Ciências Humanas", "3": "Ciências da Natureza", "4": "Matemática", "5": "Redação" };
+const GRUPOS = [["geral", "Comece por aqui"], ["prova", "Provas anteriores resolvidas"], ["curso", "Curso completo: aprenda do zero"]];
+const AREAS = { "1": "Língua Portuguesa", "2": "Informática", "3": "Raciocínio Lógico-Matemático", "4": "Direitos Humanos", "5": "Legislação", "6": "Eixo específico: Auxiliar de Necropsia e Biossegurança" };
 const $ = (id) => document.getElementById(id);
 
 let partes = [];
@@ -47,15 +47,15 @@ const urlAudio = (id) => DADOS + id + "/" + memoria[id].audio.arquivo;
 function aplicarTamanho(px) {
   px = Math.max(16, Math.min(30, px));
   document.documentElement.style.setProperty("--tam", px + "px");
-  guardar("enem-tamanho", px);
+  guardar("concurso-tamanho", px);
   return px;
 }
-aplicarTamanho(recuperar("enem-tamanho", 19));
+aplicarTamanho(recuperar("concurso-tamanho", 19));
 
 // ---------- telas ----------
 function preparar(titulo, comVoltar) {
   $("titulo-tela").textContent = titulo;
-  document.title = titulo === "Enem Acessível" ? titulo : titulo + " · Enem Acessível";
+  document.title = titulo === "Concurso Acessível" ? titulo : titulo + " · Concurso Acessível";
   $("voltar").hidden = !comVoltar;
   const main = $("conteudo");
   main.replaceChildren();
@@ -63,9 +63,9 @@ function preparar(titulo, comVoltar) {
 }
 
 function telaInicio() {
-  const main = preparar("Enem Acessível", false);
-  main.append(el("p", "aviso", "Curso completo e provas do Enem resolvidas, tudo em áudio e em linguagem simples. Coloque o fone e toque no botão abaixo: as aulas tocam uma depois da outra, até o fim do curso, e depois recomeçam. Funciona com a tela apagada. Se preferir, escolha uma parte na lista."));
-  const prog = recuperar("enem-progresso", null);
+  const main = preparar("Concurso Acessível", false);
+  main.append(el("p", "aviso", "Curso completo para concursos públicos e provas anteriores resolvidas, tudo em áudio e em linguagem simples. Primeiro edital: Polícia Civil de Minas Gerais, Técnico Assistente, Auxiliar de Perícia. Coloque o fone e toque no botão abaixo: as partes tocam uma depois da outra, até o fim, e depois recomeçam. Funciona com a tela apagada. Se preferir, escolha uma parte na lista."));
+  const prog = recuperar("concurso-progresso", null);
   const parteSalva = prog && partes.find((p) => p.id === prog.parte);
   const inicio = sequencia()[0];
   const b = el("button", "botao forte");
@@ -106,12 +106,12 @@ function telaInicio() {
   const t = el("div", "tamanho");
   const menor = el("button", null, "A− Diminuir"), maior = el("button", null, "A+ Aumentar");
   menor.type = maior.type = "button";
-  menor.addEventListener("click", () => anunciar("Texto com " + aplicarTamanho(recuperar("enem-tamanho", 19) - 2) + " pixels"));
-  maior.addEventListener("click", () => anunciar("Texto com " + aplicarTamanho(recuperar("enem-tamanho", 19) + 2) + " pixels"));
+  menor.addEventListener("click", () => anunciar("Texto com " + aplicarTamanho(recuperar("concurso-tamanho", 19) - 2) + " pixels"));
+  maior.addEventListener("click", () => anunciar("Texto com " + aplicarTamanho(recuperar("concurso-tamanho", 19) + 2) + " pixels"));
   t.append(menor, maior);
   main.append(t);
   const rod = el("p", "rodape");
-  rod.innerHTML = 'Criado por Marlon Myaggy. Projeto gratuito e de código aberto. Respostas conferidas no gabarito oficial do Inep. <a href="https://github.com/TechAlly96/enem-acessivel" rel="noopener">Código-fonte no GitHub</a>.';
+  rod.innerHTML = 'Criado por Marlon Myaggy. Projeto gratuito e de código aberto. Respostas conferidas nos gabaritos oficiais definitivos das bancas. <a href="https://github.com/TechAlly96/concurso-acessivel" rel="noopener">Código-fonte no GitHub</a>.';
   main.append(rod);
 }
 
@@ -189,10 +189,10 @@ async function baixarParte(id) {
 }
 
 // ---------- modo guiado: tudo em sequencia, como um cao-guia ----------
-// Ordem: apresentacao -> curso completo (todas as areas) -> estrategia e redacao
-// -> provas do primeiro dia -> provas do segundo dia -> resumo de vespera -> recomeca.
+// Ordem: apresentacao -> prova anterior (diagnostico) -> curso completo
+// (todas as materias do edital) -> demais partes -> recomeca.
 function sequencia() {
-  const ordem = (p) => p.id === "00_inicio" ? 0 : p.dia === "curso" ? 1 : p.id.startsWith("07") ? 2 : p.dia === "dia1" ? 3 : p.dia === "dia2" ? 4 : 5;
+  const ordem = (p) => p.id === "00_inicio" ? 0 : p.dia === "prova" ? 1 : p.dia === "curso" ? 2 : 3;
   return partes.slice().sort((a, b) => ordem(a) - ordem(b) || a.id.localeCompare(b.id)).map((p) => p.id);
 }
 function vizinha(id, passo) {
@@ -206,7 +206,7 @@ async function avancarParte() {
   const prox = vizinha(player.parte, 1);
   const info = partes.find((p) => p.id === prox);
   anunciar(fimDoCurso ? "Fim do curso. Recomeçando do início." : "A seguir: " + (info ? info.curto : ""));
-  guardar("enem-progresso", { parte: prox, tempo: 0, titulo: "" });
+  guardar("concurso-progresso", { parte: prox, tempo: 0, titulo: "" });
   if (!(await tocarParte(prox, 0))) {
     // sem internet ou falha passageira: tenta de novo uma vez
     setTimeout(() => { if (audio().paused) tocarParte(prox, 0); }, 8000);
@@ -267,7 +267,7 @@ function aoMudarCapitulo(i) {
   $("player-titulo").textContent = titulo;
   if ("mediaSession" in navigator) {
     navigator.mediaSession.metadata = new MediaMetadata({
-      title: titulo, artist: "Enem Acessível", album: (memoria[player.parte] || { conteudo: {} }).conteudo.curto || "",
+      title: titulo, artist: "Concurso Acessível", album: (memoria[player.parte] || { conteudo: {} }).conteudo.curto || "",
       artwork: [{ src: "icone-512.png", sizes: "512x512", type: "image/png" }],
     });
   }
@@ -324,7 +324,7 @@ function salvarProgresso(forcar) {
   const t = audio().currentTime;
   if (!forcar && Math.abs(t - player.ultimoSalvo) < 5) return;
   player.ultimoSalvo = t;
-  guardar("enem-progresso", { parte: player.parte, tempo: Math.max(0, t - 2), titulo: tituloCap(capituloEm(t)) });
+  guardar("concurso-progresso", { parte: player.parte, tempo: Math.max(0, t - 2), titulo: tituloCap(capituloEm(t)) });
 }
 
 // Reserva: voz do celular (so com a tela ligada) enquanto o audio gravado nao existe
@@ -363,7 +363,7 @@ $("p-velocidade").addEventListener("click", () => {
   const txt = String(player.velocidade).replace(".", ",");
   $("p-velocidade").textContent = "Velocidade " + txt + "×";
   $("p-velocidade").setAttribute("aria-label", "Velocidade: " + txt + " vezes");
-  guardar("enem-velocidade", player.velocidade);
+  guardar("concurso-velocidade", player.velocidade);
   anunciar("Velocidade " + txt);
 });
 $("p-fechar").addEventListener("click", () => {
@@ -416,12 +416,12 @@ if ("mediaSession" in navigator) {
 
 // ---------- inicio ----------
 (async function iniciar() {
-  const v = recuperar("enem-velocidade", 1);
+  const v = recuperar("concurso-velocidade", 1);
   if (VELOCIDADES.includes(v)) { player.velocidade = v; $("p-velocidade").textContent = "Velocidade " + String(v).replace(".", ",") + "×"; }
   try {
     partes = await obterJSON("partes.json");
   } catch (e) {
-    preparar("Enem Acessível", false).append(el("p", "aviso", "Sem conexão e sem cópia guardada. Abra o app uma vez com internet. (" + e.message + ")"));
+    preparar("Concurso Acessível", false).append(el("p", "aviso", "Sem conexão e sem cópia guardada. Abra o app uma vez com internet. (" + e.message + ")"));
     return;
   }
   window.addEventListener("hashchange", rota);

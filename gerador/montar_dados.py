@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Enem Acessivel - transforma o conteudo (conteudo/*.md) nos dados do app (JSON).
+"""Concurso Acessivel - transforma o conteudo (conteudo/*.md) nos dados do app (JSON).
 
 Fonte da verdade: os arquivos Markdown em conteudo/, escritos para serem OUVIDOS.
 Cada titulo "## " vira um capitulo (uma questao ou um topico); o texto antes do
@@ -19,19 +19,23 @@ CONTEUDO = RAIZ / "conteudo"
 # Organizacao das partes no app: dia da prova e area (para filtros e "ouvir tudo")
 INFO = {
     "00_inicio": ("geral", "Apresentação e como estudar"),
-    "01_linguagens_2023": ("dia1", "Linguagens 2023"),
-    "02_humanas_2023": ("dia1", "Humanas 2023"),
-    "03_natureza_2023": ("dia2", "Natureza 2023"),
-    "04_matematica_2023": ("dia2", "Matemática 2023"),
-    "05_linguagens_2024": ("dia1", "Linguagens 2024"),
-    "06_humanas_2024": ("dia1", "Humanas 2024"),
-    "07_estrategia_redacao": ("geral", "Estratégia e redação"),
-    "08_vespera": ("geral", "Resumo de véspera"),
-    "61_natureza_2024": ("dia2", "Natureza 2024"),
-    "62_matematica_2024": ("dia2", "Matemática 2024"),
-    "63_linguagens_2025": ("dia1", "Linguagens 2025"),
-    "64_humanas_2025": ("dia1", "Humanas 2025"),
 }
+
+# Prefixos dos arquivos em conteudo/:
+#   00      apresentacao
+#   1x a 6x curso completo: 1 Portugues, 2 Informatica, 3 Raciocinio Logico,
+#           4 Direitos Humanos, 5 Legislacao, 6 Eixo especifico
+#   9x      provas anteriores resolvidas (geradas por ferramentas/prova_para_conteudo.py)
+EIXOS_PROVA = {"geral": "eixo geral", "legislacao": "eixo legislação", "especifico": "eixo específico"}
+
+
+def curto_prova(pid):
+    """91_prova_pcmg_2026_geral -> 'PC-MG 2026, eixo geral'."""
+    m = re.match(r"\d+_prova_([a-z0-9]+)_(\d{4})_([a-z]+)$", pid)
+    if not m:
+        return pid
+    sigla = {"pcmg": "PC-MG"}.get(m[1], m[1].upper())
+    return f"{sigla} {m[2]}, {EIXOS_PROVA.get(m[3], m[3])}"
 
 
 def inline_html(texto):
@@ -67,7 +71,7 @@ def capitulo(cid, titulo, paragrafos):
         m = re.search(r"Resposta: letra ([A-E])", p)
         if m:
             resposta = m.group(1)
-    if any("anulada" in p.lower() and "inep" in p.lower() for p in paragrafos):
+    if any("anulada" in p.lower() and ("banca" in p.lower() or "inep" in p.lower()) for p in paragrafos):
         resposta = "anulada"
     frases = [titulo] + [texto_falado(p) for p in paragrafos]
     fala = " ".join(f if f.endswith((".", "!", "?", ":")) else f + "." for f in frases)
@@ -122,8 +126,10 @@ def main(saida):
         titulo, caps = ler_parte(arquivo)
         if pid in INFO:
             dia, curto = INFO[pid]
-        elif pid[:1] in "12345":  # curso completo: 1x Linguagens, 2x Humanas, 3x Natureza, 4x Matematica, 5x Redacao
+        elif pid[:1] in "123456":  # curso completo (ver prefixos acima)
             dia, curto = "curso", re.sub(r"^Curso, m[óo]dulo \d+\.\s*", "", titulo)
+        elif pid[:1] == "9":  # provas anteriores resolvidas
+            dia, curto = "prova", curto_prova(pid)
         else:
             dia, curto = "geral", titulo
         questoes = sum(1 for c in caps if c["resposta"]) if dia != "curso" else 0

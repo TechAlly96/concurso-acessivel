@@ -1,4 +1,4 @@
-/* Enem Acessivel - alto contraste, alvos de toque grandes (min. 56 px), texto ampliavel */
+/* Concurso Acessivel - alto contraste, alvos de toque grandes (min. 56 px), texto ampliavel */
 :root {
   --fundo: #071226; --cartao: #0f2142; --borda: #2b4a7e; --texto: #ffffff; --suave: #c9d6ee;
   --destaque: #ffd23f; --destaque-texto: #071226; --link: #8ec5ff; --ok: #6ee7a8;
