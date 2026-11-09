@@ -422,4 +422,4 @@ Pense na sua resposta.
 
 Parabéns! Você estudou o artigo que define a sua futura profissão. Repita em voz alta: eme pê três ponto com; capacete de pm; Polícia Civil, dirigida por delegado de carreira, polícia judiciária e apuração de infrações penais, exceto as militares.
 
-No próximo módulo de Direito Constitucional, vamos estudar a organização dos Poderes, com o processo legislativo, o Poder Executivo e o Poder Judiciário, além do controle de constitucionalidade e da defesa do Estado, com o estado de defesa, o estado de sítio e a intervenção federal.
+No próximo módulo de Direito Constitucional, vamos completar o edital com a defesa do Estado e das instituições democráticas: o estado de defesa, o estado de sítio, as Forças Armadas e a intervenção federal.
