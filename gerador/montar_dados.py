@@ -19,6 +19,7 @@ CONTEUDO = RAIZ / "conteudo"
 # Organizacao das partes no app: dia da prova e area (para filtros e "ouvir tudo")
 INFO = {
     "00_inicio": ("geral", "Apresentação e como estudar"),
+    "01_investigador_apresentacao_e_plano": ("geral", "Investigador: o cargo, a prova e o plano de estudo diário"),
 }
 
 # Prefixos dos arquivos em conteudo/:
@@ -127,7 +128,7 @@ def main(saida):
         titulo, caps = ler_parte(arquivo)
         if pid in INFO:
             dia, curto = INFO[pid]
-        elif pid[:1] in "123456":  # curso completo (ver prefixos acima)
+        elif pid[:1] in "12345678":  # curso completo (ver prefixos acima; 7 Direito, 8 Medicina Legal e Criminologia)
             dia, curto = "curso", re.sub(r"^Curso, m[óo]dulo \d+\.\s*", "", titulo)
         elif pid[:1] == "9":  # provas anteriores resolvidas
             dia, curto = "prova", curto_prova(pid)

@@ -6,7 +6,7 @@ const CACHE_AUDIO = "concurso-audio-v1";
 const CACHE_DADOS = "concurso-dados-v1";
 const VELOCIDADES = [0.75, 1, 1.25, 1.5, 1.75];
 const GRUPOS = [["geral", "Comece por aqui"], ["prova", "Provas anteriores resolvidas"], ["curso", "Curso completo: aprenda do zero"]];
-const AREAS = { "1": "Língua Portuguesa", "2": "Informática", "3": "Raciocínio Lógico-Matemático", "4": "Direitos Humanos", "5": "Legislação", "6": "Eixo específico: Auxiliar de Necropsia e Biossegurança" };
+const AREAS = { "1": "Língua Portuguesa", "2": "Informática", "3": "Raciocínio Lógico-Matemático", "4": "Direitos Humanos", "5": "Legislação: Lei Orgânica da PCMG e Estatuto", "6": "Técnico Assistente: Auxiliar de Necropsia e Biossegurança", "7": "Direito: Constitucional, Administrativo, Penal, Processual Penal e Legislação Extravagante", "8": "Medicina Legal e Criminologia" };
 const $ = (id) => document.getElementById(id);
 
 let partes = [];
@@ -192,7 +192,7 @@ async function baixarParte(id) {
 // Ordem: apresentacao -> prova anterior (diagnostico) -> curso completo
 // (todas as materias do edital) -> demais partes -> recomeca.
 function sequencia() {
-  const ordem = (p) => p.id === "00_inicio" ? 0 : p.dia === "prova" ? 1 : p.dia === "curso" ? 2 : 3;
+  const ordem = (p) => p.id.startsWith("0") ? 0 : p.dia === "prova" ? 1 : p.dia === "curso" ? 2 : 3;
   return partes.slice().sort((a, b) => ordem(a) - ordem(b) || a.id.localeCompare(b.id)).map((p) => p.id);
 }
 function vizinha(id, passo) {
