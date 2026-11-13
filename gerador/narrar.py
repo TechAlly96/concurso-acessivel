@@ -54,13 +54,17 @@ def sintetizar(piper_py, onnx, texto, wav):
 
 
 def pedacos(fala):
-    """Divide a fala na marca de pensar: o silencio entra entre o pedaco 1 e o 2."""
-    i = fala.find(MARCA_PENSAR)
-    if i < 0:
-        return [fala]
-    fim = i + len(MARCA_PENSAR)
-    resto = fala[fim:].strip()
-    return [fala[:fim].strip()] + ([resto] if resto else [])
+    """Divide a fala em cada marca de pensar: o silencio entra depois de cada pedaco que termina na marca.
+    (Treinos e questoes tem uma marca; as aulas podem ter varias perguntas rapidas.)"""
+    partes, resto = [], fala
+    while True:
+        i = resto.find(MARCA_PENSAR)
+        if i < 0:
+            break
+        fim = i + len(MARCA_PENSAR)
+        partes.append(resto[:fim].strip())
+        resto = resto[fim:].strip()
+    return partes + ([resto] if resto else [])
 
 
 def assinatura_fala(fala):
@@ -70,7 +74,7 @@ def assinatura_fala(fala):
 
 
 def sintetizar_capitulo(piper_py, onnx, fala, wav, tmp):
-    """Narra o capitulo; com a marca de pensar, narra em dois pedacos e poe silencio entre eles."""
+    """Narra o capitulo; com marcas de pensar, narra em pedacos e poe silencio depois de cada marca."""
     partes = pedacos(fala)
     if len(partes) == 1:
         return sintetizar(piper_py, onnx, fala, wav)
@@ -83,7 +87,7 @@ def sintetizar_capitulo(piper_py, onnx, fala, wav, tmp):
         with wave.open(str(w_k)) as w:
             params = params or w.getparams()
             quadros.append(w.readframes(w.getnframes()))
-        if k == 0:
+        if texto.endswith(MARCA_PENSAR):
             quadros.append(b"\x00" * int(params.framerate * PAUSA_PENSAR) * params.sampwidth * params.nchannels)
     with wave.open(str(wav), "wb") as w:
         w.setparams(params)

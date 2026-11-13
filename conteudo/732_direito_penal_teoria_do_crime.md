@@ -1,170 +1,282 @@
 # Curso, módulo 2. Direito Penal: teoria do crime, tentativa, excludentes, culpabilidade e concurso de pessoas
 
-Olá! Este é o módulo mais denso do Direito Penal, e o mais importante para quem vai trabalhar com investigação. Aqui você vai entender o que é crime, em todas as suas partes. Com isso, vai saber dizer se alguém cometeu crime ou não, se o crime foi consumado ou tentado, se houve legítima defesa, se a pessoa pode ser punida, e quem responde quando várias pessoas participam.
+Olá! Hoje você vai aprender a responder uma pergunta que o investigador faz todo dia: **isso que aconteceu é crime ou não é?**
 
-O edital pede o conceito de crime e seus elementos e o concurso de pessoas, com autoria e participação. São temas que aparecem no Penal e na Legislação Extravagante.
+Parece fácil, mas não é. Um homem matou outro. É crime? Depende. Se foi para salvar a própria vida, não é. Se quem matou tinha nove anos, também não é crime do jeito que a lei pune adulto. Hoje você vai entender por quê.
 
-Vou caminhar pelo crime como se fosse uma escada de três degraus. Se o fato não sobe um degrau, não há crime.
+Vou ensinar tudo com histórias simples. Primeiro a história, depois o nome difícil. Assim, quando a prova usar o nome difícil, você já sabe o que ele quer dizer.
 
----
-
-## Aula 1. O conceito de crime e o fato típico
-
-**O conceito analítico.** A teoria adotada pela maioria da doutrina e pela banca é a **tripartida**: crime é um **fato típico, ilícito e culpável**. São os três degraus.
-
-Primeiro degrau: **fato típico**. O fato está descrito na lei como crime?
-
-Segundo degrau: **ilicitude**, também chamada antijuridicidade. O fato é contrário ao direito, ou existe uma causa que o justifica, como a legítima defesa?
-
-Terceiro degrau: **culpabilidade**. O agente pode ser censurado, reprovado pelo que fez? Ou é, por exemplo, uma criança, um doente mental, alguém coagido?
-
-**Os elementos do fato típico.** São quatro: **conduta**, **resultado**, **nexo causal** e **tipicidade**.
-
-**Conduta** é a ação ou omissão humana, **voluntária**, dirigida a um fim. Por isso, não há conduta nos atos reflexos, como o chute involuntário no exame do joelho; na coação física irresistível, quando alguém empurra o seu corpo; e nos estados de inconsciência, como o sonambulismo. Sem conduta, não há crime.
-
-**Resultado** é a modificação no mundo causada pela conduta, como a morte da vítima no homicídio. Há crimes que não exigem resultado naturalístico, como a ameaça, que se consuma com a simples conduta.
-
-**Nexo causal** é a ligação entre a conduta e o resultado. O artigo 13 do Código Penal adota a **teoria da equivalência dos antecedentes**, também chamada **conditio sine qua non**: considera-se **causa** toda ação ou omissão **sem a qual o resultado não teria ocorrido**. Para testar, use o método da eliminação: tire mentalmente a conduta da história; se o resultado desaparece, ela é causa.
-
-**A causa superveniente relativamente independente.** O parágrafo 1º do artigo 13 traz uma exceção que cai muito. Se, depois da conduta, acontece uma causa nova que, **por si só, produz o resultado**, o agente responde só pelo que fez, e não pelo resultado. O exemplo clássico: alguém leva um tiro na perna, e a **ambulância** que o leva ao hospital **capota**, e ele morre no acidente. Quem atirou responde por **tentativa de homicídio** ou lesão, e não pela morte, porque o acidente, por si só, causou a morte. Já se a vítima morre de uma **infecção hospitalar** no ferimento, a jurisprudência costuma entender que o agente responde pela morte, porque a infecção está na linha de desdobramento normal do ferimento.
-
-**Tipicidade** é a adequação do fato ao tipo penal, à descrição da lei. Tem duas faces: a **formal**, que é o encaixe da conduta na letra da lei, e a **material**, que é a lesão relevante ao bem jurídico. Por isso a **insignificância**, que você estudou no módulo 1, exclui a tipicidade material.
-
-**A omissão.** O crime pode ser cometido por omissão. Há os crimes **omissivos próprios**, em que a lei pune o simples não fazer, como a **omissão de socorro**. E os **omissivos impróprios**, em que alguém que tinha o **dever de agir** para evitar o resultado se omite e responde como se tivesse causado o resultado. Pelo parágrafo 2º do artigo 13, tem o dever de agir quem: tem por lei obrigação de **cuidado, proteção ou vigilância**, como os pais e os **policiais**; de outra forma assumiu a responsabilidade de impedir o resultado, como a babá ou o salva-vidas contratado; e quem, com o seu comportamento anterior, **criou o risco** do resultado. Um policial que vê um crime acontecendo e, podendo agir, cruza os braços, pode responder pelo resultado.
+Em alguns momentos eu vou fazer uma pergunta e dizer: "Pense na sua resposta". Vem um silêncio curto. Use esse silêncio para responder em voz alta ou na cabeça. É assim que a matéria gruda.
 
 ---
 
-## Aula 2. Dolo e culpa
+## Aula 1. O crime é uma escada de três degraus
 
-**O dolo.** O artigo 18, inciso 1, diz que o crime é **doloso** quando o agente **quis o resultado** ou **assumiu o risco de produzi-lo**. Daí saem os dois tipos principais.
+Imagine uma escada com três degraus. Para alguém ser punido por um crime, o fato precisa subir os três. Se parar em qualquer degrau, não há crime.
 
-**Dolo direto**: o agente **quer** o resultado. Atira para matar. É a **teoria da vontade**.
+**Primeiro degrau: o que aconteceu está escrito na lei como crime?** Isso se chama **fato típico**. "Típico" vem de "tipo", que é a descrição do crime na lei. Matar alguém está descrito na lei. Comer chocolate não está. Então comer chocolate para no primeiro degrau.
 
-**Dolo eventual**: o agente **não quer** diretamente o resultado, mas **prevê** que ele pode acontecer e **assume o risco**, pensando "se acontecer, tanto faz". É a **teoria do assentimento**. Exemplo: o motorista que dispara em racha numa rua cheia de pedestres, pouco se importando se vai atropelar alguém.
+**Segundo degrau: a pessoa tinha permissão para fazer aquilo?** Isso se chama **ilicitude**. Às vezes a lei permite algo que, em regra, é crime. Por exemplo, se defender de quem tenta te matar. Quem tem permissão para no segundo degrau.
 
-**A culpa.** O artigo 18, inciso 2, diz que o crime é **culposo** quando o agente deu causa ao resultado por **imprudência, negligência ou imperícia**.
+**Terceiro degrau: dá para culpar essa pessoa?** Isso se chama **culpabilidade**. Uma criança de nove anos, ou uma pessoa com uma doença mental grave que não entende o que faz, não pode ser culpada como um adulto saudável. Ela para no terceiro degrau.
 
-**Imprudência** é agir de forma precipitada, perigosa: fazer o que não devia. Dirigir em alta velocidade.
+Então guarde a frase que a prova adora: **crime é fato típico, ilícito e culpável**. Três degraus. Essa forma de ver o crime se chama **teoria tripartida**, porque divide o crime em três partes.
 
-**Negligência** é a omissão de um cuidado necessário: deixar de fazer o que devia. Não fazer a manutenção dos freios do carro.
+**Agora, o primeiro degrau por dentro.** O fato típico tem quatro pecinhas: **conduta, resultado, nexo causal e tipicidade**. Vamos uma por uma, com a mesma história.
 
-**Imperícia** é a falta de aptidão técnica no exercício de arte, profissão ou ofício. O médico que erra uma cirurgia simples por não saber a técnica.
+Pedro empurra Carlos de propósito. Carlos cai e quebra o braço.
 
-**Uma regra importante:** o crime culposo só é punido **quando a lei prevê expressamente** a forma culposa. É o parágrafo único do artigo 18. Por isso existe homicídio culposo e lesão culposa, mas **não existe furto culposo** nem dano culposo no Código Penal.
+**Conduta** é o que Pedro fez: o empurrão. Mas tem um detalhe muito importante: a conduta precisa ser **voluntária**, ou seja, comandada pela vontade da pessoa.
 
-**Culpa consciente e dolo eventual.** Esta diferença cai muito. Nos dois casos, o agente **prevê** o resultado. A diferença está na atitude.
+Pense agora em três situações. Primeira: o médico bate no seu joelho e a sua perna chuta sozinha. Segunda: um homem forte agarra o seu braço e usa a sua mão para bater em alguém. Terceira: você está dormindo, é sonâmbulo, e derruba alguém da escada.
 
-Na **culpa consciente**, o agente prevê, mas **acredita sinceramente que vai evitar**: "eu sou um ótimo motorista, não vou bater". Ele não aceita o resultado.
+Pergunta: em alguma dessas três situações existe conduta? Pense na sua resposta.
 
-No **dolo eventual**, o agente prevê e **aceita**: "se bater, bateu". Ele assume o risco.
+Não existe em nenhuma. O chute do joelho é **ato reflexo**. O braço puxado à força é **coação física irresistível**: seu corpo foi usado como um objeto. E o sonâmbulo está em **estado de inconsciência**. Nas três, a vontade não comandou o corpo. Sem vontade, não há conduta. Sem conduta, nem se sobe o primeiro degrau.
 
-Um macete: culpa consciente diz "**não vai acontecer**"; dolo eventual diz "**dane-se**".
+**Resultado** é a mudança que a conduta causou no mundo: o braço quebrado de Carlos. Mas atenção: alguns crimes não precisam de resultado. A ameaça, por exemplo, já é crime no momento em que a pessoa ameaça, mesmo que nada mais aconteça.
 
-**O crime preterdoloso.** É o crime com **dolo no antecedente e culpa no consequente**: o agente quer um resultado menor e, por culpa, provoca um maior. O exemplo é a **lesão corporal seguida de morte**, que você viu na Medicina Legal: queria só machucar, mas a vítima morreu.
+**Nexo causal** é a ligação entre a conduta e o resultado. Foi o empurrão de Pedro que quebrou o braço? Para saber, a lei manda fazer um teste simples, que está no artigo 13 do Código Penal. Apague o empurrão da história, na sua imaginação. Se, sem o empurrão, o braço não teria quebrado, então o empurrão é a causa.
 
----
+Esse teste tem nomes difíceis, que a prova usa: **teoria da equivalência dos antecedentes**, ou, em latim, **conditio sine qua non**, que quer dizer "condição sem a qual não". Causa é tudo aquilo sem o qual o resultado não teria acontecido.
 
-## Aula 3. Consumação, tentativa e as figuras próximas
+**Agora uma pegadinha que cai muito.** Pedro dá um tiro na perna de Carlos. Carlos entra na ambulância. No caminho, a ambulância capota, e Carlos morre no acidente. Pedro responde pela morte?
 
-**O caminho do crime**, o chamado **iter criminis**, tem quatro etapas: **cogitação**, que é pensar no crime; **preparação**, como comprar a arma; **execução**, que é começar a praticar o crime; e **consumação**. Em regra, a cogitação e a preparação **não são punidas**. A punição começa na **execução**. Exceção: quando a própria preparação é um crime autônomo, como a associação criminosa.
+Pense na sua resposta.
 
-**A consumação.** Pelo artigo 14, inciso 1, o crime é consumado quando nele se reúnem **todos os elementos** da sua definição legal.
+Não responde. Ele responde pelo tiro, como **tentativa de homicídio** ou lesão corporal, dependendo do que queria. O acidente da ambulância é uma coisa nova, que apareceu depois e, **sozinha**, causou a morte. O nome disso é **causa superveniente relativamente independente que, por si só, produz o resultado**. Está no parágrafo 1º do artigo 13. "Superveniente" quer dizer que veio depois.
 
-**A tentativa.** Pelo artigo 14, inciso 2, o crime é tentado quando, **iniciada a execução**, não se consuma **por circunstâncias alheias à vontade do agente**. A palavra-chave é **alheias**: o agente queria continuar, mas foi impedido. A pena da tentativa é a do crime consumado **diminuída de um a dois terços**. Quanto mais perto de consumar, menor a diminuição.
+Mas, se Carlos morre de **infecção no ferimento do tiro**, é diferente. A infecção nasceu do próprio tiro, é um desdobramento normal dele. Nesse caso, os tribunais costumam dizer que Pedro responde pela morte.
 
-Não admitem tentativa, entre outros: os crimes **culposos**, porque ninguém tenta fazer algo sem querer; os **preterdolosos**; as **contravenções penais**, por expressa previsão legal; e os crimes **omissivos próprios**.
+Para guardar: **a ambulância capotou, a culpa da morte não é do atirador; o ferimento infeccionou, a culpa é dele.**
 
-**A desistência voluntária e o arrependimento eficaz**, do artigo 15. Aqui, o crime não se consuma **por vontade do próprio agente**. A diferença para a tentativa é exatamente essa: na tentativa, a causa é alheia; aqui, é a vontade dele.
+**Tipicidade** é a última pecinha: o fato se encaixa na descrição da lei, como uma peça de quebra-cabeça. Esse encaixe tem duas faces. A **formal** é o encaixe nas palavras da lei. A **material** é saber se o fato machucou de verdade aquilo que a lei protege. Furtar um chiclete encaixa nas palavras do furto, mas não causa um dano relevante. Por isso o **princípio da insignificância**, que você viu no módulo 1, tira a **tipicidade material**.
 
-**Desistência voluntária**: o agente **para no meio** da execução, podendo continuar. Ele tem uma arma com seis balas, dá um tiro, erra, e desiste de atirar de novo.
+**Por último, a omissão: crime por não fazer nada.** Às vezes, ficar parado é crime.
 
-**Arrependimento eficaz**: o agente **termina** a execução, mas **age para impedir** o resultado, e consegue. Ele dá veneno à vítima e, arrependido, dá o antídoto, salvando-a.
+Existe a **omissão própria**: a própria lei diz que não fazer é crime. Exemplo: ver uma pessoa ferida na estrada e não ajudar nem chamar socorro. É a **omissão de socorro**.
 
-Nos dois casos, o agente **só responde pelos atos já praticados**. No exemplo do tiro, se acertou de raspão, responde por lesão corporal, e não por tentativa de homicídio. A frase de Frank, um penalista alemão, ajuda: na **tentativa**, o agente diz "**quero, mas não posso**"; na **desistência**, diz "**posso, mas não quero**".
+E existe a **omissão imprópria**, que é mais grave. É quando a pessoa tinha o **dever de impedir** o resultado e não impediu. Aí ela responde como se tivesse causado o resultado. A mãe que deixa o bebê sem comida até morrer responde por homicídio, e não só por omissão de socorro.
 
-**O arrependimento posterior**, do artigo 16. Atenção, é outra coisa. O crime **já se consumou**. Nos crimes cometidos **sem violência ou grave ameaça à pessoa**, se o agente **repara o dano ou restitui a coisa**, por ato voluntário, **até o recebimento da denúncia ou da queixa**, a pena é **reduzida de um a dois terços**. Exemplo: furtou, e devolveu o objeto antes de a denúncia ser recebida. Não vale para o roubo, que tem violência ou grave ameaça.
+Quem tem esse dever de agir? O parágrafo 2º do artigo 13 diz que são três tipos de pessoa. Primeiro, quem tem **dever pela lei** de cuidar, proteger ou vigiar, como os pais e **os policiais**. Segundo, quem **assumiu** essa responsabilidade, como a babá ou o salva-vidas contratado. Terceiro, quem **criou o risco**, como quem empurra alguém que não sabe nadar na piscina.
 
-**O crime impossível**, do artigo 17. Não se pune a tentativa quando, por **ineficácia absoluta do meio** ou por **absoluta impropriedade do objeto**, é **impossível** consumar o crime. Ineficácia absoluta do meio: tentar matar alguém com uma arma de brinquedo. Impropriedade absoluta do objeto: atirar para matar uma pessoa que já estava morta. Atenção à palavra **absoluta**: se a ineficácia for apenas relativa, como uma arma de verdade que falhou, há tentativa punível.
+Isso importa muito para você. Um policial que vê um crime acontecendo, pode agir, e cruza os braços, pode responder pelo resultado do crime.
 
-**O flagrante preparado.** A **Súmula 145** do Supremo diz que **não há crime quando a preparação do flagrante pela polícia torna impossível a sua consumação**. É o caso do policial que **induz** alguém a cometer o crime e, ao mesmo tempo, já tomou todas as providências para que o crime não se consume. Isso é crime impossível. É muito diferente do **flagrante esperado**, em que a polícia, sabendo que um crime vai acontecer, apenas **aguarda** e age no momento certo, sem induzir ninguém. O flagrante esperado é **válido**.
-
----
-
-## Aula 4. A ilicitude e as suas excludentes
-
-Segundo degrau. Um fato típico, em regra, é ilícito. Mas há situações em que a lei **autoriza** a conduta. O artigo 23 diz que **não há crime** quando o agente pratica o fato em **estado de necessidade**, em **legítima defesa**, em **estrito cumprimento de dever legal** ou no **exercício regular de direito**.
-
-**Estado de necessidade**, artigo 24. Age em estado de necessidade quem pratica o fato para **salvar de perigo atual**, que **não provocou por sua vontade**, nem podia de outro modo evitar, **direito próprio ou alheio**, cujo sacrifício, nas circunstâncias, não era razoável exigir. Exemplo: arrombar a porta de uma casa para salvar uma criança de um incêndio. Ou o náufrago que toma a boia do outro.
-
-Atenção ao parágrafo 1º: **não pode alegar estado de necessidade quem tinha o dever legal de enfrentar o perigo**. O bombeiro e o policial não podem fugir do perigo alegando estado de necessidade.
-
-**Legítima defesa**, artigo 25. Entende-se em legítima defesa quem, **usando moderadamente dos meios necessários**, repele **injusta agressão, atual ou iminente**, a direito **seu ou de outrem**.
-
-Repare nos requisitos: a agressão deve ser **injusta**, ou seja, contrária ao direito; **atual**, acontecendo agora, ou **iminente**, prestes a acontecer; os meios devem ser **necessários**, os menos lesivos disponíveis; e o uso deve ser **moderado**. Não há legítima defesa contra agressão **passada**: isso é vingança.
-
-O parágrafo único, incluído pelo Pacote Anticrime, considera também em legítima defesa o **agente de segurança pública** que repele agressão ou risco de agressão a **vítima mantida refém** durante a prática de crimes.
-
-**A diferença entre estado de necessidade e legítima defesa.** No estado de necessidade, há um **perigo**, que pode vir da natureza, de um animal, de uma situação; e o agente sacrifica um bem para salvar outro. Na legítima defesa, há uma **agressão humana injusta**, e o agente reage contra o agressor.
-
-**Estrito cumprimento do dever legal.** Quem cumpre um dever imposto pela lei não comete crime. O investigador que cumpre um **mandado de prisão** e algema o preso, dentro dos limites legais, não comete constrangimento ilegal. A palavra **estrito** é essencial: o que passar do dever não está protegido.
-
-**Exercício regular de direito.** Quem exerce um direito previsto no ordenamento, dentro dos limites, não comete crime. Exemplos: a **prisão em flagrante feita por qualquer pessoa do povo**, que o Código de Processo Penal autoriza; as intervenções médicas consentidas; e a violência nos esportes, dentro das regras.
-
-**O excesso punível.** O parágrafo único do artigo 23 diz que o agente, em qualquer das excludentes, **responderá pelo excesso doloso ou culposo**. Quem se defende de um soco com um tiro, ou continua batendo depois que o agressor já caiu desacordado, responde pelo excesso.
+**Resumo da aula 1.** Crime é uma escada: típico, ilícito, culpável. O primeiro degrau tem quatro pecinhas: conduta, resultado, nexo causal e tipicidade. Sem vontade, não há conduta. Causa é aquilo sem o qual o resultado não existiria. E quem tem o dever de agir e não age responde pelo resultado.
 
 ---
 
-## Aula 5. A culpabilidade
+## Aula 2. Quis ou não quis: dolo e culpa
 
-Terceiro degrau. O fato é típico e ilícito, mas o agente pode ser censurado? A culpabilidade tem três elementos.
+Agora vamos olhar para dentro da cabeça de quem fez o fato. Ele **quis** o resultado, ou foi **sem querer**? Essa é a diferença entre **dolo** e **culpa**.
 
-**Primeiro: imputabilidade.** É a capacidade de entender o caráter ilícito do fato e de se determinar de acordo com esse entendimento. São **inimputáveis**:
+**Dolo é querer.** O artigo 18, inciso 1, diz que o crime é doloso quando a pessoa **quis o resultado** ou **assumiu o risco** de produzi-lo. Repare: são duas formas de dolo.
 
-os **menores de 18 anos**, pelo artigo 27: ficam sujeitos ao Estatuto da Criança e do Adolescente, que prevê medidas socioeducativas. É um critério **biológico**: basta a idade;
+**Dolo direto**: a pessoa quer o resultado. Mira e atira para matar. Simples.
 
-e os que, por **doença mental** ou **desenvolvimento mental incompleto ou retardado**, eram, ao tempo da ação, **inteiramente incapazes** de entender o caráter ilícito do fato ou de se determinar de acordo com esse entendimento, pelo artigo 26. Eles recebem **medida de segurança**, e não pena. Se a capacidade era apenas **reduzida**, o agente é **semi-imputável**, e a pena pode ser reduzida de um a dois terços.
+**Dolo eventual**: a pessoa não está mirando o resultado, mas sabe que ele pode acontecer e pensa: **"se acontecer, tanto faz"**. Exemplo: o motorista que faz racha a cento e cinquenta por hora numa rua cheia de gente, sem se importar se vai atropelar alguém. Ele não saiu de casa para matar, mas aceitou o risco. Isso é dolo, e ele responde como quem quis.
 
-**A emoção, a paixão e a embriaguez.** Pelo artigo 28, **não excluem a imputabilidade**: a **emoção** ou a **paixão**; e a **embriaguez voluntária ou culposa**, pelo álcool ou substância de efeitos análogos. Quem bebe porque quis, ou sem cuidado, e comete crime, responde normalmente. Só a embriaguez **completa**, proveniente de **caso fortuito ou força maior**, que tornava o agente inteiramente incapaz, **isenta de pena**. Exemplo: alguém que foi drogado sem saber.
+**Culpa é sem querer, mas por descuido.** O artigo 18, inciso 2, diz que o crime é culposo quando a pessoa causou o resultado por **imprudência, negligência ou imperícia**. Três palavras. Vamos com um carro para entender as três.
 
-**Segundo: potencial consciência da ilicitude.** O agente precisa ter, ao menos, a **possibilidade** de saber que o que fazia era errado. Aqui entra o **erro de proibição**, do artigo 21: o desconhecimento da lei é inescusável, ninguém pode alegar que não conhecia a lei. Mas o erro sobre a **ilicitude do fato**, se **inevitável**, **isenta de pena**; se **evitável**, **diminui a pena** de um sexto a um terço. Exemplo de erro de proibição inevitável: uma pessoa de comunidade isolada que acredita, por costume local, que determinada conduta é permitida.
+**Imprudência** é fazer algo perigoso que não devia: dirigir rápido demais na chuva. É uma **ação** arriscada.
 
-**Não confunda com o erro de tipo**, do artigo 20. No erro de tipo, a pessoa se engana sobre **um fato**, um elemento do crime: pega uma mala idêntica à sua no aeroporto, achando que é dela. Ela não sabia que a coisa era alheia. O erro de tipo **exclui o dolo**. Se o erro for evitável, o agente pode responder por **culpa**, se o crime admitir forma culposa. No exemplo da mala, como não há furto culposo, não há crime.
+**Negligência** é deixar de fazer um cuidado que devia: não trocar os freios gastos do carro. É uma **falta de cuidado**, uma omissão.
 
-Para guardar: **erro de tipo** é errar sobre **o que está fazendo**; **erro de proibição** é saber o que faz, mas achar que **é permitido**.
+**Imperícia** é não saber fazer direito algo da sua profissão: o motorista profissional de ônibus que não sabe fazer uma curva básica. É **falta de técnica no trabalho**.
 
-**Terceiro: exigibilidade de conduta diversa.** Só se pune quem podia agir de outra forma. O artigo 22 traz duas hipóteses em que isso não é exigível.
+Macete: **imprudente faz demais, negligente faz de menos, imperito não sabe fazer.**
 
-**Coação moral irresistível**: alguém é ameaçado de forma grave e irresistível para praticar o crime, por exemplo, o gerente do banco cuja família está refém. Só é punível o **autor da coação**.
+**Uma regra que derruba muita gente.** O crime culposo só existe quando a lei escreve que existe. É o parágrafo único do artigo 18. Existe homicídio culposo? Sim, a lei prevê. Existe lesão corporal culposa? Sim. E furto culposo?
 
-**Obediência hierárquica**: o subordinado cumpre ordem **não manifestamente ilegal** de superior hierárquico, no serviço público. Só é punível o **autor da ordem**. Atenção: se a ordem for **manifestamente ilegal**, como "torture o preso para ele confessar", o subordinado **também responde**. Ordem absurda não se cumpre.
+Pense na sua resposta.
 
-E repare: a coação **física** irresistível exclui a **conduta**, primeiro degrau; a coação **moral** irresistível exclui a **culpabilidade**, terceiro degrau.
+Não existe. Ninguém responde por furtar "sem querer". O mesmo vale para o dano: quebrar sem querer o vaso de alguém não é crime, é só um problema para pagar.
+
+**Agora a diferença mais cobrada: culpa consciente e dolo eventual.** Nos dois casos, a pessoa **enxerga** que algo ruim pode acontecer. A diferença está no que ela pensa depois.
+
+Na **culpa consciente**, ela pensa: **"não vai acontecer, eu sou bom nisso"**. Ela acredita de verdade que vai evitar. Exemplo: o motorista experiente que ultrapassa num lugar arriscado, certo de que dá tempo.
+
+No **dolo eventual**, ela pensa: **"se acontecer, aconteceu"**. Ela aceita o resultado.
+
+Guarde as duas falas: culpa consciente diz **"não vai acontecer"**; dolo eventual diz **"dane-se"**.
+
+**Por último, o crime preterdoloso.** É uma mistura: a pessoa quis fazer algo menor, mas aconteceu algo maior, sem querer. Dolo no começo, culpa no final. O exemplo clássico é a **lesão corporal seguida de morte**. João dá um soco em Paulo só para machucar. Paulo cai, bate a cabeça no meio-fio e morre. João quis a lesão, mas não quis a morte.
+
+**Resumo da aula 2.** Dolo é querer, ou aceitar o risco. Culpa é causar sem querer, por imprudência, negligência ou imperícia. Crime culposo só existe se a lei disser. Culpa consciente acha que não vai acontecer; dolo eventual não se importa se acontecer. E preterdoloso é dolo no começo e culpa no final.
 
 ---
 
-## Aula 6. O concurso de pessoas
+## Aula 3. O caminho do crime: consumação, tentativa e desistência
 
-Quando duas ou mais pessoas participam de um crime, há **concurso de pessoas**. O artigo 29 diz: "quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas, **na medida de sua culpabilidade**."
+Todo crime percorre um caminho, como uma estrada com quatro paradas. Esse caminho tem um nome em latim: **iter criminis**, o caminho do crime.
 
-**A teoria adotada.** O Código adota, como regra, a **teoria monista**, ou unitária: **todos respondem pelo mesmo crime**, mas cada um com a pena de acordo com a sua culpabilidade.
+**Primeira parada: cogitação.** A pessoa pensa no crime. "Vou roubar aquela loja."
 
-**Os requisitos.** Para haver concurso de pessoas, a doutrina exige: **pluralidade de agentes e de condutas**; **relevância causal** de cada conduta; **liame subjetivo**, ou seja, as pessoas sabem que estão contribuindo para o mesmo crime, mesmo sem acordo prévio; e **identidade de infração**, o mesmo crime para todos.
+**Segunda parada: preparação.** Ela compra a arma, estuda o horário da loja.
 
-**Autoria e participação.** A teoria mais aceita para separar autor de partícipe é a do **domínio do fato**.
+**Terceira parada: execução.** Ela entra na loja e anuncia o assalto.
 
-**Autor** é quem tem o **domínio do fato**: quem pratica o verbo do tipo, ou quem decide se, como e quando o crime acontece, mesmo sem executá-lo com as próprias mãos. O chefe da quadrilha que planeja e manda executar é autor. **Coautores** são os que dividem a execução, cada um com a sua tarefa.
+**Quarta parada: consumação.** Ela sai com o dinheiro.
 
-**Autor mediato** é quem usa outra pessoa como **instrumento**, uma pessoa que não responde pelo crime, como uma criança ou alguém enganado. Quem manda um menor de 10 anos pegar uma carteira é autor mediato do furto.
+Pergunta: a partir de qual parada a lei começa a punir? Pense na sua resposta.
 
-**Partícipe** é quem **contribui** para o crime **sem ter o domínio do fato**. A participação pode ser **moral**, quando a pessoa **induz**, fazendo nascer a ideia, ou **instiga**, reforçando uma ideia que já existia; ou **material**, quando **auxilia**, por exemplo, emprestando a arma ou dando carona na fuga combinada.
+A partir da **execução**. Pensar não é crime. Preparar, em regra, também não. Só existe uma exceção: quando a própria preparação já é um crime separado na lei, como se juntar em grupo para cometer crimes, que é a **associação criminosa**.
 
-**A participação de menor importância.** Pelo parágrafo 1º do artigo 29, se a participação for de menor importância, a pena pode ser **diminuída de um sexto a um terço**.
+**Consumação.** O artigo 14, inciso 1, diz que o crime está consumado quando aconteceu **tudo** o que a lei descreve.
 
-**A cooperação dolosamente distinta.** Pelo parágrafo 2º, se algum dos concorrentes **quis participar de crime menos grave**, ser-lhe-á aplicada a **pena deste**; essa pena será aumentada até a metade, na hipótese de ter sido **previsível** o resultado mais grave. Exemplo: dois combinam um furto numa casa que achavam vazia; um deles, sem o outro saber, encontra o morador e o mata. Quem só quis o furto responde pelo furto, com pena aumentada se a morte era previsível.
+**Tentativa.** O artigo 14, inciso 2, diz que há tentativa quando a pessoa **começou a execução**, mas o crime não se completou **por circunstâncias alheias à sua vontade**. "Alheias" quer dizer: de fora, que não dependiam dela. Ela queria terminar, mas alguém ou alguma coisa impediu. A polícia chegou. A vítima fugiu. A arma travou.
 
-**A comunicabilidade das circunstâncias**, artigo 30. As circunstâncias e condições de **caráter pessoal não se comunicam**, salvo quando **elementares do crime**. Exemplo clássico: ser **funcionário público** é elementar do peculato. Se um particular ajuda um funcionário público a desviar dinheiro da repartição, sabendo dessa condição, **os dois respondem por peculato**, porque a condição de funcionário, sendo elementar, se comunica ao particular.
+A pena da tentativa é a do crime completo **diminuída de um a dois terços**. Quanto mais perto de completar, menor o desconto.
 
-**A autoria colateral.** Duas pessoas, **sem saber uma da outra**, atiram ao mesmo tempo na mesma vítima. Como não há liame subjetivo, **não há concurso de pessoas**: cada um responde pelo que fez. Se se descobrir qual tiro matou, esse autor responde por homicídio consumado, e o outro por tentativa.
+Alguns crimes **não admitem tentativa**. Os mais cobrados são quatro. Os **culposos**, porque ninguém tenta fazer algo sem querer. Os **preterdolosos**, pelo mesmo motivo, já que o resultado maior veio sem querer. As **contravenções penais**, porque a lei diz que a tentativa de contravenção não é punida. E os **omissivos próprios**: ou a pessoa ajudou, ou não ajudou.
+
+**Agora, a parte mais bonita da aula: o criminoso que muda de ideia.** Está no artigo 15, e são duas figuras.
+
+**Desistência voluntária.** Marcos tem uma arma com seis balas. Atira uma vez em Rui, erra, e decide sozinho: "não vou mais atirar". Ele podia continuar, mas parou. Ele **desistiu no meio do caminho**.
+
+**Arrependimento eficaz.** Marcos coloca veneno no café de Rui. Rui toma. Marcos se arrepende e dá o antídoto a tempo, e Rui se salva. Marcos **terminou** o que tinha planejado, mas depois **correu para impedir** o resultado, e conseguiu.
+
+Nas duas situações, a recompensa é a mesma: a pessoa **só responde pelo que já fez**, e não pela tentativa do crime que queria. Se o tiro de Marcos pegou de raspão, ele responde por lesão corporal, e não por tentativa de homicídio.
+
+Um professor alemão chamado Frank criou uma frase perfeita para separar tentativa de desistência. Na **tentativa**, o criminoso diz: **"eu quero, mas não posso"**. Na **desistência**, ele diz: **"eu posso, mas não quero"**.
+
+**Cuidado com o nome parecido: arrependimento posterior.** É outra coisa, do artigo 16. Aqui o crime **já aconteceu**. A pessoa furtou um celular. Depois, por vontade própria, devolve o celular ou paga o prejuízo. Se fizer isso **até o juiz receber a denúncia**, e se o crime foi **sem violência ou grave ameaça**, a pena diminui de **um a dois terços**. Vale para o furto. Não vale para o roubo, porque o roubo tem violência ou ameaça.
+
+Para não confundir: o arrependimento **eficaz** acontece **antes** do resultado, e impede o resultado. O arrependimento **posterior** acontece **depois** do crime, e só diminui a pena.
+
+**Crime impossível**, do artigo 17. Imagine alguém que tenta matar com uma arma de brinquedo. Ou que atira em uma pessoa que já estava morta. Não tinha como dar certo. O crime era **impossível**, e por isso não se pune nem a tentativa.
+
+A lei usa dois nomes. **Ineficácia absoluta do meio**: o instrumento nunca funcionaria, como a arma de brinquedo. **Impropriedade absoluta do objeto**: não havia o que atingir, como o morto.
+
+Mas preste atenção na palavra **absoluta**. Se a arma era de verdade e só falhou naquela hora, o meio não era absolutamente ineficaz. Aí há tentativa, e ela é punida.
+
+**Uma regra muito importante para quem vai ser policial: o flagrante preparado.** A **Súmula 145** do Supremo diz: **não há crime quando a preparação do flagrante pela polícia torna impossível a sua consumação**.
+
+Veja o exemplo. Um policial, disfarçado, convence um rapaz a vender drogas para ele, insiste, e já deixa a equipe pronta para prender na hora. O policial **plantou a ideia** do crime e, ao mesmo tempo, garantiu que ele não daria certo. Isso é **flagrante preparado**, e vira crime impossível.
+
+Agora compare com o **flagrante esperado**. A polícia recebe a informação de que um assalto vai acontecer no banco às duas da tarde. Os policiais apenas **esperam**, escondidos, e prendem quando o assalto começa. Ninguém induziu ninguém. Esse flagrante é **válido**.
+
+Guarde assim: **preparado, a polícia provoca, e não vale; esperado, a polícia só aguarda, e vale.**
+
+**Resumo da aula 3.** O caminho do crime é cogitação, preparação, execução e consumação, e a punição começa na execução. Tentativa é quando algo de fora impede. Desistência e arrependimento eficaz são quando a própria pessoa impede, e ela só responde pelo que já fez. Arrependimento posterior é depois do crime, sem violência, até a denúncia, e reduz de um a dois terços. Crime impossível não se pune. E flagrante preparado não vale; o esperado vale.
+
+---
+
+## Aula 4. O segundo degrau: quando a lei dá permissão
+
+Lembra da escada? Agora estamos no segundo degrau, a **ilicitude**. A pergunta é: a pessoa tinha permissão da lei para fazer aquilo?
+
+O artigo 23 do Código Penal lista quatro permissões. Quem age nelas **não comete crime**. Elas se chamam **excludentes de ilicitude**. Uma frase para lembrar as quatro: **"Necessidade, Defesa, Dever e Direito"**.
+
+**Primeira: estado de necessidade**, artigo 24. Uma casa está pegando fogo, e há uma criança lá dentro. Você arromba a porta do vizinho para salvá-la. Arrombar porta, em regra, é crime de dano. Mas aqui havia um **perigo atual**, que você **não causou**, e não havia outro jeito. Então a lei permite. Você sacrificou uma coisa, a porta, para salvar outra mais importante, a vida.
+
+O exemplo clássico dos livros é o do náufrago: dois náufragos e uma só boia. Quem pega a boia para se salvar age em estado de necessidade.
+
+**Atenção:** o parágrafo 1º diz que **não pode alegar estado de necessidade quem tem o dever legal de enfrentar o perigo**. O bombeiro não pode fugir do incêndio dizendo que estava em perigo. **O policial também não**. Enfrentar o perigo faz parte do trabalho.
+
+**Segunda: legítima defesa**, artigo 25. Um homem parte para cima de você com uma faca. Você se defende e o derruba. Isso é legítima defesa.
+
+A lei exige quatro coisas, e a prova costuma tirar uma delas para criar a pegadinha. Primeira: a agressão precisa ser **injusta**, contra o direito. Segunda: precisa ser **atual**, acontecendo agora, ou **iminente**, prestes a acontecer. Terceira: você usa os **meios necessários**, ou seja, o que tinha à mão, preferindo o menos perigoso. Quarta: usa esses meios com **moderação**, só até parar a agressão.
+
+E pode ser para defender **você** ou **outra pessoa**.
+
+Pergunta: alguém te deu um soco ontem. Hoje você encontra essa pessoa e devolve o soco. É legítima defesa? Pense na sua resposta.
+
+Não é. A agressão já tinha passado. Revidar agressão passada não é defesa: é **vingança**, e é crime.
+
+Uma novidade do Pacote Anticrime, que caiu em provas: o parágrafo único do artigo 25 diz que também está em legítima defesa o **agente de segurança pública** que repele agressão, ou risco de agressão, a uma **vítima mantida refém** durante um crime. É o caso do atirador de elite que salva o refém.
+
+**Como não confundir necessidade com defesa?** No **estado de necessidade**, há um **perigo**: fogo, enchente, um cachorro bravo, um barco afundando. Na **legítima defesa**, há uma **pessoa atacando** você injustamente. Perigo, necessidade. Pessoa atacando, defesa.
+
+**Terceira: estrito cumprimento do dever legal.** O investigador tem um mandado de prisão. Ele prende o procurado e coloca as algemas. Prender alguém à força, em regra, seria constrangimento ilegal. Mas ele está cumprindo um **dever que a lei impõe**. Não há crime.
+
+A palavra mais importante aqui é **estrito**. Quer dizer: só o necessário. Se, depois de algemar, o policial dá um tapa no preso, isso já passou do dever, e não está protegido.
+
+**Quarta: exercício regular de direito.** Aqui a pessoa não tem um dever, mas tem um **direito**. Exemplos: **qualquer pessoa do povo pode prender quem está em flagrante**, o Código de Processo Penal permite. O cirurgião que corta o paciente numa operação autorizada. O lutador de boxe que bate no adversário, dentro das regras do esporte.
+
+**Por último, o excesso.** O parágrafo único do artigo 23 diz que, em todas as quatro permissões, quem **exagera responde pelo exagero**, seja de propósito, seja por descuido. Alguém te dá um tapa, e você responde com um tiro. Ou o agressor já caiu desmaiado, e você continua batendo. A permissão acabou ali; o resto é crime.
+
+**Resumo da aula 4.** Quatro permissões: estado de necessidade, legítima defesa, estrito cumprimento de dever legal e exercício regular de direito. Necessidade é perigo; defesa é agressão humana injusta, atual ou iminente. Policial e bombeiro não podem alegar necessidade para fugir do perigo. Agressão passada não dá legítima defesa. E quem exagera responde pelo excesso.
+
+---
+
+## Aula 5. O terceiro degrau: dá para culpar essa pessoa?
+
+Chegamos ao último degrau, a **culpabilidade**. O fato está na lei, e não havia permissão. Agora a pergunta é: **essa pessoa merece ser culpada?**
+
+Para isso, a lei olha três coisas. Uma frase para lembrar: **"capaz, sabia e podia"**. A pessoa era **capaz** de entender? Ela **sabia**, ou podia saber, que era errado? E ela **podia** agir de outro jeito?
+
+**Primeira coisa: era capaz? É a imputabilidade.** Imputável é quem consegue entender que aquilo é errado e consegue se controlar.
+
+Quem **não é** imputável? Dois grupos.
+
+Os **menores de 18 anos**, pelo artigo 27. Não importa se o menor é esperto ou maduro: basta a idade. Por isso se diz que é um **critério biológico**. Eles não recebem pena do Código Penal; respondem pelo Estatuto da Criança e do Adolescente, com **medidas socioeducativas**.
+
+E as pessoas que, por **doença mental** ou **desenvolvimento mental incompleto ou retardado**, eram, no momento do fato, **totalmente incapazes** de entender ou de se controlar, pelo artigo 26. Elas não recebem pena: recebem **medida de segurança**, que é um tratamento.
+
+E se a pessoa tinha só **parte** da capacidade? Entendia um pouco, se controlava um pouco? Ela é **semi-imputável**, e a pena pode ser **reduzida de um a dois terços**.
+
+Pergunta: um homem tomou uma garrafa de cachaça porque quis, ficou completamente bêbado e agrediu alguém. Ele escapa da pena por estar bêbado? Pense na sua resposta.
+
+Não escapa. O artigo 28 diz que **a emoção, a paixão e a embriaguez voluntária ou culposa não tiram a responsabilidade**. Quem bebeu porque quis, ou bebeu sem cuidado, responde normalmente. Ciúme, raiva e paixão também não livram ninguém.
+
+Só uma embriaguez livra da pena: a **completa**, que veio de **caso fortuito ou força maior**. Quer dizer: a pessoa ficou bêbada ou drogada **sem querer e sem culpa**. Exemplo: colocaram uma droga na bebida dela, escondido.
+
+**Segunda coisa: sabia que era errado? É a potencial consciência da ilicitude.** A pessoa precisava ter, pelo menos, a **chance** de saber que aquilo era proibido.
+
+Aqui aparece o **erro de proibição**, do artigo 21. Primeiro, uma regra: ninguém pode dizer "eu não conhecia a lei" para escapar. Desconhecer a lei não desculpa. Mas existe uma situação diferente: a pessoa **sabe o que está fazendo**, mas **acredita sinceramente que é permitido**. Por exemplo, alguém de uma comunidade muito isolada, onde um costume antigo sempre foi aceito, e que nunca teve como saber que aquilo é crime.
+
+Se esse erro era **impossível de evitar**, a pessoa fica **isenta de pena**. Se dava para evitar, com um pouco de cuidado, a pena **diminui de um sexto a um terço**.
+
+**Não confunda com o erro de tipo**, do artigo 20. No erro de tipo, a pessoa se engana sobre **o que está fazendo**. No aeroporto, você pega uma mala igualzinha à sua e leva para casa. Você não sabia que a mala era de outra pessoa. Você não quis furtar nada. O erro de tipo **tira o dolo**. Se o erro dava para evitar, a pessoa pode responder por culpa, mas só se o crime tiver forma culposa. Como não existe furto culposo, quem levou a mala errada não comete crime.
+
+A frase para separar os dois: **no erro de tipo, a pessoa não sabe o que faz; no erro de proibição, ela sabe o que faz, mas acha que pode.**
+
+**Terceira coisa: podia agir de outro jeito? É a exigibilidade de conduta diversa.** A lei só culpa quem tinha escolha. O artigo 22 traz duas situações em que a pessoa não tinha.
+
+**Coação moral irresistível.** Bandidos sequestram a família do gerente do banco e dizem: "abra o cofre para nós, ou matamos sua família". O gerente abre. Ele não tinha escolha de verdade. Quem responde pelo crime é só **quem fez a ameaça**.
+
+**Obediência hierárquica.** Um servidor público recebe uma ordem do chefe, que **não parece claramente ilegal**, e cumpre. Se depois se descobre que era ilegal, quem responde é só **quem deu a ordem**.
+
+Mas atenção máxima: se a ordem for **claramente ilegal**, como "bata no preso até ele confessar", quem obedece **também responde**. Ordem absurda não se cumpre. Nenhum chefe pode mandar você torturar.
+
+**Uma comparação que a banca adora.** Lembra da coação física, da aula 1, quando alguém usa o seu braço como objeto? Ela tira a **conduta**, lá no primeiro degrau. Já a coação **moral**, a ameaça, tira a **culpabilidade**, no terceiro degrau. Física, primeiro degrau. Moral, terceiro degrau.
+
+**Resumo da aula 5.** Culpabilidade é "capaz, sabia e podia". Menores de 18 anos e doentes mentais totalmente incapazes são inimputáveis; o parcialmente capaz tem a pena reduzida de um a dois terços. Bebida voluntária, raiva e paixão não livram ninguém. Erro de proibição é achar que pode; erro de tipo é não saber o que faz. Coação moral irresistível e ordem não claramente ilegal livram quem obedeceu; a ordem claramente ilegal, não.
+
+---
+
+## Aula 6. Quando várias pessoas cometem o crime juntas
+
+Até agora falamos de uma pessoa sozinha. Mas, no seu trabalho, você vai ver muito crime feito em grupo: um planeja, outro executa, outro vigia, outro dá a fuga. Isso se chama **concurso de pessoas**. "Concurso", aqui, quer dizer "juntos", e não prova.
+
+**A regra geral**, do artigo 29: quem, de qualquer forma, ajuda a cometer o crime **responde pelo mesmo crime**, mas cada um com a pena que merece, **na medida da sua culpabilidade**. Todos no mesmo crime, cada um com a sua pena. O nome dessa regra é **teoria monista**, que quer dizer "um só crime".
+
+**Quando existe concurso de pessoas?** São quatro requisitos. Primeiro: **mais de uma pessoa**, cada uma fazendo alguma coisa. Segundo: o que cada uma fez precisa **ter ajudado** de verdade. Terceiro: elas precisam **saber que estão juntas** no mesmo crime, mesmo que não tenham combinado antes. Esse é o **liame subjetivo**, a ligação entre as cabeças. Quarto: o **crime é o mesmo** para todos.
+
+**Quem é autor e quem é partícipe?** Para separar, a teoria mais usada é a do **domínio do fato**. Pense num filme. Quem tem o **controle** da cena?
+
+**Autor** é quem tem o controle: quem decide se o crime vai acontecer, como e quando. Pode ser quem executa com as próprias mãos, ou o chefe da quadrilha que planeja tudo e manda os outros fazerem. Os dois são autores. Quando várias pessoas dividem a execução, cada uma com sua tarefa, elas são **coautoras**.
+
+**Autor mediato** é quem usa outra pessoa como **instrumento**, uma pessoa que não pode ser punida. Um adulto manda uma criança de oito anos pegar a carteira de alguém. A criança é só a mão. O adulto é o autor mediato do furto.
+
+**Partícipe** é quem **ajuda sem ter o controle**. A participação pode ser de dois jeitos.
+
+**Moral**, com palavras: **induzir** é plantar a ideia na cabeça de alguém que nem pensava no crime; **instigar** é reforçar uma ideia que a pessoa já tinha. "Induzir" planta; "instigar" rega.
+
+**Material**, com coisas: **auxiliar**, como emprestar a arma ou esperar no carro para a fuga combinada.
+
+**Três regras finais que caem muito.**
+
+**Participação de menor importância**, artigo 29, parágrafo 1º: quem ajudou pouco pode ter a pena **diminuída de um sexto a um terço**.
+
+**Cooperação dolosamente distinta**, artigo 29, parágrafo 2º. Ana e Bia combinam furtar uma casa que achavam vazia. Lá dentro, Bia encontra o morador e o mata, sem Ana saber. Ana queria só um furto. Então Ana responde **pelo furto**. E, se a morte era **previsível**, a pena do furto de Ana aumenta **até a metade**. Cada um responde pelo crime que quis.
+
+**Comunicação das circunstâncias**, artigo 30. As características pessoais de cada um, em regra, **não passam** para o outro. Mas passam quando fazem parte do próprio crime, as chamadas **elementares**. Exemplo: o peculato é o crime do **funcionário público** que desvia dinheiro público. Ser funcionário público faz parte desse crime. Se um particular ajuda o funcionário a desviar, **sabendo** que ele é funcionário, **os dois respondem por peculato**.
+
+**Por último, a autoria colateral.** Dois homens querem matar a mesma pessoa, mas **um não sabe do outro**. Por acaso, os dois atiram ao mesmo tempo. Como eles não sabiam um do outro, falta a ligação entre as cabeças. Então **não há concurso de pessoas**: cada um responde pelo que fez. Se a perícia descobre qual tiro matou, esse responde por homicídio consumado, e o outro, por tentativa.
+
+**Resumo da aula 6.** Todos que ajudam respondem pelo mesmo crime, cada um na medida da sua culpa. Autor tem o controle do crime; partícipe ajuda sem controle, induzindo, instigando ou auxiliando. Quem ajudou pouco tem a pena reduzida de um sexto a um terço. Quem quis um crime menor responde pelo menor. Ser funcionário público passa para o comparsa no peculato. E sem ligação entre as cabeças, não há concurso.
 
 ---
 
