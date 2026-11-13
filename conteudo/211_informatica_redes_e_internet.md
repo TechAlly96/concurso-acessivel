@@ -274,9 +274,9 @@ Letra E: O D H C P é o equipamento que liga a rede local à internet.
 
 Pense na sua resposta.
 
-**A explicação.** O switch aprende os endereços M A C e entrega cada pacote só ao destinatário. O hub repete para todas as portas. O roteador interliga redes diferentes. O repetidor só regenera o sinal. E o D H C P não é equipamento, é um protocolo que distribui endereços.
+**Resposta: letra B: O switch encaminha os dados somente para a porta do destinatário, aprendendo os endereços M A C dos dispositivos conectados.**
 
-**Resposta: letra B.**
+**Por quê.** O switch aprende os endereços M A C e entrega cada pacote só ao destinatário. O hub repete para todas as portas. O roteador interliga redes diferentes. O repetidor só regenera o sinal. E o D H C P não é equipamento, é um protocolo que distribui endereços.
 
 ---
 
@@ -296,9 +296,9 @@ Letra E: S N M P.
 
 Pense na sua resposta.
 
-**A explicação.** O I M A P mantém as mensagens no servidor e sincroniza entre os aparelhos. O P O P 3 baixa as mensagens e, em regra, as apaga do servidor. O S M T P é de envio, o F T P transfere arquivos e o S N M P gerencia redes.
+**Resposta: letra C: I M A P.**
 
-**Resposta: letra C.**
+**Por quê.** O I M A P mantém as mensagens no servidor e sincroniza entre os aparelhos. O P O P 3 baixa as mensagens e, em regra, as apaga do servidor. O S M T P é de envio, o F T P transfere arquivos e o S N M P gerencia redes.
 
 ---
 
@@ -318,9 +318,9 @@ Letra E: Criptografa todos os dados enviados, tornando qualquer site seguro.
 
 Pense na sua resposta.
 
-**A explicação.** A janela anônima só evita que o histórico, os cookies e os dados de formulários fiquem salvos no próprio computador. Ela não esconde a navegação do provedor nem da empresa, não apaga os downloads, não impede logins e não criptografa nada além do que o site já faz.
+**Resposta: letra C: não salva, no computador, o histórico de navegação e os cookies depois que a janela é fechada.**
 
-**Resposta: letra C.**
+**Por quê.** A janela anônima só evita que o histórico, os cookies e os dados de formulários fiquem salvos no próprio computador. Ela não esconde a navegação do provedor nem da empresa, não apaga os downloads, não impede logins e não criptografa nada além do que o site já faz.
 
 ---
 
@@ -340,9 +340,9 @@ Letra E: o acesso aos registros depende apenas de requisição do Ministério P�
 
 Pense na sua resposta.
 
-**A explicação.** O provedor de conexão guarda os registros de conexão por um ano, em sigilo, e o acesso ao conteúdo depende de ordem judicial. Seis meses é o prazo dos registros de aplicação. O provedor de conexão é proibido de guardar registros de aplicação. E a neutralidade da rede não tem relação com a guarda de registros.
+**Resposta: letra A: os registros de conexão devem ser mantidos pelo provedor de conexão pelo prazo de um ano, e o acesso ao seu conteúdo depende de ordem judicial.**
 
-**Resposta: letra A.**
+**Por quê.** O provedor de conexão guarda os registros de conexão por um ano, em sigilo, e o acesso ao conteúdo depende de ordem judicial. Seis meses é o prazo dos registros de aplicação. O provedor de conexão é proibido de guardar registros de aplicação. E a neutralidade da rede não tem relação com a guarda de registros.
 
 ---
 

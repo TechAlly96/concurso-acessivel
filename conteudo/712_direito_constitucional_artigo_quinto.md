@@ -232,9 +232,9 @@ Letra E: não podem entrar em nenhum momento, porque o morador recusou a entrada
 
 Pense na sua resposta.
 
-**A explicação.** Com mandado, a entrada sem consentimento só pode ocorrer durante o dia. Às 23 horas, sem flagrante, desastre ou socorro, é preciso aguardar o amanhecer. A recusa do morador não impede o cumprimento do mandado durante o dia, por isso a E erra.
+**Resposta: letra C: não podem entrar naquele momento, devendo aguardar o período diurno para cumprir o mandado.**
 
-**Resposta: letra C.**
+**Por quê.** Com mandado, a entrada sem consentimento só pode ocorrer durante o dia. Às 23 horas, sem flagrante, desastre ou socorro, é preciso aguardar o amanhecer. A recusa do morador não impede o cumprimento do mandado durante o dia, por isso a E erra.
 
 ---
 
@@ -254,9 +254,9 @@ Letra E: todos os crimes hediondos e equiparados.
 
 Pense na sua resposta.
 
-**A explicação.** Imprescritíveis são só dois: o racismo e a ação de grupos armados. Tortura, tráfico, terrorismo e hediondos são inafiançáveis e insuscetíveis de graça ou anistia, mas prescrevem.
+**Resposta: letra C: a prática do racismo e a ação de grupos armados contra a ordem constitucional e o Estado Democrático.**
 
-**Resposta: letra C.**
+**Por quê.** Imprescritíveis são só dois: o racismo e a ação de grupos armados. Tortura, tráfico, terrorismo e hediondos são inafiançáveis e insuscetíveis de graça ou anistia, mas prescrevem.
 
 ---
 
@@ -276,9 +276,9 @@ Letra E: O preso só tem direito à assistência de advogado após o recebimento
 
 Pense na sua resposta.
 
-**A explicação.** O inciso 64 garante a identificação dos responsáveis pela prisão e pelo interrogatório. A comunicação é imediata, e não em 48 horas. O silêncio não pode prejudicar o preso. A prisão do depositário infiel é ilícita, pela Súmula Vinculante 25. E a assistência de advogado é garantida desde a prisão.
+**Resposta: letra B: O preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial.**
 
-**Resposta: letra B.**
+**Por quê.** O inciso 64 garante a identificação dos responsáveis pela prisão e pelo interrogatório. A comunicação é imediata, e não em 48 horas. O silêncio não pode prejudicar o preso. A prisão do depositário infiel é ilícita, pela Súmula Vinculante 25. E a assistência de advogado é garantida desde a prisão.
 
 ---
 
@@ -298,9 +298,9 @@ Letra E: mandado de segurança coletivo.
 
 Pense na sua resposta.
 
-**A explicação.** O habeas data serve para conhecer e retificar informações sobre a pessoa do impetrante em bancos de dados governamentais ou de caráter público. É gratuito. Se a informação errada estivesse gerando uma ameaça concreta de prisão, o habeas corpus também poderia ser usado para proteger a liberdade, mas para corrigir os dados o remédio próprio é o habeas data.
+**Resposta: letra C: habeas data.**
 
-**Resposta: letra C.**
+**Por quê.** O habeas data serve para conhecer e retificar informações sobre a pessoa do impetrante em bancos de dados governamentais ou de caráter público. É gratuito. Se a informação errada estivesse gerando uma ameaça concreta de prisão, o habeas corpus também poderia ser usado para proteger a liberdade, mas para corrigir os dados o remédio próprio é o habeas data.
 
 ---
 

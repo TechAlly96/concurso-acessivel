@@ -226,9 +226,9 @@ Letra E: A medida de segurança pode durar por toda a vida, sem limite.
 
 Pense na sua resposta.
 
-**A explicação.** O artigo 26 adota o critério biopsicológico: causa e efeito, avaliados no momento do crime. O diagnóstico sozinho não basta. Emoção e paixão não excluem a imputabilidade. O semi-imputável é condenado, com pena reduzida, ou recebe medida de segurança. E a medida de segurança não pode ultrapassar a pena máxima do crime, pela Súmula 527.
+**Resposta: letra C: para a doença mental, o Código Penal adota o critério biopsicológico, exigindo a doença e a incapacidade, inteira, de entender ou de se determinar, ao tempo da ação ou omissão.**
 
-**Resposta: letra C.**
+**Por quê.** O artigo 26 adota o critério biopsicológico: causa e efeito, avaliados no momento do crime. O diagnóstico sozinho não basta. Emoção e paixão não excluem a imputabilidade. O semi-imputável é condenado, com pena reduzida, ou recebe medida de segurança. E a medida de segurança não pode ultrapassar a pena máxima do crime, pela Súmula 527.
 
 ---
 
@@ -248,9 +248,9 @@ Letra E: confabulação.
 
 Pense na sua resposta.
 
-**A explicação.** Dissimular é esconder uma doença que existe. Simular é fingir uma doença que não existe; supersimular é exagerar uma doença real; e metassimular é continuar fingindo os sintomas de uma doença já curada. Confabulação é o preenchimento de falhas de memória com histórias inventadas, típico da síndrome de Korsakoff.
+**Resposta: letra B: dissimulação.**
 
-**Resposta: letra B.**
+**Por quê.** Dissimular é esconder uma doença que existe. Simular é fingir uma doença que não existe; supersimular é exagerar uma doença real; e metassimular é continuar fingindo os sintomas de uma doença já curada. Confabulação é o preenchimento de falhas de memória com histórias inventadas, típico da síndrome de Korsakoff.
 
 ---
 
@@ -270,9 +270,9 @@ Letra E: deve ser considerada portadora de doença mental, por embriaguez patol�
 
 Pense na sua resposta.
 
-**A explicação.** A pessoa não sabia que estava ingerindo álcool: é embriaguez acidental, por caso fortuito. Como foi completa e retirou inteiramente a capacidade, isenta de pena, pelo artigo 28. A embriaguez voluntária e a culposa não isentam; a preordenada agrava; e a patológica é tratada como doença mental.
+**Resposta: letra C: é isenta de pena, pois se trata de embriaguez acidental completa, proveniente de caso fortuito.**
 
-**Resposta: letra C.**
+**Por quê.** A pessoa não sabia que estava ingerindo álcool: é embriaguez acidental, por caso fortuito. Como foi completa e retirou inteiramente a capacidade, isenta de pena, pelo artigo 28. A embriaguez voluntária e a culposa não isentam; a preordenada agrava; e a patológica é tratada como doença mental.
 
 ---
 
@@ -292,9 +292,9 @@ Letra E: Para a condenação por tráfico de drogas, basta o laudo de constataç
 
 Pense na sua resposta.
 
-**A explicação.** A Lei Brasileira de Inclusão garante a plena capacidade civil da pessoa com deficiência, e a curatela é excepcional e restrita aos atos patrimoniais e negociais. A cocaína é estimulante, e o álcool é depressor. Os ébrios habituais são relativamente incapazes. E a condenação exige o laudo definitivo; o de constatação basta para o flagrante e a denúncia.
+**Resposta: letra C: pela Lei Brasileira de Inclusão, a deficiência não afeta a plena capacidade civil da pessoa, e a curatela é medida excepcional, restrita aos atos patrimoniais e negociais.**
 
-**Resposta: letra C.**
+**Por quê.** A Lei Brasileira de Inclusão garante a plena capacidade civil da pessoa com deficiência, e a curatela é excepcional e restrita aos atos patrimoniais e negociais. A cocaína é estimulante, e o álcool é depressor. Os ébrios habituais são relativamente incapazes. E a condenação exige o laudo definitivo; o de constatação basta para o flagrante e a denúncia.
 
 ---
 

@@ -250,9 +250,9 @@ Letra E: dez dias.
 
 Pense na sua resposta.
 
-**A explicação.** Pela remição, cada três dias de trabalho reduzem um dia de pena. Noventa dividido por três dá trinta dias.
+**Resposta: letra C: trinta dias.**
 
-**Resposta: letra C.**
+**Por quê.** Pela remição, cada três dias de trabalho reduzem um dia de pena. Noventa dividido por três dá trinta dias.
 
 ---
 
@@ -272,9 +272,9 @@ Letra E: nenhuma, pois o preso em regime fechado não pode sair do estabelecimen
 
 Pense na sua resposta.
 
-**A explicação.** A permissão de saída, do artigo 120, vale para os presos em regime fechado e semiaberto e para os provisórios, mediante escolta, em caso de falecimento ou doença grave de familiar próximo, ou de tratamento médico, e é concedida pelo diretor. A saída temporária é só para o semiaberto, sem vigilância, e hoje apenas para estudar.
+**Resposta: letra B: a permissão de saída, mediante escolta, concedida pelo diretor do estabelecimento.**
 
-**Resposta: letra B.**
+**Por quê.** A permissão de saída, do artigo 120, vale para os presos em regime fechado e semiaberto e para os provisórios, mediante escolta, em caso de falecimento ou doença grave de familiar próximo, ou de tratamento médico, e é concedida pelo diretor. A saída temporária é só para o semiaberto, sem vigilância, e hoje apenas para estudar.
 
 ---
 
@@ -294,9 +294,9 @@ Letra E: Os crimes tributários só podem ser cometidos por funcionário públic
 
 Pense na sua resposta.
 
-**A explicação.** A letra B reproduz a Súmula Vinculante 24. O pagamento integral do tributo extingue a punibilidade a qualquer tempo. Os crimes tributários prescrevem normalmente. E, salvo os crimes funcionais do artigo 3º, podem ser cometidos por qualquer contribuinte.
+**Resposta: letra B: não se tipifica crime material contra a ordem tributária, previsto no artigo 1º, incisos 1 a 4, da Lei 8137, antes do lançamento definitivo do tributo.**
 
-**Resposta: letra B.**
+**Por quê.** A letra B reproduz a Súmula Vinculante 24. O pagamento integral do tributo extingue a punibilidade a qualquer tempo. Os crimes tributários prescrevem normalmente. E, salvo os crimes funcionais do artigo 3º, podem ser cometidos por qualquer contribuinte.
 
 ---
 
@@ -316,9 +316,9 @@ Letra E: pode investigar de ofício, substituindo a atuação do Ministério Pú
 
 Pense na sua resposta.
 
-**A explicação.** O Supremo considerou o juiz das garantias constitucional e obrigatório, responsável pelo controle da legalidade da investigação, com competência até o oferecimento da denúncia. Ele não se aplica ao Júri, à violência doméstica, às infrações de menor potencial ofensivo e aos processos originários dos tribunais. A ideia é justamente separá-lo do juiz que julga. E a estrutura acusatória proíbe a iniciativa do juiz na investigação.
+**Resposta: letra C: é responsável pelo controle da legalidade da investigação criminal e pela salvaguarda dos direitos individuais, e a sua competência termina com o oferecimento da denúncia.**
 
-**Resposta: letra C.**
+**Por quê.** O Supremo considerou o juiz das garantias constitucional e obrigatório, responsável pelo controle da legalidade da investigação, com competência até o oferecimento da denúncia. Ele não se aplica ao Júri, à violência doméstica, às infrações de menor potencial ofensivo e aos processos originários dos tribunais. A ideia é justamente separá-lo do juiz que julga. E a estrutura acusatória proíbe a iniciativa do juiz na investigação.
 
 ---
 

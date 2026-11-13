@@ -278,9 +278,9 @@ Letra E: ao colega e à corregedoria, apenas.
 
 Pense na sua resposta.
 
-**A explicação.** "Responder a todos" envia a resposta ao remetente e aos destinatários dos campos Para e C C. Quem estava em C C O não aparece para os demais destinatários, e por isso não recebe a resposta.
+**Resposta: letra B: ao investigador e ao colega, mas não à corregedoria.**
 
-**Resposta: letra B.**
+**Por quê.** "Responder a todos" envia a resposta ao remetente e aos destinatários dos campos Para e C C. Quem estava em C C O não aparece para os demais destinatários, e por isso não recebe a resposta.
 
 ---
 
@@ -300,9 +300,9 @@ Letra E: o alinhamento à direita.
 
 Pense na sua resposta.
 
-**A explicação.** No LibreOffice, os atalhos seguem as iniciais em inglês: Control mais B, de "bold", aplica o negrito. No Word em português, Control mais B é salvar, e o negrito é Control mais N.
+**Resposta: letra B: a formatação negrito.**
 
-**Resposta: letra B.**
+**Por quê.** No LibreOffice, os atalhos seguem as iniciais em inglês: Control mais B, de "bold", aplica o negrito. No Word em português, Control mais B é salvar, e o negrito é Control mais N.
 
 ---
 
@@ -322,9 +322,9 @@ Letra E: igual, B2, vezes, cifrão B cifrão 1.
 
 Pense na sua resposta.
 
-**A explicação.** A referência A1 é relativa: ao copiar uma linha para baixo, vira A2. A referência cifrão B cifrão 1 é absoluta, travada pelo cifrão, e não muda. Por isso, a fórmula em C2 é igual, A2, vezes, cifrão B cifrão 1.
+**Resposta: letra C: igual, A2, vezes, cifrão B cifrão 1.**
 
-**Resposta: letra C.**
+**Por quê.** A referência A1 é relativa: ao copiar uma linha para baixo, vira A2. A referência cifrão B cifrão 1 é absoluta, travada pelo cifrão, e não muda. Por isso, a fórmula em C2 é igual, A2, vezes, cifrão B cifrão 1.
 
 ---
 
@@ -344,9 +344,9 @@ Letra E: O modo de classificação de slides serve apenas para apresentar em tel
 
 Pense na sua resposta.
 
-**A explicação.** O slide mestre define o padrão visual de toda a apresentação. A transição acontece entre slides; o efeito sobre um objeto é a animação. F5 inicia do primeiro slide, e Shift mais F5, do slide atual. O formato padrão do Impress é o odp. E a classificação de slides serve para ver e reorganizar todos os slides em miniatura.
+**Resposta: letra C: O slide mestre define o padrão visual da apresentação, e alterá-lo altera todos os slides baseados nele.**
 
-**Resposta: letra C.**
+**Por quê.** O slide mestre define o padrão visual de toda a apresentação. A transição acontece entre slides; o efeito sobre um objeto é a animação. F5 inicia do primeiro slide, e Shift mais F5, do slide atual. O formato padrão do Impress é o odp. E a classificação de slides serve para ver e reorganizar todos os slides em miniatura.
 
 ---
 

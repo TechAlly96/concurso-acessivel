@@ -25,6 +25,8 @@ VOZ = "pt_BR-faber-medium"
 PAUSA_S = 1.2          # silencio entre questoes
 SILENCIO_FRASE = "0.35"  # silencio entre frases (fala mais pausada, para aprender)
 VERSAO = "v1"          # mude para forcar nova narracao de tudo
+PAUSA_PENSAR = 6.0     # silencio real depois de "Pense na sua resposta." (tempo para lembrar a resposta)
+MARCA_PENSAR = "Pense na sua resposta."
 
 
 def ler(caminho, padrao=None):
@@ -51,14 +53,54 @@ def sintetizar(piper_py, onnx, texto, wav):
     return False
 
 
+def pedacos(fala):
+    """Divide a fala na marca de pensar: o silencio entra entre o pedaco 1 e o 2."""
+    i = fala.find(MARCA_PENSAR)
+    if i < 0:
+        return [fala]
+    fim = i + len(MARCA_PENSAR)
+    resto = fala[fim:].strip()
+    return [fala[:fim].strip()] + ([resto] if resto else [])
+
+
+def assinatura_fala(fala):
+    """O que identifica o audio de um capitulo: texto, voz e, se houver, a pausa para pensar."""
+    extra = f"|pensar{PAUSA_PENSAR}" if MARCA_PENSAR in fala else ""
+    return VERSAO + VOZ + SILENCIO_FRASE + extra + "\n" + fala
+
+
+def sintetizar_capitulo(piper_py, onnx, fala, wav, tmp):
+    """Narra o capitulo; com a marca de pensar, narra em dois pedacos e poe silencio entre eles."""
+    partes = pedacos(fala)
+    if len(partes) == 1:
+        return sintetizar(piper_py, onnx, fala, wav)
+    quadros, params = [], None
+    for k, texto in enumerate(partes):
+        w_k = Path(tmp) / f"pedaco{k}.wav"
+        w_k.unlink(missing_ok=True)
+        if not sintetizar(piper_py, onnx, texto, w_k):
+            return False
+        with wave.open(str(w_k)) as w:
+            params = params or w.getparams()
+            quadros.append(w.readframes(w.getnframes()))
+        if k == 0:
+            quadros.append(b"\x00" * int(params.framerate * PAUSA_PENSAR) * params.sampwidth * params.nchannels)
+    with wave.open(str(wav), "wb") as w:
+        w.setparams(params)
+        w.writeframes(b"".join(quadros))
+    return True
+
+
 def main(parte):
     pasta = Path(os.environ.get("DADOS", "dados")) / parte
     conteudo = ler(pasta / "conteudo.json")
     if not conteudo:
         raise SystemExit(f"{parte}: conteudo.json nao encontrado (rode montar_dados.py antes)")
     caps = conteudo["capitulos"]
-    assinatura = hashlib.sha1((VERSAO + VOZ + SILENCIO_FRASE + "\n" + "\n".join(c["fala"] for c in caps))
-                              .encode("utf-8")).hexdigest()[:12]
+    base = VERSAO + VOZ + SILENCIO_FRASE + "\n" + "\n".join(c["fala"] for c in caps)
+    if any(MARCA_PENSAR in c["fala"] for c in caps):
+        base += f"|pensar{PAUSA_PENSAR}"
+    assinatura = hashlib.sha1(base.encode("utf-8")).hexdigest()[:12]
     arquivo = f"audio-{assinatura}.ogg"
     if "--so-texto" in sys.argv:
         total = sum(len(c["fala"]) for c in caps)
@@ -88,13 +130,13 @@ def main(parte):
     marcas, quadros, params, t, falhas, novas, usados = [], [], None, 0.0, 0, 0, set()
     with tempfile.TemporaryDirectory() as tmp:
         for n, c in enumerate(caps):
-            chave = hashlib.sha1((VERSAO + VOZ + SILENCIO_FRASE + "\n" + c["fala"]).encode("utf-8")).hexdigest()[:16]
+            chave = hashlib.sha1(assinatura_fala(c["fala"]).encode("utf-8")).hexdigest()[:16]
             item_ogg = cache / f"{chave}.ogg"
             usados.add(item_ogg.name)
             if not item_ogg.exists():
                 novo_wav = Path(tmp) / "novo.wav"
                 novo_wav.unlink(missing_ok=True)
-                if not sintetizar(piper_py, onnx, c["fala"], novo_wav):
+                if not sintetizar_capitulo(piper_py, onnx, c["fala"], novo_wav, tmp):
                     falhas += 1
                     continue
                 subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(novo_wav), "-c:a", "libopus",

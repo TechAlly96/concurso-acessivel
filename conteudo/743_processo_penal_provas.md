@@ -290,9 +290,9 @@ Letra E: Cabe ao réu provar a sua inocência.
 
 Pense na sua resposta.
 
-**A explicação.** A letra C reproduz o artigo 155. Ninguém é condenado só com os elementos do inquérito, salvo as três exceções. A confissão não tem valor superior e deve ser confrontada com as outras provas. O juiz não fica preso ao laudo. E cabe à acusação provar a culpa, não ao réu provar a inocência.
+**Resposta: letra C: O juiz forma a sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar a decisão exclusivamente nos elementos informativos da investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas.**
 
-**Resposta: letra C.**
+**Por quê.** A letra C reproduz o artigo 155. Ninguém é condenado só com os elementos do inquérito, salvo as três exceções. A confissão não tem valor superior e deve ser confrontada com as outras provas. O juiz não fica preso ao laudo. E cabe à acusação provar a culpa, não ao réu provar a inocência.
 
 ---
 
@@ -312,9 +312,9 @@ Letra E: são prova ilícita, mas podem fundamentar a condenação se o réu con
 
 Pense na sua resposta.
 
-**A explicação.** Pela teoria dos frutos da árvore envenenada, adotada no artigo 157, a prova derivada de uma prova ilícita também é ilícita. O mandado não "limpa" a origem ilegal. A exceção é a fonte independente, além do nexo atenuado e da descoberta inevitável. A interceptação sempre exige ordem judicial.
+**Resposta: letra B: são prova ilícita por derivação, salvo se ficar demonstrado que poderiam ser obtidas por uma fonte independente da interceptação ilegal.**
 
-**Resposta: letra B.**
+**Por quê.** Pela teoria dos frutos da árvore envenenada, adotada no artigo 157, a prova derivada de uma prova ilícita também é ilícita. O mandado não "limpa" a origem ilegal. A exceção é a fonte independente, além do nexo atenuado e da descoberta inevitável. A interceptação sempre exige ordem judicial.
 
 ---
 
@@ -334,9 +334,9 @@ Letra E: é obrigatório em todos os crimes patrimoniais.
 
 Pense na sua resposta.
 
-**A explicação.** Desde 2020, o Superior Tribunal de Justiça entende que as formalidades do artigo 226 são obrigatórias, inclusive para o reconhecimento por fotografia. A vítima deve primeiro descrever o autor, e o suspeito deve ser apresentado ao lado de outras pessoas semelhantes. A foto única induz a memória e torna o reconhecimento inválido. E o reconhecimento fotográfico, sozinho, não serve para condenar.
+**Resposta: letra C: é inválido, pois o procedimento do artigo 226 é de observância obrigatória, inclusive no reconhecimento fotográfico, que exige a descrição prévia e a apresentação do suspeito ao lado de outras pessoas semelhantes.**
 
-**Resposta: letra C.**
+**Por quê.** Desde 2020, o Superior Tribunal de Justiça entende que as formalidades do artigo 226 são obrigatórias, inclusive para o reconhecimento por fotografia. A vítima deve primeiro descrever o autor, e o suspeito deve ser apresentado ao lado de outras pessoas semelhantes. A foto única induz a memória e torna o reconhecimento inválido. E o reconhecimento fotográfico, sozinho, não serve para condenar.
 
 ---
 
@@ -356,9 +356,9 @@ Letra E: A busca em mulher deve ser feita sempre por policial do sexo masculino.
 
 Pense na sua resposta.
 
-**A explicação.** A letra C reproduz o artigo 244. A busca domiciliar por mandado só pode ser cumprida durante o dia. O quarto de hotel é considerado casa. O nervosismo, sozinho, não é fundada suspeita, que exige elementos objetivos. E a busca em mulher é feita por outra mulher, se não atrasar a diligência.
+**Resposta: letra C: A busca pessoal independe de mandado no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos que constituam corpo de delito.**
 
-**Resposta: letra C.**
+**Por quê.** A letra C reproduz o artigo 244. A busca domiciliar por mandado só pode ser cumprida durante o dia. O quarto de hotel é considerado casa. O nervosismo, sozinho, não é fundada suspeita, que exige elementos objetivos. E a busca em mulher é feita por outra mulher, se não atrasar a diligência.
 
 ---
 

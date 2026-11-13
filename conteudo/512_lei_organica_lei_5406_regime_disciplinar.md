@@ -444,9 +444,9 @@ Letra E: qualquer Delegado de Polícia de carreira.
 
 Pense na sua resposta.
 
-**A explicação.** Pelo artigo 161, o Governador do Estado é competente em qualquer caso. As demais autoridades só aplicam penas até certos limites de suspensão: o Secretário até noventa dias, o órgão disciplinar até sessenta, o Corregedor-Geral até trinta, os Delegados Regionais até dez e os demais Delegados até cinco.
+**Resposta: letra C: o Governador do Estado.**
 
-**Resposta: letra C.**
+**Por quê.** Pelo artigo 161, o Governador do Estado é competente em qualquer caso. As demais autoridades só aplicam penas até certos limites de suspensão: o Secretário até noventa dias, o órgão disciplinar até sessenta, o Corregedor-Geral até trinta, os Delegados Regionais até dez e os demais Delegados até cinco.
 
 ---
 
@@ -466,9 +466,9 @@ Letra E: sessenta dias interpolados, durante um ano.
 
 Pense na sua resposta.
 
-**A explicação.** Pelo parágrafo 1º do artigo 158, o abandono de cargo é a falta por mais de trinta dias consecutivos. Quarenta e cinco dias aparece em outra hipótese de demissão: a ausência sem causa justificável por mais de quarenta e cinco dias, interpoladamente, durante um ano. Trinta seguidos, quarenta e cinco salteados.
+**Resposta: letra B: trinta dias consecutivos.**
 
-**Resposta: letra B.**
+**Por quê.** Pelo parágrafo 1º do artigo 158, o abandono de cargo é a falta por mais de trinta dias consecutivos. Quarenta e cinco dias aparece em outra hipótese de demissão: a ausência sem causa justificável por mais de quarenta e cinco dias, interpoladamente, durante um ano. Trinta seguidos, quarenta e cinco salteados.
 
 ---
 
@@ -488,9 +488,9 @@ Letra E: Parentes do indiciado até o terceiro grau podem integrar a comissão, 
 
 Pense na sua resposta.
 
-**A explicação.** Pelo artigo 174, a comissão permanente tem três servidores estáveis e é presidida por Delegado de carreira. O processo deve ser concluído em sessenta dias da citação, com prorrogações. Não pode ser sobrestado para aguardar a ação penal. A defesa pode indicar até dez testemunhas. E parentes até o terceiro grau estão impedidos.
+**Resposta: letra B: A comissão processante permanente é composta por três servidores estáveis, presidida por Delegado de Polícia de carreira.**
 
-**Resposta: letra B.**
+**Por quê.** Pelo artigo 174, a comissão permanente tem três servidores estáveis e é presidida por Delegado de carreira. O processo deve ser concluído em sessenta dias da citação, com prorrogações. Não pode ser sobrestado para aguardar a ação penal. A defesa pode indicar até dez testemunhas. E parentes até o terceiro grau estão impedidos.
 
 ---
 
@@ -510,9 +510,9 @@ Letra E: faltar ao serviço por dez dias interpolados no ano.
 
 Pense na sua resposta.
 
-**A explicação.** Receber ou solicitar propinas em razão de missão policial está no artigo 159, que trata da demissão a bem do serviço público. Chegar atrasado e permutar serviço sem permissão são transgressões do artigo 150, punidas com penas menores. A ineficiência só leva à demissão quando a readaptação for impossível. E faltas interpoladas só demitem acima de quarenta e cinco dias no ano.
+**Resposta: letra C: receber ou solicitar propinas, comissões, presentes ou vantagens de qualquer espécie em razão de cumprimento de missão policial.**
 
-**Resposta: letra C.**
+**Por quê.** Receber ou solicitar propinas em razão de missão policial está no artigo 159, que trata da demissão a bem do serviço público. Chegar atrasado e permutar serviço sem permissão são transgressões do artigo 150, punidas com penas menores. A ineficiência só leva à demissão quando a readaptação for impossível. E faltas interpoladas só demitem acima de quarenta e cinco dias no ano.
 
 ---
 

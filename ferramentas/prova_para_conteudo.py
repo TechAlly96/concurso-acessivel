@@ -113,13 +113,17 @@ def questao_md(q, textos):
     for letra in sorted(q["alternativas"]):
         alt = para_voz(q["alternativas"][letra]).rstrip(".")
         linhas += [f"Letra {letra}: {alt}.", ""]
-    linhas += ["Pense na sua resposta antes de ouvir a explicação.", ""]
-    linhas += [f"**A explicação.** {para_voz(sem_resposta_final(q['explicacao']))}", ""]
+    linhas += ["Pense na sua resposta.", ""]
+    explicacao = para_voz(sem_resposta_final(q['explicacao']))
     if q["gabarito"] == "anulada":
-        linhas += ["**Questão anulada pela banca.** Na prova, ela valeu ponto para todos os candidatos.", "", "---", ""]
+        linhas += ["**Questão anulada pela banca.** Na prova, ela valeu ponto para todos os candidatos.", ""]
+        linhas += [f"**Por quê.** {explicacao}", "", "---", ""]
         return linhas
     certa = para_voz(q["alternativas"][q["gabarito"]]).rstrip(".")
-    linhas += [f"**Resposta: letra {q['gabarito']}, {certa[:1].lower() + certa[1:]}.**", "", "---", ""]
+    # Resposta logo depois da pausa (confirmacao imediata), com o texto da alternativa certa,
+    # e so depois o porque: e a ordem que melhor grava na memoria quem estuda ouvindo.
+    linhas += [f"**Resposta: letra {q['gabarito']}, {certa[:1].lower() + certa[1:]}.**", ""]
+    linhas += [f"**Por quê.** {explicacao}", "", "---", ""]
     return linhas
 
 
@@ -144,9 +148,9 @@ def main(banco):
         cab = [f"# Prova {para_voz(c['orgao'].split(' (')[0])}, {para_voz(c['cargo'])}, {ano}. {nome}", ""]
         cab += [f"Esta é a prova real aplicada em {ano} pela banca {c['banca']} para o cargo de "
                 f"{para_voz(c['cargo'])}. Os gabaritos são os oficiais definitivos.", ""]
-        cab += ["Em cada questão, eu leio o enunciado e as quatro alternativas. Depois faço uma pausa "
-                "para você pensar, e só então explico e dou a resposta. Se quiser treinar de verdade, "
-                "pause o áudio na pausa, escolha a sua letra e depois continue.", "", "---", ""]
+        cab += ["Em cada questão, eu leio o enunciado e as alternativas. Depois vem uma pausa de alguns "
+                "segundos para você escolher a sua letra. Em seguida, eu digo a resposta certa e explico "
+                "o porquê. Se precisar de mais tempo para pensar, pause o áudio na pausa.", "", "---", ""]
         if d.get("introducao"):
             cab[-2:-2] = ["", d["introducao"]]
         corpo = []

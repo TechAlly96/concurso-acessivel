@@ -50,37 +50,35 @@ Uma palavra importante para quem estuda nesta plataforma com deficiência visual
 
 ---
 
+## Adaptações da prova para quem tem deficiência visual
+
+Os editais de concurso costumam garantir adaptações para candidatos com deficiência visual, mas **elas precisam ser pedidas no momento da inscrição**. Depois, não dá mais.
+
+As mais comuns são: prova em braile ou ampliada, um **ledor**, que lê a prova para você, auxílio para marcar a folha de respostas, **tempo adicional**, uso de computador com leitor de tela quando o edital permite, e o uso de material próprio, como reglete, punção ou sorobã.
+
+Quase sempre é preciso enviar um **laudo médico** recente, com a espécie e o grau da deficiência, o código da doença e, para a deficiência visual, a acuidade visual com e sem correção. Marque a opção na inscrição **e** envie o laudo: uma coisa sem a outra faz o pedido ser negado. Quando o novo edital sair, confira o prazo e o modelo de laudo que ele exigir.
+
+Uma dica para treinar desde já: a prova com ledor é parecida com este curso. Você ouve o enunciado e as cinco alternativas, e precisa guardar tudo na cabeça para decidir. Cada questão de treino daqui é também um treino para isso.
+
+---
+
 ## O plano de estudo diário
 
-A constância vence o talento. É melhor estudar uma hora por dia, todos os dias, do que oito horas num sábado e nada no resto da semana. O cérebro aprende por repetição espaçada: ouvir hoje, rever amanhã, rever de novo na semana seguinte.
+A constância vence o talento. É melhor estudar uma hora por dia, todos os dias, do que oito horas num sábado e nada no resto da semana.
 
-**O ritmo mínimo recomendado: uma hora e meia por dia, seis dias por semana.**
+**O ritmo mínimo recomendado: uma hora e meia por dia, seis dias por semana.** Divida esse tempo em três partes.
 
-Divida o seu tempo do dia em três partes.
+**Primeira parte, cerca de 15 minutos: revisão relâmpago.** Comece o dia por ela. Escolha a revisão de uma matéria que você já estudou, de preferência a que você ouviu há mais tempo. Depois de cada frase, repita em voz alta.
 
-**Primeira parte, cerca de 50 minutos: aula nova.** Ouça um bloco do curso, uma ou duas aulas, com atenção total. Se puder, sem fazer outra coisa ao mesmo tempo.
+**Segunda parte, cerca de 50 minutos: aula nova.** Siga a sequência do curso, de onde parou. Ouça com atenção total, sem fazer outra coisa ao mesmo tempo.
 
-**Segunda parte, cerca de 20 minutos: revisão.** Ouça de novo a revisão do módulo anterior, aquela parte com frases curtas no fim de cada módulo. É ela que fixa a matéria na memória.
+**Terceira parte, cerca de 25 minutos: questões.** Ouça as questões de treino do módulo, ou uma parte de uma prova anterior. Use a pausa de cada questão para escolher a sua letra. Acertar ou errar não importa tanto: o que importa é entender o porquê.
 
-**Terceira parte, cerca de 20 minutos: questões.** Ouça as questões de treino do módulo ou uma parte da prova resolvida. Pause na pausa, decida a sua letra, depois ouça a explicação. Acertar ou errar não importa tanto: o que importa é entender o porquê.
+**A regra da revisão espaçada.** Depois de terminar uma matéria, ouça a revisão relâmpago dela no dia seguinte, de novo uma semana depois, e de novo um mês depois. Isso basta para a matéria ficar. E, a cada volta completa do curso, ela é revista de novo.
 
-**A rotação da semana**, para nenhuma matéria ficar esquecida:
+**Quando o curso inteiro já tiver sido ouvido uma vez**, mude o foco: menos aula nova, mais revisão e mais questões. Nas voltas seguintes, você vai perceber que entende de primeira o que antes parecia difícil.
 
-Segunda-feira: Língua Portuguesa e Direito Constitucional.
-
-Terça-feira: Direito Administrativo e Lei Orgânica da Polícia Civil.
-
-Quarta-feira: Direito Penal e Raciocínio Lógico.
-
-Quinta-feira: Direito Processual Penal e Legislação Extravagante.
-
-Sexta-feira: Informática e Direitos Humanos.
-
-Sábado: Medicina Legal e Criminologia.
-
-Domingo: descanso. Ou, se estiver com energia, uma revisão leve das revisões da semana.
-
-Siga sempre a ordem dos módulos dentro de cada matéria, porque um módulo se apoia no anterior. E uma vez por mês, ouça uma das provas anteriores inteira, de uma vez, como se fosse o dia da prova. Vá anotando mentalmente, ou num papel, quantas acertou. Ver a nota subir mês a mês é o melhor combustível que existe.
+Uma vez por mês, ouça uma das provas anteriores inteira, de uma vez, como se fosse o dia da prova, e conte quantas acertou. Ver a nota subir mês a mês é o melhor combustível que existe.
 
 ---
 

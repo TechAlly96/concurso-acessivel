@@ -262,9 +262,9 @@ Letra E: a independência nacional.
 
 Pense na sua resposta.
 
-**A explicação.** Lembre a sigla so-ci-di-va-plu: o pluralismo político é o último fundamento. As letras A e B começam com verbo, então são objetivos, do artigo terceiro. As letras D e E são princípios das relações internacionais, do artigo quarto.
+**Resposta: letra C: o pluralismo político.**
 
-**Resposta: letra C.**
+**Por quê.** Lembre a sigla so-ci-di-va-plu: o pluralismo político é o último fundamento. As letras A e B começam com verbo, então são objetivos, do artigo terceiro. As letras D e E são princípios das relações internacionais, do artigo quarto.
 
 ---
 
@@ -284,9 +284,9 @@ Letra E: só pode ser aprovada por uma nova Assembleia Constituinte.
 
 Pense na sua resposta.
 
-**A explicação.** O artigo 60, parágrafo 4º, protege o voto direto, secreto, universal e periódico. A obrigatoriedade não está na lista. Por isso uma emenda pode tornar o voto facultativo. Essa é uma das pegadinhas mais conhecidas do Direito Constitucional.
+**Resposta: letra B: pode ser apreciada, porque o voto obrigatório não está entre as cláusulas pétreas.**
 
-**Resposta: letra B.**
+**Por quê.** O artigo 60, parágrafo 4º, protege o voto direto, secreto, universal e periódico. A obrigatoriedade não está na lista. Por isso uma emenda pode tornar o voto facultativo. Essa é uma das pegadinhas mais conhecidas do Direito Constitucional.
 
 ---
 
@@ -306,9 +306,9 @@ Letra E: o exercício de função típica do Poder Legislativo, por se tratar de
 
 Pense na sua resposta.
 
-**A explicação.** A Polícia Civil é órgão do Executivo, e o Executivo, além de administrar, que é a sua função típica, também julga processos administrativos, que é uma função atípica. Isso é admitido e comum. O que o Executivo não faz é dar a palavra final com caráter definitivo: o servidor punido pode recorrer ao Judiciário.
+**Resposta: letra B: o exercício de função atípica de julgar pelo Poder Executivo, admitido pela Constituição.**
 
-**Resposta: letra B.**
+**Por quê.** A Polícia Civil é órgão do Executivo, e o Executivo, além de administrar, que é a sua função típica, também julga processos administrativos, que é uma função atípica. Isso é admitido e comum. O que o Executivo não faz é dar a palavra final com caráter definitivo: o servidor punido pode recorrer ao Judiciário.
 
 ---
 
@@ -328,9 +328,9 @@ Letra E: O Distrito Federal pode ser dividido em Municípios, por lei distrital.
 
 Pense na sua resposta.
 
-**A explicação.** Soberania é do país; autonomia é de cada ente. Ter constituição própria é auto-organização, uma manifestação de autonomia, e não de soberania, por isso a A erra. Povo é ligado pela nacionalidade; população é quem está no território, por isso a B erra. A união é indissolúvel, por isso a D erra. E o Distrito Federal não pode ser dividido em Municípios, por isso a E erra.
+**Resposta: letra C: A soberania pertence à República Federativa do Brasil, enquanto os entes federativos são dotados de autonomia.**
 
-**Resposta: letra C.**
+**Por quê.** Soberania é do país; autonomia é de cada ente. Ter constituição própria é auto-organização, uma manifestação de autonomia, e não de soberania, por isso a A erra. Povo é ligado pela nacionalidade; população é quem está no território, por isso a B erra. A união é indissolúvel, por isso a D erra. E o Distrito Federal não pode ser dividido em Municípios, por isso a E erra.
 
 ---
 

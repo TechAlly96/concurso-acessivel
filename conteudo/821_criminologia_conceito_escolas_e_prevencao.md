@@ -200,9 +200,9 @@ Letra E: Despreza o estudo da vítima, que é objeto exclusivo do Direito Penal.
 
 Pense na sua resposta.
 
-**A explicação.** A Criminologia é empírica, interdisciplinar e estuda os quatro elementos: delito, delinquente, vítima e controle social. Ciência normativa, que define crimes e penas, é o Direito Penal. A redução ao delinquente e às causas biológicas era da fase de Lombroso. E a vítima é estudada pela vitimologia, dentro da Criminologia.
+**Resposta: letra C: é uma ciência empírica e interdisciplinar, cujo objeto abrange o delito, o delinquente, a vítima e o controle social.**
 
-**Resposta: letra C.**
+**Por quê.** A Criminologia é empírica, interdisciplinar e estuda os quatro elementos: delito, delinquente, vítima e controle social. Ciência normativa, que define crimes e penas, é o Direito Penal. A redução ao delinquente e às causas biológicas era da fase de Lombroso. E a vítima é estudada pela vitimologia, dentro da Criminologia.
 
 ---
 
@@ -222,9 +222,9 @@ Letra E: Garofalo e Lombroso.
 
 Pense na sua resposta.
 
-**A explicação.** O criminoso nato e o atavismo são de Lombroso, da Escola Positivista. A pena proporcional, certa e legal, contra a arbitrariedade, é de Beccaria, da Escola Clássica, no livro "Dos Delitos e das Penas".
+**Resposta: letra B: Lombroso e Beccaria.**
 
-**Resposta: letra B.**
+**Por quê.** O criminoso nato e o atavismo são de Lombroso, da Escola Positivista. A pena proporcional, certa e legal, contra a arbitrariedade, é de Beccaria, da Escola Clássica, no livro "Dos Delitos e das Penas".
 
 ---
 
@@ -244,9 +244,9 @@ Letra E: cifra verde.
 
 Pense na sua resposta.
 
-**A explicação.** Crimes das elites, de colarinho branco, formam a cifra dourada. A negra são os crimes nunca comunicados; a cinza, os registrados e não esclarecidos; a amarela, a violência de funcionários públicos não denunciada por medo; e a verde, os crimes ambientais.
+**Resposta: letra C: cifra dourada.**
 
-**Resposta: letra C.**
+**Por quê.** Crimes das elites, de colarinho branco, formam a cifra dourada. A negra são os crimes nunca comunicados; a cinza, os registrados e não esclarecidos; a amarela, a violência de funcionários públicos não denunciada por medo; e a verde, os crimes ambientais.
 
 ---
 
@@ -266,9 +266,9 @@ Letra E: situacional.
 
 Pense na sua resposta.
 
-**A explicação.** O programa atua sobre quem já cometeu crime e está cumprindo pena, com o objetivo de evitar a reincidência. Isso é prevenção terciária.
+**Resposta: letra C: terciária.**
 
-**Resposta: letra C.**
+**Por quê.** O programa atua sobre quem já cometeu crime e está cumprindo pena, com o objetivo de evitar a reincidência. Isso é prevenção terciária.
 
 ---
 

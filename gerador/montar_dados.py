@@ -31,6 +31,35 @@ EIXOS_PROVA = {"geral": "eixo geral", "legislacao": "eixo legislação", "especi
                "basicos": "conhecimentos básicos", "especificos": "conhecimentos específicos"}
 
 
+# Revisao relampago: uma parte por materia, montada AUTOMATICAMENTE com as secoes
+# "Revisao do modulo..." de cada modulo do curso. Fica sempre em dia com o curso.
+MATERIAS = [
+    ("1", "portugues", "Língua Portuguesa"), ("2", "informatica", "Informática"),
+    ("3", "raciocinio_logico", "Raciocínio Lógico-Matemático"), ("4", "direitos_humanos", "Direitos Humanos"),
+    ("5", "lei_organica", "Lei Orgânica da Polícia Civil"), ("71", "constitucional", "Direito Constitucional"),
+    ("72", "administrativo", "Direito Administrativo"), ("73", "penal", "Direito Penal"),
+    ("74", "processo_penal", "Processo Penal"), ("75", "legislacao", "Legislação Penal e Extravagante"),
+    ("81", "medicina_legal", "Medicina Legal"), ("82", "criminologia", "Criminologia"),
+]
+
+
+def materia_de(pid):
+    for prefixo, chave, nome in MATERIAS:
+        if pid.startswith(prefixo):
+            return chave, nome
+    return None
+
+
+def abertura_revisao(nome, n):
+    texto = (f"Revisão relâmpago de {nome}. Aqui estão, em sequência, as frases para gravar dos {n} módulos "
+             f"de {nome}, sem a explicação longa. Use assim: depois de cada frase, repita em voz alta, com as "
+             "suas palavras. Falar em voz alta grava muito mais do que só ouvir. Ouça esta revisão no dia "
+             "seguinte ao estudo de um módulo, de novo depois de uma semana e depois de um mês. Se alguma frase "
+             "não fizer sentido, volte à aula do módulo correspondente.")
+    return {"id": "c00", "titulo": "Abertura", "html": f"<p>{inline_html(texto)}</p>",
+            "fala": f"Revisão relâmpago de {nome}. Abertura. {texto}", "resposta": None}
+
+
 def curto_prova(pid):
     """91_prova_pcmg_2026_geral -> 'PC-MG 2026, eixo geral'."""
     m = re.match(r"\d+_prova_([a-z0-9]+)_(\d{4})_([a-z]+)$", pid)
@@ -122,18 +151,22 @@ def ler_parte(arquivo):
 def main(saida):
     saida = Path(saida)
     saida.mkdir(parents=True, exist_ok=True)
-    partes = []
+    partes, revisoes = [], {}
     for arquivo in sorted(CONTEUDO.glob("*.md")):
         pid = arquivo.stem
         titulo, caps = ler_parte(arquivo)
         if pid in INFO:
             dia, curto = INFO[pid]
+        elif pid[:1] == "6":  # outro concurso: Tecnico Assistente (fora da sequencia do Investigador)
+            dia, curto = "outro", re.sub(r"^Curso, m[óo]dulo \d+\.\s*", "", titulo)
         elif pid[:1] in "12345678":  # curso completo (ver prefixos acima; 7 Direito, 8 Medicina Legal e Criminologia)
             dia, curto = "curso", re.sub(r"^Curso, m[óo]dulo \d+\.\s*", "", titulo)
         elif pid[:1] == "9":  # provas anteriores resolvidas
-            dia, curto = "prova", curto_prova(pid)
+            dia, curto = ("prova" if "_pcmginv_" in pid else "outro"), curto_prova(pid)
         else:
             dia, curto = "geral", titulo
+        if dia == "curso" and materia_de(pid):
+            revisoes.setdefault(materia_de(pid), []).extend(c for c in caps if c["titulo"].startswith("Revisão"))
         questoes = sum(1 for c in caps if c["resposta"]) if dia != "curso" else 0
         aulas = sum(1 for c in caps if c["titulo"].startswith("Aula "))
         pasta = saida / pid
@@ -141,9 +174,25 @@ def main(saida):
         (pasta / "conteudo.json").write_text(json.dumps(
             {"id": pid, "titulo": titulo, "curto": curto, "dia": dia, "capitulos": caps},
             ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-        partes.append({"id": pid, "titulo": titulo, "curto": curto, "dia": dia,
+        mat = materia_de(pid)[0] if dia == "curso" and materia_de(pid) else None
+        partes.append({"id": pid, "titulo": titulo, "curto": curto, "dia": dia, "materia": mat,
                        "capitulos": len(caps), "questoes": questoes, "aulas": aulas})
         print(f"{pid}: {len(caps)} capitulos, {questoes} questoes, {aulas} aulas")
+    for k, (prefixo, chave, nome) in enumerate(MATERIAS, 1):
+        revs = revisoes.get((chave, nome), [])
+        if not revs:
+            continue
+        pid = f"r{k:02d}_revisao_{chave}"
+        caps = [abertura_revisao(nome, len(revs))] + [dict(c, id=f"c{i:02d}") for i, c in enumerate(revs, 1)]
+        titulo = f"Revisão relâmpago de {nome}"
+        pasta = saida / pid
+        pasta.mkdir(exist_ok=True)
+        (pasta / "conteudo.json").write_text(json.dumps(
+            {"id": pid, "titulo": titulo, "curto": nome, "dia": "revisao", "capitulos": caps},
+            ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        partes.append({"id": pid, "titulo": titulo, "curto": nome, "dia": "revisao", "materia": chave,
+                       "capitulos": len(caps), "questoes": 0, "aulas": 0})
+        print(f"{pid}: {len(caps)} capitulos (revisao automatica)")
     (saida / "partes.json").write_text(json.dumps(partes, ensure_ascii=False, separators=(",", ":")),
                                        encoding="utf-8")
     print(f"Total: {len(partes)} partes, {sum(p['questoes'] for p in partes)} questoes")

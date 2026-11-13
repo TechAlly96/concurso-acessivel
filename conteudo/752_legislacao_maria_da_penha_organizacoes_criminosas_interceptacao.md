@@ -360,9 +360,9 @@ Letra E: pode afastar o agressor do lar por até 30 dias, sem necessidade de com
 
 Pense na sua resposta.
 
-**A explicação.** Pelo artigo 12-C, o afastamento é feito pelo juiz; pelo delegado, quando o Município não for sede de comarca; e pelo policial, quando, além disso, não houver delegado disponível. O juiz é comunicado em 24 horas e decide em igual prazo. E, no crime de descumprimento de medida protetiva, só o juiz concede fiança.
+**Resposta: letra C: pode afastar imediatamente o agressor do lar, comunicando o juiz em 24 horas, que decidirá em igual prazo sobre a manutenção ou a revogação da medida.**
 
-**Resposta: letra C.**
+**Por quê.** Pelo artigo 12-C, o afastamento é feito pelo juiz; pelo delegado, quando o Município não for sede de comarca; e pelo policial, quando, além disso, não houver delegado disponível. O juiz é comunicado em 24 horas e decide em igual prazo. E, no crime de descumprimento de medida protetiva, só o juiz concede fiança.
 
 ---
 
@@ -382,9 +382,9 @@ Letra E: Considera-se organização criminosa a associação de quatro ou mais p
 
 Pense na sua resposta.
 
-**A explicação.** A letra E reproduz o conceito do parágrafo 1º do artigo 1º. A letra A descreve a associação criminosa do Código Penal. Nenhuma condenação se baseia só na palavra do colaborador. A infiltração é exclusiva de agentes de polícia. E o acesso sem ordem judicial se limita aos dados cadastrais: qualificação, filiação e endereço.
+**Resposta: letra E: considera-se organização criminosa a associação de quatro ou mais pessoas, estruturalmente ordenada e caracterizada pela divisão de tarefas, com o objetivo de obter vantagem mediante a prática de infrações penais com penas máximas superiores a quatro anos, ou de caráter transnacional.**
 
-**Resposta: letra E.**
+**Por quê.** A letra E reproduz o conceito do parágrafo 1º do artigo 1º. A letra A descreve a associação criminosa do Código Penal. Nenhuma condenação se baseia só na palavra do colaborador. A infiltração é exclusiva de agentes de polícia. E o acesso sem ordem judicial se limita aos dados cadastrais: qualificação, filiação e endereço.
 
 ---
 
@@ -404,9 +404,9 @@ Letra E: o colaborador líder da organização pode receber o benefício do não
 
 Pense na sua resposta.
 
-**A explicação.** O delegado pode celebrar o acordo na fase de investigação, com manifestação do Ministério Público, como confirmou o Supremo. O juiz não participa das negociações, só homologa. O colaborador renuncia ao direito ao silêncio. Basta um dos resultados previstos. E o não oferecimento da denúncia exige que o colaborador não seja o líder e seja o primeiro a colaborar.
+**Resposta: letra C: o acordo pode ser celebrado pelo delegado de polícia, na fase do inquérito, com a manifestação do Ministério Público.**
 
-**Resposta: letra C.**
+**Por quê.** O delegado pode celebrar o acordo na fase de investigação, com manifestação do Ministério Público, como confirmou o Supremo. O juiz não participa das negociações, só homologa. O colaborador renuncia ao direito ao silêncio. Basta um dos resultados previstos. E o não oferecimento da denúncia exige que o colaborador não seja o líder e seja o primeiro a colaborar.
 
 ---
 
@@ -426,9 +426,9 @@ Letra E: deferir, pois a interceptação é cabível em qualquer crime doloso.
 
 Pense na sua resposta.
 
-**A explicação.** Pelo artigo 2º da Lei 9296, não se admite interceptação em crime punido, no máximo, com detenção, e a ameaça é punida com detenção. Além disso, a interceptação exige que a prova não possa ser feita por outros meios, e ser "o meio mais rápido" não é fundamento. O delegado pode pedir, mas só na fase de investigação. E o prazo é de quinze dias, renovável.
+**Resposta: letra B: indeferir o pedido, pois a lei não admite interceptação quando o fato investigado constitui infração punida, no máximo, com pena de detenção, nem quando a prova puder ser feita por outros meios.**
 
-**Resposta: letra B.**
+**Por quê.** Pelo artigo 2º da Lei 9296, não se admite interceptação em crime punido, no máximo, com detenção, e a ameaça é punida com detenção. Além disso, a interceptação exige que a prova não possa ser feita por outros meios, e ser "o meio mais rápido" não é fundamento. O delegado pode pedir, mas só na fase de investigação. E o prazo é de quinze dias, renovável.
 
 ---
 

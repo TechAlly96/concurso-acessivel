@@ -230,9 +230,9 @@ Letra E: O investigador não cumpriu o mandado ou o suspeito foi preso.
 
 Pense na sua resposta.
 
-**A explicação.** Use o mané: mantém a primeira parte, "o investigador cumpriu o mandado", nega a segunda, "o suspeito não foi preso", e liga com "e". A letra D é a contrapositiva, que é equivalente, e não negação. A letra E é o neymar, também equivalente.
+**Resposta: letra C: O investigador cumpriu o mandado e o suspeito não foi preso.**
 
-**Resposta: letra C.**
+**Por quê.** Use o mané: mantém a primeira parte, "o investigador cumpriu o mandado", nega a segunda, "o suspeito não foi preso", e liga com "e". A letra D é a contrapositiva, que é equivalente, e não negação. A letra E é o neymar, também equivalente.
 
 ---
 
@@ -252,9 +252,9 @@ Letra E: O laudo é conclusivo ou o delegado indicia o suspeito.
 
 Pense na sua resposta.
 
-**A explicação.** A contrapositiva inverte e nega: "se o delegado não indicia o suspeito, então o laudo não é conclusivo". A letra A só inverteu, a B só negou, a D é a negação e a E não corresponde a nenhuma regra. O neymar daria: "o laudo não é conclusivo ou o delegado indicia o suspeito", que não está entre as opções.
+**Resposta: letra C: se o delegado não indicia o suspeito, então o laudo não é conclusivo.**
 
-**Resposta: letra C.**
+**Por quê.** A contrapositiva inverte e nega: "se o delegado não indicia o suspeito, então o laudo não é conclusivo". A letra A só inverteu, a B só negou, a D é a negação e a E não corresponde a nenhuma regra. O neymar daria: "o laudo não é conclusivo ou o delegado indicia o suspeito", que não está entre as opções.
 
 ---
 
@@ -274,9 +274,9 @@ Letra E: Se alguém é suspeito, então tem álibi.
 
 Pense na sua resposta.
 
-**A explicação.** Negar "todo" é dizer que pelo menos um não é: "pelo menos um suspeito não tem álibi". Para desmentir que todos têm álibi, basta um suspeito sem álibi. "Nenhum suspeito tem álibi" é forte demais. E a letra E diz a mesma coisa que a frase original, não a nega.
+**Resposta: letra B: pelo menos um suspeito não tem álibi.**
 
-**Resposta: letra B.**
+**Por quê.** Negar "todo" é dizer que pelo menos um não é: "pelo menos um suspeito não tem álibi". Para desmentir que todos têm álibi, basta um suspeito sem álibi. "Nenhum suspeito tem álibi" é forte demais. E a letra E diz a mesma coisa que a frase original, não a nega.
 
 ---
 
@@ -296,9 +296,9 @@ Letra E: O suspeito não mentiu ou a testemunha viu o crime.
 
 Pense na sua resposta.
 
-**A explicação.** Temos verdadeira e falsa. A conjunção da letra A precisa das duas verdadeiras: falsa. A condicional da B é a Vera Fischer, verdadeira com falsa: falsa. A bicondicional da C precisa de valores iguais: falsa. A disjunção exclusiva da D precisa de valores diferentes, e eles são diferentes: verdadeira. Na E, "o suspeito não mentiu" é falsa e "a testemunha viu" é falsa; um "ou" com duas falsas é falso.
+**Resposta: letra D: ou o suspeito mentiu, ou a testemunha viu o crime.**
 
-**Resposta: letra D.**
+**Por quê.** Temos verdadeira e falsa. A conjunção da letra A precisa das duas verdadeiras: falsa. A condicional da B é a Vera Fischer, verdadeira com falsa: falsa. A bicondicional da C precisa de valores iguais: falsa. A disjunção exclusiva da D precisa de valores diferentes, e eles são diferentes: verdadeira. Na E, "o suspeito não mentiu" é falsa e "a testemunha viu" é falsa; um "ou" com duas falsas é falso.
 
 ---
 

@@ -338,9 +338,9 @@ Letra E: é dez por cento menor.
 
 Pense na sua resposta.
 
-**A explicação.** Porcentagens sucessivas se multiplicam. O aumento de vinte e cinco por cento é o fator um vírgula vinte e cinco. O desconto de vinte por cento é o fator zero vírgula oito. Um vírgula vinte e cinco vezes zero vírgula oito dá exatamente um. Ou seja, o preço final é igual ao original. Quem soma e subtrai as porcentagens, achando cinco por cento a mais, cai na pegadinha.
+**Resposta: letra C: é igual ao preço original.**
 
-**Resposta: letra C.**
+**Por quê.** Porcentagens sucessivas se multiplicam. O aumento de vinte e cinco por cento é o fator um vírgula vinte e cinco. O desconto de vinte por cento é o fator zero vírgula oito. Um vírgula vinte e cinco vezes zero vírgula oito dá exatamente um. Ou seja, o preço final é igual ao original. Quem soma e subtrai as porcentagens, achando cinco por cento a mais, cai na pegadinha.
 
 ---
 
@@ -360,9 +360,9 @@ Letra E: quarenta e oito.
 
 Pense na sua resposta.
 
-**A explicação.** Comece pelos doze laudos. O número de peritos dobrou, de três para seis: mais gente, mais laudos. Doze vezes dois dá vinte e quatro. Os dias passaram de quatro para seis: mais tempo, mais laudos. Multiplique por seis sobre quatro, que é um vírgula cinco. Vinte e quatro vezes um vírgula cinco dá trinta e seis.
+**Resposta: letra D: trinta e seis.**
 
-**Resposta: letra D.**
+**Por quê.** Comece pelos doze laudos. O número de peritos dobrou, de três para seis: mais gente, mais laudos. Doze vezes dois dá vinte e quatro. Os dias passaram de quatro para seis: mais tempo, mais laudos. Multiplique por seis sobre quatro, que é um vírgula cinco. Vinte e quatro vezes um vírgula cinco dá trinta e seis.
 
 ---
 
@@ -382,9 +382,9 @@ Letra E: vinte e cinco.
 
 Pense na sua resposta.
 
-**A explicação.** Os que fizeram pelo menos um curso são quarenta e cinco mais trinta, menos os quinze que foram contados duas vezes. Quarenta e cinco mais trinta dá setenta e cinco; menos quinze dá sessenta. Do total de oitenta, os que não fizeram nenhum são oitenta menos sessenta: vinte.
+**Resposta: letra D: vinte.**
 
-**Resposta: letra D.**
+**Por quê.** Os que fizeram pelo menos um curso são quarenta e cinco mais trinta, menos os quinze que foram contados duas vezes. Quarenta e cinco mais trinta dá setenta e cinco; menos quinze dá sessenta. Do total de oitenta, os que não fizeram nenhum são oitenta menos sessenta: vinte.
 
 ---
 
@@ -404,9 +404,9 @@ Letra E: um quarto.
 
 Pense na sua resposta.
 
-**A explicação.** Primeiro, conte as equipes possíveis. A ordem não importa, porque é uma equipe: é combinação. Cinco vezes quatro dá vinte; dividido por dois, que é o fatorial de dois, dá dez equipes possíveis. Só uma delas é formada por Ana e Bruno. A probabilidade é um caso favorável sobre dez possíveis: um décimo.
+**Resposta: letra B: um décimo.**
 
-**Resposta: letra B.**
+**Por quê.** Primeiro, conte as equipes possíveis. A ordem não importa, porque é uma equipe: é combinação. Cinco vezes quatro dá vinte; dividido por dois, que é o fatorial de dois, dá dez equipes possíveis. Só uma delas é formada por Ana e Bruno. A probabilidade é um caso favorável sobre dez possíveis: um décimo.
 
 ---
 

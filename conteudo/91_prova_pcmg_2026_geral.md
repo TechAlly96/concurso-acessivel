@@ -2,7 +2,7 @@
 
 Esta é a prova real aplicada em 2026 pela banca Cebraspe para o cargo de Técnico-Assistente da Polícia Civil e de Atividades Governamentais (T P A G) — Auxiliar de Perícia. Os gabaritos são os oficiais definitivos.
 
-Em cada questão, eu leio o enunciado e as quatro alternativas. Depois faço uma pausa para você pensar, e só então explico e dou a resposta. Se quiser treinar de verdade, pause o áudio na pausa, escolha a sua letra e depois continue.
+Em cada questão, eu leio o enunciado e as alternativas. Depois vem uma pausa de alguns segundos para você escolher a sua letra. Em seguida, eu digo a resposta certa e explico o porquê. Se precisar de mais tempo para pensar, pause o áudio na pausa.
 
 ---
 
@@ -32,11 +32,11 @@ Letra C: pelos médicos patologistas.
 
 Letra D: pela O M S.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O texto diz que, entre tantas categorias homenageadas, é crucial destacar o papel dos médicos patologistas, que deram os primeiros passos decisivos. Os profissionais de saúde em geral são citados, mas o destaque vai para os patologistas. Os cientistas e jornalistas foram recebidos com ceticismo, e a O M S foi criticada pela demora.
+Pense na sua resposta.
 
 **Resposta: letra C, pelos médicos patologistas.**
+
+**Por quê.** O texto diz que, entre tantas categorias homenageadas, é crucial destacar o papel dos médicos patologistas, que deram os primeiros passos decisivos. Os profissionais de saúde em geral são citados, mas o destaque vai para os patologistas. Os cientistas e jornalistas foram recebidos com ceticismo, e a O M S foi criticada pela demora.
 
 ---
 
@@ -58,11 +58,11 @@ Letra C: revelaram tratar-se de mais uma endemia desencadeada por um vírus resp
 
 Letra D: reforçaram as incertezas já existentes sobre o novo vírus.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O último parágrafo afirma que, graças às autópsias, foi possível identificar a doença e entender que ela era diferente das anteriores. A alternativa C inverte o texto: a ideia de ser só mais uma endemia era a impressão inicial, que as necropsias desmentiram. A D também inverte: as necropsias reduziram as incertezas.
+Pense na sua resposta.
 
 **Resposta: letra B, contribuíram para a identificação da nova doença e o entendimento de suas peculiaridades.**
+
+**Por quê.** O último parágrafo afirma que, graças às autópsias, foi possível identificar a doença e entender que ela era diferente das anteriores. A alternativa C inverte o texto: a ideia de ser só mais uma endemia era a impressão inicial, que as necropsias desmentiram. A D também inverte: as necropsias reduziram as incertezas.
 
 ---
 
@@ -84,11 +84,11 @@ Letra C: visa destacar a importância dos especialistas no contexto da pandemia 
 
 Letra D: indica que o termo foi empregado de forma genérica.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Quando o autor põe uma palavra entre aspas e logo depois diz que as previsões dessas pessoas foram desmentidas, ele está duvidando de que fossem mesmo especialistas. Esse é o uso irônico das aspas: a palavra significa o contrário do que parece.
+Pense na sua resposta.
 
 **Resposta: letra B, sugere a intenção irônica do autor do texto em sua referência aos que fizeram previsões e ofereceram orientações categóricas a respeito da covid-19.**
+
+**Por quê.** Quando o autor põe uma palavra entre aspas e logo depois diz que as previsões dessas pessoas foram desmentidas, ele está duvidando de que fossem mesmo especialistas. Esse é o uso irônico das aspas: a palavra significa o contrário do que parece.
 
 ---
 
@@ -110,11 +110,11 @@ Letra C: Em detrimento das.
 
 Letra D: Devido as.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** "Graças às" indica causa positiva, com ajuda de alguma coisa. "Com o auxílio das" mantém esse sentido e a correção. "Em que pesem" indica concessão, ou seja, apesar de. "Em detrimento de" indica prejuízo. "Devido as" tem erro: o correto seria "devido às", com crase, porque "devido a" exige a preposição.
+Pense na sua resposta.
 
 **Resposta: letra A, com o auxílio das.**
+
+**Por quê.** "Graças às" indica causa positiva, com ajuda de alguma coisa. "Com o auxílio das" mantém esse sentido e a correção. "Em que pesem" indica concessão, ou seja, apesar de. "Em detrimento de" indica prejuízo. "Devido as" tem erro: o correto seria "devido às", com crase, porque "devido a" exige a preposição.
 
 ---
 
@@ -136,11 +136,11 @@ Letra C: conclusão.
 
 Letra D: contraste.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** "Porém" é conjunção coordenativa adversativa, da mesma família de "mas", "contudo" e "entretanto". Ela liga ideias que se opõem, ou seja, expressa contraste. Dica para memorizar: se dá para trocar por "mas", é adversativa.
+Pense na sua resposta.
 
 **Resposta: letra D, contraste.**
+
+**Por quê.** "Porém" é conjunção coordenativa adversativa, da mesma família de "mas", "contudo" e "entretanto". Ela liga ideias que se opõem, ou seja, expressa contraste. Dica para memorizar: se dá para trocar por "mas", é adversativa.
 
 ---
 
@@ -162,11 +162,11 @@ Letra C: era reforçado.
 
 Letra D: reforçaram-se.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** "Foram reforçadas" é voz passiva analítica, formada com o verbo ser. A passiva sintética usa o pronome "se": "reforçaram-se". O verbo fica no plural porque o sujeito é composto: a necessidade e a importância. "Haviam reforçado" muda para voz ativa e altera o sentido; "reforçou" e "era reforçado" ficam no singular, errando a concordância.
+Pense na sua resposta.
 
 **Resposta: letra D, reforçaram-se.**
+
+**Por quê.** "Foram reforçadas" é voz passiva analítica, formada com o verbo ser. A passiva sintética usa o pronome "se": "reforçaram-se". O verbo fica no plural porque o sujeito é composto: a necessidade e a importância. "Haviam reforçado" muda para voz ativa e altera o sentido; "reforçou" e "era reforçado" ficam no singular, errando a concordância.
 
 ---
 
@@ -186,11 +186,11 @@ Letra C: rede corporativa com grupos fechados.
 
 Letra D: editor de textos colaborativo em nuvem.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A situação pede quatro coisas ao mesmo tempo: edição simultânea, histórico de versões, controle de acesso e uso pela Internet. Um editor de textos colaborativo em nuvem, como Google Docs ou Word Online, faz tudo isso. E-mail não permite edição simultânea, e um repositório de pesquisa só encontra documentos.
+Pense na sua resposta.
 
 **Resposta: letra D, editor de textos colaborativo em nuvem.**
+
+**Por quê.** A situação pede quatro coisas ao mesmo tempo: edição simultânea, histórico de versões, controle de acesso e uso pela Internet. Um editor de textos colaborativo em nuvem, como Google Docs ou Word Online, faz tudo isso. E-mail não permite edição simultânea, e um repositório de pesquisa só encontra documentos.
 
 ---
 
@@ -212,11 +212,11 @@ Letra C: igual, cifrão A cifrão 2, vezes B 1.
 
 Letra D: igual, A 2, vezes B cifrão 1.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O cifrão trava o que vem logo depois dele. Em B cifrão 1, a linha 1 fica fixa, então o fator de ajuste é sempre usado. Em A2, sem cifrão, a linha muda ao copiar para baixo: vira A3 e depois A4. Assim, igual, A 2, vezes B cifrão 1 vira igual, A 3, vezes B cifrão 1 e igual, A 4, vezes B cifrão 1. Na opção A, B1 viraria B2 e perderia o fator. Na B e na C, A2 ficaria travado.
+Pense na sua resposta.
 
 **Resposta: letra D, igual, A 2, vezes B cifrão 1.**
+
+**Por quê.** O cifrão trava o que vem logo depois dele. Em B cifrão 1, a linha 1 fica fixa, então o fator de ajuste é sempre usado. Em A2, sem cifrão, a linha muda ao copiar para baixo: vira A3 e depois A4. Assim, igual, A 2, vezes B cifrão 1 vira igual, A 3, vezes B cifrão 1 e igual, A 4, vezes B cifrão 1. Na opção A, B1 viraria B2 e perderia o fator. Na B e na C, A2 ficaria travado.
 
 ---
 
@@ -236,11 +236,11 @@ Letra C: combinar backups incrementais a backups completos periódicos.
 
 Letra D: realizar backups diferenciais sem base completa.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Espelhamento e sincronização copiam o erro na mesma hora: se alguém estraga o arquivo, a cópia também é estragada, então não preservam versões anteriores. O backup incremental copia só o que mudou desde o último backup, o que economiza espaço, mas precisa de um backup completo como base. Diferencial sem base completa não existe na prática.
+Pense na sua resposta.
 
 **Resposta: letra C, combinar backups incrementais a backups completos periódicos.**
+
+**Por quê.** Espelhamento e sincronização copiam o erro na mesma hora: se alguém estraga o arquivo, a cópia também é estragada, então não preservam versões anteriores. O backup incremental copia só o que mudou desde o último backup, o que economiza espaço, mas precisa de um backup completo como base. Diferencial sem base completa não existe na prática.
 
 ---
 
@@ -260,11 +260,11 @@ Letra C: infraestrutura como serviço.
 
 Letra D: armazenamento em nuvem como serviço.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A palavra-chave é controle total sobre o sistema operacional. Na infraestrutura como serviço, a IaaS, o provedor entrega a máquina virtual e o cliente cuida do sistema operacional para cima. Na plataforma como serviço, a PaaS, o provedor já cuida do sistema operacional. No software como serviço, o SaaS, o cliente só usa um programa pronto.
+Pense na sua resposta.
 
 **Resposta: letra C, infraestrutura como serviço.**
+
+**Por quê.** A palavra-chave é controle total sobre o sistema operacional. Na infraestrutura como serviço, a IaaS, o provedor entrega a máquina virtual e o cliente cuida do sistema operacional para cima. Na plataforma como serviço, a PaaS, o provedor já cuida do sistema operacional. No software como serviço, o SaaS, o cliente só usa um programa pronto.
 
 ---
 
@@ -284,11 +284,11 @@ Letra C: phishing direcionado.
 
 Letra D: vírus autorreplicante por execução local.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Phishing é a pescaria de dados: uma mensagem falsa leva a vítima a uma página falsa onde ela mesma digita a senha. O detalhe de que nada foi baixado ou instalado elimina spyware, vírus e outros programas maliciosos. Como a mensagem imitava a T I da própria instituição, é phishing direcionado, também chamado spear phishing.
+Pense na sua resposta.
 
 **Resposta: letra C, phishing direcionado.**
+
+**Por quê.** Phishing é a pescaria de dados: uma mensagem falsa leva a vítima a uma página falsa onde ela mesma digita a senha. O detalhe de que nada foi baixado ou instalado elimina spyware, vírus e outros programas maliciosos. Como a mensagem imitava a T I da própria instituição, é phishing direcionado, também chamado spear phishing.
 
 ---
 
@@ -308,11 +308,11 @@ Letra C: tetradecágono.
 
 Letra D: octógono.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O número de diagonais de um polígono de n lados é n vezes n menos 3, dividido por 2. Com 2 diagonais, n é 4, o quadrado. Com 20, n é 8, o octógono. Com 9, n é 6, o hexágono. Com 35, n é 10, o decágono. Então os lados seguem 4, 8, 6, 10, 8: soma 4, tira 2, soma 4, tira 2. O sexto é 8 mais 4, igual a 12, e o sétimo é 12 menos 2, igual a 10 lados: decágono. Icosaedro nem é polígono, é um sólido.
+Pense na sua resposta.
 
 **Resposta: letra B, decágono.**
+
+**Por quê.** O número de diagonais de um polígono de n lados é n vezes n menos 3, dividido por 2. Com 2 diagonais, n é 4, o quadrado. Com 20, n é 8, o octógono. Com 9, n é 6, o hexágono. Com 35, n é 10, o decágono. Então os lados seguem 4, 8, 6, 10, 8: soma 4, tira 2, soma 4, tira 2. O sexto é 8 mais 4, igual a 12, e o sétimo é 12 menos 2, igual a 10 lados: decágono. Icosaedro nem é polígono, é um sólido.
 
 ---
 
@@ -332,11 +332,11 @@ Letra C: 10 horas e 24 minutos.
 
 Letra D: 8 horas e 19 minutos.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Descubra o ritmo de um perito: 5 peritos em 8 horas são 40 horas de trabalho para 20 relatórios, então cada relatório gasta 2 horas de perito. Para 26 relatórios são 52 horas de perito. Divididas entre 4 peritos, dá 13 horas.
+Pense na sua resposta.
 
 **Resposta: letra A, 13 horas.**
+
+**Por quê.** Descubra o ritmo de um perito: 5 peritos em 8 horas são 40 horas de trabalho para 20 relatórios, então cada relatório gasta 2 horas de perito. Para 26 relatórios são 52 horas de perito. Divididas entre 4 peritos, dá 13 horas.
 
 ---
 
@@ -356,11 +356,11 @@ Letra C: "O álibi do suspeito não é verdadeiro e ele estava no cinema.".
 
 Letra D: "O álibi do suspeito é verdadeiro e ele não estava no cinema.".
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Regra de ouro: a frase "se A, então B" só é falsa em um único caso, quando A é verdadeiro e B é falso. Por isso, se a condicional é falsa, o álibi é verdadeiro e ele não estava no cinema. Essa também é a negação da condicional: mantém a primeira parte e nega a segunda, ligadas por "e".
+Pense na sua resposta.
 
 **Resposta: letra D, "O álibi do suspeito é verdadeiro e ele não estava no cinema.".**
+
+**Por quê.** Regra de ouro: a frase "se A, então B" só é falsa em um único caso, quando A é verdadeiro e B é falso. Por isso, se a condicional é falsa, o álibi é verdadeiro e ele não estava no cinema. Essa também é a negação da condicional: mantém a primeira parte e nega a segunda, ligadas por "e".
 
 ---
 
@@ -380,8 +380,8 @@ Letra C: 73 sobre 143.
 
 Letra D: 129 sobre 143.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Total de equipes possíveis: combinação de 13 escolhe 4, que dá 715. Pelo menos 2 homens significa 2, 3 ou 4 homens. Com 2 homens e 2 mulheres: 10 vezes 28, igual a 280. Com 3 homens e 1 mulher: 10 vezes 8, igual a 80. Com 4 homens: 5. Somando, 365. A probabilidade é 365 sobre 715, que simplificando por 5 dá 73 sobre 143.
+Pense na sua resposta.
 
 **Resposta: letra C, 73 sobre 143.**
+
+**Por quê.** Total de equipes possíveis: combinação de 13 escolhe 4, que dá 715. Pelo menos 2 homens significa 2, 3 ou 4 homens. Com 2 homens e 2 mulheres: 10 vezes 28, igual a 280. Com 3 homens e 1 mulher: 10 vezes 8, igual a 80. Com 4 homens: 5. Somando, 365. A probabilidade é 365 sobre 715, que simplificando por 5 dá 73 sobre 143.

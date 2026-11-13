@@ -230,9 +230,9 @@ Letra E: falsificação de documento particular.
 
 Pense na sua resposta.
 
-**A explicação.** A forma do documento é verdadeira: foi emitido por quem tinha competência, com papel e carimbo legítimos. O que é falso é o conteúdo. Isso é falsidade ideológica. Na falsificação de documento público, que é falsidade material, o próprio documento é forjado ou adulterado fisicamente.
+**Resposta: letra B: falsidade ideológica, pois o documento é formalmente verdadeiro, mas o seu conteúdo é falso.**
 
-**Resposta: letra B.**
+**Por quê.** A forma do documento é verdadeira: foi emitido por quem tinha competência, com papel e carimbo legítimos. O que é falso é o conteúdo. Isso é falsidade ideológica. Na falsificação de documento público, que é falsidade material, o próprio documento é forjado ou adulterado fisicamente.
 
 ---
 
@@ -252,9 +252,9 @@ Letra E: configura apenas infração administrativa.
 
 Pense na sua resposta.
 
-**A explicação.** Atribuir-se falsa identidade perante a autoridade policial é crime de falsa identidade, mesmo que alegada a autodefesa, pela Súmula 522. Não é uso de documento falso, porque ele não apresentou documento. O direito ao silêncio protege quanto aos fatos, mas não autoriza mentir sobre a própria identidade.
+**Resposta: letra C: configura o crime de falsa identidade, que é típico ainda que praticado em alegada autodefesa, segundo a Súmula 522 do Superior Tribunal de Justiça.**
 
-**Resposta: letra C.**
+**Por quê.** Atribuir-se falsa identidade perante a autoridade policial é crime de falsa identidade, mesmo que alegada a autodefesa, pela Súmula 522. Não é uso de documento falso, porque ele não apresentou documento. O direito ao silêncio protege quanto aos fatos, mas não autoriza mentir sobre a própria identidade.
 
 ---
 
@@ -274,9 +274,9 @@ Letra E: configura apologia de crime.
 
 Pense na sua resposta.
 
-**A explicação.** A associação criminosa exige três ou mais pessoas unidas de forma estável e permanente para cometer crimes. A reunião ocasional para um único crime é apenas concurso de pessoas. A organização criminosa exige quatro ou mais pessoas e estrutura com divisão de tarefas.
+**Resposta: letra C: não configura associação criminosa, que exige vínculo estável e permanente, mas apenas concurso de pessoas no furto.**
 
-**Resposta: letra C.**
+**Por quê.** A associação criminosa exige três ou mais pessoas unidas de forma estável e permanente para cometer crimes. A reunião ocasional para um único crime é apenas concurso de pessoas. A organização criminosa exige quatro ou mais pessoas e estrutura com divisão de tarefas.
 
 ---
 
@@ -296,9 +296,9 @@ Letra E: falsificação de documento particular.
 
 Pense na sua resposta.
 
-**A explicação.** Pela Súmula 73, a utilização de papel-moeda grosseiramente falsificado configura, em tese, estelionato, de competência da Justiça Estadual, porque a falsificação não é capaz de atingir a fé pública. A moeda falsa, de competência federal, exige uma falsificação capaz de enganar.
+**Resposta: letra B: estelionato, de competência da Justiça Estadual.**
 
-**Resposta: letra B.**
+**Por quê.** Pela Súmula 73, a utilização de papel-moeda grosseiramente falsificado configura, em tese, estelionato, de competência da Justiça Estadual, porque a falsificação não é capaz de atingir a fé pública. A moeda falsa, de competência federal, exige uma falsificação capaz de enganar.
 
 ---
 

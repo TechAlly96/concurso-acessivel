@@ -362,9 +362,9 @@ Letra E: Cabe ação penal privada subsidiária da pública quando o Ministério
 
 Pense na sua resposta.
 
-**A explicação.** Pelo artigo 49 do Código de Processo Penal, a renúncia em relação a um dos autores a todos se estende, por causa do princípio da indivisibilidade. Sem representação, não há inquérito. A retratação vale só até o oferecimento da denúncia. O Ministério Público não pode desistir da ação. E o pedido de arquivamento não é inércia, por isso não abre a ação subsidiária.
+**Resposta: letra D: A renúncia ao direito de queixa em relação a um dos autores do crime se estende a todos.**
 
-**Resposta: letra D.**
+**Por quê.** Pelo artigo 49 do Código de Processo Penal, a renúncia em relação a um dos autores a todos se estende, por causa do princípio da indivisibilidade. Sem representação, não há inquérito. A retratação vale só até o oferecimento da denúncia. O Ministério Público não pode desistir da ação. E o pedido de arquivamento não é inércia, por isso não abre a ação subsidiária.
 
 ---
 
@@ -384,9 +384,9 @@ Letra E: flagrante preparado, que configura crime impossível.
 
 Pense na sua resposta.
 
-**A explicação.** Pelo inciso 3 do artigo 302, há flagrante impróprio quando o agente é perseguido logo após o crime, em situação que faça presumir ser o autor. A perseguição pode durar horas, desde que comece logo após e não seja interrompida. Não existe limite de tempo fixo na lei.
+**Resposta: letra B: flagrante impróprio, ou quase-flagrante, pois o agente foi perseguido logo após o crime, sem interrupção.**
 
-**Resposta: letra B.**
+**Por quê.** Pelo inciso 3 do artigo 302, há flagrante impróprio quando o agente é perseguido logo após o crime, em situação que faça presumir ser o autor. A perseguição pode durar horas, desde que comece logo após e não seja interrompida. Não existe limite de tempo fixo na lei.
 
 ---
 
@@ -406,9 +406,9 @@ Letra E: pode ser decretada pelo delegado de polícia em caso de urgência.
 
 Pense na sua resposta.
 
-**A explicação.** A temporária só existe na fase de investigação, nunca de ofício, e é sempre decretada pelo juiz. O prazo é de cinco mais cinco dias nos crimes comuns, e de trinta mais trinta nos hediondos e equiparados. Ao fim do prazo, o preso é solto independentemente de nova ordem.
+**Resposta: letra C: é cabível apenas durante a investigação policial, mediante representação da autoridade policial ou requerimento do Ministério Público, e, nos crimes hediondos, tem prazo de trinta dias, prorrogável por igual período em caso de extrema e comprovada necessidade.**
 
-**Resposta: letra C.**
+**Por quê.** A temporária só existe na fase de investigação, nunca de ofício, e é sempre decretada pelo juiz. O prazo é de cinco mais cinco dias nos crimes comuns, e de trinta mais trinta nos hediondos e equiparados. Ao fim do prazo, o preso é solto independentemente de nova ordem.
 
 ---
 
@@ -428,9 +428,9 @@ Letra E: converter o pedido em prisão domiciliar obrigatória.
 
 Pense na sua resposta.
 
-**A explicação.** Pelo artigo 313, a preventiva exige crime doloso com pena máxima superior a quatro anos, e não igual a quatro. As outras hipóteses, como reincidência, violência doméstica ou dúvida sobre a identidade, também não estão presentes. Além disso, a gravidade abstrata não é fundamento válido, e o juiz não pode decretar prisão de ofício.
+**Resposta: letra C: indeferir o pedido, porque não estão presentes as hipóteses de cabimento do artigo 313, já que a pena máxima não é superior a quatro anos e o investigado não é reincidente.**
 
-**Resposta: letra C.**
+**Por quê.** Pelo artigo 313, a preventiva exige crime doloso com pena máxima superior a quatro anos, e não igual a quatro. As outras hipóteses, como reincidência, violência doméstica ou dúvida sobre a identidade, também não estão presentes. Além disso, a gravidade abstrata não é fundamento válido, e o juiz não pode decretar prisão de ofício.
 
 ---
 

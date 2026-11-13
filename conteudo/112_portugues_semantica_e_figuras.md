@@ -230,9 +230,9 @@ Letra E: O policial agiu com muita descrição durante a campana.
 
 Pense na sua resposta.
 
-**A explicação.** Retificar é corrigir, e a frase fala exatamente em correção. Na A, o correto é mandado; e, além disso, mandado de prisão é expedido pelo juiz, e não pelo delegado. Na B, é flagrante. Na D, conceder é deferir; diferir seria adiar. Na E, agir de forma reservada é agir com discrição.
+**Resposta: letra C: A testemunha retificou o depoimento, corrigindo a data informada anteriormente.**
 
-**Resposta: letra C.**
+**Por quê.** Retificar é corrigir, e a frase fala exatamente em correção. Na A, o correto é mandado; e, além disso, mandado de prisão é expedido pelo juiz, e não pelo delegado. Na B, é flagrante. Na D, conceder é deferir; diferir seria adiar. Na E, agir de forma reservada é agir com discrição.
 
 ---
 
@@ -252,9 +252,9 @@ Letra E: "Eu gosto de futebol; ela, de vôlei": pleonasmo.
 
 Pense na sua resposta.
 
-**A explicação.** "Toda a delegacia" está no lugar das pessoas que trabalham nela: é o lugar pelas pessoas, uma metonímia. A letra A é metáfora, porque não há "como". A C é eufemismo, que suaviza a morte. A D é hipérbole, um exagero. E a E é zeugma, a omissão do verbo "gosta", já dito antes.
+**Resposta: letra B: "Toda a delegacia aplaudiu a prisão": metonímia.**
 
-**Resposta: letra B.**
+**Por quê.** "Toda a delegacia" está no lugar das pessoas que trabalham nela: é o lugar pelas pessoas, uma metonímia. A letra A é metáfora, porque não há "como". A C é eufemismo, que suaviza a morte. A D é hipérbole, um exagero. E a E é zeugma, a omissão do verbo "gosta", já dito antes.
 
 ---
 
@@ -274,9 +274,9 @@ Letra E: O candidato levou bomba na prova de redação.
 
 Pense na sua resposta.
 
-**A explicação.** Na letra B, bomba é o artefato explosivo, no sentido literal, de dicionário: é denotação. Nas outras, bomba tem sentido figurado: um escândalo, uma pessoa cheia de energia, uma surpresa, uma reprovação.
+**Resposta: letra B: O perito encontrou uma bomba caseira no porta-malas do carro.**
 
-**Resposta: letra B.**
+**Por quê.** Na letra B, bomba é o artefato explosivo, no sentido literal, de dicionário: é denotação. Nas outras, bomba tem sentido figurado: um escândalo, uma pessoa cheia de energia, uma surpresa, uma reprovação.
 
 ---
 
@@ -296,9 +296,9 @@ Letra E: A testemunha parecia assustada.
 
 Pense na sua resposta.
 
-**A explicação.** "Inquérito policial" é o inquérito da polícia: o adjetivo indica relação e pode ser trocado pela locução "da polícia". Nervoso, arrombada e assustada indicam estado; longo indica qualidade.
+**Resposta: letra C: O inquérito policial foi concluído.**
 
-**Resposta: letra C.**
+**Por quê.** "Inquérito policial" é o inquérito da polícia: o adjetivo indica relação e pode ser trocado pela locução "da polícia". Nervoso, arrombada e assustada indicam estado; longo indica qualidade.
 
 ---
 

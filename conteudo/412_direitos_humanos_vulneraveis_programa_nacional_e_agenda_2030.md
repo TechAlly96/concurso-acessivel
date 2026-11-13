@@ -280,9 +280,9 @@ Letra E: O Tratado de Marraqueche trata da proteção dos refugiados.
 
 Pense na sua resposta.
 
-**A explicação.** A Convenção sobre os Direitos das Pessoas com Deficiência foi o primeiro tratado aprovado pelo rito do parágrafo 3º do artigo 5º, com status de emenda constitucional. Grupo vulnerável não depende de número. As ações afirmativas são temporárias. A lei adota o modelo social, que considera a interação com as barreiras. E o Tratado de Marraqueche trata do acesso de pessoas cegas aos livros.
+**Resposta: letra B: A Convenção sobre os Direitos das Pessoas com Deficiência foi o primeiro tratado de direitos humanos aprovado no Brasil com o quórum de emenda constitucional.**
 
-**Resposta: letra B.**
+**Por quê.** A Convenção sobre os Direitos das Pessoas com Deficiência foi o primeiro tratado aprovado pelo rito do parágrafo 3º do artigo 5º, com status de emenda constitucional. Grupo vulnerável não depende de número. As ações afirmativas são temporárias. A lei adota o modelo social, que considera a interação com as barreiras. E o Tratado de Marraqueche trata do acesso de pessoas cegas aos livros.
 
 ---
 
@@ -302,9 +302,9 @@ Letra E: o adolescente pode ser apreendido por ordem verbal da autoridade polici
 
 Pense na sua resposta.
 
-**A explicação.** Pelo artigo 107 do Estatuto, a apreensão de adolescente é comunicada imediatamente ao juiz e à família ou à pessoa indicada. O transporte em compartimento fechado em condições atentatórias à dignidade é proibido. O adolescente recebe medidas socioeducativas, e não pena. A internação dura no máximo três anos. E a apreensão só ocorre em flagrante ou por ordem escrita e fundamentada do juiz.
+**Resposta: letra A: a apreensão deve ser comunicada imediatamente à autoridade judiciária e à família do adolescente ou à pessoa por ele indicada.**
 
-**Resposta: letra A.**
+**Por quê.** Pelo artigo 107 do Estatuto, a apreensão de adolescente é comunicada imediatamente ao juiz e à família ou à pessoa indicada. O transporte em compartimento fechado em condições atentatórias à dignidade é proibido. O adolescente recebe medidas socioeducativas, e não pena. A internação dura no máximo três anos. E a apreensão só ocorre em flagrante ou por ordem escrita e fundamentada do juiz.
 
 ---
 
@@ -324,9 +324,9 @@ Letra E: a proibição da educação em direitos humanos nas academias de políc
 
 Pense na sua resposta.
 
-**A explicação.** O quarto eixo orientador do terceiro programa é "segurança pública, acesso à justiça e combate à violência". Os seis eixos são: interação democrática entre Estado e sociedade civil, desenvolvimento e direitos humanos, universalizar direitos num contexto de desigualdades, segurança pública, educação e cultura em direitos humanos, e direito à memória e à verdade.
+**Resposta: letra B: a segurança pública, o acesso à justiça e o combate à violência.**
 
-**Resposta: letra B.**
+**Por quê.** O quarto eixo orientador do terceiro programa é "segurança pública, acesso à justiça e combate à violência". Os seis eixos são: interação democrática entre Estado e sociedade civil, desenvolvimento e direitos humanos, universalizar direitos num contexto de desigualdades, segurança pública, educação e cultura em direitos humanos, e direito à memória e à verdade.
 
 ---
 
@@ -346,9 +346,9 @@ Letra E: Tem como prazo final o ano de 2050.
 
 Pense na sua resposta.
 
-**A explicação.** A Agenda 2030, adotada em 2015, tem dezessete objetivos e cento e sessenta e nove metas, e o objetivo 16 trata de paz, justiça e instituições eficazes. Os oito objetivos de 2000 eram os do milênio. A agenda é universal, vale para todos os países, e integra as dimensões econômica, social e ambiental.
+**Resposta: letra C: possui dezessete Objetivos de Desenvolvimento Sustentável, entre eles o de promover a paz, a justiça e instituições eficazes.**
 
-**Resposta: letra C.**
+**Por quê.** A Agenda 2030, adotada em 2015, tem dezessete objetivos e cento e sessenta e nove metas, e o objetivo 16 trata de paz, justiça e instituições eficazes. Os oito objetivos de 2000 eram os do milênio. A agenda é universal, vale para todos os países, e integra as dimensões econômica, social e ambiental.
 
 ---
 

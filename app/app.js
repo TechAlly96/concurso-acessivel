@@ -5,7 +5,7 @@ const DADOS = "../dados/";
 const CACHE_AUDIO = "concurso-audio-v1";
 const CACHE_DADOS = "concurso-dados-v1";
 const VELOCIDADES = [0.75, 1, 1.25, 1.5, 1.75];
-const GRUPOS = [["geral", "Comece por aqui"], ["prova", "Provas anteriores resolvidas"], ["curso", "Curso completo: aprenda do zero"]];
+const GRUPOS = [["geral", "Comece por aqui"], ["revisao", "Revisão relâmpago: ouça todo dia"], ["prova", "Provas anteriores resolvidas"], ["curso", "Curso completo: aprenda do zero"], ["outro", "Outro concurso: Técnico Assistente da PC-MG (fora da sequência)"]];
 const AREAS = { "1": "Língua Portuguesa", "2": "Informática", "3": "Raciocínio Lógico-Matemático", "4": "Direitos Humanos", "5": "Legislação: Lei Orgânica da PCMG e Estatuto", "6": "Técnico Assistente: Auxiliar de Necropsia e Biossegurança", "7": "Direito: Constitucional, Administrativo, Penal, Processual Penal e Legislação Extravagante", "8": "Medicina Legal e Criminologia" };
 const $ = (id) => document.getElementById(id);
 
@@ -64,7 +64,7 @@ function preparar(titulo, comVoltar) {
 
 function telaInicio() {
   const main = preparar("Concurso Acessível", false);
-  main.append(el("p", "aviso", "Curso completo para concursos públicos e provas anteriores resolvidas, tudo em áudio e em linguagem simples. Primeiro edital: Polícia Civil de Minas Gerais, Técnico Assistente, Auxiliar de Perícia. Coloque o fone e toque no botão abaixo: as partes tocam uma depois da outra, até o fim, e depois recomeçam. Funciona com a tela apagada. Se preferir, escolha uma parte na lista."));
+  main.append(el("p", "aviso", "Curso completo e gratuito em áudio para o concurso de Investigador da Polícia Civil de Minas Gerais: todas as matérias do edital, com revisão relâmpago por matéria e provas anteriores resolvidas. Coloque o fone e toque no botão abaixo: as partes tocam uma depois da outra, até o fim, e depois recomeçam. Funciona com a tela apagada. Se preferir, escolha uma parte na lista."));
   const prog = recuperar("concurso-progresso", null);
   const parteSalva = prog && partes.find((p) => p.id === prog.parte);
   const inicio = sequencia()[0];
@@ -189,15 +189,34 @@ async function baixarParte(id) {
 }
 
 // ---------- modo guiado: tudo em sequencia, como um cao-guia ----------
-// Ordem: apresentacao -> prova anterior (diagnostico) -> curso completo
-// (todas as materias do edital) -> demais partes -> recomeca.
+// Ordem pensada para memorizar: apresentacao e plano -> cada materia do curso,
+// seguida na hora da sua revisao relampago (consolidacao) -> provas anteriores
+// do Investigador (teste de memoria) -> recomeca. O material do outro concurso
+// (Tecnico Assistente) fica fora da sequencia, so na lista.
 function sequencia() {
-  const ordem = (p) => p.id.startsWith("0") ? 0 : p.dia === "prova" ? 1 : p.dia === "curso" ? 2 : 3;
-  return partes.slice().sort((a, b) => ordem(a) - ordem(b) || a.id.localeCompare(b.id)).map((p) => p.id);
+  const porId = (a, b) => a.id.localeCompare(b.id);
+  const seq = partes.filter((p) => p.id.startsWith("0")).sort(porId).map((p) => p.id);
+  const revisao = {};
+  partes.filter((p) => p.dia === "revisao").forEach((p) => { revisao[p.materia] = p.id; });
+  const curso = partes.filter((p) => p.dia === "curso").sort(porId);
+  curso.forEach((p, i) => {
+    seq.push(p.id);
+    const prox = curso[i + 1];
+    if (revisao[p.materia] && (!prox || prox.materia !== p.materia)) { seq.push(revisao[p.materia]); delete revisao[p.materia]; }
+  });
+  Object.values(revisao).forEach((id) => seq.push(id));
+  partes.filter((p) => p.dia === "prova").sort(porId).forEach((p) => seq.push(p.id));
+  return seq;
 }
 function vizinha(id, passo) {
   const seq = sequencia();
   const i = seq.indexOf(id);
+  if (i < 0 && passo > 0) {
+    // parte fora da sequencia (outro concurso): segue para a proxima da propria lista
+    const lista = partes.filter((p) => p.dia === "outro").map((p) => p.id).sort();
+    const j = lista.indexOf(id);
+    if (j >= 0 && j + 1 < lista.length) return lista[j + 1];
+  }
   return seq[((i < 0 ? 0 : i) + passo + seq.length) % seq.length];
 }
 async function avancarParte() {

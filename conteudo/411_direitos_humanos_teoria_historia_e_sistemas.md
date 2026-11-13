@@ -250,9 +250,9 @@ Letra E: Absolutismo, pois nenhum direito humano admite limitação.
 
 Pense na sua resposta.
 
-**A explicação.** Os direitos humanos são inalienáveis: não se vendem nem se transferem. São imprescritíveis e irrenunciáveis, por isso A e C erram. Não são taxativos, porque o parágrafo 2º do artigo 5º abre a lista para outros direitos. E nenhum é absoluto.
+**Resposta: letra B: inalienabilidade, pois não podem ser transferidos nem negociados pelo titular.**
 
-**Resposta: letra B.**
+**Por quê.** Os direitos humanos são inalienáveis: não se vendem nem se transferem. São imprescritíveis e irrenunciáveis, por isso A e C erram. Não são taxativos, porque o parágrafo 2º do artigo 5º abre a lista para outros direitos. E nenhum é absoluto.
 
 ---
 
@@ -272,9 +272,9 @@ Letra E: aguardar que o Brasil denuncie a si mesmo perante a Organização dos E
 
 Pense na sua resposta.
 
-**A explicação.** A pessoa ou a família peticiona à Comissão Interamericana, em Washington. Só a Comissão e os Estados podem levar casos à Corte. A Corte Internacional de Justiça é da O N U e julga conflitos entre países. E as sentenças da Corte Interamericana não precisam de homologação.
+**Resposta: letra B: apresentar petição à Comissão Interamericana de Direitos Humanos, que poderá submeter o caso à Corte.**
 
-**Resposta: letra B.**
+**Por quê.** A pessoa ou a família peticiona à Comissão Interamericana, em Washington. Só a Comissão e os Estados podem levar casos à Corte. A Corte Internacional de Justiça é da O N U e julga conflitos entre países. E as sentenças da Corte Interamericana não precisam de homologação.
 
 ---
 
@@ -294,9 +294,9 @@ Letra E: A Declaração Universal dos Direitos Humanos foi ratificada pelo Brasi
 
 Pense na sua resposta.
 
-**A explicação.** Para o Supremo, os tratados de direitos humanos sem o rito especial ficam acima das leis e abaixo da Constituição: são supralegais. É o caso do próprio Pacto de São José, por isso a D erra. Só os aprovados pelo rito do parágrafo 3º equivalem a emendas. Todo tratado passa pelo Congresso. E a Declaração Universal é resolução, não se ratifica.
+**Resposta: letra B: os tratados de direitos humanos não aprovados pelo rito especial têm, segundo o Supremo, status supralegal.**
 
-**Resposta: letra B.**
+**Por quê.** Para o Supremo, os tratados de direitos humanos sem o rito especial ficam acima das leis e abaixo da Constituição: são supralegais. É o caso do próprio Pacto de São José, por isso a D erra. Só os aprovados pelo rito do parágrafo 3º equivalem a emendas. Todo tratado passa pelo Congresso. E a Declaração Universal é resolução, não se ratifica.
 
 ---
 
@@ -316,9 +316,9 @@ Letra E: a proporcionalidade só se aplica ao uso de armas de fogo.
 
 Pense na sua resposta.
 
-**A explicação.** A Lei 13060 diz expressamente que não é legítimo o uso de arma de fogo contra pessoa em fuga desarmada ou que não represente risco imediato de morte ou lesão. A força em si pode ser usada, de forma proporcional, por isso a C erra. A lei manda priorizar os instrumentos de menor potencial ofensivo. E a proporcionalidade vale para qualquer uso da força.
+**Resposta: letra B: não é legítimo o uso de arma de fogo contra pessoa em fuga desarmada que não represente risco imediato de morte ou lesão aos policiais ou a terceiros.**
 
-**Resposta: letra B.**
+**Por quê.** A Lei 13060 diz expressamente que não é legítimo o uso de arma de fogo contra pessoa em fuga desarmada ou que não represente risco imediato de morte ou lesão. A força em si pode ser usada, de forma proporcional, por isso a C erra. A lei manda priorizar os instrumentos de menor potencial ofensivo. E a proporcionalidade vale para qualquer uso da força.
 
 ---
 

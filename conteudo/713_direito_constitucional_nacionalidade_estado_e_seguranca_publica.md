@@ -346,9 +346,9 @@ Letra E: Deputado Federal.
 
 Pense na sua resposta.
 
-**A explicação.** O Ministro de Estado da Defesa é o "com" do macete "eme pê três ponto com", ao lado da carreira diplomática e do oficial das Forças Armadas. Senadores, deputados e ministros do Superior Tribunal de Justiça podem ser naturalizados. Só as presidências da Câmara e do Senado, e o cargo de Ministro do Supremo, são privativos de nato.
+**Resposta: letra D: Ministro de Estado da Defesa.**
 
-**Resposta: letra D.**
+**Por quê.** O Ministro de Estado da Defesa é o "com" do macete "eme pê três ponto com", ao lado da carreira diplomática e do oficial das Forças Armadas. Senadores, deputados e ministros do Superior Tribunal de Justiça podem ser naturalizados. Só as presidências da Câmara e do Senado, e o cargo de Ministro do Supremo, são privativos de nato.
 
 ---
 
@@ -368,9 +368,9 @@ Letra E: inconstitucional, pois direito penal é competência privativa dos Muni
 
 Pense na sua resposta.
 
-**A explicação.** Pelo artigo 22, compete privativamente à União legislar sobre direito penal. É o "pa" do macete "capacete de pm". Um Estado não pode criar crimes, salvo se uma lei complementar federal o autorizar a legislar sobre questões específicas, o que não é o caso.
+**Resposta: letra C: inconstitucional, pois legislar sobre direito penal é competência privativa da União.**
 
-**Resposta: letra C.**
+**Por quê.** Pelo artigo 22, compete privativamente à União legislar sobre direito penal. É o "pa" do macete "capacete de pm". Um Estado não pode criar crimes, salvo se uma lei complementar federal o autorizar a legislar sobre questões específicas, o que não é o caso.
 
 ---
 
@@ -390,9 +390,9 @@ Letra E: os Estados podem criar livremente novos órgãos de segurança pública
 
 Pense na sua resposta.
 
-**A explicação.** O parágrafo 5º do artigo 144 atribui às polícias militares a polícia ostensiva e a preservação da ordem pública. As polícias civis não apuram as infrações militares. As guardas municipais não estão nos incisos e não exercem polícia judiciária. As polícias civis se subordinam aos Governadores. E o rol do artigo 144 é taxativo.
+**Resposta: letra B: cabem às polícias militares a polícia ostensiva e a preservação da ordem pública.**
 
-**Resposta: letra B.**
+**Por quê.** O parágrafo 5º do artigo 144 atribui às polícias militares a polícia ostensiva e a preservação da ordem pública. As polícias civis não apuram as infrações militares. As guardas municipais não estão nos incisos e não exercem polícia judiciária. As polícias civis se subordinam aos Governadores. E o rol do artigo 144 é taxativo.
 
 ---
 
@@ -412,9 +412,9 @@ Letra E: São princípios institucionais do Ministério Público a hierarquia, a
 
 Pense na sua resposta.
 
-**A explicação.** Os incisos 7 e 8 do artigo 129 dão ao Ministério Público o controle externo da atividade policial e o poder de requisitar diligências e a instauração de inquérito. O controle externo não é hierarquia. O Supremo admite que o Ministério Público investigue. A ação penal pública é privativa do Ministério Público. E os princípios institucionais são unidade, indivisibilidade e independência funcional.
+**Resposta: letra C: cabe ao Ministério Público exercer o controle externo da atividade policial e requisitar diligências investigatórias e a instauração de inquérito policial.**
 
-**Resposta: letra C.**
+**Por quê.** Os incisos 7 e 8 do artigo 129 dão ao Ministério Público o controle externo da atividade policial e o poder de requisitar diligências e a instauração de inquérito. O controle externo não é hierarquia. O Supremo admite que o Ministério Público investigue. A ação penal pública é privativa do Ministério Público. E os princípios institucionais são unidade, indivisibilidade e independência funcional.
 
 ---
 

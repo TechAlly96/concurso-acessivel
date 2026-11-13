@@ -198,9 +198,9 @@ Letra E: homicídio culposo, estupro e genocídio.
 
 Pense na sua resposta.
 
-**A explicação.** Latrocínio, que é o roubo com resultado morte, e estupro de vulnerável são hediondos, e a tortura é equiparada. Nas outras opções, sempre há um intruso: homicídio simples fora do grupo de extermínio, furto qualificado sem explosivo, roubo simples, associação para o tráfico, lesão grave e não gravíssima, tráfico privilegiado e homicídio culposo não são hediondos.
+**Resposta: letra B: latrocínio, estupro de vulnerável e tortura.**
 
-**Resposta: letra B.**
+**Por quê.** Latrocínio, que é o roubo com resultado morte, e estupro de vulnerável são hediondos, e a tortura é equiparada. Nas outras opções, sempre há um intruso: homicídio simples fora do grupo de extermínio, furto qualificado sem explosivo, roubo simples, associação para o tráfico, lesão grave e não gravíssima, tráfico privilegiado e homicídio culposo não são hediondos.
 
 ---
 
@@ -220,9 +220,9 @@ Letra E: 70 por cento da pena.
 
 Pense na sua resposta.
 
-**A explicação.** Homicídio qualificado é hediondo e tem resultado morte. Para o primário, em hediondo com resultado morte, a progressão exige 50 por cento, e o livramento condicional é vedado. Os 40 por cento seriam de um hediondo sem morte; 60 e 70, de reincidentes.
+**Resposta: letra C: 50 por cento da pena, sendo vedado o livramento condicional.**
 
-**Resposta: letra C.**
+**Por quê.** Homicídio qualificado é hediondo e tem resultado morte. Para o primário, em hediondo com resultado morte, a progressão exige 50 por cento, e o livramento condicional é vedado. Os 40 por cento seriam de um hediondo sem morte; 60 e 70, de reincidentes.
 
 ---
 
@@ -242,9 +242,9 @@ Letra E: Para distinguir o usuário do traficante, considera-se, entre outros fa
 
 Pense na sua resposta.
 
-**A explicação.** É o artigo 28, parágrafo 2º: natureza e quantidade da droga, local e condições da ação, circunstâncias sociais e pessoais, conduta e antecedentes. O usuário não é recolhido ao cárcere. Fornecer droga ainda que gratuitamente é tráfico. O tráfico privilegiado não é hediondo. E a associação para o tráfico exige duas ou mais pessoas.
+**Resposta: letra E: para distinguir o usuário do traficante, considera-se, entre outros fatores, a natureza e a quantidade da droga e as circunstâncias da apreensão.**
 
-**Resposta: letra E.**
+**Por quê.** É o artigo 28, parágrafo 2º: natureza e quantidade da droga, local e condições da ação, circunstâncias sociais e pessoais, conduta e antecedentes. O usuário não é recolhido ao cárcere. Fornecer droga ainda que gratuitamente é tráfico. O tráfico privilegiado não é hediondo. E a associação para o tráfico exige duas ou mais pessoas.
 
 ---
 
@@ -264,9 +264,9 @@ Letra E: depende apenas de autorização do Ministério Público.
 
 Pense na sua resposta.
 
-**A explicação.** É a não atuação policial, ou flagrante diferido, do artigo 53, inciso 2. Na Lei de Drogas, ela exige autorização judicial, ouvido o Ministério Público. Não é prevaricação, porque é uma técnica prevista em lei e autorizada.
+**Resposta: letra A: depende de autorização judicial, ouvido o Ministério Público.**
 
-**Resposta: letra A.**
+**Por quê.** É a não atuação policial, ou flagrante diferido, do artigo 53, inciso 2. Na Lei de Drogas, ela exige autorização judicial, ouvido o Ministério Público. Não é prevaricação, porque é uma técnica prevista em lei e autorizada.
 
 ---
 

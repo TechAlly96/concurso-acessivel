@@ -362,9 +362,9 @@ Letra E: disparo de arma de fogo, do artigo 15.
 
 Pense na sua resposta.
 
-**A explicação.** Portar arma com numeração raspada, suprimida ou adulterada é equiparado ao crime do artigo 16, mesmo que a arma seja de uso permitido. E a arma desmuniciada também configura crime, porque os crimes do Estatuto são de perigo abstrato.
+**Resposta: letra D: porte de arma de fogo com numeração raspada, equiparado ao crime do artigo 16, mesmo sendo a arma de uso permitido.**
 
-**Resposta: letra D.**
+**Por quê.** Portar arma com numeração raspada, suprimida ou adulterada é equiparado ao crime do artigo 16, mesmo que a arma seja de uso permitido. E a arma desmuniciada também configura crime, porque os crimes do Estatuto são de perigo abstrato.
 
 ---
 
@@ -384,9 +384,9 @@ Letra E: o cumprimento de mandado de busca domiciliar às vinte e duas horas é 
 
 Pense na sua resposta.
 
-**A explicação.** O parágrafo 1º do artigo 1º exige a finalidade específica de prejudicar, beneficiar ou agir por capricho. A perda do cargo exige reincidência e não é automática. A divergência de interpretação não configura abuso. A ação é pública incondicionada. E cumprir mandado de busca domiciliar depois das vinte e uma horas ou antes das cinco é crime.
+**Resposta: letra B: as condutas só constituem crime quando praticadas com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou por mero capricho ou satisfação pessoal.**
 
-**Resposta: letra B.**
+**Por quê.** O parágrafo 1º do artigo 1º exige a finalidade específica de prejudicar, beneficiar ou agir por capricho. A perda do cargo exige reincidência e não é automática. A divergência de interpretação não configura abuso. A ação é pública incondicionada. E cumprir mandado de busca domiciliar depois das vinte e uma horas ou antes das cinco é crime.
 
 ---
 
@@ -406,9 +406,9 @@ Letra E: responde por prevaricação, apenas.
 
 Pense na sua resposta.
 
-**A explicação.** O parágrafo 2º do artigo 1º da Lei de Tortura pune quem se omite diante das condutas de tortura, quando tinha o dever de evitá-las ou apurá-las, com detenção de um a quatro anos, pena menor que a dos agressores. Os colegas que agrediram o preso, que estava sob a sua guarda, como castigo, cometeram tortura-castigo.
+**Resposta: letra B: responde por tortura por omissão, com pena de detenção de um a quatro anos, porque tinha o dever de evitar ou apurar a conduta.**
 
-**Resposta: letra B.**
+**Por quê.** O parágrafo 2º do artigo 1º da Lei de Tortura pune quem se omite diante das condutas de tortura, quando tinha o dever de evitá-las ou apurá-las, com detenção de um a quatro anos, pena menor que a dos agressores. Os colegas que agrediram o preso, que estava sob a sua guarda, como castigo, cometeram tortura-castigo.
 
 ---
 
@@ -428,9 +428,9 @@ Letra E: O crime de entregar a direção de veículo a pessoa não habilitada ex
 
 Pense na sua resposta.
 
-**A explicação.** A letra C reproduz o artigo 301 do Código de Trânsito. A recusa ao bafômetro é infração administrativa, e não crime. Dirigir sem habilitação só é crime se gerar perigo de dano. A embriaguez ao volante é de perigo abstrato. E entregar a direção a quem não é habilitado também é de perigo abstrato, pela Súmula 575.
+**Resposta: letra C: ao condutor que prestar pronto e integral socorro à vítima de acidente de trânsito não se imporá prisão em flagrante, nem se exigirá fiança.**
 
-**Resposta: letra C.**
+**Por quê.** A letra C reproduz o artigo 301 do Código de Trânsito. A recusa ao bafômetro é infração administrativa, e não crime. Dirigir sem habilitação só é crime se gerar perigo de dano. A embriaguez ao volante é de perigo abstrato. E entregar a direção a quem não é habilitado também é de perigo abstrato, pela Súmula 575.
 
 ---
 

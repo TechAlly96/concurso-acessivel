@@ -230,9 +230,9 @@ Letra E: Permite a suspensão da liberdade de imprensa.
 
 Pense na sua resposta.
 
-**A explicação.** A letra C reúne as regras do artigo 136. O estado de defesa é decretado primeiro e submetido depois ao Congresso. É localizado e tem prazo. A incomunicabilidade do preso é vedada. E as restrições à imprensa são medidas do estado de sítio.
+**Resposta: letra C: é decretado pelo Presidente da República, ouvidos o Conselho da República e o Conselho de Defesa Nacional, para preservar a ordem pública ou a paz social em locais restritos e determinados, por até trinta dias, prorrogáveis uma vez.**
 
-**Resposta: letra C.**
+**Por quê.** A letra C reúne as regras do artigo 136. O estado de defesa é decretado primeiro e submetido depois ao Congresso. É localizado e tem prazo. A incomunicabilidade do preso é vedada. E as restrições à imprensa são medidas do estado de sítio.
 
 ---
 
@@ -252,9 +252,9 @@ Letra E: só pode atingir locais restritos e determinados.
 
 Pense na sua resposta.
 
-**A explicação.** No caso de guerra ou de agressão armada estrangeira, o estado de sítio pode durar por todo o tempo da guerra ou da agressão. Ele é decretado pelo Presidente, com autorização prévia do Congresso. O limite de trinta dias de cada vez vale para a hipótese de comoção grave. E quem é localizado é o estado de defesa.
+**Resposta: letra B: pode ser decretado por todo o tempo que perdurar a guerra ou a agressão armada estrangeira, mediante autorização do Congresso Nacional.**
 
-**Resposta: letra B.**
+**Por quê.** No caso de guerra ou de agressão armada estrangeira, o estado de sítio pode durar por todo o tempo da guerra ou da agressão. Ele é decretado pelo Presidente, com autorização prévia do Congresso. O limite de trinta dias de cada vez vale para a hipótese de comoção grave. E quem é localizado é o estado de defesa.
 
 ---
 
@@ -274,9 +274,9 @@ Letra E: as mulheres são obrigadas ao serviço militar em tempo de paz.
 
 Pense na sua resposta.
 
-**A explicação.** A letra C reproduz o artigo 142. O Supremo afastou a ideia de poder moderador. Sindicalização e greve são proibidas aos militares. O habeas corpus não cabe quanto ao mérito da punição disciplinar, mas cabe quanto à legalidade. E as mulheres são isentas do serviço militar em tempo de paz.
+**Resposta: letra C: são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República.**
 
-**Resposta: letra C.**
+**Por quê.** A letra C reproduz o artigo 142. O Supremo afastou a ideia de poder moderador. Sindicalização e greve são proibidas aos militares. O habeas corpus não cabe quanto ao mérito da punição disciplinar, mas cabe quanto à legalidade. E as mulheres são isentas do serviço militar em tempo de paz.
 
 ---
 
@@ -296,9 +296,9 @@ Letra E: É decretada pelo Supremo Tribunal Federal, sem participação do Presi
 
 Pense na sua resposta.
 
-**A explicação.** A intervenção é decretada pelo Presidente e submetida ao Congresso em vinte e quatro horas, salvo nos casos ligados ao Judiciário em que basta suspender o ato impugnado. A regra é a não intervenção. A Constituição não pode ser emendada durante a intervenção. E as hipóteses vão muito além da guerra, como o grave comprometimento da ordem pública.
+**Resposta: letra B: é decretada pelo Presidente da República e submetida à apreciação do Congresso Nacional no prazo de vinte e quatro horas, salvo nos casos em que a suspensão do ato impugnado bastar para restabelecer a normalidade.**
 
-**Resposta: letra B.**
+**Por quê.** A intervenção é decretada pelo Presidente e submetida ao Congresso em vinte e quatro horas, salvo nos casos ligados ao Judiciário em que basta suspender o ato impugnado. A regra é a não intervenção. A Constituição não pode ser emendada durante a intervenção. E as hipóteses vão muito além da guerra, como o grave comprometimento da ordem pública.
 
 ---
 

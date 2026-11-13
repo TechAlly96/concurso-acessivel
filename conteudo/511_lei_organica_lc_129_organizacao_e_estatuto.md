@@ -224,9 +224,9 @@ Letra E: é escolhido pelo Chefe Adjunto e nomeado pelo Secretário de Seguranç
 
 Pense na sua resposta.
 
-**A explicação.** São três requisitos: delegado em atividade, nível final e vinte anos de serviço, com nomeação pelo Governador. Não há eleição, não são vinte e cinco anos, aposentados não podem, e quem substitui o Chefe automaticamente é o Chefe Adjunto.
+**Resposta: letra B: é nomeado pelo Governador entre delegados em atividade, do nível final da carreira, com no mínimo vinte anos de efetivo serviço policial.**
 
-**Resposta: letra B.**
+**Por quê.** São três requisitos: delegado em atividade, nível final e vinte anos de serviço, com nomeação pelo Governador. Não há eleição, não são vinte e cinco anos, aposentados não podem, e quem substitui o Chefe automaticamente é o Chefe Adjunto.
 
 ---
 
@@ -246,9 +246,9 @@ Letra E: tem direito a afastamento remunerado por três anos.
 
 Pense na sua resposta.
 
-**A explicação.** A ajuda de custo é devida na remoção de ofício que importe alteração do domicílio, no valor de um mês de vencimento. Na remoção a pedido, não há ajuda de custo. O auxílio-natalidade é pelo nascimento ou adoção de filho.
+**Resposta: letra B: tem direito à ajuda de custo, no valor de um mês de vencimento.**
 
-**Resposta: letra B.**
+**Por quê.** A ajuda de custo é devida na remoção de ofício que importe alteração do domicílio, no valor de um mês de vencimento. Na remoção a pedido, não há ajuda de custo. O auxílio-natalidade é pelo nascimento ou adoção de filho.
 
 ---
 
@@ -268,9 +268,9 @@ Letra E: o afastamento não depende de autorização e pode ser decidido pelo pr
 
 Pense na sua resposta.
 
-**A explicação.** Tudo é três: três meses, prorrogáveis por mais três, e três anos de serviço depois, ou ressarcimento. Durante o afastamento, é proibido exercer outra atividade, pública ou particular. E o afastamento depende de ato da autoridade competente.
+**Resposta: letra C: depois do afastamento, ele deve prestar serviços por pelo menos mais três anos ou ressarcir o Estado.**
 
-**Resposta: letra C.**
+**Por quê.** Tudo é três: três meses, prorrogáveis por mais três, e três anos de serviço depois, ou ressarcimento. Durante o afastamento, é proibido exercer outra atividade, pública ou particular. E o afastamento depende de ato da autoridade competente.
 
 ---
 
@@ -290,9 +290,9 @@ Letra E: Chefia, Superintendência de Planejamento e Academia de Polícia.
 
 Pense na sua resposta.
 
-**A explicação.** A Administração Superior tem quatro órgãos: Chefia, Chefia Adjunta, Conselho Superior e Corregedoria-Geral. Academia, Detran, Gabinete e as Superintendências fazem parte da Administração.
+**Resposta: letra A: chefia, Chefia Adjunta, Conselho Superior e Corregedoria-Geral.**
 
-**Resposta: letra A.**
+**Por quê.** A Administração Superior tem quatro órgãos: Chefia, Chefia Adjunta, Conselho Superior e Corregedoria-Geral. Academia, Detran, Gabinete e as Superintendências fazem parte da Administração.
 
 ---
 

@@ -2,7 +2,7 @@
 
 Esta é a prova real aplicada em 2025 pela banca FGV para o cargo de Investigador de Polícia um. Os gabaritos são os oficiais definitivos.
 
-Em cada questão, eu leio o enunciado e as quatro alternativas. Depois faço uma pausa para você pensar, e só então explico e dou a resposta. Se quiser treinar de verdade, pause o áudio na pausa, escolha a sua letra e depois continue.
+Em cada questão, eu leio o enunciado e as alternativas. Depois vem uma pausa de alguns segundos para você escolher a sua letra. Em seguida, eu digo a resposta certa e explico o porquê. Se precisar de mais tempo para pensar, pause o áudio na pausa.
 
 ---
 
@@ -26,11 +26,11 @@ Letra D: Pela presença da garrafa ao pé do cartaz, nota-se que a água referid
 
 Letra E: A presença da borboleta, do beija-flor e da própria flor documentam a vida sustentada pela água.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O cartaz mostra água, flor, borboleta e beija-flor formando um coração: as imagens dizem que a água sustenta a vida, e é isso que a letra E afirma. A letra A está errada porque o cartaz mistura tratamentos: "lembre-se", que é você, com "te sustenta", que é tu; isso fere a uniformidade de tratamento. A letra B erra porque "que te sustenta" é oração adjetiva, caracteriza a água, não conclui nada. A C erra porque o conselho é ambiental, de economia, e não medicinal. A D tira uma conclusão que o cartaz não autoriza.
+Pense na sua resposta.
 
 **Resposta: letra E, a presença da borboleta, do beija-flor e da própria flor documentam a vida sustentada pela água.**
+
+**Por quê.** O cartaz mostra água, flor, borboleta e beija-flor formando um coração: as imagens dizem que a água sustenta a vida, e é isso que a letra E afirma. A letra A está errada porque o cartaz mistura tratamentos: "lembre-se", que é você, com "te sustenta", que é tu; isso fere a uniformidade de tratamento. A letra B erra porque "que te sustenta" é oração adjetiva, caracteriza a água, não conclui nada. A C erra porque o conselho é ambiental, de economia, e não medicinal. A D tira uma conclusão que o cartaz não autoriza.
 
 ---
 
@@ -52,11 +52,11 @@ Letra D: Um povo só se deixa guiar quando lhe apontam um futuro.
 
 Letra E: O homem esquece mais facilmente a morte do pai que a perda do patrimônio.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Linguagem figurada é quando as palavras não estão no sentido literal. "Dominar o mundo" é um exagero, uma hipérbole: ninguém domina literalmente o planeta; a ideia é ter enorme sucesso. As demais frases são opiniões ditas em sentido literal, mesmo que sejam polêmicas.
+Pense na sua resposta.
 
 **Resposta: letra B, nosso objetivo é dominar o mundo, como a Microsoft.**
+
+**Por quê.** Linguagem figurada é quando as palavras não estão no sentido literal. "Dominar o mundo" é um exagero, uma hipérbole: ninguém domina literalmente o planeta; a ideia é ter enorme sucesso. As demais frases são opiniões ditas em sentido literal, mesmo que sejam polêmicas.
 
 ---
 
@@ -78,11 +78,11 @@ Letra D: Nunca deixe para hoje o que pode fazer amanhã.
 
 Letra E: Trabalhei muito, economizei bastante, fiquei rico.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Texto descritivo caracteriza um ser, atribuindo-lhe qualidades, geralmente com verbo de ligação, como "é". "A riqueza é a felicidade na Terra" define e caracteriza a riqueza. As letras A, C e D têm verbo no imperativo, dando ordem ou conselho: são injuntivas. A letra E conta ações em sequência no tempo: é narrativa.
+Pense na sua resposta.
 
 **Resposta: letra B, a riqueza é a felicidade na Terra.**
+
+**Por quê.** Texto descritivo caracteriza um ser, atribuindo-lhe qualidades, geralmente com verbo de ligação, como "é". "A riqueza é a felicidade na Terra" define e caracteriza a riqueza. As letras A, C e D têm verbo no imperativo, dando ordem ou conselho: são injuntivas. A letra E conta ações em sequência no tempo: é narrativa.
 
 ---
 
@@ -104,11 +104,11 @@ Letra D: Já foi dito que dinheiro disponível é uma lâmpada de Aladim.
 
 Letra E: Quando o assunto é dinheiro, todos os homens pertencem à mesma religião.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** No discurso indireto, o narrador conta com as próprias palavras o que alguém disse, usando um verbo de dizer seguido de "que". "Já foi dito que..." é exatamente essa estrutura. As outras frases são afirmações feitas diretamente, sem relatar a fala de ninguém.
+Pense na sua resposta.
 
 **Resposta: letra D, já foi dito que dinheiro disponível é uma lâmpada de Aladim.**
+
+**Por quê.** No discurso indireto, o narrador conta com as próprias palavras o que alguém disse, usando um verbo de dizer seguido de "que". "Já foi dito que..." é exatamente essa estrutura. As outras frases são afirmações feitas diretamente, sem relatar a fala de ninguém.
 
 ---
 
@@ -130,11 +130,11 @@ Letra D: Produto importado.
 
 Letra E: Discurso presidencial.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Estado é uma condição passageira, resultado de algo que aconteceu. "Arranhada" mostra a situação em que a mesa ficou depois de ser arranhada. "Alto" é característica permanente; "feliz", aplicado a país, é qualidade; "importado" indica origem; e "presidencial" é adjetivo de relação, quer dizer "do presidente".
+Pense na sua resposta.
 
 **Resposta: letra C, mesa arranhada.**
+
+**Por quê.** Estado é uma condição passageira, resultado de algo que aconteceu. "Arranhada" mostra a situação em que a mesa ficou depois de ser arranhada. "Alto" é característica permanente; "feliz", aplicado a país, é qualidade; "importado" indica origem; e "presidencial" é adjetivo de relação, quer dizer "do presidente".
 
 ---
 
@@ -156,11 +156,11 @@ Letra D: Uma multidão atacou o supermercado de alimentos. / O país atravessa u
 
 Letra E: A temperatura no estádio atingiu 40 graus. / O futebol devia alterar alguns horários de partidas.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Uma inferência adequada decorre logicamente do que foi dito. O fato de muita gente morar em favelas não permite concluir que elas sejam lugares agradáveis; pode indicar justamente falta de moradia. Nas outras opções, a conclusão é razoável a partir do fato apresentado.
+Pense na sua resposta.
 
 **Resposta: letra C, muita gente no Rio de Janeiro vive nas favelas. / As favelas do Rio são lugares aprazíveis.**
+
+**Por quê.** Uma inferência adequada decorre logicamente do que foi dito. O fato de muita gente morar em favelas não permite concluir que elas sejam lugares agradáveis; pode indicar justamente falta de moradia. Nas outras opções, a conclusão é razoável a partir do fato apresentado.
 
 ---
 
@@ -182,11 +182,11 @@ Letra D: Os receptores pretendidos são possíveis clientes.
 
 Letra E: Preços mais baixos são argumento para a venda.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O gerente apenas pendurou o cartaz; quem produziu a mensagem foi a empresa de publicidade, em nome da loja. Por isso dizer que o emissor é o gerente é inadequado. As outras afirmativas estão certas: a mensagem é publicitária, usa palavras e imagens, mira possíveis clientes e argumenta com preço baixo.
+Pense na sua resposta.
 
 **Resposta: letra A, o emissor do cartaz é o gerente da loja.**
+
+**Por quê.** O gerente apenas pendurou o cartaz; quem produziu a mensagem foi a empresa de publicidade, em nome da loja. Por isso dizer que o emissor é o gerente é inadequado. As outras afirmativas estão certas: a mensagem é publicitária, usa palavras e imagens, mira possíveis clientes e argumenta com preço baixo.
 
 ---
 
@@ -208,11 +208,11 @@ Letra D: Após o acidente, ela ficou pálida. / apavorada.
 
 Letra E: O aluno rabiscou as páginas do livro. / escreveu.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Intensificar é dizer a mesma ideia com mais força. Separar-se é afastar-se; abandonar é separar-se de forma mais forte, deixando a pessoa desamparada. "Abatida" muda o sentido de "magra"; "se uniram" e "escreveu" enfraquecem ou neutralizam a ideia; e "apavorada" troca uma aparência física por um sentimento.
+Pense na sua resposta.
 
 **Resposta: letra B, ele se separou da esposa. / abandonou.**
+
+**Por quê.** Intensificar é dizer a mesma ideia com mais força. Separar-se é afastar-se; abandonar é separar-se de forma mais forte, deixando a pessoa desamparada. "Abatida" muda o sentido de "magra"; "se uniram" e "escreveu" enfraquecem ou neutralizam a ideia; e "apavorada" troca uma aparência física por um sentimento.
 
 ---
 
@@ -234,11 +234,11 @@ Letra D: O empresário Henry Ford defendia a divisão de tarefas / o emprego de 
 
 Letra E: Não se trata das importações, mas das exportações / utilização de palavras de sentido próximo.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Importação e exportação têm sentidos opostos, não próximos. A precisão, nesse caso, vem do contraste, da oposição entre as duas palavras. Nas demais opções, o recurso indicado corresponde ao que a frase faz: enumerar, acrescentar informação, quantificar e citar nome próprio.
+Pense na sua resposta.
 
 **Resposta: letra E, não se trata das importações, mas das exportações / utilização de palavras de sentido próximo.**
+
+**Por quê.** Importação e exportação têm sentidos opostos, não próximos. A precisão, nesse caso, vem do contraste, da oposição entre as duas palavras. Nas demais opções, o recurso indicado corresponde ao que a frase faz: enumerar, acrescentar informação, quantificar e citar nome próprio.
 
 ---
 
@@ -260,11 +260,11 @@ Letra D: Quem vive pedindo na rua se vicia. / o desempregado.
 
 Letra E: Quem vive de herança pode descansar. / o preguiçoso.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O substantivo precisa ter exatamente o mesmo sentido da oração. Quem vive sozinho é o solitário. Surdo-mudo também não fala, não é só quem não escuta; viúvo já foi casado; quem pede na rua é o pedinte, não necessariamente o desempregado; e quem vive de herança é o herdeiro, não o preguiçoso.
+Pense na sua resposta.
 
 **Resposta: letra B, quem vive sozinho não conversa. / o solitário.**
+
+**Por quê.** O substantivo precisa ter exatamente o mesmo sentido da oração. Quem vive sozinho é o solitário. Surdo-mudo também não fala, não é só quem não escuta; viúvo já foi casado; quem pede na rua é o pedinte, não necessariamente o desempregado; e quem vive de herança é o herdeiro, não o preguiçoso.
 
 ---
 
@@ -286,11 +286,11 @@ Letra D: 35.
 
 Letra E: 36.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Vá por etapas, como uma escada. 55 por cento de 600 dá 330 documentos com indícios. 30 por cento de 330 dá 99. Um terço de 99 dá 33. Dica: porcentagem de porcentagem se calcula em sequência, multiplicando, nunca somando.
+Pense na sua resposta.
 
 **Resposta: letra C, 33.**
+
+**Por quê.** Vá por etapas, como uma escada. 55 por cento de 600 dá 330 documentos com indícios. 30 por cento de 330 dá 99. Um terço de 99 dá 33. Dica: porcentagem de porcentagem se calcula em sequência, multiplicando, nunca somando.
 
 ---
 
@@ -312,11 +312,11 @@ Letra D: 47%.
 
 Letra E: 46%.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Imagine 100 denúncias. Roubo: 44, e 90 por cento procedentes, dá 39,6. Fraude: 36, com 70 por cento procedentes, dá 25,2. Tráfico: 20, com 80 por cento procedentes, dá 16. Total de procedentes: 80,8. Como já sabemos que a denúncia é procedente, o universo agora é 80,8. A chance de ser roubo é 39,6 dividido por 80,8, cerca de 0,49, ou 49 por cento. Essa é a probabilidade condicional: o "sabendo que" reduz o universo.
+Pense na sua resposta.
 
 **Resposta: letra B, 49%.**
+
+**Por quê.** Imagine 100 denúncias. Roubo: 44, e 90 por cento procedentes, dá 39,6. Fraude: 36, com 70 por cento procedentes, dá 25,2. Tráfico: 20, com 80 por cento procedentes, dá 16. Total de procedentes: 80,8. Como já sabemos que a denúncia é procedente, o universo agora é 80,8. A chance de ser roubo é 39,6 dividido por 80,8, cerca de 0,49, ou 49 por cento. Essa é a probabilidade condicional: o "sabendo que" reduz o universo.
 
 ---
 
@@ -340,11 +340,11 @@ Letra D: 54%.
 
 Letra E: 55%.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** No roubo, 135 solucionados em 180 ocorrências: 75 por cento. Essa proporção vale para todos. Tráfico: 45 solucionados são 75 por cento de 60 ocorrências. Lesão corporal: 30 solucionados são 75 por cento de 40. Total de ocorrências: 180 mais 60 mais 120 mais 40, igual a 400. Roubo: 180 de 400, ou seja, 45 por cento.
+Pense na sua resposta.
 
 **Resposta: letra A, 45%.**
+
+**Por quê.** No roubo, 135 solucionados em 180 ocorrências: 75 por cento. Essa proporção vale para todos. Tráfico: 45 solucionados são 75 por cento de 60 ocorrências. Lesão corporal: 30 solucionados são 75 por cento de 40. Total de ocorrências: 180 mais 60 mais 120 mais 40, igual a 400. Roubo: 180 de 400, ou seja, 45 por cento.
 
 ---
 
@@ -366,11 +366,11 @@ Letra D: quatro dias.
 
 Letra E: cinco dias.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Inversamente proporcional quer dizer que o produto é constante: 3 policiais vezes 20 dias dá 60 dias de trabalho. Com 4 policiais, 60 dividido por 4 dá 15 dias. Antecipa 20 menos 15, ou seja, 5 dias. Cuidado: a pergunta é quanto antecipa, não quanto tempo leva.
+Pense na sua resposta.
 
 **Resposta: letra E, cinco dias.**
+
+**Por quê.** Inversamente proporcional quer dizer que o produto é constante: 3 policiais vezes 20 dias dá 60 dias de trabalho. Com 4 policiais, 60 dividido por 4 dá 15 dias. Antecipa 20 menos 15, ou seja, 5 dias. Cuidado: a pergunta é quanto antecipa, não quanto tempo leva.
 
 ---
 
@@ -392,11 +392,11 @@ Letra D: no domingo, dia 15 de dezembro, a 15 km da delegacia.
 
 Letra E: no domingo, dia 16 de dezembro, a 14 km da delegacia.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Os dias são 1, 3, 6 e 10: os intervalos crescem 2, 3, 4, então o próximo é mais 5, dia 15. As distâncias são 5, 6, 8 e 11: os aumentos crescem 1, 2, 3, então o próximo é mais 4, igual a 15 quilômetros. Se o dia 1º foi domingo, os dias 8 e 15 também são domingos. Resposta: domingo, dia 15, a 15 quilômetros.
+Pense na sua resposta.
 
 **Resposta: letra D, no domingo, dia 15 de dezembro, a 15 km da delegacia.**
+
+**Por quê.** Os dias são 1, 3, 6 e 10: os intervalos crescem 2, 3, 4, então o próximo é mais 5, dia 15. As distâncias são 5, 6, 8 e 11: os aumentos crescem 1, 2, 3, então o próximo é mais 4, igual a 15 quilômetros. Se o dia 1º foi domingo, os dias 8 e 15 também são domingos. Resposta: domingo, dia 15, a 15 quilômetros.
 
 ---
 
@@ -420,11 +420,11 @@ Letra D: 28,00.
 
 Letra E: 28,15.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Ordene os valores conhecidos: 22, 24, 25, 26, 29, 30 e 34. Com oito valores, a mediana é a média do quarto com o quinto. Para a mediana dar 27, o valor perdido precisa ficar entre 26 e 29, e 26 mais x, dividido por 2, igual a 27, dá x igual a 28. Some tudo: 22, 30, 26, 25, 28, 34, 29 e 24 dão 218. Dividido por 8, a média é 27,25.
+Pense na sua resposta.
 
 **Resposta: letra B, 27,25.**
+
+**Por quê.** Ordene os valores conhecidos: 22, 24, 25, 26, 29, 30 e 34. Com oito valores, a mediana é a média do quarto com o quinto. Para a mediana dar 27, o valor perdido precisa ficar entre 26 e 29, e 26 mais x, dividido por 2, igual a 27, dá x igual a 28. Some tudo: 22, 30, 26, 25, 28, 34, 29 e 24 dão 218. Dividido por 8, a média é 27,25.
 
 ---
 
@@ -446,11 +446,11 @@ Letra D: O I P versão 6 inclui o suporte nativo a funcionalidades como seguran�
 
 Letra E: O I P versão 6 permite até quatro vezes mais endereços únicos do que o I P versão 4.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O I P versão 6 foi projetado com segurança, o IPsec, e mobilidade como recursos nativos, enquanto no I P versão 4 eles são acréscimos opcionais. A letra A erra o tamanho: o I P versão 4 tem 32 bits, não 64. A E erra feio: 128 bits contra 32 não dá quatro vezes mais endereços, dá 2 elevado a 96 vezes mais, um número astronômico. A B usa "elimina completamente", palavra absoluta. E o cabeçalho do I P versão 6, apesar de maior, é mais simples e eficiente para rotear.
+Pense na sua resposta.
 
 **Resposta: letra D, o I P versão 6 inclui o suporte nativo a funcionalidades como segurança e mobilidade, que são apenas opcionais no I P versão 4.**
+
+**Por quê.** O I P versão 6 foi projetado com segurança, o IPsec, e mobilidade como recursos nativos, enquanto no I P versão 4 eles são acréscimos opcionais. A letra A erra o tamanho: o I P versão 4 tem 32 bits, não 64. A E erra feio: 128 bits contra 32 não dá quatro vezes mais endereços, dá 2 elevado a 96 vezes mais, um número astronômico. A B usa "elimina completamente", palavra absoluta. E o cabeçalho do I P versão 6, apesar de maior, é mais simples e eficiente para rotear.
 
 ---
 
@@ -472,11 +472,11 @@ Letra D: Redes com fio utilizam cabeamento coaxial como padrão principal, enqua
 
 Letra E: Redes sem fio oferecem maior largura de banda e maior alcance em comparação às redes com fio devido ao uso de ondas de rádio para transmissão.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O cabo é mais estável, mais rápido e mais difícil de espionar, porque é preciso acesso físico; o Wi-Fi ganha em mobilidade e facilidade de instalação. O Wi-Fi tem latência maior, sofre interferência, opera em várias frequências, como 2,4 e 5 gigahertz, e o padrão das redes cabeadas hoje é o par trançado, não o coaxial.
+Pense na sua resposta.
 
 **Resposta: letra B, redes com fio oferecem maior estabilidade, largura de banda e segurança física, enquanto redes sem fio priorizam mobilidade e flexibilidade de implantação.**
+
+**Por quê.** O cabo é mais estável, mais rápido e mais difícil de espionar, porque é preciso acesso físico; o Wi-Fi ganha em mobilidade e facilidade de instalação. O Wi-Fi tem latência maior, sofre interferência, opera em várias frequências, como 2,4 e 5 gigahertz, e o padrão das redes cabeadas hoje é o par trançado, não o coaxial.
 
 ---
 
@@ -498,11 +498,11 @@ Letra D: Colaboração em tempo real com múltiplos usuários diretamente no arq
 
 Letra E: Exportação de documentos no formato P D F.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Os dois programas têm tabelas, estilos, mala direta e exportação para P D F. Edição simultânea por várias pessoas em tempo real não é recurso nativo dos dois: no Word depende da nuvem da Microsoft, e o Writer de mesa não oferece isso. Repare no comando "à exceção de uma": procure a que não é comum.
+Pense na sua resposta.
 
 **Resposta: letra D, colaboração em tempo real com múltiplos usuários diretamente no arquivo.**
+
+**Por quê.** Os dois programas têm tabelas, estilos, mala direta e exportação para P D F. Edição simultânea por várias pessoas em tempo real não é recurso nativo dos dois: no Word depende da nuvem da Microsoft, e o Writer de mesa não oferece isso. Repare no comando "à exceção de uma": procure a que não é comum.
 
 ---
 
@@ -524,11 +524,11 @@ Letra D: Programação de macros em Python.
 
 Letra E: Importação de arquivos C S V para edição.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** As macros do Excel são escritas em V B A, o Visual Basic for Applications. O Calc aceita macros em Basic e também em Python. Como o Excel não programa macros em Python, esse recurso não é comum aos dois. Gráficos, filtros, tabelas dinâmicas e importação de C S V existem em ambos.
+Pense na sua resposta.
 
 **Resposta: letra D, programação de macros em Python.**
+
+**Por quê.** As macros do Excel são escritas em V B A, o Visual Basic for Applications. O Calc aceita macros em Basic e também em Python. Como o Excel não programa macros em Python, esse recurso não é comum aos dois. Gráficos, filtros, tabelas dinâmicas e importação de C S V existem em ambos.
 
 ---
 
@@ -550,11 +550,11 @@ Letra D: Worms não causam danos diretos, enquanto cavalos de Troia são exclusi
 
 Letra E: Worms exigem interação do usuário para ativação, enquanto cavalos de Troia se propagam sem necessidade de ação humana.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O worm, que quer dizer verme, se copia sozinho e se espalha pela rede explorando falhas. O cavalo de Troia, como o presente grego da história, se disfarça de programa útil e depende de a vítima instalar. As letras A e E invertem os papéis. A C descreve spyware e ransomware.
+Pense na sua resposta.
 
 **Resposta: letra B, worms podem se replicar automaticamente e se espalhar por redes, enquanto cavalos de Troia precisam ser instalados pelo usuário como se fossem programas legítimos.**
+
+**Por quê.** O worm, que quer dizer verme, se copia sozinho e se espalha pela rede explorando falhas. O cavalo de Troia, como o presente grego da história, se disfarça de programa útil e depende de a vítima instalar. As letras A e E invertem os papéis. A C descreve spyware e ransomware.
 
 ---
 
@@ -576,11 +576,11 @@ Letra D: Spoofing, porque João foi induzido a revelar informações sensíveis.
 
 Letra E: Malware, porque o e-mail provavelmente continha um programa malicioso que invadiu o sistema de João.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Mensagem falsa, com urgência, que leva a uma página falsa onde a própria vítima digita a senha: é phishing, a pescaria de dados. Não houve sequestro de arquivos, que seria ransomware, nem derrubada de serviço, que seria D o S, nem instalação de programa. Spoofing é falsificar a identidade de origem, como o remetente; aqui ele pode até ter sido usado, mas o golpe como um todo é phishing.
+Pense na sua resposta.
 
 **Resposta: letra B, phishing, pois o atacante usou um e-mail fraudulento para capturar as credenciais de João.**
+
+**Por quê.** Mensagem falsa, com urgência, que leva a uma página falsa onde a própria vítima digita a senha: é phishing, a pescaria de dados. Não houve sequestro de arquivos, que seria ransomware, nem derrubada de serviço, que seria D o S, nem instalação de programa. Spoofing é falsificar a identidade de origem, como o remetente; aqui ele pode até ter sido usado, mas o golpe como um todo é phishing.
 
 ---
 
@@ -602,11 +602,11 @@ Letra D: com a chave privada de João, pois apenas João poderá descriptografá
 
 Letra E: com uma chave simétrica gerada por João, garantindo que ambos tenham acesso à mesma chave.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Regra de ouro para sigilo: cifra com a chave pública do destinatário; só a chave privada dele abre. Pense num cadeado aberto que João distribui para todos: qualquer um tranca, só João tem a chave. Cifrar com a própria chave privada serve para assinatura, para provar autoria, não para sigilo. E Maria nunca tem a chave privada de João.
+Pense na sua resposta.
 
 **Resposta: letra B, usando a chave pública de João, garantindo que somente João possa descriptografar com sua chave privada.**
+
+**Por quê.** Regra de ouro para sigilo: cifra com a chave pública do destinatário; só a chave privada dele abre. Pense num cadeado aberto que João distribui para todos: qualquer um tranca, só João tem a chave. Cifrar com a própria chave privada serve para assinatura, para provar autoria, não para sigilo. E Maria nunca tem a chave privada de João.
 
 ---
 
@@ -628,11 +628,11 @@ Letra D: A G P L versão 3 permite que o software licenciado sob a G P L versão
 
 Letra E: A licença B S D impede explicitamente o uso do software em projetos proprietários, o que a diferencia das licenças G P L versão 2 e G P L versão 3.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A G P L versão 3, de 2007, trouxe proteções contra D R M e contra a chamada tivoização, que é usar software livre em aparelhos travados para o usuário não poder modificar. A B S D é permissiva: deixa usar o código até em programas fechados e não obriga a manter a mesma licença. As G P L são copyleft: obrigam quem distribui versões modificadas a manter a mesma liberdade. E a compatibilidade da G P L versão 2 com a versão 3 só existe se o autor usar a cláusula "ou qualquer versão posterior".
+Pense na sua resposta.
 
 **Resposta: letra B, a G P L versão 3 introduz cláusulas adicionais para proteção contra práticas como a implementação de D R M (Digital Rights Management), o que não é abordado pela G P L versão 2.**
+
+**Por quê.** A G P L versão 3, de 2007, trouxe proteções contra D R M e contra a chamada tivoização, que é usar software livre em aparelhos travados para o usuário não poder modificar. A B S D é permissiva: deixa usar o código até em programas fechados e não obriga a manter a mesma licença. As G P L são copyleft: obrigam quem distribui versões modificadas a manter a mesma liberdade. E a compatibilidade da G P L versão 2 com a versão 3 só existe se o autor usar a cláusula "ou qualquer versão posterior".
 
 ---
 
@@ -654,11 +654,11 @@ Letra D: Corregedoria-Geral de Polícia Civil.
 
 Letra E: Chefia Adjunta da P C M G.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** É o artigo 38 da Lei Complementar 129. A Superintendência de Investigação e Polícia Judiciária tem a finalidade de planejar, coordenar e supervisionar a execução da investigação criminal, e o inciso cinco do artigo lhe dá a competência para remover investigadores de polícia e escrivães de polícia, a pedido ou por permuta. A Corregedoria cuida da disciplina; a Inteligência, das informações; e a Planejamento, Gestão e Finanças, da administração de recursos.
+Pense na sua resposta.
 
 **Resposta: letra C, superintendência de Investigação e Polícia Judiciária.**
+
+**Por quê.** É o artigo 38 da Lei Complementar 129. A Superintendência de Investigação e Polícia Judiciária tem a finalidade de planejar, coordenar e supervisionar a execução da investigação criminal, e o inciso cinco do artigo lhe dá a competência para remover investigadores de polícia e escrivães de polícia, a pedido ou por permuta. A Corregedoria cuida da disciplina; a Inteligência, das informações; e a Planejamento, Gestão e Finanças, da administração de recursos.
 
 ---
 
@@ -680,11 +680,11 @@ Letra D: dois e três, apenas.
 
 Letra E: um, dois e três.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Os itens dois e três estão no artigo 158 da Lei 5.406, que lista os casos de demissão: o inciso 6 fala em exercer atividade remunerada estando licenciado para tratamento de saúde, e o inciso 2 em procedimento irregular de natureza grave. O item um é a pegadinha da troca de número: a lei exige ausência sem causa justificável por mais de quarenta e cinco dias, interpoladamente, durante um ano, e não trinta. Trinta dias aparece em outro lugar: o abandono de cargo, que é a falta por mais de trinta dias consecutivos. Macete: trinta seguidos é abandono; quarenta e cinco salteados no ano também demite.
+Pense na sua resposta.
 
 **Resposta: letra D, dois e três, apenas.**
+
+**Por quê.** Os itens dois e três estão no artigo 158 da Lei 5.406, que lista os casos de demissão: o inciso 6 fala em exercer atividade remunerada estando licenciado para tratamento de saúde, e o inciso 2 em procedimento irregular de natureza grave. O item um é a pegadinha da troca de número: a lei exige ausência sem causa justificável por mais de quarenta e cinco dias, interpoladamente, durante um ano, e não trinta. Trinta dias aparece em outro lugar: o abandono de cargo, que é a falta por mais de trinta dias consecutivos. Macete: trinta seguidos é abandono; quarenta e cinco salteados no ano também demite.
 
 ---
 
@@ -706,11 +706,11 @@ Letra D: Ter bom comportamento anterior.
 
 Letra E: Ter prestado serviços relevantes.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O artigo 153 da Lei 5.406 separa causas justificativas, que afastam a punição, de circunstâncias atenuantes, que só diminuem a pena. O motivo de força maior plenamente comprovado e justificado está no parágrafo 1º, inciso 2: é causa justificativa. Já ter cometido a falta para evitar mal maior, a confissão espontânea perante a autoridade sindicante, o bom comportamento anterior e a relevância dos serviços prestados estão no parágrafo 2º: são atenuantes. A pegadinha está na letra C, que lembra o estado de necessidade do Direito Penal, mas na Lei 5.406 é atenuante. Atenção: a legítima defesa e a obediência a ordem superior, sim, são causas justificativas.
+Pense na sua resposta.
 
 **Resposta: letra B, apresentar motivo de força maior plenamente comprovado e justificado.**
+
+**Por quê.** O artigo 153 da Lei 5.406 separa causas justificativas, que afastam a punição, de circunstâncias atenuantes, que só diminuem a pena. O motivo de força maior plenamente comprovado e justificado está no parágrafo 1º, inciso 2: é causa justificativa. Já ter cometido a falta para evitar mal maior, a confissão espontânea perante a autoridade sindicante, o bom comportamento anterior e a relevância dos serviços prestados estão no parágrafo 2º: são atenuantes. A pegadinha está na letra C, que lembra o estado de necessidade do Direito Penal, mas na Lei 5.406 é atenuante. Atenção: a legítima defesa e a obediência a ordem superior, sim, são causas justificativas.
 
 ---
 
@@ -732,11 +732,11 @@ Letra D: um e três, apenas.
 
 Letra E: um, dois e três.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O artigo 49 da Lei Complementar 129 lista as indenizações e gratificações. O item um está certo: o auxílio-natalidade, do inciso 14, é devido pelo nascimento de filho ou adoção, no valor da remuneração do servidor, com uma única percepção quando pai e mãe são da P C M G. O item três também está certo: o translado ou remoção quando ferido, acidentado ou falecido em serviço está no inciso 6. O item dois é a pegadinha: pelo inciso 1, a ajuda de custo é devida em caso de remoção de ofício, ou seja, por interesse da Administração, ou de designação para serviço ou estudo que importe alteração do domicílio. A questão incluiu a remoção a pedido, que a lei não prevê. A F G V acrescentou duas palavras, "ou a pedido", e isso bastou para tornar o item falso.
+Pense na sua resposta.
 
 **Resposta: letra D, um e três, apenas.**
+
+**Por quê.** O artigo 49 da Lei Complementar 129 lista as indenizações e gratificações. O item um está certo: o auxílio-natalidade, do inciso 14, é devido pelo nascimento de filho ou adoção, no valor da remuneração do servidor, com uma única percepção quando pai e mãe são da P C M G. O item três também está certo: o translado ou remoção quando ferido, acidentado ou falecido em serviço está no inciso 6. O item dois é a pegadinha: pelo inciso 1, a ajuda de custo é devida em caso de remoção de ofício, ou seja, por interesse da Administração, ou de designação para serviço ou estudo que importe alteração do domicílio. A questão incluiu a remoção a pedido, que a lei não prevê. A F G V acrescentou duas palavras, "ou a pedido", e isso bastou para tornar o item falso.
 
 ---
 
@@ -758,11 +758,11 @@ Letra D: dois e três, apenas.
 
 Letra E: um, dois e três.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Só o item três reproduz a lei: é o artigo 69 da Lei Complementar 129. O policial afastado não pode exercer nenhuma de suas funções, ou outra, pública ou particular, diversa da que motivou o ato, sob pena de cassação do afastamento e retorno imediato. Os itens um e dois trocaram os números do artigo 68. O afastamento para curso é concedido pelo prazo de três meses, prorrogável até o máximo de três meses, e não seis. E quem se afasta para estudo, sem prejuízo da remuneração ou com ônus para a P C M G, fica obrigado a prestar serviços por mais três anos depois do afastamento, e não cinco, ou a ressarcir o Estado. Macete: no afastamento para curso, tudo é três: três meses, mais três de prorrogação, e três anos de serviço depois.
+Pense na sua resposta.
 
 **Resposta: letra C, três, apenas.**
+
+**Por quê.** Só o item três reproduz a lei: é o artigo 69 da Lei Complementar 129. O policial afastado não pode exercer nenhuma de suas funções, ou outra, pública ou particular, diversa da que motivou o ato, sob pena de cassação do afastamento e retorno imediato. Os itens um e dois trocaram os números do artigo 68. O afastamento para curso é concedido pelo prazo de três meses, prorrogável até o máximo de três meses, e não seis. E quem se afasta para estudo, sem prejuízo da remuneração ou com ônus para a P C M G, fica obrigado a prestar serviços por mais três anos depois do afastamento, e não cinco, ou a ressarcir o Estado. Macete: no afastamento para curso, tudo é três: três meses, mais três de prorrogação, e três anos de serviço depois.
 
 ---
 
@@ -784,8 +784,8 @@ Letra D: A revisão, que poderá verificar-se a qualquer tempo, não autoriza a 
 
 Letra E: A simples alegação de injustiça da penalidade não constitui fundamento para revisão.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Atenção, a questão pede a incorreta. Pelo artigo 197 da Lei 5.406, a revisão pode ser pedida pelo próprio punido ou por procurador e, no caso de morte do punido, pelo cônjuge, ascendente, descendente ou irmão. Dizer que é vedado ao cônjuge é o erro. As outras estão certas: quem integrou a comissão do processo fica impedido de atuar na revisão, pelo artigo 199; julgada procedente, a revisão reduz ou cancela a pena, pelo artigo 204; pode ser pedida a qualquer tempo e não autoriza agravar a pena, pelo artigo 196; e a simples alegação de injustiça não é fundamento, pelo artigo 198.
+Pense na sua resposta.
 
 **Resposta: letra A, a revisão poderá ser pedida pelo próprio punido ou por procurador legalmente habilitado, vedada, em caso de morte, a postulação por cônjuge sobrevivente.**
+
+**Por quê.** Atenção, a questão pede a incorreta. Pelo artigo 197 da Lei 5.406, a revisão pode ser pedida pelo próprio punido ou por procurador e, no caso de morte do punido, pelo cônjuge, ascendente, descendente ou irmão. Dizer que é vedado ao cônjuge é o erro. As outras estão certas: quem integrou a comissão do processo fica impedido de atuar na revisão, pelo artigo 199; julgada procedente, a revisão reduz ou cancela a pena, pelo artigo 204; pode ser pedida a qualquer tempo e não autoriza agravar a pena, pelo artigo 196; e a simples alegação de injustiça não é fundamento, pelo artigo 198.

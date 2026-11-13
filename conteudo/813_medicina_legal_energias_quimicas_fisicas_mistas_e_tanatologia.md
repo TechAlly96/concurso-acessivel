@@ -218,9 +218,9 @@ Letra E: radiação ionizante.
 
 Pense na sua resposta.
 
-**A explicação.** Os cáusticos liquefacientes, que são em geral as bases, ou álcalis, como a soda cáustica, produzem escaras úmidas, moles e gelatinosas. Os coagulantes, que são em geral os ácidos, produzem escaras secas e endurecidas.
+**Resposta: letra B: cáustico liquefaciente, como uma base forte, a exemplo da soda cáustica.**
 
-**Resposta: letra B.**
+**Por quê.** Os cáusticos liquefacientes, que são em geral as bases, ou álcalis, como a soda cáustica, produzem escaras úmidas, moles e gelatinosas. Os coagulantes, que são em geral os ácidos, produzem escaras secas e endurecidas.
 
 ---
 
@@ -240,9 +240,9 @@ Letra E: a vítima sobreviveu ao incêndio.
 
 Pense na sua resposta.
 
-**A explicação.** A presença de carboxiemoglobina no sangue e de fuligem nas vias aéreas indica que a vítima respirava durante o incêndio. A ausência desses sinais sugere que ela já estava morta antes do fogo, o que deve levar a investigação a considerar a hipótese de homicídio seguido de incêndio para ocultar o crime.
+**Resposta: letra B: a vítima provavelmente já estava morta quando o incêndio começou, o que pode indicar que o fogo foi usado para ocultar outro crime.**
 
-**Resposta: letra B.**
+**Por quê.** A presença de carboxiemoglobina no sangue e de fuligem nas vias aéreas indica que a vítima respirava durante o incêndio. A ausência desses sinais sugere que ela já estava morta antes do fogo, o que deve levar a investigação a considerar a hipótese de homicídio seguido de incêndio para ocultar o crime.
 
 ---
 
@@ -262,9 +262,9 @@ Letra E: intoxicação por monóxido de carbono.
 
 Pense na sua resposta.
 
-**A explicação.** As equimoses de cores diferentes mostram lesões produzidas em dias diferentes, e a fratura antiga indica agressões anteriores. Uma única queda daquele dia não explica esses achados. É o quadro da síndrome da criança espancada, que exige investigação e comunicação ao Conselho Tutelar.
+**Resposta: letra A: síndrome da criança espancada, pela presença de lesões em diferentes estágios de evolução e de história incompatível com as lesões.**
 
-**Resposta: letra A.**
+**Por quê.** As equimoses de cores diferentes mostram lesões produzidas em dias diferentes, e a fratura antiga indica agressões anteriores. Uma única queda daquele dia não explica esses achados. É o quadro da síndrome da criança espancada, que exige investigação e comunicação ao Conselho Tutelar.
 
 ---
 
@@ -284,9 +284,9 @@ Letra E: O cadáver pode ser vendido para fins de pesquisa.
 
 Pense na sua resposta.
 
-**A explicação.** Pela Lei 9434, a doação de órgãos depois da morte depende da autorização da família: cônjuge ou parente maior de idade, até o segundo grau. A cremação em morte violenta exige autorização judicial. Nas mortes violentas, só o legista atesta o óbito. A exumação é o desenterramento; o sepultamento é a inumação. E o cadáver está fora do comércio.
+**Resposta: letra D: A retirada de órgãos de pessoa falecida, para transplante, depende da autorização do cônjuge ou de parente maior de idade, até o segundo grau.**
 
-**Resposta: letra D.**
+**Por quê.** Pela Lei 9434, a doação de órgãos depois da morte depende da autorização da família: cônjuge ou parente maior de idade, até o segundo grau. A cremação em morte violenta exige autorização judicial. Nas mortes violentas, só o legista atesta o óbito. A exumação é o desenterramento; o sepultamento é a inumação. E o cadáver está fora do comércio.
 
 ---
 

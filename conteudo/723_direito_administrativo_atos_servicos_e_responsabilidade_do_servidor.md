@@ -336,9 +336,9 @@ Letra E: Os decretos regulamentares são atos negociais.
 
 Pense na sua resposta.
 
-**A explicação.** Certidões e atestados são atos enunciativos. A licença é vinculada e definitiva; a autorização é discricionária e precária. Portarias e ordens de serviço são atos ordinatórios. E os decretos regulamentares são atos normativos.
+**Resposta: letra C: as certidões e os atestados são atos enunciativos, que apenas certificam ou atestam um fato.**
 
-**Resposta: letra C.**
+**Por quê.** Certidões e atestados são atos enunciativos. A licença é vinculada e definitiva; a autorização é discricionária e precária. Portarias e ordens de serviço são atos ordinatórios. E os decretos regulamentares são atos normativos.
 
 ---
 
@@ -358,9 +358,9 @@ Letra E: ato enunciativo.
 
 Pense na sua resposta.
 
-**A explicação.** No ato complexo, as vontades de órgãos diferentes se fundem num só ato, como o decreto assinado pelo Presidente e referendado pelo Ministro. No ato composto, há um ato principal de um órgão e um ato acessório de outro, que apenas o aprova ou confirma. O ato simples resulta de um único órgão.
+**Resposta: letra C: ato complexo.**
 
-**Resposta: letra C.**
+**Por quê.** No ato complexo, as vontades de órgãos diferentes se fundem num só ato, como o decreto assinado pelo Presidente e referendado pelo Ministro. No ato composto, há um ato principal de um órgão e um ato acessório de outro, que apenas o aprova ou confirma. O ato simples resulta de um único órgão.
 
 ---
 
@@ -380,9 +380,9 @@ Letra E: A concessão de serviço público dispensa licitação.
 
 Pense na sua resposta.
 
-**A explicação.** Pelo parágrafo 3º do artigo 6º da Lei 8987, a interrupção por inadimplemento, após prévio aviso, não caracteriza descontinuidade. A segurança pública é serviço uti universi, indivisível, e a taxa de segurança é inconstitucional. A permissão admite pessoa física e exige licitação, assim como a concessão. E a generalidade exige o serviço para todos, sem discriminação.
+**Resposta: letra B: A interrupção do fornecimento de energia elétrica por inadimplemento do usuário, após prévio aviso, não caracteriza descontinuidade do serviço.**
 
-**Resposta: letra B.**
+**Por quê.** Pelo parágrafo 3º do artigo 6º da Lei 8987, a interrupção por inadimplemento, após prévio aviso, não caracteriza descontinuidade. A segurança pública é serviço uti universi, indivisível, e a taxa de segurança é inconstitucional. A permissão admite pessoa física e exige licitação, assim como a concessão. E a generalidade exige o serviço para todos, sem discriminação.
 
 ---
 
@@ -402,9 +402,9 @@ Letra E: só poderia prosseguir se a absolvição tivesse sido por negativa de a
 
 Pense na sua resposta.
 
-**A explicação.** As instâncias são independentes. Só vinculam a esfera administrativa as absolvições penais por inexistência do fato ou por negativa de autoria. A absolvição por falta de provas não impede a punição administrativa. E, pela Súmula Vinculante 5, a falta de advogado no processo disciplinar não ofende a Constituição.
+**Resposta: letra B: pode prosseguir e resultar em punição, pois a absolvição por falta de provas não vincula a esfera administrativa.**
 
-**Resposta: letra B.**
+**Por quê.** As instâncias são independentes. Só vinculam a esfera administrativa as absolvições penais por inexistência do fato ou por negativa de autoria. A absolvição por falta de provas não impede a punição administrativa. E, pela Súmula Vinculante 5, a falta de advogado no processo disciplinar não ofende a Constituição.
 
 ---
 

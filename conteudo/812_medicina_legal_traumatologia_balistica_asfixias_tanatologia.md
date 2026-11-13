@@ -350,9 +350,9 @@ Letra E: ferimento produzido por instrumento perfurocortante.
 
 Pense na sua resposta.
 
-**A explicação.** As orlas de escoriação, enxugo e equimose formam o anel de Fisch, e são produzidas pelo próprio projétil, a qualquer distância. Como não há nenhuma zona, que só aparece quando a chama, a fuligem e a pólvora alcançam a pele, o tiro foi a distância. O ferimento de saída não tem orla de enxugo.
+**Resposta: letra C: tiro a distância, com a presença do anel de Fisch.**
 
-**Resposta: letra C.**
+**Por quê.** As orlas de escoriação, enxugo e equimose formam o anel de Fisch, e são produzidas pelo próprio projétil, a qualquer distância. Como não há nenhuma zona, que só aparece quando a chama, a fuligem e a pólvora alcançam a pele, o tiro foi a distância. O ferimento de saída não tem orla de enxugo.
 
 ---
 
@@ -372,9 +372,9 @@ Letra E: sufocação indireta.
 
 Pense na sua resposta.
 
-**A explicação.** O sulco horizontal, contínuo e de profundidade uniforme é típico do estrangulamento, em que o laço é apertado por uma força diferente do peso do corpo. No enforcamento, o sulco é oblíquo, ascendente, interrompido no nó e de profundidade desigual. Na esganadura, não há laço, e sim marcas de dedos e unhas.
+**Resposta: letra B: estrangulamento.**
 
-**Resposta: letra B.**
+**Por quê.** O sulco horizontal, contínuo e de profundidade uniforme é típico do estrangulamento, em que o laço é apertado por uma força diferente do peso do corpo. No enforcamento, o sulco é oblíquo, ascendente, interrompido no nó e de profundidade desigual. Na esganadura, não há laço, e sim marcas de dedos e unhas.
 
 ---
 
@@ -394,9 +394,9 @@ Letra E: A mancha verde abdominal aparece, em regra, na primeira hora após a mo
 
 Pense na sua resposta.
 
-**A explicação.** Pela lei de Nysten, a rigidez começa pela mandíbula e desce até os membros inferiores, desaparecendo na mesma ordem. Os livores fixados não mudam mais de lugar. A mumificação ocorre em ambientes quentes e secos; os úmidos e argilosos levam à saponificação. E a mancha verde abdominal aparece por volta de vinte e quatro horas.
+**Resposta: letra D: A rigidez cadavérica segue a lei de Nysten, começando pela mandíbula e progredindo em sentido descendente, até os membros inferiores.**
 
-**Resposta: letra D.**
+**Por quê.** Pela lei de Nysten, a rigidez começa pela mandíbula e desce até os membros inferiores, desaparecendo na mesma ordem. Os livores fixados não mudam mais de lugar. A mumificação ocorre em ambientes quentes e secos; os úmidos e argilosos levam à saponificação. E a mancha verde abdominal aparece por volta de vinte e quatro horas.
 
 ---
 
@@ -416,9 +416,9 @@ Letra E: perfurocontundente.
 
 Pense na sua resposta.
 
-**A explicação.** Bordas e fundo irregulares, com pontes de tecido entre as bordas, são características da ferida contusa, produzida por instrumento contundente, que age por superfície. A ferida incisa, do instrumento cortante, tem bordas regulares e não tem pontes de tecido.
+**Resposta: letra C: contundente.**
 
-**Resposta: letra C.**
+**Por quê.** Bordas e fundo irregulares, com pontes de tecido entre as bordas, são características da ferida contusa, produzida por instrumento contundente, que age por superfície. A ferida incisa, do instrumento cortante, tem bordas regulares e não tem pontes de tecido.
 
 ---
 

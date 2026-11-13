@@ -4,58 +4,54 @@ Olá! Seja bem-vindo ao **Concurso Acessível**, uma plataforma de estudo para c
 
 Este projeto foi criado por **Marlon Myaggy, desenvolvedor Full Stack**, com um objetivo simples: que qualquer pessoa, enxergando ou não, consiga estudar só pelo ouvido e chegar à aprovação.
 
-Você não precisa tocar na tela. Coloque o fone e ouça. As partes tocam uma depois da outra, até o fim, e funcionam com a tela apagada.
+Você não precisa tocar na tela. Coloque o fone e ouça. As partes tocam uma depois da outra, até o fim, e depois recomeçam. Funciona com a tela apagada.
 
 ---
 
-## O primeiro concurso: Polícia Civil de Minas Gerais
+## O que você vai ouvir, e em que ordem
 
-O primeiro edital da plataforma é o da **Polícia Civil de Minas Gerais**, para o cargo de **Técnico Assistente, área Auxiliar de Perícia**. A banca é o **Cebraspe**.
+O curso é para o cargo de **Investigador de Polícia da Polícia Civil de Minas Gerais**. Ele cobre todas as matérias do edital, e toca sempre nesta ordem.
 
-O cargo exige ensino médio completo. A jornada é de 40 horas por semana. No último concurso, foram 104 vagas, sendo 10 reservadas a pessoas com deficiência, e a remuneração inicial era de 1990 reais e 97 centavos.
+Primeiro, esta apresentação e o plano de estudo do cargo.
 
-O auxiliar de perícia trabalha no Instituto Médico Legal e nos postos médico-legais do estado. Ele prepara material para exames, coleta material biológico, auxilia o médico legista na necropsia, transporta e acondiciona corpos, cuida da limpeza dos instrumentos e da sala, e ajuda a manter a cadeia de custódia dos vestígios.
+Depois, o **curso completo**, matéria por matéria. Cada matéria tem alguns módulos, e cada módulo tem aulas, questões de treino e uma revisão em frases curtas.
 
----
+Logo no fim de cada matéria, toca a **revisão relâmpago** daquela matéria: todas as frases para gravar, uma atrás da outra, sem a explicação longa.
 
-## Como é a prova
+Por último, as **provas anteriores do Investigador, resolvidas**, questão por questão. Elas funcionam como um teste: você vai ver o que já ficou na memória.
 
-A prova é objetiva, com **60 questões de múltipla escolha**, cada uma com **quatro alternativas**, de A até D, e só uma correta. Cada acerto vale **1 ponto**, e **o erro não tira ponto**. Por isso, nunca deixe questão em branco: se não souber, elimine o que puder e marque a mais provável.
+Quando a última prova termina, tudo recomeça. E é exatamente isso que você quer: cada volta grava um pouco mais fundo.
 
-A prova dura **3 horas e meia** e é dividida em três eixos.
-
-O **eixo geral** tem 15 questões: Língua Portuguesa, Informática e Raciocínio Lógico.
-
-O **eixo legislação** tem 15 questões: Direitos Humanos e as leis da Polícia Civil e do servidor de Minas Gerais.
-
-O **eixo específico** tem 30 questões sobre o trabalho de auxiliar de necropsia e sobre biossegurança. Ele vale **metade da prova**, então é o eixo mais importante.
-
-**Atenção à regra de eliminação.** É eliminado quem fizer menos de 30 pontos no total, ou quem zerar qualquer um dos três eixos. Então você precisa acertar pelo menos uma questão em cada eixo, e pelo menos metade da prova.
-
-Em caso de empate, ganha primeiro quem tiver 60 anos ou mais. Depois, quem tiver a **maior nota no eixo específico**. Depois, a maior nota em legislação. Mais um motivo para caprichar no eixo específico.
+Na lista de partes há também o material de um outro concurso da Polícia Civil, o de Técnico Assistente. Ele fica fora da sequência, para não misturar as matérias. Só ouça se for fazer aquele concurso.
 
 ---
 
-## Seus direitos como candidato com deficiência visual
+## Como este curso grava a matéria na sua memória
 
-O edital garante adaptações para quem tem deficiência visual, mas **elas precisam ser pedidas no momento da inscrição**. Depois, não dá mais.
+Ouvir uma vez não basta. A ciência da aprendizagem mostra quatro coisas que fazem a informação ficar. O curso foi montado em cima delas, e você vai tirar muito mais dele se souber usá-las.
 
-Você pode pedir: prova em braile ou ampliada, um ledor que lê a prova para você, auxílio para marcar a folha de respostas, uso de computador, tempo adicional, acompanhamento de cão-guia, e o uso de material próprio, como reglete, punção, sorobã, lupa ou tiposcópio.
+**Primeira: tentar lembrar antes de ouvir a resposta.** Em cada questão, depois das alternativas, eu digo: "Pense na sua resposta". Em seguida vêm alguns segundos de silêncio. Esse silêncio é seu. Use-o para escolher uma letra, nem que seja um chute. O esforço de puxar a resposta da memória grava muito mais do que ouvir a resposta pronta. Se precisar de mais tempo, pause o áudio.
 
-Para isso, é preciso enviar, pela internet, a imagem de um **laudo médico** com a espécie e o grau da deficiência, o código da doença, e, no caso da deficiência visual, a **acuidade visual com e sem correção** e o **campo visual dos dois olhos**. O laudo deve ter sido emitido nos 36 meses anteriores ao fim das inscrições. Se a deficiência for permanente, não há prazo de validade.
+**Segunda: saber na hora se acertou.** Logo depois da pausa, eu digo a letra certa e o texto da alternativa, e só então explico o porquê. Assim, a resposta certa é a primeira coisa que você ouve, e é ela que fica.
 
-Marcar a opção na inscrição e não enviar o laudo faz o pedido ser negado. E enviar o laudo sem marcar a opção também. Faça as duas coisas.
+**Terceira: repetir em voz alta.** Nas revisões, depois de cada frase curta, repita em voz alta, com as suas palavras. Falar o que se ouviu grava muito melhor do que só ouvir. Se estiver num lugar em que não pode falar, repita mentalmente, mexendo os lábios.
+
+**Quarta: rever espaçado.** O cérebro guarda o que volta a ver depois de um tempo, um pouco antes de esquecer. Por isso a revisão relâmpago toca logo depois da matéria, e de novo a cada volta do curso. E por isso vale ouvir a revisão de uma matéria no dia seguinte ao estudo, de novo uma semana depois, e de novo um mês depois.
+
+Uma regra prática: **errar no treino é bom**. O erro, seguido da explicação, é o momento em que a memória mais aprende. O que não pode é errar na prova. Então erre aqui, à vontade.
 
 ---
 
-## Como estudar com esta plataforma
+## Como usar no dia a dia
 
-Primeiro, ouça a **prova anterior resolvida**. Em cada questão, eu leio o enunciado e as quatro alternativas, faço uma pausa para você pensar, explico e dou a resposta. Se quiser treinar de verdade, pause na pausa, escolha a sua letra e depois continue.
+Se você só quer apertar o botão e ouvir, está ótimo: a sequência já foi pensada para isso. Mas três hábitos fazem diferença.
 
-Depois, ouça o **curso completo**, matéria por matéria, seguindo o edital. Cada aula explica o assunto do zero, mostra as pegadinhas que a banca costuma usar e termina com um resumo.
+Primeiro, **ouça as aulas novas com atenção total**, de preferência sem fazer outra coisa ao mesmo tempo. Já as revisões relâmpago podem ser ouvidas andando, no ônibus ou fazendo tarefas simples.
 
-Por fim, volte à prova e ouça de novo. Você vai perceber quanto já evoluiu.
+Segundo, **comece o dia por uma revisão relâmpago**. Escolha uma na lista, de uma matéria que você já estudou. Cinco a dez minutos bastam.
 
-Uma dica de ouro sobre a banca Cebraspe: desconfie das alternativas com palavras absolutas, como **sempre**, **nunca**, **exclusivamente**, **somente** e **totalmente**. Na maioria das vezes, elas estão erradas. E, nas questões de lei, leia com cuidado os números e os detalhes: a banca adora trocar um prazo ou uma regra de substituição.
+Terceiro, **não pule a pausa das questões**. Ela é a parte mais importante do treino.
 
-Bons estudos. Vamos juntos até a aprovação.
+Se uma frase da revisão não fizer sentido, volte à aula do módulo. A revisão é para lembrar, e só funciona depois que você entendeu.
+
+Pronto. A seguir, o cargo, a prova e o plano de estudo. Bons estudos, e até a aprovação.

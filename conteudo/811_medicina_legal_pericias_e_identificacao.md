@@ -256,9 +256,9 @@ Letra E: A autoridade policial não pode negar nenhuma perícia requerida pelas 
 
 Pense na sua resposta.
 
-**A explicação.** É o artigo 167: não sendo possível o exame de corpo de delito, por terem desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta. A confissão nunca supre. Na falta de perito oficial, são duas pessoas idôneas com curso superior. O juiz não fica adstrito ao laudo. E a perícia desnecessária pode ser negada, salvo o exame de corpo de delito.
+**Resposta: letra D: desaparecidos os vestígios, a prova testemunhal poderá suprir a falta do exame de corpo de delito.**
 
-**Resposta: letra D.**
+**Por quê.** É o artigo 167: não sendo possível o exame de corpo de delito, por terem desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta. A confissão nunca supre. Na falta de perito oficial, são duas pessoas idôneas com curso superior. O juiz não fica adstrito ao laudo. E a perícia desnecessária pode ser negada, salvo o exame de corpo de delito.
 
 ---
 
@@ -278,9 +278,9 @@ Letra E: reconhecimento e processamento.
 
 Pense na sua resposta.
 
-**A explicação.** Distinguir a cápsula como elemento de interesse é o reconhecimento. Delimitar a área para não alterar o estado das coisas é o isolamento. A fixação viria depois, com a descrição e as fotografias. E, a partir do reconhecimento, o investigador já é responsável pela preservação do vestígio.
+**Resposta: letra B: reconhecimento e isolamento.**
 
-**Resposta: letra B.**
+**Por quê.** Distinguir a cápsula como elemento de interesse é o reconhecimento. Delimitar a área para não alterar o estado das coisas é o isolamento. A fixação viria depois, com a descrição e as fotografias. E, a partir do reconhecimento, o investigador já é responsável pela preservação do vestígio.
 
 ---
 
@@ -300,9 +300,9 @@ Letra E: presilha dupla.
 
 Pense na sua resposta.
 
-**A explicação.** O verticilo tem dois deltas, um de cada lado. O arco não tem delta, e as presilhas têm um delta, à direita na interna e à esquerda na externa, do ponto de vista de quem olha a impressão. Não existe "presilha dupla" no sistema de Vucetich.
+**Resposta: letra D: verticilo.**
 
-**Resposta: letra D.**
+**Por quê.** O verticilo tem dois deltas, um de cada lado. O arco não tem delta, e as presilhas têm um delta, à direita na interna e à esquerda na externa, do ponto de vista de quem olha a impressão. Não existe "presilha dupla" no sistema de Vucetich.
 
 ---
 
@@ -322,9 +322,9 @@ Letra E: seguida de morte, por equiparação legal.
 
 Pense na sua resposta.
 
-**A explicação.** Perder os dois olhos é perda total do sentido da visão, o que configura lesão gravíssima, pelo artigo 129, parágrafo 2º. Se a vítima tivesse perdido apenas um olho, continuando a enxergar pelo outro, seria debilidade permanente, e a lesão seria grave.
+**Resposta: letra C: gravíssima, por perda do sentido da visão.**
 
-**Resposta: letra C.**
+**Por quê.** Perder os dois olhos é perda total do sentido da visão, o que configura lesão gravíssima, pelo artigo 129, parágrafo 2º. Se a vítima tivesse perdido apenas um olho, continuando a enxergar pelo outro, seria debilidade permanente, e a lesão seria grave.
 
 ---
 

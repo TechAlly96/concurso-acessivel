@@ -240,9 +240,9 @@ Letra E: dois mil quatrocentos e vinte reais.
 
 Pense na sua resposta.
 
-**A explicação.** No primeiro mês, dois mil vezes um vírgula um dá dois mil e duzentos. No segundo mês, dois mil e duzentos vezes um vírgula um dá dois mil quatrocentos e vinte. Esse é o montante. Os juros são o montante menos o capital: dois mil quatrocentos e vinte menos dois mil, igual a quatrocentos e vinte reais. A letra B seria a resposta em juros simples, e a letra E é o montante, e não os juros.
+**Resposta: letra C: quatrocentos e vinte reais.**
 
-**Resposta: letra C.**
+**Por quê.** No primeiro mês, dois mil vezes um vírgula um dá dois mil e duzentos. No segundo mês, dois mil e duzentos vezes um vírgula um dá dois mil quatrocentos e vinte. Esse é o montante. Os juros são o montante menos o capital: dois mil quatrocentos e vinte menos dois mil, igual a quatrocentos e vinte reais. A letra B seria a resposta em juros simples, e a letra E é o montante, e não os juros.
 
 ---
 
@@ -262,9 +262,9 @@ Letra E: setenta e dois dias.
 
 Pense na sua resposta.
 
-**A explicação.** É um problema de coincidência: mínimo múltiplo comum. Os múltiplos de seis são seis, doze, dezoito. O seis não é múltiplo de quatro. O doze é múltiplo de três, de quatro e de seis. Então os três voltam a coincidir daqui a doze dias. A letra E é a multiplicação de três por quatro por seis, que é um múltiplo comum, mas não o menor.
+**Resposta: letra B: doze dias.**
 
-**Resposta: letra B.**
+**Por quê.** É um problema de coincidência: mínimo múltiplo comum. Os múltiplos de seis são seis, doze, dezoito. O seis não é múltiplo de quatro. O doze é múltiplo de três, de quatro e de seis. Então os três voltam a coincidir daqui a doze dias. A letra E é a multiplicação de três por quatro por seis, que é um múltiplo comum, mas não o menor.
 
 ---
 
@@ -284,9 +284,9 @@ Letra E: vinte.
 
 Pense na sua resposta.
 
-**A explicação.** As diferenças entre os termos são um, dois, três e quatro, crescendo de um em um. A próxima diferença é cinco. Treze mais cinco dá dezoito.
+**Resposta: letra C: dezoito.**
 
-**Resposta: letra C.**
+**Por quê.** As diferenças entre os termos são um, dois, três e quatro, crescendo de um em um. A próxima diferença é cinco. Treze mais cinco dá dezoito.
 
 ---
 
@@ -306,9 +306,9 @@ Letra E: Não é possível saber.
 
 Pense na sua resposta.
 
-**A explicação.** Eduardo e Fábio se contradizem: Fábio diz que Eduardo mente. Então, desses dois, exatamente um diz a verdade. Como só um diz a verdade no total, Daniel mente. Se Daniel mente ao dizer "eu não quebrei", foi ele quem quebrou. Conferindo: Daniel mente; Eduardo, ao acusar Fábio, mente; e Fábio, ao dizer que Eduardo mente, diz a verdade. Uma só verdade. Fechou.
+**Resposta: letra A: Daniel.**
 
-**Resposta: letra A.**
+**Por quê.** Eduardo e Fábio se contradizem: Fábio diz que Eduardo mente. Então, desses dois, exatamente um diz a verdade. Como só um diz a verdade no total, Daniel mente. Se Daniel mente ao dizer "eu não quebrei", foi ele quem quebrou. Conferindo: Daniel mente; Eduardo, ao acusar Fábio, mente; e Fábio, ao dizer que Eduardo mente, diz a verdade. Uma só verdade. Fechou.
 
 ---
 

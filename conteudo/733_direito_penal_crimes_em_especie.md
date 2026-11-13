@@ -352,9 +352,9 @@ Letra E: estelionato.
 
 Pense na sua resposta.
 
-**A explicação.** A colaboração da vítima, sacando o dinheiro, era indispensável, o que caracteriza extorsão, e não roubo. E a restrição da liberdade era condição para obter a vantagem, o que configura o sequestro relâmpago, do parágrafo 3º do artigo 158. Na extorsão mediante sequestro, a vítima é mantida sequestrada como condição para o pagamento de resgate, normalmente por terceiros.
+**Resposta: letra C: extorsão com restrição da liberdade da vítima, conhecida como sequestro relâmpago.**
 
-**Resposta: letra C.**
+**Por quê.** A colaboração da vítima, sacando o dinheiro, era indispensável, o que caracteriza extorsão, e não roubo. E a restrição da liberdade era condição para obter a vantagem, o que configura o sequestro relâmpago, do parágrafo 3º do artigo 158. Na extorsão mediante sequestro, a vítima é mantida sequestrada como condição para o pagamento de resgate, normalmente por terceiros.
 
 ---
 
@@ -374,9 +374,9 @@ Letra E: desacato, pois o síndico é funcionário público.
 
 Pense na sua resposta.
 
-**A explicação.** Carlos atribuiu ao síndico um fato determinado, desviar o dinheiro do fundo, que é crime, sabendo que era falso. Isso é calúnia. Não é injúria, porque há um fato, e não um xingamento. Não é denunciação caluniosa, porque não houve instauração de investigação. E o síndico não é funcionário público.
+**Resposta: letra C: calúnia, pois imputou falsamente ao síndico fato determinado definido como crime.**
 
-**Resposta: letra C.**
+**Por quê.** Carlos atribuiu ao síndico um fato determinado, desviar o dinheiro do fundo, que é crime, sabendo que era falso. Isso é calúnia. Não é injúria, porque há um fato, e não um xingamento. Não é denunciação caluniosa, porque não houve instauração de investigação. E o síndico não é funcionário público.
 
 ---
 
@@ -396,9 +396,9 @@ Letra E: o policial cometeu concussão, e o motorista, corrupção ativa.
 
 Pense na sua resposta.
 
-**A explicação.** O policial impôs a condição, ou seja, exigiu a vantagem indevida, o que é concussão. O motorista, que pagou por causa da exigência, é vítima, e não comete corrupção ativa, cujos verbos são oferecer e prometer. Se o policial apenas tivesse solicitado, seria corrupção passiva.
+**Resposta: letra B: o policial cometeu concussão, e o motorista não cometeu crime, sendo vítima.**
 
-**Resposta: letra B.**
+**Por quê.** O policial impôs a condição, ou seja, exigiu a vantagem indevida, o que é concussão. O motorista, que pagou por causa da exigência, é vítima, e não comete corrupção ativa, cujos verbos são oferecer e prometer. Se o policial apenas tivesse solicitado, seria corrupção passiva.
 
 ---
 
@@ -418,9 +418,9 @@ Letra E: O assédio sexual dispensa a relação de hierarquia ou ascendência no
 
 Pense na sua resposta.
 
-**A explicação.** A letra D reproduz o artigo 215-A. O estupro de vulnerável não exige violência, e, pela Súmula 593, o consentimento, a experiência anterior e o relacionamento amoroso são irrelevantes. O estupro pode ter qualquer pessoa como vítima. E o assédio sexual exige que o agente se aproveite da condição de superior hierárquico ou de ascendência no trabalho.
+**Resposta: letra D: configura importunação sexual praticar contra alguém, sem a sua anuência, ato libidinoso com o objetivo de satisfazer a própria lascívia, se o ato não constitui crime mais grave.**
 
-**Resposta: letra D.**
+**Por quê.** A letra D reproduz o artigo 215-A. O estupro de vulnerável não exige violência, e, pela Súmula 593, o consentimento, a experiência anterior e o relacionamento amoroso são irrelevantes. O estupro pode ter qualquer pessoa como vítima. E o assédio sexual exige que o agente se aproveite da condição de superior hierárquico ou de ascendência no trabalho.
 
 ---
 

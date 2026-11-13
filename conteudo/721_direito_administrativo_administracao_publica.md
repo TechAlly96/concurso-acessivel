@@ -180,9 +180,9 @@ Letra E: legalidade em sentido estrito, por ausência de licitação.
 
 Pense na sua resposta.
 
-**A explicação.** O artigo 37, parágrafo 1º, proíbe que a publicidade de órgãos públicos traga nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades. Isso é a impessoalidade: o ato é da instituição, não da pessoa do delegado.
+**Resposta: letra B: impessoalidade.**
 
-**Resposta: letra B.**
+**Por quê.** O artigo 37, parágrafo 1º, proíbe que a publicidade de órgãos públicos traga nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades. Isso é a impessoalidade: o ato é da instituição, não da pessoa do delegado.
 
 ---
 
@@ -202,9 +202,9 @@ Letra E: A anulação somente pode ser feita pelo Poder Judiciário.
 
 Pense na sua resposta.
 
-**A explicação.** É a autotutela, da Súmula 473 do Supremo: a Administração anula os seus atos ilegais por conta própria, e o Judiciário sempre pode ser acionado. O Judiciário anula, mas não revoga atos de outro Poder. A revogação é de atos legais e vale para a frente. E a anulação de ato favorável tem prazo de cinco anos, salvo má-fé.
+**Resposta: letra C: A Administração pode anular os próprios atos ilegais, independentemente de provocação, ressalvada a apreciação judicial.**
 
-**Resposta: letra C.**
+**Por quê.** É a autotutela, da Súmula 473 do Supremo: a Administração anula os seus atos ilegais por conta própria, e o Judiciário sempre pode ser acionado. O Judiciário anula, mas não revoga atos de outro Poder. A revogação é de atos legais e vale para a frente. E a anulação de ato favorável tem prazo de cinco anos, salvo má-fé.
 
 ---
 
@@ -224,9 +224,9 @@ Letra E: órgão da administração direta, fruto da desconcentração.
 
 Pense na sua resposta.
 
-**A explicação.** Direito privado, sociedade anônima, capital público e privado, com maioria votante do Estado: é a sociedade de economia mista. A empresa pública teria capital todo público. A autarquia é de direito público. E órgão não tem personalidade jurídica.
+**Resposta: letra C: sociedade de economia mista, cuja criação é autorizada por lei específica.**
 
-**Resposta: letra C.**
+**Por quê.** Direito privado, sociedade anônima, capital público e privado, com maioria votante do Estado: é a sociedade de economia mista. A empresa pública teria capital todo público. A autarquia é de direito público. E órgão não tem personalidade jurídica.
 
 ---
 
@@ -246,9 +246,9 @@ Letra E: delegação e outorga.
 
 Pense na sua resposta.
 
-**A explicação.** A nova delegacia é um órgão dentro da mesma pessoa jurídica, o Estado: desconcentração, dentro de casa. A autarquia é uma nova pessoa jurídica: descentralização, fora de casa, na modalidade outorga, por lei. A letra E erra a primeira parte, porque criar delegacia não é delegação.
+**Resposta: letra B: desconcentração e descentralização.**
 
-**Resposta: letra B.**
+**Por quê.** A nova delegacia é um órgão dentro da mesma pessoa jurídica, o Estado: desconcentração, dentro de casa. A autarquia é uma nova pessoa jurídica: descentralização, fora de casa, na modalidade outorga, por lei. A letra E erra a primeira parte, porque criar delegacia não é delegação.
 
 ---
 

@@ -202,9 +202,9 @@ Letra E: tornam desnecessária a pesquisa de material biológico.
 
 Pense na sua resposta.
 
-**A explicação.** O hímen complacente permite a conjunção carnal sem se romper, e o estupro pode ser praticado mediante grave ameaça, sem deixar lesões. Por isso, esses achados não excluem o crime, e a pesquisa de material biológico, como o D N A, continua essencial.
+**Resposta: letra C: não excluem a ocorrência do crime, pois o hímen pode ser complacente e o estupro pode ser praticado mediante grave ameaça, sem lesões.**
 
-**Resposta: letra C.**
+**Por quê.** O hímen complacente permite a conjunção carnal sem se romper, e o estupro pode ser praticado mediante grave ameaça, sem deixar lesões. Por isso, esses achados não excluem o crime, e a pesquisa de material biológico, como o D N A, continua essencial.
 
 ---
 
@@ -224,9 +224,9 @@ Letra E: a criança morreu por monóxido de carbono.
 
 Pense na sua resposta.
 
-**A explicação.** É a docimásia hidrostática pulmonar de Galeno. Os pulmões que respiraram contêm ar e flutuam, o que indica que a criança nasceu com vida. O cuidado de excluir a putrefação é necessário, porque os gases da decomposição também fazem os pulmões flutuarem. O exame não avalia o estado psíquico da mãe.
+**Resposta: letra B: a criança respirou, o que indica que nasceu com vida.**
 
-**Resposta: letra B.**
+**Por quê.** É a docimásia hidrostática pulmonar de Galeno. Os pulmões que respiraram contêm ar e flutuam, o que indica que a criança nasceu com vida. O cuidado de excluir a putrefação é necessário, porque os gases da decomposição também fazem os pulmões flutuarem. O exame não avalia o estado psíquico da mãe.
 
 ---
 
@@ -246,9 +246,9 @@ Letra E: a vontade de comer alimentos diferentes.
 
 Pense na sua resposta.
 
-**A explicação.** Os sinais de certeza comprovam a presença do feto: batimentos cardíacos fetais, movimentos fetais percebidos pelo examinador e a imagem na ultrassonografia. A ausência de menstruação, os enjoos e as alterações nas mamas são sinais de presunção, que podem ter outras causas.
+**Resposta: letra C: os batimentos cardíacos fetais e a imagem do feto na ultrassonografia.**
 
-**Resposta: letra C.**
+**Por quê.** Os sinais de certeza comprovam a presença do feto: batimentos cardíacos fetais, movimentos fetais percebidos pelo examinador e a imagem na ultrassonografia. A ausência de menstruação, os enjoos e as alterações nas mamas são sinais de presunção, que podem ter outras causas.
 
 ---
 
@@ -268,9 +268,9 @@ Letra E: A fertilização in vitro ocorre dentro do corpo da mulher.
 
 Pense na sua resposta.
 
-**A explicação.** O Código Civil presume a paternidade na inseminação heteróloga desde que haja prévia autorização do marido. A técnica heteróloga usa material de doador. A gestação de substituição não pode ter caráter lucrativo. A clonagem humana é proibida. E a fertilização in vitro acontece em laboratório.
+**Resposta: letra C: presumem-se concebidos na constância do casamento os filhos havidos por inseminação artificial heteróloga, desde que tenha havido prévia autorização do marido.**
 
-**Resposta: letra C.**
+**Por quê.** O Código Civil presume a paternidade na inseminação heteróloga desde que haja prévia autorização do marido. A técnica heteróloga usa material de doador. A gestação de substituição não pode ter caráter lucrativo. A clonagem humana é proibida. E a fertilização in vitro acontece em laboratório.
 
 ---
 

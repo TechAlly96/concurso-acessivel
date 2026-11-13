@@ -320,9 +320,9 @@ Letra E: crime único, sem nenhum aumento.
 
 Pense na sua resposta.
 
-**A explicação.** Houve uma só ação, a manobra, que produziu dois crimes. É concurso formal. Como o motorista não tinha a intenção autônoma de atingir cada vítima, é concurso formal próprio, com a pena mais grave, ou uma delas se iguais, aumentada de um sexto até metade. Se ele quisesse matar as duas, seria formal impróprio, com as penas somadas.
+**Resposta: letra B: concurso formal próprio, aplicando-se a pena de um dos crimes, aumentada de um sexto até metade.**
 
-**Resposta: letra B.**
+**Por quê.** Houve uma só ação, a manobra, que produziu dois crimes. É concurso formal. Como o motorista não tinha a intenção autônoma de atingir cada vítima, é concurso formal próprio, com a pena mais grave, ou uma delas se iguais, aumentada de um sexto até metade. Se ele quisesse matar as duas, seria formal impróprio, com as penas somadas.
 
 ---
 
@@ -342,9 +342,9 @@ Letra E: integralmente fechado.
 
 Pense na sua resposta.
 
-**A explicação.** Pela regra do artigo 33, pena superior a quatro e até oito anos, para réu não reincidente, começa no regime semiaberto. Mais de oito, fechado; até quatro, aberto.
+**Resposta: letra B: semiaberto.**
 
-**Resposta: letra B.**
+**Por quê.** Pela regra do artigo 33, pena superior a quatro e até oito anos, para réu não reincidente, começa no regime semiaberto. Mais de oito, fechado; até quatro, aberto.
 
 ---
 
@@ -364,9 +364,9 @@ Letra E: O indulto apaga a reincidência.
 
 Pense na sua resposta.
 
-**A explicação.** A anistia vem de lei do Congresso e esquece o fato; a graça é individual e o indulto é coletivo, ambos do Presidente, por decreto, e extinguem só a pena, mantendo efeitos como a reincidência. Os hediondos são insuscetíveis de anistia e graça.
+**Resposta: letra C: A anistia é concedida por lei do Congresso Nacional e apaga o próprio fato criminoso, enquanto o indulto é concedido pelo Presidente da República, de forma coletiva.**
 
-**Resposta: letra C.**
+**Por quê.** A anistia vem de lei do Congresso e esquece o fato; a graça é individual e o indulto é coletivo, ambos do Presidente, por decreto, e extinguem só a pena, mantendo efeitos como a reincidência. Os hediondos são insuscetíveis de anistia e graça.
 
 ---
 
@@ -386,9 +386,9 @@ Letra E: doze anos.
 
 Pense na sua resposta.
 
-**A explicação.** Pela tabela do artigo 109, a pena máxima superior a dois e até quatro anos prescreve em oito anos. Mas o autor era menor de vinte e um anos na data do fato, e, pelo artigo 115, o prazo é reduzido pela metade. Oito dividido por dois: quatro anos.
+**Resposta: letra B: quatro anos.**
 
-**Resposta: letra B.**
+**Por quê.** Pela tabela do artigo 109, a pena máxima superior a dois e até quatro anos prescreve em oito anos. Mas o autor era menor de vinte e um anos na data do fato, e, pelo artigo 115, o prazo é reduzido pela metade. Oito dividido por dois: quatro anos.
 
 ---
 

@@ -188,9 +188,9 @@ Letra E: a lei nova é temporária e, por isso, não retroage.
 
 Pense na sua resposta.
 
-**A explicação.** É uma lei nova mais benéfica, a novatio legis in mellius. Pelo parágrafo único do artigo segundo do Código Penal, ela retroage, ainda que os fatos tenham sido decididos por sentença condenatória transitada em julgado. Não é abolitio criminis, porque o fato continua sendo crime.
+**Resposta: letra B: a lei nova se aplica, por ser mais benéfica, ainda que haja sentença condenatória definitiva.**
 
-**Resposta: letra B.**
+**Por quê.** É uma lei nova mais benéfica, a novatio legis in mellius. Pelo parágrafo único do artigo segundo do Código Penal, ela retroage, ainda que os fatos tenham sido decididos por sentença condenatória transitada em julgado. Não é abolitio criminis, porque o fato continua sendo crime.
 
 ---
 
@@ -210,9 +210,9 @@ Letra E: a lei brasileira só se aplica se houver pedido do Ministério da Justi
 
 Pense na sua resposta.
 
-**A explicação.** Pelo artigo sexto, considera-se praticado o crime tanto onde ocorreu a ação quanto onde se produziu o resultado: é a ubiquidade. Como o resultado ocorreu no Brasil, aplica-se a lei brasileira. A letra C erra porque a atividade é a teoria do tempo, e não do lugar. Lembre: luta.
+**Resposta: letra B: aplica-se a lei brasileira, pois o Código Penal adota a teoria da ubiquidade quanto ao lugar do crime.**
 
-**Resposta: letra B.**
+**Por quê.** Pelo artigo sexto, considera-se praticado o crime tanto onde ocorreu a ação quanto onde se produziu o resultado: é a ubiquidade. Como o resultado ocorreu no Brasil, aplica-se a lei brasileira. A letra C erra porque a atividade é a teoria do tempo, e não do lugar. Lembre: luta.
 
 ---
 
@@ -232,9 +232,9 @@ Letra E: A responsabilidade penal objetiva é admitida nos crimes contra a Admin
 
 Pense na sua resposta.
 
-**A explicação.** É o que diz o artigo 5º, inciso 45, da Constituição: a pena não passa da pessoa do condenado, mas a obrigação de reparar o dano e a perda de bens podem chegar aos sucessores, até o limite do patrimônio transferido. A Constituição proíbe pena perpétua. A insignificância não se aplica a crimes com violência ou grave ameaça. Medida provisória não pode criar crime. E não existe responsabilidade penal objetiva.
+**Resposta: letra C: A obrigação de reparar o dano pode ser estendida aos sucessores do condenado, até o limite do valor do patrimônio transferido.**
 
-**Resposta: letra C.**
+**Por quê.** É o que diz o artigo 5º, inciso 45, da Constituição: a pena não passa da pessoa do condenado, mas a obrigação de reparar o dano e a perda de bens podem chegar aos sucessores, até o limite do patrimônio transferido. A Constituição proíbe pena perpétua. A insignificância não se aplica a crimes com violência ou grave ameaça. Medida provisória não pode criar crime. E não existe responsabilidade penal objetiva.
 
 ---
 
@@ -254,9 +254,9 @@ Letra E: 10 de abril.
 
 Pense na sua resposta.
 
-**A explicação.** No prazo penal, o dia do começo conta como o primeiro dia, mesmo que tenham restado apenas duas horas. Então o dia 10 é o primeiro dia, o 11 é o segundo, e assim por diante. O décimo quinto dia é o dia 24. Uma conta rápida: 10 mais 15, menos 1, dá 24.
+**Resposta: letra B: 24 de março.**
 
-**Resposta: letra B.**
+**Por quê.** No prazo penal, o dia do começo conta como o primeiro dia, mesmo que tenham restado apenas duas horas. Então o dia 10 é o primeiro dia, o 11 é o segundo, e assim por diante. O décimo quinto dia é o dia 24. Uma conta rápida: 10 mais 15, menos 1, dá 24.
 
 ---
 

@@ -270,9 +270,9 @@ Letra E: os moradores do bairro protegem o suspeito.
 
 Pense na sua resposta.
 
-**A explicação.** A expressão "voltou a ser visto" pressupõe que ele já tinha sido visto antes. As demais alternativas extrapolam: o texto não fala em entrega, em esconderijo conhecido, em crime no bairro, nem em proteção dos moradores.
+**Resposta: letra B: o suspeito já tinha sido visto no bairro antes.**
 
-**Resposta: letra B.**
+**Por quê.** A expressão "voltou a ser visto" pressupõe que ele já tinha sido visto antes. As demais alternativas extrapolam: o texto não fala em entrega, em esconderijo conhecido, em crime no bairro, nem em proteção dos moradores.
 
 ---
 
@@ -292,9 +292,9 @@ Letra E: Primeiro, isole a área; depois, acione a perícia.
 
 Pense na sua resposta.
 
-**A explicação.** A letra C caracteriza o veículo, como uma fotografia: cor, estado do para-choque, vidros. É descrição. A letra A conta ações em sequência, então é narração. As letras B e E dão ordens, são injuntivas. A letra D defende uma ideia, é dissertativa.
+**Resposta: letra C: O veículo apreendido era um sedã prata, com o para-choque amassado e os vidros escurecidos.**
 
-**Resposta: letra C.**
+**Por quê.** A letra C caracteriza o veículo, como uma fotografia: cor, estado do para-choque, vidros. É descrição. A letra A conta ações em sequência, então é narração. As letras B e E dão ordens, são injuntivas. A letra D defende uma ideia, é dissertativa.
 
 ---
 
@@ -314,9 +314,9 @@ Letra E: caso.
 
 Pense na sua resposta.
 
-**A explicação.** "Embora" é concessivo: admite um obstáculo, as provas frágeis, que não impediu o fato. "Ainda que" também é concessivo e também pede o verbo no subjuntivo, por isso a troca funciona: "ainda que as provas fossem frágeis". "Porque" é causa; "à medida que", proporção; "portanto", conclusão; "caso", condição.
+**Resposta: letra B: ainda que.**
 
-**Resposta: letra B.**
+**Por quê.** "Embora" é concessivo: admite um obstáculo, as provas frágeis, que não impediu o fato. "Ainda que" também é concessivo e também pede o verbo no subjuntivo, por isso a troca funciona: "ainda que as provas fossem frágeis". "Porque" é causa; "à medida que", proporção; "portanto", conclusão; "caso", condição.
 
 ---
 
@@ -336,9 +336,9 @@ Letra E: A testemunha declarou se tinha visto o carro estacionado ali no dia ant
 
 Pense na sua resposta.
 
-**A explicação.** No indireto, "eu" vira a terceira pessoa, o pretérito "vi" recua para "tinha visto", "aqui" vira "ali" e "ontem" vira "no dia anterior". A letra C faz todas as transformações. A letra A mantém o "eu". A B não ajusta tempo nem lugar. A D mantém os dois-pontos do discurso direto. E a E usa "se", próprio de perguntas, mas a fala era uma afirmação.
+**Resposta: letra C: A testemunha declarou que tinha visto o carro estacionado ali no dia anterior.**
 
-**Resposta: letra C.**
+**Por quê.** No indireto, "eu" vira a terceira pessoa, o pretérito "vi" recua para "tinha visto", "aqui" vira "ali" e "ontem" vira "no dia anterior". A letra C faz todas as transformações. A letra A mantém o "eu". A B não ajusta tempo nem lugar. A D mantém os dois-pontos do discurso direto. E a E usa "se", próprio de perguntas, mas a fala era uma afirmação.
 
 ---
 
@@ -358,9 +358,9 @@ Letra E: O canal da comunicação é a própria assessoria de comunicação.
 
 Pense na sua resposta.
 
-**A explicação.** O canal é o meio físico pelo qual a mensagem passa: aqui, as redes sociais e a tela dos aparelhos. A assessoria é quem produz a mensagem, ou seja, faz parte do emissor. Por isso a letra E é inadequada. As demais estão corretas: emissor institucional, código com palavras e imagens, receptor amplo e função apelativa, porque o vídeo quer mudar o comportamento de quem assiste.
+**Resposta: letra E: O canal da comunicação é a própria assessoria de comunicação.**
 
-**Resposta: letra E.**
+**Por quê.** O canal é o meio físico pelo qual a mensagem passa: aqui, as redes sociais e a tela dos aparelhos. A assessoria é quem produz a mensagem, ou seja, faz parte do emissor. Por isso a letra E é inadequada. As demais estão corretas: emissor institucional, código com palavras e imagens, receptor amplo e função apelativa, porque o vídeo quer mudar o comportamento de quem assiste.
 
 ---
 

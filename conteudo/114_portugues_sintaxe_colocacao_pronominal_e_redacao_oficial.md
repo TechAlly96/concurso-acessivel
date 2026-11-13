@@ -364,9 +364,9 @@ Letra E: composto.
 
 Pense na sua resposta.
 
-**A explicação.** O verbo está na terceira pessoa do plural sem referência a ninguém antes, o que caracteriza o sujeito indeterminado: alguém roubou, mas não se sabe quem. "Duas viaturas" é o objeto direto: quem rouba, rouba algo. Não é oração sem sujeito, porque o verbo roubar não é impessoal.
+**Resposta: letra C: indeterminado.**
 
-**Resposta: letra C.**
+**Por quê.** O verbo está na terceira pessoa do plural sem referência a ninguém antes, o que caracteriza o sujeito indeterminado: alguém roubou, mas não se sabe quem. "Duas viaturas" é o objeto direto: quem rouba, rouba algo. Não é oração sem sujeito, porque o verbo roubar não é impessoal.
 
 ---
 
@@ -386,9 +386,9 @@ Letra E: à medida que.
 
 Pense na sua resposta.
 
-**A explicação.** "Embora" é conjunção concessiva: indica um fato contrário que não impede o outro. "Ainda que" também é concessiva e mantém o sentido. "Porque" é causal; "para que", final; "portanto", conclusiva; e "à medida que", proporcional.
+**Resposta: letra B: ainda que.**
 
-**Resposta: letra B.**
+**Por quê.** "Embora" é conjunção concessiva: indica um fato contrário que não impede o outro. "Ainda que" também é concessiva e mantém o sentido. "Porque" é causal; "para que", final; "portanto", conclusiva; e "à medida que", proporcional.
 
 ---
 
@@ -408,9 +408,9 @@ Letra E: Ninguém informou-me sobre o laudo.
 
 Pense na sua resposta.
 
-**A explicação.** Na letra D, o pronome relativo "que" atrai o pronome para antes do verbo, como deve ser. Na letra A, não se inicia frase com pronome oblíquo. Nas letras B e E, as palavras negativas "não" e "ninguém" exigem a próclise. E na letra C, não se usa ênclise com o futuro: o correto seria "entregar-lhe-ei".
+**Resposta: letra D: O perito que me entregou o laudo é experiente.**
 
-**Resposta: letra D.**
+**Por quê.** Na letra D, o pronome relativo "que" atrai o pronome para antes do verbo, como deve ser. Na letra A, não se inicia frase com pronome oblíquo. Nas letras B e E, as palavras negativas "não" e "ninguém" exigem a próclise. E na letra C, não se usa ênclise com o futuro: o correto seria "entregar-lhe-ei".
 
 ---
 
@@ -430,9 +430,9 @@ Letra E: O texto oficial deve refletir as opiniões pessoais de quem o redige.
 
 Pense na sua resposta.
 
-**A explicação.** Na terceira edição do Manual, o vocativo "Excelentíssimo Senhor" ficou reservado aos chefes de Poder, e a redação oficial deve ser clara, concisa e impessoal. "Atenciosamente" é para autoridades de mesma hierarquia ou inferior. "Digníssimo" foi abolido. Os pronomes de tratamento levam o verbo para a terceira pessoa. E o texto oficial é impessoal.
+**Resposta: letra D: O vocativo "Excelentíssimo Senhor" é reservado aos chefes de Poder, e as comunicações oficiais devem primar pela clareza, concisão e impessoalidade.**
 
-**Resposta: letra D.**
+**Por quê.** Na terceira edição do Manual, o vocativo "Excelentíssimo Senhor" ficou reservado aos chefes de Poder, e a redação oficial deve ser clara, concisa e impessoal. "Atenciosamente" é para autoridades de mesma hierarquia ou inferior. "Digníssimo" foi abolido. Os pronomes de tratamento levam o verbo para a terceira pessoa. E o texto oficial é impessoal.
 
 ---
 

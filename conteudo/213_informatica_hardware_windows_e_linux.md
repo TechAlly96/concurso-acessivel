@@ -368,9 +368,9 @@ Letra E: Os registradores ficam no disco rígido.
 
 Pense na sua resposta.
 
-**A explicação.** A memória R A M é volátil: guarda o que está em uso e perde tudo ao desligar. A R O M é não volátil e guarda o firmware de inicialização. A cache é mais rápida que a R A M. E os registradores ficam dentro do processador.
+**Resposta: letra C: A memória R A M é volátil e armazena os programas e os dados em uso, perdendo o conteúdo quando o computador é desligado.**
 
-**Resposta: letra C.**
+**Por quê.** A memória R A M é volátil: guarda o que está em uso e perde tudo ao desligar. A R O M é não volátil e guarda o firmware de inicialização. A cache é mais rápida que a R A M. E os registradores ficam dentro do processador.
 
 ---
 
@@ -390,9 +390,9 @@ Letra E: nada acontece, pois arquivos de pendrive não podem ser excluídos.
 
 Pense na sua resposta.
 
-**A explicação.** Os arquivos excluídos de pendrives, cartões de memória e pastas de rede não vão para a Lixeira: são excluídos definitivamente. Só os arquivos das unidades internas vão para a Lixeira quando se usa a tecla Delete.
+**Resposta: letra B: o arquivo é excluído definitivamente, pois arquivos excluídos de unidades removíveis não vão para a Lixeira.**
 
-**Resposta: letra B.**
+**Por quê.** Os arquivos excluídos de pendrives, cartões de memória e pastas de rede não vão para a Lixeira: são excluídos definitivamente. Só os arquivos das unidades internas vão para a Lixeira quando se usa a tecla Delete.
 
 ---
 
@@ -412,9 +412,9 @@ Letra E: R M.
 
 Pense na sua resposta.
 
-**A explicação.** O comando P W D mostra o diretório atual. L S lista o conteúdo; C D muda de diretório; M K D I R cria uma pasta; e R M remove arquivos.
+**Resposta: letra C: P W D.**
 
-**Resposta: letra C.**
+**Por quê.** O comando P W D mostra o diretório atual. L S lista o conteúdo; C D muda de diretório; M K D I R cria uma pasta; e R M remove arquivos.
 
 ---
 
@@ -434,9 +434,9 @@ Letra E: o dono pode ler, escrever e executar, e os demais não têm nenhuma per
 
 Pense na sua resposta.
 
-**A explicação.** Seis é leitura, quatro, mais escrita, dois. Quatro é só leitura. Então o dono, que é o primeiro número, pode ler e escrever; o grupo e os outros, que são o segundo e o terceiro números, só podem ler.
+**Resposta: letra B: o dono pode ler e escrever, e o grupo e os outros podem apenas ler.**
 
-**Resposta: letra B.**
+**Por quê.** Seis é leitura, quatro, mais escrita, dois. Quatro é só leitura. Então o dono, que é o primeiro número, pode ler e escrever; o grupo e os outros, que são o segundo e o terceiro números, só podem ler.
 
 ---
 

@@ -228,9 +228,9 @@ Letra E: No inquérito, são plenamente assegurados o contraditório e a ampla d
 
 Pense na sua resposta.
 
-**A explicação.** O inquérito é procedimento administrativo, e seus vícios, em regra, não anulam o processo. O delegado nunca arquiva. O inquérito é dispensável. O sigilo não alcança as provas já documentadas, pela Súmula Vinculante 14. E o contraditório pleno não existe no inquérito.
+**Resposta: letra D: O inquérito tem natureza administrativa, e eventuais vícios nele ocorridos, em regra, não contaminam a ação penal.**
 
-**Resposta: letra D.**
+**Por quê.** O inquérito é procedimento administrativo, e seus vícios, em regra, não anulam o processo. O delegado nunca arquiva. O inquérito é dispensável. O sigilo não alcança as provas já documentadas, pela Súmula Vinculante 14. E o contraditório pleno não existe no inquérito.
 
 ---
 
@@ -250,9 +250,9 @@ Letra E: o inquérito depende de autorização judicial prévia, por envolver am
 
 Pense na sua resposta.
 
-**A explicação.** Na ação pública condicionada, o artigo 5º, parágrafo 4º, diz que o inquérito não poderá ser iniciado sem a representação. A queixa-crime é da ação penal privada, e não há necessidade de requisição do Ministério Público nem de autorização judicial. Um detalhe prático: como a ameaça é crime de menor potencial ofensivo, a apuração costuma ser feita por termo circunstanciado, e não por inquérito, mas a regra da representação vale do mesmo jeito.
+**Resposta: letra B: o inquérito somente poderá ser iniciado mediante a representação de Maria.**
 
-**Resposta: letra B.**
+**Por quê.** Na ação pública condicionada, o artigo 5º, parágrafo 4º, diz que o inquérito não poderá ser iniciado sem a representação. A queixa-crime é da ação penal privada, e não há necessidade de requisição do Ministério Público nem de autorização judicial. Um detalhe prático: como a ameaça é crime de menor potencial ofensivo, a apuração costuma ser feita por termo circunstanciado, e não por inquérito, mas a regra da representação vale do mesmo jeito.
 
 ---
 
@@ -272,9 +272,9 @@ Letra E: Averiguar a vida pregressa do indiciado.
 
 Pense na sua resposta.
 
-**A explicação.** Os objetos só são apreendidos depois de liberados pelos peritos criminais, para que a perícia examine o local intacto. Apreender antes da chegada dos peritos altera a cena. As demais providências estão no artigo 6º.
+**Resposta: letra D: apreender os objetos que tiverem relação com o fato, antes da chegada dos peritos, para garantir a sua preservação.**
 
-**Resposta: letra D.**
+**Por quê.** Os objetos só são apreendidos depois de liberados pelos peritos criminais, para que a perícia examine o local intacto. Apreender antes da chegada dos peritos altera a cena. As demais providências estão no artigo 6º.
 
 ---
 
@@ -294,9 +294,9 @@ Letra E: arquivado o inquérito por falta de provas, a polícia não poderá mai
 
 Pense na sua resposta.
 
-**A explicação.** Indiciado preso: 10 dias, contados da execução da prisão, pelo artigo 10. Os 15 dias são da Justiça Federal. O delegado nunca arquiva. E, arquivado por falta de provas, a autoridade policial pode fazer novas pesquisas se tiver notícia de outras provas, pelo artigo 18.
+**Resposta: letra B: o inquérito deverá terminar em 10 dias, contados da data em que se executou a prisão.**
 
-**Resposta: letra B.**
+**Por quê.** Indiciado preso: 10 dias, contados da execução da prisão, pelo artigo 10. Os 15 dias são da Justiça Federal. O delegado nunca arquiva. E, arquivado por falta de provas, a autoridade policial pode fazer novas pesquisas se tiver notícia de outras provas, pelo artigo 18.
 
 ---
 

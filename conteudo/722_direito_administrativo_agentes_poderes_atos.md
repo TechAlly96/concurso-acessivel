@@ -338,9 +338,9 @@ Letra E: A anulação decorre de vício de legalidade e pode ser feita pela pró
 
 Pense na sua resposta.
 
-**A explicação.** A anulação é o desfazimento por ilegalidade, feito pela Administração ou pelo Judiciário, com efeitos retroativos. A revogação é por conveniência e oportunidade, só pela Administração, com efeitos para frente, e não alcança os atos vinculados. O Judiciário não revoga atos de outro Poder.
+**Resposta: letra E: A anulação decorre de vício de legalidade e pode ser feita pela própria Administração ou pelo Poder Judiciário, produzindo, em regra, efeitos retroativos.**
 
-**Resposta: letra E.**
+**Por quê.** A anulação é o desfazimento por ilegalidade, feito pela Administração ou pelo Judiciário, com efeitos retroativos. A revogação é por conveniência e oportunidade, só pela Administração, com efeitos para frente, e não alcança os atos vinculados. O Judiciário não revoga atos de outro Poder.
 
 ---
 
@@ -360,9 +360,9 @@ Letra E: violação ao poder regulamentar.
 
 Pense na sua resposta.
 
-**A explicação.** A autoridade era competente, então não há excesso de poder. Mas usou a remoção, que serve para atender à necessidade do serviço, para punir uma desavença pessoal. Isso é desvio de poder, ou desvio de finalidade.
+**Resposta: letra B: desvio de poder, por ter sido praticado com finalidade diversa do interesse público.**
 
-**Resposta: letra B.**
+**Por quê.** A autoridade era competente, então não há excesso de poder. Mas usou a remoção, que serve para atender à necessidade do serviço, para punir uma desavença pessoal. Isso é desvio de poder, ou desvio de finalidade.
 
 ---
 
@@ -382,9 +382,9 @@ Letra E: a responsabilidade é integral, e o Estado não pode alegar nenhuma exc
 
 Pense na sua resposta.
 
-**A explicação.** Pelo parágrafo 6º do artigo 37, a responsabilidade do Estado é objetiva, pelo risco administrativo. Mesmo um ato lícito pode gerar o dever de indenizar. A vítima processa o Estado, pela tese da dupla garantia, e o Estado pode cobrar do policial em regresso, se houver dolo ou culpa. O risco administrativo admite excludentes, como a culpa exclusiva da vítima, mas aqui o carro estava regularmente estacionado.
+**Resposta: letra C: o Estado responde objetivamente, bastando ao cidadão provar a conduta, o dano e o nexo causal, cabendo ao Estado ação regressiva contra o policial se este agiu com dolo ou culpa.**
 
-**Resposta: letra C.**
+**Por quê.** Pelo parágrafo 6º do artigo 37, a responsabilidade do Estado é objetiva, pelo risco administrativo. Mesmo um ato lícito pode gerar o dever de indenizar. A vítima processa o Estado, pela tese da dupla garantia, e o Estado pode cobrar do policial em regresso, se houver dolo ou culpa. O risco administrativo admite excludentes, como a culpa exclusiva da vítima, mas aqui o carro estava regularmente estacionado.
 
 ---
 
@@ -404,9 +404,9 @@ Letra E: o particular que, sem a participação de nenhum agente público, causa
 
 Pense na sua resposta.
 
-**A explicação.** Depois da Lei 14230, de 2021, todas as espécies de improbidade exigem dolo. A modalidade culposa foi extinta. A violação de princípios gera multa e proibição de contratar, mas não suspensão de direitos políticos. A improbidade não é crime. E o particular só responde se induzir ou concorrer para o ato de um agente público.
+**Resposta: letra D: todas as modalidades de improbidade exigem dolo, entendido como a vontade livre e consciente de alcançar o resultado ilícito.**
 
-**Resposta: letra D.**
+**Por quê.** Depois da Lei 14230, de 2021, todas as espécies de improbidade exigem dolo. A modalidade culposa foi extinta. A violação de princípios gera multa e proibição de contratar, mas não suspensão de direitos políticos. A improbidade não é crime. E o particular só responde se induzir ou concorrer para o ato de um agente público.
 
 ---
 

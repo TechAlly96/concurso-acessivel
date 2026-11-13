@@ -256,9 +256,9 @@ Letra E: crime impossível, pois errou o disparo.
 
 Pense na sua resposta.
 
-**A explicação.** Pedro podia continuar e não quis: é a desistência voluntária, "posso, mas não quero". Ele responde só pelos atos praticados. Como o tiro não atingiu Paulo, pode responder, por exemplo, por disparo de arma de fogo ou por perigo para a vida de outrem, mas não por tentativa de homicídio. Não é crime impossível, porque a arma era eficaz.
+**Resposta: letra B: nenhum crime contra a vida, respondendo apenas pelos atos já praticados, em razão da desistência voluntária.**
 
-**Resposta: letra B.**
+**Por quê.** Pedro podia continuar e não quis: é a desistência voluntária, "posso, mas não quero". Ele responde só pelos atos praticados. Como o tiro não atingiu Paulo, pode responder, por exemplo, por disparo de arma de fogo ou por perigo para a vida de outrem, mas não por tentativa de homicídio. Não é crime impossível, porque a arma era eficaz.
 
 ---
 
@@ -278,9 +278,9 @@ Letra E: só será lícita se o investigador estiver sob ordem escrita do delega
 
 Pense na sua resposta.
 
-**A explicação.** O parágrafo único do artigo 25 considera em legítima defesa o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém. Há agressão humana injusta e iminente, o que caracteriza legítima defesa, e não estado de necessidade. E a moderação sempre se exige.
+**Resposta: letra B: configura legítima defesa, inclusive por previsão expressa do Código Penal para o agente de segurança pública que repele agressão a vítima mantida refém.**
 
-**Resposta: letra B.**
+**Por quê.** O parágrafo único do artigo 25 considera em legítima defesa o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém. Há agressão humana injusta e iminente, o que caracteriza legítima defesa, e não estado de necessidade. E a moderação sempre se exige.
 
 ---
 
@@ -300,9 +300,9 @@ Letra E: O desconhecimento da lei isenta de pena.
 
 Pense na sua resposta.
 
-**A explicação.** Pelo artigo 22, na coação moral irresistível, só é punível o autor da coação. A embriaguez voluntária e a emoção não excluem a imputabilidade. A ordem manifestamente ilegal não protege o subordinado. E o desconhecimento da lei é inescusável.
+**Resposta: letra D: A coação moral irresistível exclui a culpabilidade do coagido, punindo-se apenas o autor da coação.**
 
-**Resposta: letra D.**
+**Por quê.** Pelo artigo 22, na coação moral irresistível, só é punível o autor da coação. A embriaguez voluntária e a emoção não excluem a imputabilidade. A ordem manifestamente ilegal não protege o subordinado. E o desconhecimento da lei é inescusável.
 
 ---
 
@@ -322,9 +322,9 @@ Letra E: responde por peculato, mas apenas se também for nomeado para cargo pú
 
 Pense na sua resposta.
 
-**A explicação.** Pelo artigo 30, as condições de caráter pessoal não se comunicam, salvo quando elementares do crime. Ser funcionário público é elementar do peculato. Como o amigo sabia dessa condição e participou, responde também por peculato.
+**Resposta: letra B: responde por peculato, pois a condição de funcionário público é elementar do crime e se comunica ao coautor que dela sabia.**
 
-**Resposta: letra B.**
+**Por quê.** Pelo artigo 30, as condições de caráter pessoal não se comunicam, salvo quando elementares do crime. Ser funcionário público é elementar do peculato. Como o amigo sabia dessa condição e participou, responde também por peculato.
 
 ---
 

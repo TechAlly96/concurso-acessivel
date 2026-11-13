@@ -2,7 +2,7 @@
 
 Esta é a prova real aplicada em 2025 pela banca FGV para o cargo de Investigador de Polícia um. Os gabaritos são os oficiais definitivos.
 
-Em cada questão, eu leio o enunciado e as quatro alternativas. Depois faço uma pausa para você pensar, e só então explico e dou a resposta. Se quiser treinar de verdade, pause o áudio na pausa, escolha a sua letra e depois continue.
+Em cada questão, eu leio o enunciado e as alternativas. Depois vem uma pausa de alguns segundos para você escolher a sua letra. Em seguida, eu digo a resposta certa e explico o porquê. Se precisar de mais tempo para pensar, pause o áudio na pausa.
 
 ---
 
@@ -24,11 +24,11 @@ Letra D: uma autarquia, integrante da Administração Pública Indireta, fruto d
 
 Letra E: uma autarquia, integrante da Administração Pública Indireta, fruto da descentralização administrativa.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A Polícia Civil não tem personalidade jurídica própria: é um órgão do próprio Estado de Minas Gerais, portanto da Administração Direta. Quando o Estado divide tarefas entre seus próprios órgãos, dentro da mesma pessoa jurídica, isso se chama desconcentração. Descentralização é passar a tarefa para outra pessoa jurídica, como uma autarquia. Truque para memorizar: desconcentração fica dentro de casa; descentralização sai de casa.
+Pense na sua resposta.
 
 **Resposta: letra A, um órgão público, integrante da Administração Pública Direta, fruto da desconcentração administrativa.**
+
+**Por quê.** A Polícia Civil não tem personalidade jurídica própria: é um órgão do próprio Estado de Minas Gerais, portanto da Administração Direta. Quando o Estado divide tarefas entre seus próprios órgãos, dentro da mesma pessoa jurídica, isso se chama desconcentração. Descentralização é passar a tarefa para outra pessoa jurídica, como uma autarquia. Truque para memorizar: desconcentração fica dentro de casa; descentralização sai de casa.
 
 ---
 
@@ -50,11 +50,11 @@ Letra D: falsa, verdadeira, falsa.
 
 Letra E: verdadeira, verdadeira, verdadeira.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Pelo artigo 37, parágrafo 6º, da Constituição, o Estado responde de forma direta e objetiva: basta provar a conduta do agente, o dano e o nexo entre eles, sem discutir culpa. Por isso a primeira é falsa, porque a responsabilidade do Estado não é subsidiária, e a terceira também, porque não é preciso provar a negligência. Já o agente responde de forma subjetiva, em ação de regresso do Estado, provando-se dolo ou culpa. A segunda é falsa porque chama de objetiva uma responsabilidade que depende do elemento anímico, ou seja, de dolo ou culpa. O S T F ainda firmou que a vítima deve acionar o Estado, e não o servidor diretamente.
+Pense na sua resposta.
 
 **Resposta: letra B, falsa, falsa, falsa.**
+
+**Por quê.** Pelo artigo 37, parágrafo 6º, da Constituição, o Estado responde de forma direta e objetiva: basta provar a conduta do agente, o dano e o nexo entre eles, sem discutir culpa. Por isso a primeira é falsa, porque a responsabilidade do Estado não é subsidiária, e a terceira também, porque não é preciso provar a negligência. Já o agente responde de forma subjetiva, em ação de regresso do Estado, provando-se dolo ou culpa. A segunda é falsa porque chama de objetiva uma responsabilidade que depende do elemento anímico, ou seja, de dolo ou culpa. O S T F ainda firmou que a vítima deve acionar o Estado, e não o servidor diretamente.
 
 ---
 
@@ -76,11 +76,11 @@ Letra D: celetista, espécie de agente público de direito, ocupante de um cargo
 
 Letra E: celetista, espécie de agente público de fato, ocupante de um cargo público.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Policial civil é regido por estatuto, uma lei própria, e não pela C L T: é estatutário. Estatutário ocupa cargo público; emprego público é de quem é celetista. E quem entra por concurso e posse regulares é agente de direito; agente de fato é quem exerce a função sem investidura regular. Três palavras que andam juntas: estatutário, cargo, de direito.
+Pense na sua resposta.
 
 **Resposta: letra C, estatutário, espécie de agente público de direito, ocupante de um cargo público.**
+
+**Por quê.** Policial civil é regido por estatuto, uma lei própria, e não pela C L T: é estatutário. Estatutário ocupa cargo público; emprego público é de quem é celetista. E quem entra por concurso e posse regulares é agente de direito; agente de fato é quem exerce a função sem investidura regular. Três palavras que andam juntas: estatutário, cargo, de direito.
 
 ---
 
@@ -102,11 +102,11 @@ Letra D: um e dois, apenas.
 
 Letra E: um, dois e três.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O item um está certo: receber vantagem econômica para facilitar contratação acima do preço de mercado é enriquecimento ilícito, no artigo 9º da Lei de Improbidade. O item dois está certo: a reforma de 2021, Lei 14.230, garantiu o interrogatório e disse que silêncio ou recusa não são confissão. O item três está errado: a mesma reforma afastou a remessa necessária, o reexame obrigatório, nas sentenças da Lei de Improbidade. Lembre: depois de 2021, a improbidade exige dolo e ganhou garantias parecidas com as do processo penal.
+Pense na sua resposta.
 
 **Resposta: letra D, um e dois, apenas.**
+
+**Por quê.** O item um está certo: receber vantagem econômica para facilitar contratação acima do preço de mercado é enriquecimento ilícito, no artigo 9º da Lei de Improbidade. O item dois está certo: a reforma de 2021, Lei 14.230, garantiu o interrogatório e disse que silêncio ou recusa não são confissão. O item três está errado: a mesma reforma afastou a remessa necessária, o reexame obrigatório, nas sentenças da Lei de Improbidade. Lembre: depois de 2021, a improbidade exige dolo e ganhou garantias parecidas com as do processo penal.
 
 ---
 
@@ -128,11 +128,11 @@ Letra D: é uma manifestação do poder de polícia. Por sua vez, a punição su
 
 Letra E: e a punição suportada por João são manifestações do poder de polícia.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Detalhar uma lei para que ela seja fielmente executada, por decreto, é poder regulamentar. Punir quem tem vínculo especial com a Administração, como um servidor, é poder disciplinar. Poder de polícia é diferente: é limitar a liberdade e a propriedade dos particulares em geral, como interditar um bar ou multar um motorista. Servidor punido, poder disciplinar; cidadão comum limitado, poder de polícia.
+Pense na sua resposta.
 
 **Resposta: letra A, é uma manifestação do poder regulamentar. Por sua vez, a punição suportada por João é fruto do poder disciplinar.**
+
+**Por quê.** Detalhar uma lei para que ela seja fielmente executada, por decreto, é poder regulamentar. Punir quem tem vínculo especial com a Administração, como um servidor, é poder disciplinar. Poder de polícia é diferente: é limitar a liberdade e a propriedade dos particulares em geral, como interditar um bar ou multar um motorista. Servidor punido, poder disciplinar; cidadão comum limitado, poder de polícia.
 
 ---
 
@@ -154,11 +154,11 @@ Letra D: um e três, apenas.
 
 Letra E: um, dois e três.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Os três itens reproduzem dispositivos incluídos pela reforma de 2021. O investigado tem direito de se manifestar por escrito e juntar documentos já na apuração. As provas e decisões dos órgãos de controle devem ser consideradas pelo juiz, mas sem dispensar a análise do dolo. E as sanções aplicadas em outras esferas devem ser compensadas, para evitar punição dobrada pelo mesmo fato.
+Pense na sua resposta.
 
 **Resposta: letra E, um, dois e três.**
+
+**Por quê.** Os três itens reproduzem dispositivos incluídos pela reforma de 2021. O investigado tem direito de se manifestar por escrito e juntar documentos já na apuração. As provas e decisões dos órgãos de controle devem ser consideradas pelo juiz, mas sem dispensar a análise do dolo. E as sanções aplicadas em outras esferas devem ser compensadas, para evitar punição dobrada pelo mesmo fato.
 
 ---
 
@@ -180,11 +180,11 @@ Letra D: é expressamente vedada pela ordem constitucional, que exige uniformida
 
 Letra E: se ajusta ao objetivo fundamental de reduzir as desigualdades sociais e regionais, ainda que redunde em tratamento inicial distinto entre as regiões do país.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O artigo 3º da Constituição lista os objetivos fundamentais, e o inciso três é erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais. Tratar de forma diferente regiões menos desenvolvidas, com critério objetivo, é igualdade material: tratar desigualmente os desiguais na medida da sua desigualdade. Para lembrar os objetivos do artigo 3º, os verbos começam com construir, garantir, erradicar e promover: a sequência con, ga, er, pro.
+Pense na sua resposta.
 
 **Resposta: letra E, se ajusta ao objetivo fundamental de reduzir as desigualdades sociais e regionais, ainda que redunde em tratamento inicial distinto entre as regiões do país.**
+
+**Por quê.** O artigo 3º da Constituição lista os objetivos fundamentais, e o inciso três é erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais. Tratar de forma diferente regiões menos desenvolvidas, com critério objetivo, é igualdade material: tratar desigualmente os desiguais na medida da sua desigualdade. Para lembrar os objetivos do artigo 3º, os verbos começam com construir, garantir, erradicar e promover: a sequência con, ga, er, pro.
 
 ---
 
@@ -206,11 +206,11 @@ Letra D: somente pode deixar de cumprir a obrigação legal, por motivo de cren�
 
 Letra E: somente pode eximir-se de cumprir obrigação legal a todos imposta por motivo de crença religiosa, o que não é o caso.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** É a escusa de consciência, do artigo 5º, inciso oito: ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se a invocar para se eximir de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa fixada em lei. Repare que convicção política também vale, não só religião, por isso a E erra. Se Jonas cumprir a prestação alternativa, está tudo certo. Se recusar as duas, pode perder direitos políticos, conforme o artigo 15, mas não comete crime inafiançável.
+Pense na sua resposta.
 
 **Resposta: letra C, estará em harmonia com a juridicidade caso cumpra prestação alternativa fixada em lei.**
+
+**Por quê.** É a escusa de consciência, do artigo 5º, inciso oito: ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se a invocar para se eximir de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa fixada em lei. Repare que convicção política também vale, não só religião, por isso a E erra. Se Jonas cumprir a prestação alternativa, está tudo certo. Se recusar as duas, pode perder direitos políticos, conforme o artigo 15, mas não comete crime inafiançável.
 
 ---
 
@@ -232,11 +232,11 @@ Letra D: expansivos.
 
 Letra E: dogmáticos.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Na classificação dos fins do Estado, os fins expansivos dão ao Estado papel enorme, que cresce até sacrificar a liberdade individual em nome do desenvolvimento material ou de uma ideia de bem comum, como nos regimes totalitários. Os fins limitados são o oposto: o Estado mínimo, que só garante segurança e liberdade. Expandir o Estado e encolher o indivíduo: fins expansivos.
+Pense na sua resposta.
 
 **Resposta: letra D, expansivos.**
+
+**Por quê.** Na classificação dos fins do Estado, os fins expansivos dão ao Estado papel enorme, que cresce até sacrificar a liberdade individual em nome do desenvolvimento material ou de uma ideia de bem comum, como nos regimes totalitários. Os fins limitados são o oposto: o Estado mínimo, que só garante segurança e liberdade. Expandir o Estado e encolher o indivíduo: fins expansivos.
 
 ---
 
@@ -258,11 +258,11 @@ Letra D: a decretação da intervenção pressupõe requerimento nesse sentido d
 
 Letra E: a intervenção pode ser decretada pelo Presidente da República independentemente da provocação de outro órgão.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A União só intervém nos Estados e no Distrito Federal, conforme o artigo 34, e nos Municípios localizados em Territórios Federais, pelo artigo 35. Em Município de um Estado, quem intervém é o Estado. Por mais importante que seja o porto, a União não pode intervir diretamente no Município Beta. Regra de bolso: cada ente intervém no ente imediatamente abaixo.
+Pense na sua resposta.
 
 **Resposta: letra B, em razão do nível federativo no qual os fatos ocorreram, a União não pode decretar a intervenção.**
+
+**Por quê.** A União só intervém nos Estados e no Distrito Federal, conforme o artigo 34, e nos Municípios localizados em Territórios Federais, pelo artigo 35. Em Município de um Estado, quem intervém é o Estado. Por mais importante que seja o porto, a União não pode intervir diretamente no Município Beta. Regra de bolso: cada ente intervém no ente imediatamente abaixo.
 
 ---
 
@@ -284,11 +284,11 @@ Letra D: deve requerer ao Comandante Geral da Polícia Militar que determine o c
 
 Letra E: deve requerer ao Governador do Estado que determine a realização da segurança do local, o que pode ser feito pela polícia penal ou pela polícia militar.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A Emenda Constitucional 104, de 2019, criou as polícias penais. Pelo artigo 144, parágrafo 5º-A, elas são vinculadas ao órgão administrador do sistema penal da unidade federativa, e cabe a elas a segurança dos estabelecimentos penais. Como a polícia penal está ligada à própria Secretaria, o Secretário pode acioná-la diretamente. Ele não comanda a Polícia Militar, que tem chefia própria.
+Pense na sua resposta.
 
 **Resposta: letra B, pode determinar que a polícia penal, vinculada que é à Secretaria, realize a segurança do local.**
+
+**Por quê.** A Emenda Constitucional 104, de 2019, criou as polícias penais. Pelo artigo 144, parágrafo 5º-A, elas são vinculadas ao órgão administrador do sistema penal da unidade federativa, e cabe a elas a segurança dos estabelecimentos penais. Como a polícia penal está ligada à própria Secretaria, o Secretário pode acioná-la diretamente. Ele não comanda a Polícia Militar, que tem chefia própria.
 
 ---
 
@@ -310,11 +310,11 @@ Letra D: a sistemática de combate às organizações criminosas não pode ser o
 
 Letra E: o silêncio, enquanto projeção da personalidade individual, não é matéria afeta a padrões normativos, mas mera circunstância fática, que pode ser avaliada conforme a lei, logo, a Lei Federal número dez é constitucional.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O artigo 5º, inciso sessenta e três, garante ao preso o direito de permanecer calado, e ninguém é obrigado a produzir prova contra si mesmo. Uma lei não pode transformar o silêncio em prova contra o investigado; isso é inconstitucional, e a prova obtida assim é ilícita, inadmissível pelo inciso cinquenta e seis. A D erra o motivo: o crime organizado pode ter tratamento diferenciado, como tem na Lei 12.850, só não pode ferir garantias fundamentais.
+Pense na sua resposta.
 
 **Resposta: letra A, esse diploma normativo afronta o direito fundamental ao silêncio, de modo que a prova produzida com base na Lei Federal número dez é ilícita.**
+
+**Por quê.** O artigo 5º, inciso sessenta e três, garante ao preso o direito de permanecer calado, e ninguém é obrigado a produzir prova contra si mesmo. Uma lei não pode transformar o silêncio em prova contra o investigado; isso é inconstitucional, e a prova obtida assim é ilícita, inadmissível pelo inciso cinquenta e seis. A D erra o motivo: o crime organizado pode ter tratamento diferenciado, como tem na Lei 12.850, só não pode ferir garantias fundamentais.
 
 ---
 
@@ -336,11 +336,11 @@ Letra D: corrupção passiva.
 
 Letra E: corrupção ativa.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Tráfico de influência, artigo 332 do Código Penal: solicitar vantagem a pretexto de influir em ato praticado por funcionário público. É a famosa venda de fumaça. A pegadinha é a exploração de prestígio, artigo 357, que é a mesma conduta, mas quando a influência prometida é sobre juiz, jurado, membro do Ministério Público, funcionário de justiça, perito, tradutor, intérprete ou testemunha. Policial civil não está nessa lista, então é tráfico de influência. Daniel não é funcionário público, por isso não é corrupção passiva nem advocacia administrativa.
+Pense na sua resposta.
 
 **Resposta: letra C, tráfico de influência.**
+
+**Por quê.** Tráfico de influência, artigo 332 do Código Penal: solicitar vantagem a pretexto de influir em ato praticado por funcionário público. É a famosa venda de fumaça. A pegadinha é a exploração de prestígio, artigo 357, que é a mesma conduta, mas quando a influência prometida é sobre juiz, jurado, membro do Ministério Público, funcionário de justiça, perito, tradutor, intérprete ou testemunha. Policial civil não está nessa lista, então é tráfico de influência. Daniel não é funcionário público, por isso não é corrupção passiva nem advocacia administrativa.
 
 ---
 
@@ -362,11 +362,11 @@ Letra D: importunação sexual, sem causas de aumento de pena.
 
 Letra E: assédio sexual, sem causas de aumento de pena.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Importunação sexual, artigo 215-A, criado em 2018: praticar contra alguém, sem a sua anuência, ato libidinoso para satisfazer a própria lascívia ou a de terceiro. Foi criado justamente para casos em transporte público. Mas não existe causa de aumento por ser no ônibus, essa é a pegadinha. Assédio sexual exige relação de hierarquia ou ascendência no trabalho, e violação mediante fraude exige enganar a vítima.
+Pense na sua resposta.
 
 **Resposta: letra D, importunação sexual, sem causas de aumento de pena.**
+
+**Por quê.** Importunação sexual, artigo 215-A, criado em 2018: praticar contra alguém, sem a sua anuência, ato libidinoso para satisfazer a própria lascívia ou a de terceiro. Foi criado justamente para casos em transporte público. Mas não existe causa de aumento por ser no ônibus, essa é a pegadinha. Assédio sexual exige relação de hierarquia ou ascendência no trabalho, e violação mediante fraude exige enganar a vítima.
 
 ---
 
@@ -388,11 +388,11 @@ Letra D: roubo tentado, com a incidência da causa de aumento de pena atrelada a
 
 Letra E: roubo consumado, com a incidência da causa de aumento de pena atrelada ao emprego de arma branca.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Pela Súmula 582 do S T J, o roubo se consuma com a inversão da posse do bem, ainda que por breve tempo e mesmo com perseguição imediata e recuperação da coisa: é a teoria da amotio. Por isso é roubo consumado. Sobre a faca: em 2018 a arma branca deixou de ser causa de aumento, mas o Pacote Anticrime, em 2019, a trouxe de volta no artigo 157, parágrafo 2º, inciso sete. Não é extorsão porque o celular foi tomado na hora, sem depender de uma colaboração futura da vítima.
+Pense na sua resposta.
 
 **Resposta: letra E, roubo consumado, com a incidência da causa de aumento de pena atrelada ao emprego de arma branca.**
+
+**Por quê.** Pela Súmula 582 do S T J, o roubo se consuma com a inversão da posse do bem, ainda que por breve tempo e mesmo com perseguição imediata e recuperação da coisa: é a teoria da amotio. Por isso é roubo consumado. Sobre a faca: em 2018 a arma branca deixou de ser causa de aumento, mas o Pacote Anticrime, em 2019, a trouxe de volta no artigo 157, parágrafo 2º, inciso sete. Não é extorsão porque o celular foi tomado na hora, sem depender de uma colaboração futura da vítima.
 
 ---
 
@@ -414,11 +414,11 @@ Letra D: gravíssima, já que a conduta foi praticada contra policial civil, no 
 
 Letra E: grave, já que a conduta foi praticada contra policial civil, no exercício da função.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Uma semana afastado não chega aos 30 dias que tornariam a lesão grave, então é lesão corporal simples, e dolosa, porque ele quis machucar. Mas o artigo 129, parágrafo 12, aumenta a pena de um a dois terços quando a lesão é contra agente de segurança pública, como o policial civil, no exercício da função ou em razão dela. A condição de policial aumenta a pena; não muda o tipo de lesão para grave ou gravíssima.
+Pense na sua resposta.
 
 **Resposta: letra A, simples, sendo certo que a pena será aumentada de um a dois terços, já que a conduta foi praticada contra policial civil, no exercício da função.**
+
+**Por quê.** Uma semana afastado não chega aos 30 dias que tornariam a lesão grave, então é lesão corporal simples, e dolosa, porque ele quis machucar. Mas o artigo 129, parágrafo 12, aumenta a pena de um a dois terços quando a lesão é contra agente de segurança pública, como o policial civil, no exercício da função ou em razão dela. A condição de policial aumenta a pena; não muda o tipo de lesão para grave ou gravíssima.
 
 ---
 
@@ -440,11 +440,11 @@ Letra D: comunicação falsa de crime, na modalidade simples.
 
 Letra E: denunciação caluniosa, na modalidade simples.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Denunciação caluniosa, artigo 339: dar causa à instauração de inquérito ou processo contra alguém, imputando-lhe crime de que o sabe inocente. Há uma pessoa determinada acusada, por isso não é comunicação falsa de crime, que não aponta culpado. E não existe forma qualificada por o crime imputado ser contra a Administração Pública: o aumento de pena previsto é para quem usa anonimato ou nome falso. Por isso, modalidade simples.
+Pense na sua resposta.
 
 **Resposta: letra E, denunciação caluniosa, na modalidade simples.**
+
+**Por quê.** Denunciação caluniosa, artigo 339: dar causa à instauração de inquérito ou processo contra alguém, imputando-lhe crime de que o sabe inocente. Há uma pessoa determinada acusada, por isso não é comunicação falsa de crime, que não aponta culpado. E não existe forma qualificada por o crime imputado ser contra a Administração Pública: o aumento de pena previsto é para quem usa anonimato ou nome falso. Por isso, modalidade simples.
 
 ---
 
@@ -466,11 +466,11 @@ Letra D: um e três, apenas.
 
 Letra E: um, dois e três.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O item um reproduz o artigo 304 do Código de Processo Penal: condutor, testemunhas, interrogatório e, ao final, o auto. O item dois erra: pelo artigo 306, a comunicação ao juiz, ao Ministério Público e à família é imediata, e não em até 24 horas; além disso, o item esqueceu o juiz. O item três erra o prazo: o auto vai ao juiz, e a cópia à Defensoria, em até 24 horas, e não 48. Guarde: comunicação imediata, remessa do auto em 24 horas.
+Pense na sua resposta.
 
 **Resposta: letra A, um, apenas.**
+
+**Por quê.** O item um reproduz o artigo 304 do Código de Processo Penal: condutor, testemunhas, interrogatório e, ao final, o auto. O item dois erra: pelo artigo 306, a comunicação ao juiz, ao Ministério Público e à família é imediata, e não em até 24 horas; além disso, o item esqueceu o juiz. O item três erra o prazo: o auto vai ao juiz, e a cópia à Defensoria, em até 24 horas, e não 48. Guarde: comunicação imediata, remessa do auto em 24 horas.
 
 ---
 
@@ -492,11 +492,11 @@ Letra D: Deverá determinar, se for o caso, que se proceda a exame de corpo de d
 
 Letra E: Deverá colher todas as provas que servirem para o esclarecimento do fato e suas circunstâncias.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O artigo 6º, inciso dois, diz que a autoridade apreenderá os objetos relacionados ao fato após liberados pelos peritos criminais, e não pelos investigadores. A troca de uma palavra é a pegadinha. As outras opções reproduzem incisos do mesmo artigo, inclusive o inciso dez, sobre filhos da pessoa presa, incluído em 2016.
+Pense na sua resposta.
 
 **Resposta: letra C, deverá apreender os objetos que tiverem relação com o fato, após liberados pelos investigadores de polícia.**
+
+**Por quê.** O artigo 6º, inciso dois, diz que a autoridade apreenderá os objetos relacionados ao fato após liberados pelos peritos criminais, e não pelos investigadores. A troca de uma palavra é a pegadinha. As outras opções reproduzem incisos do mesmo artigo, inclusive o inciso dez, sobre filhos da pessoa presa, incluído em 2016.
 
 ---
 
@@ -518,11 +518,11 @@ Letra D: verdadeira, verdadeira, verdadeira.
 
 Letra E: falsa, verdadeira, verdadeira.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A primeira é falsa: pelo artigo 18, mesmo arquivado por falta de base, a autoridade policial pode fazer novas pesquisas se tiver notícia de outras provas. A segunda é verdadeira, é o artigo 16. A terceira é verdadeira, artigo 17: o delegado nunca arquiva inquérito. Frase para lembrar: delegado instaura, investiga e relata, mas não arquiva.
+Pense na sua resposta.
 
 **Resposta: letra E, falsa, verdadeira, verdadeira.**
+
+**Por quê.** A primeira é falsa: pelo artigo 18, mesmo arquivado por falta de base, a autoridade policial pode fazer novas pesquisas se tiver notícia de outras provas. A segunda é verdadeira, é o artigo 16. A terceira é verdadeira, artigo 17: o delegado nunca arquiva inquérito. Frase para lembrar: delegado instaura, investiga e relata, mas não arquiva.
 
 ---
 
@@ -544,11 +544,11 @@ Letra D: dois e três, apenas.
 
 Letra E: um, dois e três.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Os itens dois e três reproduzem o artigo 39 do Código de Processo Penal. O item um distorce o parágrafo 5º: se a representação já trouxer elementos suficientes, o Ministério Público dispensará o inquérito e oferecerá a denúncia em 15 dias. Não há pedido de conclusão do inquérito. A palavra-chave é dispensar: o inquérito não é obrigatório.
+Pense na sua resposta.
 
 **Resposta: letra D, dois e três, apenas.**
+
+**Por quê.** Os itens dois e três reproduzem o artigo 39 do Código de Processo Penal. O item um distorce o parágrafo 5º: se a representação já trouxer elementos suficientes, o Ministério Público dispensará o inquérito e oferecerá a denúncia em 15 dias. Não há pedido de conclusão do inquérito. A palavra-chave é dispensar: o inquérito não é obrigatório.
 
 ---
 
@@ -570,11 +570,11 @@ Letra D: dois e três, apenas.
 
 Letra E: um, dois e três.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Os três itens são cópia da lei. O item um é o artigo 155: o juiz não condena só com o que foi colhido no inquérito, salvo provas cautelares, não repetíveis e antecipadas. O item dois é o artigo 157, sobre provas ilícitas. E o item três é o parágrafo 3º do mesmo artigo, sobre a inutilização da prova ilícita. Para o investigador, a lição prática é: prova colhida violando a lei se perde, e pode derrubar a investigação inteira.
+Pense na sua resposta.
 
 **Resposta: letra E, um, dois e três.**
+
+**Por quê.** Os três itens são cópia da lei. O item um é o artigo 155: o juiz não condena só com o que foi colhido no inquérito, salvo provas cautelares, não repetíveis e antecipadas. O item dois é o artigo 157, sobre provas ilícitas. E o item três é o parágrafo 3º do mesmo artigo, sobre a inutilização da prova ilícita. Para o investigador, a lição prática é: prova colhida violando a lei se perde, e pode derrubar a investigação inteira.
 
 ---
 
@@ -596,11 +596,11 @@ Letra D: dois e três, apenas.
 
 Letra E: um, dois e três.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Os três itens estão no artigo 10-A da Lei Maria da Penha, incluído em 2017, que trata da oitiva da mulher em situação de violência. Repare que, aqui, até a expressão "em nenhuma hipótese" está certa, porque é literal da lei. Lição: palavra absoluta costuma indicar erro, mas, se estiver na lei, está certa. Por isso é preciso conhecer a lei seca.
+Pense na sua resposta.
 
 **Resposta: letra E, um, dois e três.**
+
+**Por quê.** Os três itens estão no artigo 10-A da Lei Maria da Penha, incluído em 2017, que trata da oitiva da mulher em situação de violência. Repare que, aqui, até a expressão "em nenhuma hipótese" está certa, porque é literal da lei. Lição: palavra absoluta costuma indicar erro, mas, se estiver na lei, está certa. Por isso é preciso conhecer a lei seca.
 
 ---
 
@@ -622,11 +622,11 @@ Letra D: não tem direito à permissão de saída, por estar cumprindo pena em r
 
 Letra E: não tem direito à permissão de saída, por ser reincidente em crime doloso.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Pelo artigo 120 da Lei de Execução Penal, a permissão de saída, sempre com escolta, vale para condenados do regime fechado e semiaberto e para presos provisórios, em caso de morte ou doença grave de cônjuge, companheira, ascendente, descendente ou irmão, ou para tratamento médico. Quem concede é o diretor do estabelecimento. Não confunda com a saída temporária, que é do semiaberto, sem escolta, concedida pelo juiz. Reincidência não impede a permissão de saída.
+Pense na sua resposta.
 
 **Resposta: letra A, tem direito à permissão de saída, que será concedida pelo diretor do estabelecimento onde se encontra preso.**
+
+**Por quê.** Pelo artigo 120 da Lei de Execução Penal, a permissão de saída, sempre com escolta, vale para condenados do regime fechado e semiaberto e para presos provisórios, em caso de morte ou doença grave de cônjuge, companheira, ascendente, descendente ou irmão, ou para tratamento médico. Quem concede é o diretor do estabelecimento. Não confunda com a saída temporária, que é do semiaberto, sem escolta, concedida pelo juiz. Reincidência não impede a permissão de saída.
 
 ---
 
@@ -648,11 +648,11 @@ Letra D: falsa, falsa, falsa.
 
 Letra E: falsa, verdadeira, verdadeira.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Artigo 50 da Lei de Drogas. A primeira é falsa por um detalhe: na falta de perito oficial, o laudo de constatação é firmado por pessoa idônea, no singular, e não por duas. A segunda é verdadeira, é o parágrafo 3º. A terceira é falsa: o delegado destrói a droga em 15 dias, na presença do Ministério Público e da autoridade sanitária; o juiz não precisa estar presente. Números da destruição: juiz em 10 dias, delegado em 15.
+Pense na sua resposta.
 
 **Resposta: letra C, falsa, verdadeira, falsa.**
+
+**Por quê.** Artigo 50 da Lei de Drogas. A primeira é falsa por um detalhe: na falta de perito oficial, o laudo de constatação é firmado por pessoa idônea, no singular, e não por duas. A segunda é verdadeira, é o parágrafo 3º. A terceira é falsa: o delegado destrói a droga em 15 dias, na presença do Ministério Público e da autoridade sanitária; o juiz não precisa estar presente. Números da destruição: juiz em 10 dias, delegado em 15.
 
 ---
 
@@ -674,11 +674,11 @@ Letra D: dois e três, apenas.
 
 Letra E: um, dois e três.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Os itens um e três estão no artigo 10 da Lei 12.850. O item dois erra: a infiltração é autorizada por até seis meses, sem prejuízo de eventuais renovações, desde que comprovada a necessidade. Não há limite de uma única prorrogação. Atenção: para a infiltração virtual, criada pelo Pacote Anticrime, existe limite total de 720 dias.
+Pense na sua resposta.
 
 **Resposta: letra C, um e três, apenas.**
+
+**Por quê.** Os itens um e três estão no artigo 10 da Lei 12.850. O item dois erra: a infiltração é autorizada por até seis meses, sem prejuízo de eventuais renovações, desde que comprovada a necessidade. Não há limite de uma única prorrogação. Atenção: para a infiltração virtual, criada pelo Pacote Anticrime, existe limite total de 720 dias.
 
 ---
 
@@ -700,11 +700,11 @@ Letra D: Prescritibilidade, posto que devem ser exercidos em um determinado per�
 
 Letra E: Dependência, uma vez que são direitos autônomos, que são exercidos de forma independente, um dos outros.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** As características clássicas são: universalidade, essencialidade, irrenunciabilidade, inalienabilidade, imprescritibilidade, indivisibilidade, interdependência, historicidade e vedação do retrocesso. A banca tirou o "in" de várias delas para criar alternativas erradas: renunciabilidade, alienabilidade, prescritibilidade. E a E se contradiz: diz dependência, mas descreve independência.
+Pense na sua resposta.
 
 **Resposta: letra C, essencialidade, em razão de serem essenciais por natureza, do ponto de vista material e formal.**
+
+**Por quê.** As características clássicas são: universalidade, essencialidade, irrenunciabilidade, inalienabilidade, imprescritibilidade, indivisibilidade, interdependência, historicidade e vedação do retrocesso. A banca tirou o "in" de várias delas para criar alternativas erradas: renunciabilidade, alienabilidade, prescritibilidade. E a E se contradiz: diz dependência, mas descreve independência.
 
 ---
 
@@ -726,11 +726,11 @@ Letra D: A Declaração Americana de Direitos Humanos é o instrumento normativo
 
 Letra E: O sistema interamericano pode ser acionado por qualquer cidadão, que tenha um direito humano violado, que sempre terá seu caso diretamente julgado pela Corte D H.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A Convenção Interamericana contra o Racismo foi aprovada pelo rito do artigo 5º, parágrafo 3º, e promulgada em 2022: tem status de emenda constitucional. A A erra o tribunal: é a Corte Interamericana de Direitos Humanos, em San José; a Corte Internacional de Justiça é da ONU. A C erra porque sentença de corte internacional não é sentença estrangeira e não precisa de homologação. A E erra porque o cidadão peticiona à Comissão, e só a Comissão e os Estados levam casos à Corte.
+Pense na sua resposta.
 
 **Resposta: letra B, a Convenção Interamericana contra o Racismo, a Discriminação Racial e Formas Correlatas de Intolerância foi incorporada pelo Brasil com status de emenda constitucional.**
+
+**Por quê.** A Convenção Interamericana contra o Racismo foi aprovada pelo rito do artigo 5º, parágrafo 3º, e promulgada em 2022: tem status de emenda constitucional. A A erra o tribunal: é a Corte Interamericana de Direitos Humanos, em San José; a Corte Internacional de Justiça é da ONU. A C erra porque sentença de corte internacional não é sentença estrangeira e não precisa de homologação. A E erra porque o cidadão peticiona à Comissão, e só a Comissão e os Estados levam casos à Corte.
 
 ---
 
@@ -752,11 +752,11 @@ Letra D: Com a criação das Nações Unidas, os Estados integrantes do Sistema 
 
 Letra E: A Convenção sobre os direitos da Criança é um exemplo de normativa que foi ratificada, sem ressalvas, por todos os Estados-membros da ONU.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Esta questão foi anulada pela banca, e vale ponto para todos. Mesmo assim, ela ensina. A Declaração Universal de 1948 é uma resolução da Assembleia Geral; não é um tratado sujeito a ratificação. Tratados não entram automaticamente no Brasil: precisam de aprovação do Congresso e de decreto presidencial. O caso Alyne Pimentel, de 2011, foi a primeira manifestação do Comitê da ONU sobre a Mulher, o chamado Cedáu, a respeito de morte materna, responsabilizando o Brasil; a discussão é que o Comitê emite recomendações, e não uma condenação judicial. E a Convenção sobre os Direitos da Criança não foi ratificada pelos Estados Unidos.
+Pense na sua resposta.
 
 **Questão anulada pela banca.** Na prova, ela valeu ponto para todos os candidatos.
+
+**Por quê.** Esta questão foi anulada pela banca, e vale ponto para todos. Mesmo assim, ela ensina. A Declaração Universal de 1948 é uma resolução da Assembleia Geral; não é um tratado sujeito a ratificação. Tratados não entram automaticamente no Brasil: precisam de aprovação do Congresso e de decreto presidencial. O caso Alyne Pimentel, de 2011, foi a primeira manifestação do Comitê da ONU sobre a Mulher, o chamado Cedáu, a respeito de morte materna, responsabilizando o Brasil; a discussão é que o Comitê emite recomendações, e não uma condenação judicial. E a Convenção sobre os Direitos da Criança não foi ratificada pelos Estados Unidos.
 
 ---
 
@@ -778,11 +778,11 @@ Letra D: verdadeira, verdadeira, falsa.
 
 Letra E: verdadeira, falsa, verdadeira.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A primeira é falsa: para o S T F, só os tratados aprovados pelo rito especial têm força de emenda; os demais tratados de direitos humanos têm status supralegal, acima das leis e abaixo da Constituição. A segunda é verdadeira, é o próprio artigo 5º, parágrafo 3º: dois turnos, três quintos, nas duas Casas. A terceira é falsa: todo tratado passa pelo Congresso, conforme o artigo 49, inciso um; a aplicação imediata do parágrafo 1º não dispensa essa etapa. Os tratados com força de emenda, até hoje, são a Convenção sobre pessoas com deficiência e seu protocolo, o Tratado de Marraqueche e a Convenção contra o Racismo.
+Pense na sua resposta.
 
 **Resposta: letra A, falsa, verdadeira, falsa.**
+
+**Por quê.** A primeira é falsa: para o S T F, só os tratados aprovados pelo rito especial têm força de emenda; os demais tratados de direitos humanos têm status supralegal, acima das leis e abaixo da Constituição. A segunda é verdadeira, é o próprio artigo 5º, parágrafo 3º: dois turnos, três quintos, nas duas Casas. A terceira é falsa: todo tratado passa pelo Congresso, conforme o artigo 49, inciso um; a aplicação imediata do parágrafo 1º não dispensa essa etapa. Os tratados com força de emenda, até hoje, são a Convenção sobre pessoas com deficiência e seu protocolo, o Tratado de Marraqueche e a Convenção contra o Racismo.
 
 ---
 
@@ -804,11 +804,11 @@ Letra D: A perícia pode ser substituída pela confissão do acusado, mesmo quan
 
 Letra E: A perícia é um ato de instrução exclusivo da fase de inquérito policial, não podendo ser realizada na fase processual penal.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Pelo artigo 182 do Código de Processo Penal, o juiz não fica preso ao laudo: pode aceitá-lo ou rejeitá-lo no todo ou em parte. É o sistema liberatório. A D é falsa pelo artigo 158: quando a infração deixa vestígios, o exame de corpo de delito é indispensável e a confissão não supre. A B é falsa: pelo artigo 184, a perícia pedida pelas partes pode ser negada se não for necessária, exceto o exame de corpo de delito. E a perícia pode acontecer também durante o processo.
+Pense na sua resposta.
 
 **Resposta: letra C, o Juiz não ficará adstrito ao laudo, podendo rejeitá-lo no todo ou em partes.**
+
+**Por quê.** Pelo artigo 182 do Código de Processo Penal, o juiz não fica preso ao laudo: pode aceitá-lo ou rejeitá-lo no todo ou em parte. É o sistema liberatório. A D é falsa pelo artigo 158: quando a infração deixa vestígios, o exame de corpo de delito é indispensável e a confissão não supre. A B é falsa: pelo artigo 184, a perícia pedida pelas partes pode ser negada se não for necessária, exceto o exame de corpo de delito. E a perícia pode acontecer também durante o processo.
 
 ---
 
@@ -830,11 +830,11 @@ Letra D: 3 , 1 , 5 , 2 , 4.
 
 Letra E: 3 , 2 , 1 , 5 , 4.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** As etapas do artigo 158-B do Código de Processo Penal, incluídas pelo Pacote Anticrime, em ordem: reconhecimento, isolamento, fixação, coleta, acondicionamento, transporte, recebimento, processamento, armazenamento e descarte. Distinguir o vestígio é reconhecimento, 3. Descrever como foi encontrado é fixação, 1. O exame pericial é processamento, 5. Preservar o local é isolamento, 2. Liberar com autorização judicial é descarte, 4. Sequência: 3, 1, 5, 2, 4.
+Pense na sua resposta.
 
 **Resposta: letra D, 3 , 1 , 5 , 2 , 4.**
+
+**Por quê.** As etapas do artigo 158-B do Código de Processo Penal, incluídas pelo Pacote Anticrime, em ordem: reconhecimento, isolamento, fixação, coleta, acondicionamento, transporte, recebimento, processamento, armazenamento e descarte. Distinguir o vestígio é reconhecimento, 3. Descrever como foi encontrado é fixação, 1. O exame pericial é processamento, 5. Preservar o local é isolamento, 2. Liberar com autorização judicial é descarte, 4. Sequência: 3, 1, 5, 2, 4.
 
 ---
 
@@ -856,11 +856,11 @@ Letra D: A primeira fase da identificação necropapiloscópica busca coincidên
 
 Letra E: São necessários doze pontos coincidentes e nenhum excludente para a comprovação da identificação necropapiloscópica.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A questão pede a incorreta. O D N A não é sempre a melhor opção: é mais caro, mais demorado e depende de material de referência, como parentes. Muitas vezes as digitais ou a arcada dentária identificam mais rápido e com a mesma segurança. As outras afirmativas estão certas: odontologia compara registros de antes e depois da morte; crânio e pelve indicam o sexo; as digitais são classificadas primeiro pelos tipos fundamentais, e a identificação exige doze pontos coincidentes e nenhum divergente.
+Pense na sua resposta.
 
 **Resposta: letra A, o exame de D N A é sempre a melhor opção para a identificação de remanescentes humanos.**
+
+**Por quê.** A questão pede a incorreta. O D N A não é sempre a melhor opção: é mais caro, mais demorado e depende de material de referência, como parentes. Muitas vezes as digitais ou a arcada dentária identificam mais rápido e com a mesma segurança. As outras afirmativas estão certas: odontologia compara registros de antes e depois da morte; crânio e pelve indicam o sexo; as digitais são classificadas primeiro pelos tipos fundamentais, e a identificação exige doze pontos coincidentes e nenhum divergente.
 
 ---
 
@@ -882,11 +882,11 @@ Letra D: Está presente em orifícios de entrada com cano encostado.
 
 Letra E: É formado por zonas de tatuagem, queimadura e esfumaçamento.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O anel de Fisch é o conjunto das orlas que o próprio projétil deixa ao entrar na pele: orla de contusão ou equimose, orla de escoriação e orla de enxugo, que é a sujeira limpa do projétil na pele. Por depender só do projétil, aparece no orifício de entrada em qualquer distância. Tatuagem, queimadura e esfumaçamento são efeitos secundários do tiro, que indicam disparo a curta distância.
+Pense na sua resposta.
 
 **Resposta: letra C, é formado por orla de equimose, escoriação e enxugo.**
+
+**Por quê.** O anel de Fisch é o conjunto das orlas que o próprio projétil deixa ao entrar na pele: orla de contusão ou equimose, orla de escoriação e orla de enxugo, que é a sujeira limpa do projétil na pele. Por depender só do projétil, aparece no orifício de entrada em qualquer distância. Tatuagem, queimadura e esfumaçamento são efeitos secundários do tiro, que indicam disparo a curta distância.
 
 ---
 
@@ -908,11 +908,11 @@ Letra D: A rigidez cadavérica e a putrefação são sinais precoces de morte.
 
 Letra E: O período de incerteza corresponde às primeiras seis horas após a morte.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Nas primeiras horas após a morte, os sinais ainda não são seguros: é o chamado período de incerteza, de cerca de seis horas, até surgirem os sinais tardios e seguros. A putrefação começa bem antes de 48 horas; a mancha verde no abdômen costuma aparecer entre 18 e 24 horas. Resfriamento e rigidez são progressivos e não são o primeiro sinal; e a putrefação é um sinal tardio, não precoce.
+Pense na sua resposta.
 
 **Resposta: letra E, o período de incerteza corresponde às primeiras seis horas após a morte.**
+
+**Por quê.** Nas primeiras horas após a morte, os sinais ainda não são seguros: é o chamado período de incerteza, de cerca de seis horas, até surgirem os sinais tardios e seguros. A putrefação começa bem antes de 48 horas; a mancha verde no abdômen costuma aparecer entre 18 e 24 horas. Resfriamento e rigidez são progressivos e não são o primeiro sinal; e a putrefação é um sinal tardio, não precoce.
 
 ---
 
@@ -934,11 +934,11 @@ Letra D: Cifra verde.
 
 Letra E: Cifra cinza.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** As cifras medem os crimes que escapam às estatísticas oficiais. Cifra negra: crimes que nunca chegam ao conhecimento das autoridades. Cifra dourada: crimes de colarinho branco, dos poderosos. Cifra cinza: ocorrências registradas que não são esclarecidas. Cifra verde: crimes ambientais. Cifra amarela: violência de funcionários públicos, como abuso policial, que a vítima não denuncia por medo. Amarela, de medo, como se diz: ficou amarelo de medo.
+Pense na sua resposta.
 
 **Resposta: letra B, cifra amarela.**
+
+**Por quê.** As cifras medem os crimes que escapam às estatísticas oficiais. Cifra negra: crimes que nunca chegam ao conhecimento das autoridades. Cifra dourada: crimes de colarinho branco, dos poderosos. Cifra cinza: ocorrências registradas que não são esclarecidas. Cifra verde: crimes ambientais. Cifra amarela: violência de funcionários públicos, como abuso policial, que a vítima não denuncia por medo. Amarela, de medo, como se diz: ficou amarelo de medo.
 
 ---
 
@@ -960,11 +960,11 @@ Letra D: A Teoria do Etiquetamento Penal preconiza a noção de atavismo.
 
 Letra E: A Escola da Criminologia Positivista baseia-se no paradigma etiológico.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A Escola Positivista, de Lombroso, Ferri e Garofalo, buscava as causas do crime no criminoso: é o paradigma etiológico, de etiologia, estudo das causas. Lombroso, com a ideia do atavismo, do criminoso nato, é positivista, e não clássico; o grande nome da Escola Clássica é Beccaria. A Criminologia Crítica estuda o sistema de controle e o poder de punir, não o delinquente. E o etiquetamento, o labeling approach, estuda como a sociedade rotula alguém como criminoso, o oposto do atavismo.
+Pense na sua resposta.
 
 **Resposta: letra E, a Escola da Criminologia Positivista baseia-se no paradigma etiológico.**
+
+**Por quê.** A Escola Positivista, de Lombroso, Ferri e Garofalo, buscava as causas do crime no criminoso: é o paradigma etiológico, de etiologia, estudo das causas. Lombroso, com a ideia do atavismo, do criminoso nato, é positivista, e não clássico; o grande nome da Escola Clássica é Beccaria. A Criminologia Crítica estuda o sistema de controle e o poder de punir, não o delinquente. E o etiquetamento, o labeling approach, estuda como a sociedade rotula alguém como criminoso, o oposto do atavismo.
 
 ---
 
@@ -986,11 +986,11 @@ Letra D: quatro, apenas.
 
 Letra E: três e quatro, apenas.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O item um troca o lugar: a Tolerância Zero nasceu em Nova York, na gestão do prefeito Rudolph Giuliani, a partir de 1994, inspirada na teoria das janelas quebradas. O item dois troca o autor: o Direito Penal do Inimigo é de Günther Jakobs, e não de Roxin. Os itens três e quatro estão certos. Repare na técnica da F G V: a afirmação parece verdadeira, mas troca um único dado, o lugar ou o nome.
+Pense na sua resposta.
 
 **Resposta: letra E, três e quatro, apenas.**
+
+**Por quê.** O item um troca o lugar: a Tolerância Zero nasceu em Nova York, na gestão do prefeito Rudolph Giuliani, a partir de 1994, inspirada na teoria das janelas quebradas. O item dois troca o autor: o Direito Penal do Inimigo é de Günther Jakobs, e não de Roxin. Os itens três e quatro estão certos. Repare na técnica da F G V: a afirmação parece verdadeira, mas troca um único dado, o lugar ou o nome.
 
 ---
 
@@ -1012,11 +1012,11 @@ Letra D: O modelo de prevenção integral ou integrada preconiza a redução da 
 
 Letra E: Os programas de prevenção primária e secundária devem ser implementados pelas instituições policiais.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Três níveis. Primária: ataca as raízes do crime, com saúde, educação, saneamento, emprego; age a médio e longo prazo e envolve toda a sociedade. Secundária: atua onde e em quem o crime aparece mais, com policiamento e monitoramento de áreas e grupos de risco. Terciária: atua sobre quem já cometeu crime, para evitar a reincidência, com ressocialização. As letras A e B trocam primária com secundária.
+Pense na sua resposta.
 
 **Resposta: letra C, a prevenção terciária pretende evitar a reincidência criminal por meio de políticas voltadas à ressocialização do apenado.**
+
+**Por quê.** Três níveis. Primária: ataca as raízes do crime, com saúde, educação, saneamento, emprego; age a médio e longo prazo e envolve toda a sociedade. Secundária: atua onde e em quem o crime aparece mais, com policiamento e monitoramento de áreas e grupos de risco. Terciária: atua sobre quem já cometeu crime, para evitar a reincidência, com ressocialização. As letras A e B trocam primária com secundária.
 
 ---
 
@@ -1038,8 +1038,8 @@ Letra D: dois , um , três.
 
 Letra E: um , dois , três.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Dogmática penal é o Direito Penal como conjunto de normas: o que é crime e qual a pena, enunciado três. Política criminal são as estratégias do Estado para prevenir e reprimir o crime, enunciado dois. Criminologia é a ciência empírica e interdisciplinar que estuda o crime, o criminoso, a vítima e o controle social, enunciado um. Frase para lembrar: a Criminologia estuda o ser, a Política Criminal decide o que fazer, e o Direito Penal diz o que deve ser.
+Pense na sua resposta.
 
 **Resposta: letra A, três , dois , um.**
+
+**Por quê.** Dogmática penal é o Direito Penal como conjunto de normas: o que é crime e qual a pena, enunciado três. Política criminal são as estratégias do Estado para prevenir e reprimir o crime, enunciado dois. Criminologia é a ciência empírica e interdisciplinar que estuda o crime, o criminoso, a vítima e o controle social, enunciado um. Frase para lembrar: a Criminologia estuda o ser, a Política Criminal decide o que fazer, e o Direito Penal diz o que deve ser.

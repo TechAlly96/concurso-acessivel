@@ -234,9 +234,9 @@ Letra D: a lâmina é risco ergonômico e a tuberculose é risco de acidente.
 
 Pense na sua resposta.
 
-**A explicação.** Use a frase das cores. Ruído é energia, então risco físico, verde. Formol é substância, risco químico, vermelho. Lâmina é perfurocortante, risco de acidente, azul. Tuberculose é microrganismo, risco biológico, marrom. A letra C erra porque o local da atividade não define o tipo de risco.
+**Resposta: letra B: o ruído da serra é risco físico, o formol é risco químico, a lâmina é risco de acidente e a tuberculose é risco biológico.**
 
-**Resposta: letra B.**
+**Por quê.** Use a frase das cores. Ruído é energia, então risco físico, verde. Formol é substância, risco químico, vermelho. Lâmina é perfurocortante, risco de acidente, azul. Tuberculose é microrganismo, risco biológico, marrom. A letra C erra porque o local da atividade não define o tipo de risco.
 
 ---
 
@@ -254,9 +254,9 @@ Letra D: a clorexidina é o produto indicado para a desinfecção das bancadas d
 
 Pense na sua resposta.
 
-**A explicação.** A limpeza nunca é dispensável, porque a sujeira protege os microrganismos e atrapalha a esterilização; por isso a A está errada. A desinfecção não garante eliminar esporos, então a B está errada. A clorexidina é antisséptico para pele, então a D está errada. A letra C junta a definição correta de esterilização com a regra de ouro: primeiro limpa.
+**Resposta: letra C: a esterilização elimina todas as formas de vida microbiana, inclusive os esporos, e deve ser precedida da limpeza do material.**
 
-**Resposta: letra C.**
+**Por quê.** A limpeza nunca é dispensável, porque a sujeira protege os microrganismos e atrapalha a esterilização; por isso a A está errada. A desinfecção não garante eliminar esporos, então a B está errada. A clorexidina é antisséptico para pele, então a D está errada. A letra C junta a definição correta de esterilização com a regra de ouro: primeiro limpa.
 
 ---
 
@@ -274,9 +274,9 @@ Letra D: aumentar o número de plantões para diluir a exposição entre mais tr
 
 Pense na sua resposta.
 
-**A explicação.** A hierarquia manda priorizar a proteção coletiva, de engenharia, antes do E P I. A exaustão retira o vapor do ambiente e protege todos ao mesmo tempo, e o E P I entra como complemento. Colírio só trata o sintoma. Máscara cirúrgica não protege contra vapores químicos. E espalhar a exposição entre mais pessoas não resolve o problema.
+**Resposta: letra B: instalar e manter sistema de exaustão adequado na sala e no local de armazenamento das peças em formol, complementado por E P I.**
 
-**Resposta: letra B.**
+**Por quê.** A hierarquia manda priorizar a proteção coletiva, de engenharia, antes do E P I. A exaustão retira o vapor do ambiente e protege todos ao mesmo tempo, e o E P I entra como complemento. Colírio só trata o sintoma. Máscara cirúrgica não protege contra vapores químicos. E espalhar a exposição entre mais pessoas não resolve o problema.
 
 ---
 
@@ -302,9 +302,9 @@ Letra D: todos os itens estão certos.
 
 Pense na sua resposta.
 
-**A explicação.** O item I está certo: precaução é agir antes da certeza. O item II está errado: ossos secos podem conter microrganismos, esporos e fungos, e a exumação também tem riscos do solo e dos gases. O item III está certo: é exatamente a definição das precauções padrão.
+**Resposta: letra B: apenas os itens I e III estão certos.**
 
-**Resposta: letra B.**
+**Por quê.** O item I está certo: precaução é agir antes da certeza. O item II está errado: ossos secos podem conter microrganismos, esporos e fungos, e a exumação também tem riscos do solo e dos gases. O item III está certo: é exatamente a definição das precauções padrão.
 
 ---
 

@@ -2,7 +2,7 @@
 
 Esta é a prova real aplicada em 2026 pela banca Cebraspe para o cargo de Técnico-Assistente da Polícia Civil e de Atividades Governamentais (T P A G) — Auxiliar de Perícia. Os gabaritos são os oficiais definitivos.
 
-Em cada questão, eu leio o enunciado e as quatro alternativas. Depois faço uma pausa para você pensar, e só então explico e dou a resposta. Se quiser treinar de verdade, pause o áudio na pausa, escolha a sua letra e depois continue.
+Em cada questão, eu leio o enunciado e as alternativas. Depois vem uma pausa de alguns segundos para você escolher a sua letra. Em seguida, eu digo a resposta certa e explico o porquê. Se precisar de mais tempo para pensar, pause o áudio na pausa.
 
 ---
 
@@ -22,11 +22,11 @@ Letra C: garantir o direito de todos ao acesso às novas tecnologias.
 
 Letra D: assegurar o reconhecimento dos direitos essenciais da pessoa humana.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O Pacto de São José da Costa Rica é a Convenção Americana sobre Direitos Humanos, de 1969, promulgada no Brasil pelo Decreto 678 de 1992. Seu preâmbulo diz que os direitos essenciais da pessoa humana não nascem de ser cidadão de um Estado, mas da própria condição humana. Ele trata principalmente de direitos civis e políticos, não de meio ambiente nem de tecnologia.
+Pense na sua resposta.
 
 **Resposta: letra D, assegurar o reconhecimento dos direitos essenciais da pessoa humana.**
+
+**Por quê.** O Pacto de São José da Costa Rica é a Convenção Americana sobre Direitos Humanos, de 1969, promulgada no Brasil pelo Decreto 678 de 1992. Seu preâmbulo diz que os direitos essenciais da pessoa humana não nascem de ser cidadão de um Estado, mas da própria condição humana. Ele trata principalmente de direitos civis e políticos, não de meio ambiente nem de tecnologia.
 
 ---
 
@@ -46,11 +46,11 @@ Letra C: A existência de direitos humanos somente pôde ser reconhecida após s
 
 Letra D: A afirmação histórica dos direitos humanos decorre de um processo contínuo e cumulativo, no qual esses direitos foram sendo reconhecidos gradativamente, em resposta às lutas sociais e transformações políticas ao longo do tempo.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Os direitos humanos foram conquistados aos poucos: Magna Carta em 1215, revoluções Americana e Francesa no século 18, direitos sociais no século 20 e assim por diante. Essa é a característica da historicidade. Palavras como "sem relação", "simultânea em todos" e "inexistindo" são absolutas e costumam indicar alternativa errada.
+Pense na sua resposta.
 
 **Resposta: letra D, a afirmação histórica dos direitos humanos decorre de um processo contínuo e cumulativo, no qual esses direitos foram sendo reconhecidos gradativamente, em resposta às lutas sociais e transformações políticas ao longo do tempo.**
+
+**Por quê.** Os direitos humanos foram conquistados aos poucos: Magna Carta em 1215, revoluções Americana e Francesa no século 18, direitos sociais no século 20 e assim por diante. Essa é a característica da historicidade. Palavras como "sem relação", "simultânea em todos" e "inexistindo" são absolutas e costumam indicar alternativa errada.
 
 ---
 
@@ -70,11 +70,11 @@ Letra C: confundem-se com os direitos fundamentais, sendo sua aplicação restri
 
 Letra D: são prerrogativas concedidas exclusivamente pelo Estado, por isso este pode restringi-los livremente conforme a sua conveniência.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Universalidade: valem para todas as pessoas. Indivisibilidade: formam um conjunto que não se separa. Historicidade: foram construídos ao longo da história. A alternativa C erra porque direitos humanos são o termo do plano internacional e direitos fundamentais são os positivados na Constituição. A D erra porque esses direitos não são favor do Estado.
+Pense na sua resposta.
 
 **Resposta: letra B, caracterizam-se pela universalidade, indivisibilidade e historicidade, sendo reconhecidos a todas as pessoas.**
+
+**Por quê.** Universalidade: valem para todas as pessoas. Indivisibilidade: formam um conjunto que não se separa. Historicidade: foram construídos ao longo da história. A alternativa C erra porque direitos humanos são o termo do plano internacional e direitos fundamentais são os positivados na Constituição. A D erra porque esses direitos não são favor do Estado.
 
 ---
 
@@ -94,11 +94,11 @@ Letra C: A responsabilidade do Estado por violações de direitos humanos restri
 
 Letra D: O Estado somente pode ser responsabilizado por violações de direitos humanos quando houver ação direta de seus agentes, sendo inaplicável a responsabilização em casos de omissão estatal.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O Estado tem o dever de prevenir, investigar e punir violações, o chamado dever de devida diligência. Se ele se omite diante de violações cometidas por particulares, também responde. O Brasil, por exemplo, foi responsabilizado na Comissão Interamericana no caso Maria da Penha justamente por omissão.
+Pense na sua resposta.
 
 **Resposta: letra A, o Estado pode ser responsabilizado por omissões decorrentes de violações de direitos humanos, inclusive quando praticadas por particulares.**
+
+**Por quê.** O Estado tem o dever de prevenir, investigar e punir violações, o chamado dever de devida diligência. Se ele se omite diante de violações cometidas por particulares, também responde. O Brasil, por exemplo, foi responsabilizado na Comissão Interamericana no caso Maria da Penha justamente por omissão.
 
 ---
 
@@ -118,11 +118,11 @@ Letra C: A proteção dos direitos humanos compete exclusivamente à União.
 
 Letra D: O Programa Nacional de Direitos Humanos foi instituído no ordenamento jurídico brasileiro por decreto com hierarquia constitucional e força vinculante equivalente à de emenda constitucional.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A dignidade da pessoa humana é fundamento da República, no artigo 1º, inciso três, da Constituição. O Programa Nacional de Direitos Humanos, atualmente o P N D H-3, abrange todas as dimensões de direitos e foi feito por decreto comum, sem força de emenda constitucional. A proteção cabe a todos os entes: União, estados e municípios.
+Pense na sua resposta.
 
 **Resposta: letra A, as políticas públicas em direitos humanos no Brasil possuem como fundamento constitucional a dignidade da pessoa humana.**
+
+**Por quê.** A dignidade da pessoa humana é fundamento da República, no artigo 1º, inciso três, da Constituição. O Programa Nacional de Direitos Humanos, atualmente o P N D H-3, abrange todas as dimensões de direitos e foi feito por decreto comum, sem força de emenda constitucional. A proteção cabe a todos os entes: União, estados e municípios.
 
 ---
 
@@ -142,11 +142,11 @@ Letra C: A aplicação dos direitos fundamentais previstos na Constituição Fed
 
 Letra D: Os direitos fundamentais previstos na Constituição Federal aplicam-se exclusivamente aos cidadãos brasileiros, não alcançando os estrangeiros residentes no país.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Está escrito no artigo 5º, parágrafo 1º: as normas definidoras dos direitos e garantias fundamentais têm aplicação imediata. Estado de defesa e de sítio apenas restringem alguns direitos de forma temporária, nunca definitiva. E o caput do artigo 5º alcança brasileiros e estrangeiros residentes.
+Pense na sua resposta.
 
 **Resposta: letra B, a Constituição Federal estabelece que as normas definidoras dos direitos e garantias fundamentais tenham aplicação imediata.**
+
+**Por quê.** Está escrito no artigo 5º, parágrafo 1º: as normas definidoras dos direitos e garantias fundamentais têm aplicação imediata. Estado de defesa e de sítio apenas restringem alguns direitos de forma temporária, nunca definitiva. E o caput do artigo 5º alcança brasileiros e estrangeiros residentes.
 
 ---
 
@@ -166,11 +166,11 @@ Letra C: Todos os tratados internacionais de direitos humanos, em razão da rele
 
 Letra D: Os tratados internacionais de direitos humanos que não observarem o rito qualificado de aprovação previsto na Constituição Federal não produzem efeitos jurídicos no Brasil.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A alternativa A copia o artigo 5º, parágrafo 2º. Pelo parágrafo 3º, o tratado aprovado em dois turnos, por três quintos dos votos em cada casa do Congresso, vale como emenda constitucional. Os que não seguem esse rito continuam valendo, com status supralegal, como decidiu o S T F sobre o próprio Pacto de São José. Os tratados são promulgados por decreto, não por lei complementar.
+Pense na sua resposta.
 
 **Resposta: letra A, os direitos e garantias expressos na Constituição Federal não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.**
+
+**Por quê.** A alternativa A copia o artigo 5º, parágrafo 2º. Pelo parágrafo 3º, o tratado aprovado em dois turnos, por três quintos dos votos em cada casa do Congresso, vale como emenda constitucional. Os que não seguem esse rito continuam valendo, com status supralegal, como decidiu o S T F sobre o próprio Pacto de São José. Os tratados são promulgados por decreto, não por lei complementar.
 
 ---
 
@@ -190,11 +190,11 @@ Letra C: delegado de polícia de carreira, nomeado pelo governador do estado.
 
 Letra D: oficial da polícia militar, escolhido pelo governador do estado.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A Polícia Civil é dirigida por delegado de polícia de carreira, regra que vem do artigo 144, parágrafo 4º, da Constituição Federal e é repetida na Lei Complementar 129 de 2013. O chefe é nomeado pelo governador, não é eleito e não pode ser oficial da Polícia Militar.
+Pense na sua resposta.
 
 **Resposta: letra C, delegado de polícia de carreira, nomeado pelo governador do estado.**
+
+**Por quê.** A Polícia Civil é dirigida por delegado de polícia de carreira, regra que vem do artigo 144, parágrafo 4º, da Constituição Federal e é repetida na Lei Complementar 129 de 2013. O chefe é nomeado pelo governador, não é eleito e não pode ser oficial da Polícia Militar.
 
 ---
 
@@ -214,11 +214,11 @@ Letra C: A P C M G, sob a direção superior exercida pelo chefe da polícia civ
 
 Letra D: A atividade de polícia judiciária é exercida exclusivamente pelos delegados de polícia, sendo vedada a participação de outros cargos da carreira policial civil.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A Polícia Civil é a polícia judiciária do estado: apura infrações penais, exceto as militares, e é organizada com base em hierarquia e disciplina. A apuração não depende de a Polícia Militar ter atuado antes. E não é exclusiva do delegado: investigadores, escrivães, peritos e técnicos participam.
+Pense na sua resposta.
 
 **Resposta: letra C, a P C M G, sob a direção superior exercida pelo chefe da polícia civil, exerce a função de polícia judiciária, cabendo-lhe a apuração, no território do estado, de infrações penais, observados os princípios da hierarquia e da disciplina.**
+
+**Por quê.** A Polícia Civil é a polícia judiciária do estado: apura infrações penais, exceto as militares, e é organizada com base em hierarquia e disciplina. A apuração não depende de a Polícia Militar ter atuado antes. E não é exclusiva do delegado: investigadores, escrivães, peritos e técnicos participam.
 
 ---
 
@@ -238,11 +238,11 @@ Letra C: A chefia da P C M G e a chefia adjunta da P C M G, funções comissiona
 
 Letra D: Em caso de afastamento ou impedimento eventual do chefe adjunto, o chefe da P C M G será substituído, automaticamente, pelo chefe de gabinete da instituição.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Essa questão cobra a letra da Lei Complementar 129 de 2013. A alternativa B reproduz a regra correta: delegacias comuns e especializadas são dirigidas por delegados de carreira; regionais e divisões especializadas, por delegados de nível especial ou acima. As outras trocam detalhes: a Superintendência Técnico-Científica é dirigida por perito, sem a abertura para delegado; os tempos de serviço e a regra de substituição também foram alterados. Dica: em questões de letra de lei, desconfie de números e de regras de substituição modificadas.
+Pense na sua resposta.
 
 **Resposta: letra B, as delegacias de polícia civil, de âmbito territorial e de atuação especializada, devem ser dirigidas por delegados de polícia de carreira, enquanto as delegacias regionais e as divisões de polícia especializada devem ser dirigidas por delegados de polícia de, no mínimo, nível especial.**
+
+**Por quê.** Essa questão cobra a letra da Lei Complementar 129 de 2013. A alternativa B reproduz a regra correta: delegacias comuns e especializadas são dirigidas por delegados de carreira; regionais e divisões especializadas, por delegados de nível especial ou acima. As outras trocam detalhes: a Superintendência Técnico-Científica é dirigida por perito, sem a abertura para delegado; os tempos de serviço e a regra de substituição também foram alterados. Dica: em questões de letra de lei, desconfie de números e de regras de substituição modificadas.
 
 ---
 
@@ -262,11 +262,11 @@ Letra C: A atuação das comissões de ética limita-se à aplicação de sanç�
 
 Letra D: O referido código de conduta ética aplica-se exclusivamente aos ocupantes de cargos de direção superior, não alcançando servidores efetivos nem empregados públicos.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O código proíbe que interesses particulares prevaleçam sobre o público e proíbe atividades com conflito de interesse. Ele é obrigatório, vale para todos os agentes públicos do Executivo estadual, inclusive efetivos e empregados públicos, e as comissões de ética têm papel orientador e preventivo.
+Pense na sua resposta.
 
 **Resposta: letra A, é vedado ao agente público permitir que interesses particulares prevaleçam sobre o interesse público, bem como participar de qualquer atividade que possa significar conflito de interesse em relação à atividade pública que exerce.**
+
+**Por quê.** O código proíbe que interesses particulares prevaleçam sobre o público e proíbe atividades com conflito de interesse. Ele é obrigatório, vale para todos os agentes públicos do Executivo estadual, inclusive efetivos e empregados públicos, e as comissões de ética têm papel orientador e preventivo.
 
 ---
 
@@ -286,11 +286,11 @@ Letra C: As carreiras instituídas pela Lei número 15301, de 2004 destinam-se e
 
 Letra D: A mudança de lotação e a transferência de servidores entre órgãos e entidades do Poder Executivo estadual poderão ocorrer independentemente de vaga existente no órgão ou entidade de destino, desde que haja interesse público e anuência do servidor interessado.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** É exatamente o cargo deste concurso: o próprio edital transcreve as atribuições gerais do técnico assistente, de apoio técnico, administrativo e logístico de nível intermediário. A lei também cria carreiras para outros órgãos, como o sistema prisional e a Secretaria de Planejamento, então não é exclusiva da P C M G.
+Pense na sua resposta.
 
 **Resposta: letra A, o cargo de técnico assistente da polícia civil integra uma das carreiras instituídas por essa lei, e suas atividades envolvem execução de tarefas de apoio técnico, administrativo e logístico compatíveis com o nível intermediário de escolaridade.**
+
+**Por quê.** É exatamente o cargo deste concurso: o próprio edital transcreve as atribuições gerais do técnico assistente, de apoio técnico, administrativo e logístico de nível intermediário. A lei também cria carreiras para outros órgãos, como o sistema prisional e a Secretaria de Planejamento, então não é exclusiva da P C M G.
 
 ---
 
@@ -310,11 +310,11 @@ Letra C: A revisão do processo administrativo pode ser requerida a qualquer tem
 
 Letra D: No âmbito do processo administrativo, a fase de inquérito administrativo é sempre facultativa.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A revisão serve para corrigir uma injustiça, por isso pode ser pedida a qualquer tempo, e, se o servidor tiver falecido ou desaparecido, a família pode pedir. A comissão é formada por servidores efetivos, não por comissionados. O inquérito é fase de apuração, não decide nem aplica pena sozinho.
+Pense na sua resposta.
 
 **Resposta: letra C, a revisão do processo administrativo pode ser requerida a qualquer tempo diante de fatos que justifiquem a inocência do servidor, podendo ser solicitada mesmo após seu falecimento ou desaparecimento.**
+
+**Por quê.** A revisão serve para corrigir uma injustiça, por isso pode ser pedida a qualquer tempo, e, se o servidor tiver falecido ou desaparecido, a família pode pedir. A comissão é formada por servidores efetivos, não por comissionados. O inquérito é fase de apuração, não decide nem aplica pena sozinho.
 
 ---
 
@@ -334,11 +334,11 @@ Letra C: O despacho favorável do governador do estado à permanência do funcio
 
 Letra D: Durante o estágio probatório, serão avaliados exclusivamente os requisitos de eficiência e disciplina, sendo a assiduidade considerada apenas após a aquisição da estabilidade.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Se o parecer for contrário, o servidor tem 5 dias de vista para se defender, o que garante contraditório e ampla defesa. A estabilidade não é automática, exige avaliação. A assiduidade é avaliada durante o estágio, junto com outros requisitos. E o despacho do governador não precisa ser confirmado pelo órgão de pessoal, pois é a autoridade maior.
+Pense na sua resposta.
 
 **Resposta: letra B, caso o parecer do órgão de pessoal seja contrário à confirmação do servidor no cargo, será assegurada vista ao estagiário pelo prazo de cinco dias antes da decisão administrativa competente.**
+
+**Por quê.** Se o parecer for contrário, o servidor tem 5 dias de vista para se defender, o que garante contraditório e ampla defesa. A estabilidade não é automática, exige avaliação. A assiduidade é avaliada durante o estágio, junto com outros requisitos. E o despacho do governador não precisa ser confirmado pelo órgão de pessoal, pois é a autoridade maior.
 
 ---
 
@@ -358,8 +358,8 @@ Letra C: promoção interna, mediante avaliação de desempenho e tempo de servi
 
 Letra D: contratação temporária, para atender a necessidade excepcional de interesse público.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Cargo efetivo só se ocupa por concurso público de provas ou de provas e títulos, regra do artigo 37, inciso dois, da Constituição. Promoção é movimentação dentro da carreira, não ingresso. Comissão e contratação temporária não criam vínculo efetivo.
+Pense na sua resposta.
 
 **Resposta: letra A, concurso público de provas ou de provas e títulos, conforme previsto em lei.**
+
+**Por quê.** Cargo efetivo só se ocupa por concurso público de provas ou de provas e títulos, regra do artigo 37, inciso dois, da Constituição. Promoção é movimentação dentro da carreira, não ingresso. Comissão e contratação temporária não criam vínculo efetivo.

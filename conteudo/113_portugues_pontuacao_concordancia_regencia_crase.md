@@ -306,9 +306,9 @@ Letra E: Analisaram-se todos os laudos enviados pela perícia.
 
 Pense na sua resposta.
 
-**A explicação.** Na letra E, o verbo "analisar" não pede preposição, então o "se" é pronome apassivador, e o verbo concorda com "todos os laudos", que é o sujeito: "todos os laudos foram analisados". Nas letras A e B, o verbo haver, no sentido de existir, é impessoal e deve ficar no singular: "houve" e "deve haver". Na letra C, fazer indicando tempo também é impessoal: "faz três anos". E na letra D, o verbo "precisar" pede a preposição "de", então o verbo fica no singular: "precisa-se de".
+**Resposta: letra E: analisaram-se todos os laudos enviados pela perícia.**
 
-**Resposta: letra E.**
+**Por quê.** Na letra E, o verbo "analisar" não pede preposição, então o "se" é pronome apassivador, e o verbo concorda com "todos os laudos", que é o sujeito: "todos os laudos foram analisados". Nas letras A e B, o verbo haver, no sentido de existir, é impessoal e deve ficar no singular: "houve" e "deve haver". Na letra C, fazer indicando tempo também é impessoal: "faz três anos". E na letra D, o verbo "precisar" pede a preposição "de", então o verbo fica no singular: "precisa-se de".
 
 ---
 
@@ -328,9 +328,9 @@ Letra E: passa a ter uma oração adverbial de causa.
 
 Pense na sua resposta.
 
-**A explicação.** Sem vírgulas, a oração "que estudaram com o curso" é adjetiva restritiva: só parte dos candidatos, os que estudaram com o curso, foi aprovada. Com as vírgulas, ela passa a ser explicativa: todos os candidatos estudaram com o curso, e todos foram aprovados. O sentido muda. E as vírgulas em par isolam uma oração intercalada, sem erro gramatical.
+**Resposta: letra B: passa a indicar que todos os candidatos estudaram com o curso e foram aprovados.**
 
-**Resposta: letra B.**
+**Por quê.** Sem vírgulas, a oração "que estudaram com o curso" é adjetiva restritiva: só parte dos candidatos, os que estudaram com o curso, foi aprovada. Com as vírgulas, ela passa a ser explicativa: todos os candidatos estudaram com o curso, e todos foram aprovados. O sentido muda. E as vírgulas em par isolam uma oração intercalada, sem erro gramatical.
 
 ---
 
@@ -350,9 +350,9 @@ Letra E: Esta é a informação que precisávamos.
 
 Pense na sua resposta.
 
-**A explicação.** Na letra C, "aspirar", no sentido de desejar, pede a preposição "a", e ela vem corretamente antes do pronome relativo: "a que todos aspiram". Na letra A, "assistir", no sentido de ver, pede "a": "assistiu ao depoimento". Na letra B, preferir não aceita "mais" nem "do que": "prefiro trabalhar na rua a trabalhar no escritório". Na letra D, implicar, no sentido de acarretar, não pede preposição: "implica a absolvição". Na letra E, precisar pede "de": "a informação de que precisávamos".
+**Resposta: letra C: este é o cargo a que todos aspiram.**
 
-**Resposta: letra C.**
+**Por quê.** Na letra C, "aspirar", no sentido de desejar, pede a preposição "a", e ela vem corretamente antes do pronome relativo: "a que todos aspiram". Na letra A, "assistir", no sentido de ver, pede "a": "assistiu ao depoimento". Na letra B, preferir não aceita "mais" nem "do que": "prefiro trabalhar na rua a trabalhar no escritório". Na letra D, implicar, no sentido de acarretar, não pede preposição: "implica a absolvição". Na letra E, precisar pede "de": "a informação de que precisávamos".
 
 ---
 
@@ -372,9 +372,9 @@ Letra E: O réu fugiu à pé pela mata.
 
 Pense na sua resposta.
 
-**A explicação.** Na letra A, "levado à delegacia" passa no teste do masculino, porque vira "levado ao fórum", e "às duas horas" é indicação de hora. Nas demais, a crase é proibida: antes de verbo, "começou a ouvir"; antes de pronome de tratamento, "a Vossa Excelência"; entre palavras repetidas, "frente a frente"; e antes de palavra masculina, "a pé".
+**Resposta: letra A: O suspeito foi levado à delegacia às duas horas da manhã.**
 
-**Resposta: letra A.**
+**Por quê.** Na letra A, "levado à delegacia" passa no teste do masculino, porque vira "levado ao fórum", e "às duas horas" é indicação de hora. Nas demais, a crase é proibida: antes de verbo, "começou a ouvir"; antes de pronome de tratamento, "a Vossa Excelência"; entre palavras repetidas, "frente a frente"; e antes de palavra masculina, "a pé".
 
 ---
 

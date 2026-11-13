@@ -302,9 +302,9 @@ Letra E: hoax.
 
 Pense na sua resposta.
 
-**A explicação.** O worm se propaga sozinho pela rede, explorando vulnerabilidades, sem precisar de hospedeiro nem da execução pelo usuário, e costuma consumir muitos recursos, deixando a rede lenta. O vírus depende de um hospedeiro e de ser executado. O cavalo de troia depende de o usuário instalá-lo.
+**Resposta: letra C: worm.**
 
-**Resposta: letra C.**
+**Por quê.** O worm se propaga sozinho pela rede, explorando vulnerabilidades, sem precisar de hospedeiro nem da execução pelo usuário, e costuma consumir muitos recursos, deixando a rede lenta. O vírus depende de um hospedeiro e de ser executado. O cavalo de troia depende de o usuário instalá-lo.
 
 ---
 
@@ -324,9 +324,9 @@ Letra E: força bruta.
 
 Pense na sua resposta.
 
-**A explicação.** No pharming, a vítima digita o endereço correto, mas é redirecionada para um site falso porque o D N S foi alterado, ou envenenado. No phishing, a vítima clica em um link falso recebido por mensagem.
+**Resposta: letra B: pharming.**
 
-**Resposta: letra B.**
+**Por quê.** No pharming, a vítima digita o endereço correto, mas é redirecionada para um site falso porque o D N S foi alterado, ou envenenado. No phishing, a vítima clica em um link falso recebido por mensagem.
 
 ---
 
@@ -346,9 +346,9 @@ Letra E: o backup diferencial de segunda-feira e o de quarta-feira.
 
 Pense na sua resposta.
 
-**A explicação.** O backup diferencial copia tudo o que mudou desde o último backup completo. Por isso, o diferencial de quarta já contém todas as alterações de segunda, terça e quarta. Basta o completo de domingo mais o último diferencial. Se fossem backups incrementais, seriam necessários o completo e todos os incrementais.
+**Resposta: letra C: o backup completo de domingo e o último backup diferencial, de quarta-feira.**
 
-**Resposta: letra C.**
+**Por quê.** O backup diferencial copia tudo o que mudou desde o último backup completo. Por isso, o diferencial de quarta já contém todas as alterações de segunda, terça e quarta. Basta o completo de domingo mais o último diferencial. Se fossem backups incrementais, seriam necessários o completo e todos os incrementais.
 
 ---
 
@@ -368,9 +368,9 @@ Letra E: a assinatura digital dispensa o uso de funções de hash.
 
 Pense na sua resposta.
 
-**A explicação.** Na assinatura digital, o remetente usa a sua própria chave privada, e qualquer pessoa verifica com a chave pública dele. Ela garante autenticidade, integridade e não repúdio, mas não garante sigilo. A criptografia assimétrica usa um par de chaves, e a assinatura digital usa o hash para resumir o documento antes de assiná-lo.
+**Resposta: letra C: o remetente assina o documento com a sua chave privada, e a assinatura é verificada com a chave pública do remetente, garantindo autenticidade, integridade e não repúdio.**
 
-**Resposta: letra C.**
+**Por quê.** Na assinatura digital, o remetente usa a sua própria chave privada, e qualquer pessoa verifica com a chave pública dele. Ela garante autenticidade, integridade e não repúdio, mas não garante sigilo. A criptografia assimétrica usa um par de chaves, e a assinatura digital usa o hash para resumir o documento antes de assiná-lo.
 
 ---
 

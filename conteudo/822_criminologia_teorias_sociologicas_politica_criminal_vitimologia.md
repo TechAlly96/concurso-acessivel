@@ -228,9 +228,9 @@ Letra E: da ecologia criminal, de Ernest Burgess.
 
 Pense na sua resposta.
 
-**A explicação.** A teoria que diz que o crime é aprendido no convívio é a associação diferencial, de Edwin Sutherland, que também criou o conceito de crime do colarinho branco. Merton fala da tensão entre metas e meios; Cohen, das gangues com valores invertidos; Becker, do rótulo; e Burgess, das zonas concêntricas da cidade.
+**Resposta: letra B: da associação diferencial, de Edwin Sutherland.**
 
-**Resposta: letra B.**
+**Por quê.** A teoria que diz que o crime é aprendido no convívio é a associação diferencial, de Edwin Sutherland, que também criou o conceito de crime do colarinho branco. Merton fala da tensão entre metas e meios; Cohen, das gangues com valores invertidos; Becker, do rótulo; e Burgess, das zonas concêntricas da cidade.
 
 ---
 
@@ -250,9 +250,9 @@ Letra E: crime do colarinho branco.
 
 Pense na sua resposta.
 
-**A explicação.** Para Lemert, o desvio primário é a primeira transgressão, que não muda a identidade da pessoa. O desvio secundário acontece depois que a pessoa é rotulada como criminosa e assume esse papel, cometendo novos crimes. O atavismo é uma ideia de Lombroso, contrária ao etiquetamento.
+**Resposta: letra C: desvio secundário.**
 
-**Resposta: letra C.**
+**Por quê.** Para Lemert, o desvio primário é a primeira transgressão, que não muda a identidade da pessoa. O desvio secundário acontece depois que a pessoa é rotulada como criminosa e assume esse papel, cometendo novos crimes. O atavismo é uma ideia de Lombroso, contrária ao etiquetamento.
 
 ---
 
@@ -272,9 +272,9 @@ Letra E: A terceira velocidade do direito penal corresponde às penas alternativ
 
 Pense na sua resposta.
 
-**A explicação.** A teoria das janelas quebradas, de Wilson e Kelling, diz exatamente que a desordem tolerada leva a crimes graves. A tolerância zero nasceu em Nova York. O direito penal do inimigo é de Jakobs e reduz garantias. O direito penal mínimo defende o uso do direito penal só como última opção. E a terceira velocidade é a prisão com flexibilização de garantias.
+**Resposta: letra C: A teoria das janelas quebradas sustenta que a desordem e os pequenos delitos tolerados favorecem o surgimento de crimes mais graves.**
 
-**Resposta: letra C.**
+**Por quê.** A teoria das janelas quebradas, de Wilson e Kelling, diz exatamente que a desordem tolerada leva a crimes graves. A tolerância zero nasceu em Nova York. O direito penal do inimigo é de Jakobs e reduz garantias. O direito penal mínimo defende o uso do direito penal só como última opção. E a terceira velocidade é a prisão com flexibilização de garantias.
 
 ---
 
@@ -294,9 +294,9 @@ Letra E: desvio secundário.
 
 Pense na sua resposta.
 
-**A explicação.** A vitimização secundária, ou revitimização, é o sofrimento causado pelo próprio sistema, como a polícia e o Judiciário. A primária é o dano do crime em si, e a terciária é a estigmatização pela família e pela comunidade.
+**Resposta: letra B: vitimização secundária.**
 
-**Resposta: letra B.**
+**Por quê.** A vitimização secundária, ou revitimização, é o sofrimento causado pelo próprio sistema, como a polícia e o Judiciário. A primária é o dano do crime em si, e a terciária é a estigmatização pela família e pela comunidade.
 
 ---
 

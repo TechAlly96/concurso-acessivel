@@ -2,7 +2,7 @@
 
 Esta é a prova real aplicada em 2026 pela banca Cebraspe para o cargo de Técnico-Assistente da Polícia Civil e de Atividades Governamentais (T P A G) — Auxiliar de Perícia. Os gabaritos são os oficiais definitivos.
 
-Em cada questão, eu leio o enunciado e as quatro alternativas. Depois faço uma pausa para você pensar, e só então explico e dou a resposta. Se quiser treinar de verdade, pause o áudio na pausa, escolha a sua letra e depois continue.
+Em cada questão, eu leio o enunciado e as alternativas. Depois vem uma pausa de alguns segundos para você escolher a sua letra. Em seguida, eu digo a resposta certa e explico o porquê. Se precisar de mais tempo para pensar, pause o áudio na pausa.
 
 ---
 
@@ -22,11 +22,11 @@ Letra C: aplicar desinfetante no ambiente, para reduzir odores e riscos biológi
 
 Letra D: realizar a limpeza superficial do corpo, para facilitar o exame visual.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Primeiro registra, depois mexe. Toda manipulação altera a cena, então a fotografia na posição original vem antes de tudo. Cobrir com plástico, limpar ou jogar desinfetante destrói vestígios. Essa ideia de documentar antes de manipular aparece em várias questões desta prova.
+Pense na sua resposta.
 
 **Resposta: letra B, documentar fotograficamente o corpo na posição em que foi encontrado, antes de realizar qualquer manipulação.**
+
+**Por quê.** Primeiro registra, depois mexe. Toda manipulação altera a cena, então a fotografia na posição original vem antes de tudo. Cobrir com plástico, limpar ou jogar desinfetante destrói vestígios. Essa ideia de documentar antes de manipular aparece em várias questões desta prova.
 
 ---
 
@@ -46,11 +46,11 @@ Letra C: realizar a coleta após a lavagem completa do corpo, para evitar contam
 
 Letra D: coletar as amostras diretamente, com pinças comuns, e armazená-las em recipientes plásticos devidamente identificados.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Amostra toxicológica exige três cuidados: material estéril para não contaminar, frasco hermético para não perder substâncias voláteis e identificação imediata para manter a cadeia de custódia. Temperatura ambiente degrada a amostra; lavar o corpo antes pode eliminar vestígios; e pinça comum não é estéril.
+Pense na sua resposta.
 
 **Resposta: letra B, preparar kits estéreis com lâminas e frascos herméticos, bem como garantir a identificação imediata das amostras.**
+
+**Por quê.** Amostra toxicológica exige três cuidados: material estéril para não contaminar, frasco hermético para não perder substâncias voláteis e identificação imediata para manter a cadeia de custódia. Temperatura ambiente degrada a amostra; lavar o corpo antes pode eliminar vestígios; e pinça comum não é estéril.
 
 ---
 
@@ -70,11 +70,11 @@ Letra C: empregar prancha rígida de imobilização espinhal e, antes de qualque
 
 Letra D: realizar lavagem imediata do corpo com água e sabão neutro no local do acidente, para eliminar detritos e fluidos antes da remoção do corpo.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Há risco biológico, pelo sangue, e químico, pela gasolina e pelo óleo. Por isso o E P I completo vem antes de qualquer contato: macacão impermeável, máscara respiratória e óculos. A prancha rígida mantém o corpo alinhado e preserva as lesões para a perícia. Só luvas não bastam, e secar ou lavar o corpo destrói evidências.
+Pense na sua resposta.
 
 **Resposta: letra C, empregar prancha rígida de imobilização espinhal e, antes de qualquer contato direto com o corpo, paramentar-se com conjunto completo de equipamentos de proteção individual (E P I), incluídos macacão impermeável, máscara respiratória e óculos de proteção.**
+
+**Por quê.** Há risco biológico, pelo sangue, e químico, pela gasolina e pelo óleo. Por isso o E P I completo vem antes de qualquer contato: macacão impermeável, máscara respiratória e óculos. A prancha rígida mantém o corpo alinhado e preserva as lesões para a perícia. Só luvas não bastam, e secar ou lavar o corpo destrói evidências.
 
 ---
 
@@ -94,11 +94,11 @@ Letra C: realizar sua movimentação em dupla, segurando-o pelas axilas e pelos 
 
 Letra D: utilizar macas com barreiras laterais, para drenagem controlada, estando a equipe paramentada com os E P I obrigatórios.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A fase enfisematosa é a fase gasosa da putrefação: o corpo incha com gases e pode liberar fluidos. A questão pede ao mesmo tempo proteção biológica, ergonomia e preservação. A maca com barreiras laterais contém os fluidos e evita o esforço do carregamento manual, e a equipe usa E P I. Selar o contêiner retém gases; carregar à mão ou pelas axilas é antiergonômico e pode lesionar o corpo.
+Pense na sua resposta.
 
 **Resposta: letra D, utilizar macas com barreiras laterais, para drenagem controlada, estando a equipe paramentada com os E P I obrigatórios.**
+
+**Por quê.** A fase enfisematosa é a fase gasosa da putrefação: o corpo incha com gases e pode liberar fluidos. A questão pede ao mesmo tempo proteção biológica, ergonomia e preservação. A maca com barreiras laterais contém os fluidos e evita o esforço do carregamento manual, e a equipe usa E P I. Selar o contêiner retém gases; carregar à mão ou pelas axilas é antiergonômico e pode lesionar o corpo.
 
 ---
 
@@ -118,11 +118,11 @@ Letra C: posicionar o corpo de lado no elevador, para otimizar espaço e equilí
 
 Letra D: empregar cintas de elevação sob os braços do corpo, para distribuição de peso durante a descida.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Em morte suspeita no hospital, tubos e cateteres são evidência: podem mostrar erro ou intervenção indevida. Por isso nunca se removem no local. Para corpo obeso, usa-se maca hidráulica reforçada e equipe de pelo menos quatro pessoas, protegendo a equipe e o corpo.
+Pense na sua resposta.
 
 **Resposta: letra A, usar macas hidráulicas com capacidade reforçada, dispondo-se de uma equipe de, pelo menos, quatro auxiliares para movimentação do corpo com os dispositivos médicos preservados.**
+
+**Por quê.** Em morte suspeita no hospital, tubos e cateteres são evidência: podem mostrar erro ou intervenção indevida. Por isso nunca se removem no local. Para corpo obeso, usa-se maca hidráulica reforçada e equipe de pelo menos quatro pessoas, protegendo a equipe e o corpo.
 
 ---
 
@@ -142,11 +142,11 @@ Letra C: mobilizar o corpo verticalmente com alavancas, para superar obstáculos
 
 Letra D: empregar suportes portáteis com rodas off-road (apropriadas a terrenos irregulares) e fixação para manter a orientação do corpo.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O solo grudado no corpo é vestígio da sepultura e precisa chegar intacto ao I M L. Suporte com rodas próprias para terreno irregular e fixação mantém o corpo estável e na mesma posição. Arrastar, levantar com alavanca ou embrulhar em plástico pode arrancar o solo, criar lesões falsas ou contaminar.
+Pense na sua resposta.
 
 **Resposta: letra D, empregar suportes portáteis com rodas off-road (apropriadas a terrenos irregulares) e fixação para manter a orientação do corpo.**
+
+**Por quê.** O solo grudado no corpo é vestígio da sepultura e precisa chegar intacto ao I M L. Suporte com rodas próprias para terreno irregular e fixação mantém o corpo estável e na mesma posição. Arrastar, levantar com alavanca ou embrulhar em plástico pode arrancar o solo, criar lesões falsas ou contaminar.
 
 ---
 
@@ -166,11 +166,11 @@ Letra C: manter o corpo em freezer industrial a menos 10 graus Celsius, para ina
 
 Letra D: utilizar unidade de refrigeração isolada a 2 graus Celsius, com ventilação filtrada, sendo obrigatório o uso dos E P I pela equipe.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A banca quis a resposta mais completa: isolamento, para separar dos outros corpos; refrigeração entre 2 e 4 graus, que conserva sem congelar; ventilação filtrada, contra aerossóis; e E P I obrigatório. A alternativa A parece boa, mas não fala de isolamento nem de E P I. Congelar danifica os tecidos e não inativa todos os patógenos, e temperatura ambiente acelera a putrefação.
+Pense na sua resposta.
 
 **Resposta: letra D, utilizar unidade de refrigeração isolada a 2 graus Celsius, com ventilação filtrada, sendo obrigatório o uso dos E P I pela equipe.**
+
+**Por quê.** A banca quis a resposta mais completa: isolamento, para separar dos outros corpos; refrigeração entre 2 e 4 graus, que conserva sem congelar; ventilação filtrada, contra aerossóis; e E P I obrigatório. A alternativa A parece boa, mas não fala de isolamento nem de E P I. Congelar danifica os tecidos e não inativa todos os patógenos, e temperatura ambiente acelera a putrefação.
 
 ---
 
@@ -190,11 +190,11 @@ Letra C: armazenar o corpo em contêineres de madeira vazados, com exposição a
 
 Letra D: colocar o corpo em sacos plásticos, selados em temperatura ambiente, para contenção de odores e preservação das amostras.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Mesmo com o I M L lotado, a regra é refrigerar até 4 graus, o que retarda a putrefação, com identificação de cada corpo, essencial em desastres com muitas vítimas, e controle de umidade. Todas as outras opções deixam o corpo em temperatura ambiente, o que acelera a decomposição.
+Pense na sua resposta.
 
 **Resposta: letra B, utilizar câmara refrigerada a até 4 graus Celsius, com identificação e monitoramento de umidade, para retardar putrefação.**
+
+**Por quê.** Mesmo com o I M L lotado, a regra é refrigerar até 4 graus, o que retarda a putrefação, com identificação de cada corpo, essencial em desastres com muitas vítimas, e controle de umidade. Todas as outras opções deixam o corpo em temperatura ambiente, o que acelera a decomposição.
 
 ---
 
@@ -214,11 +214,11 @@ Letra C: a uma temperatura entre 2 graus Celsius até 4 graus Celsius, com divis
 
 Letra D: à temperatura de 10 graus Celsius, com prateleiras abertas, para circulação de ar entre corpos.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Grave esta faixa: câmara fria de conservação funciona entre 2 e 4 graus Celsius. Divisórias isoladas evitam contaminação cruzada entre corpos em estágios diferentes, e sensores por prateleira garantem a temperatura certa em todo lugar. Empilhar corpos é proibido, porque deforma e cria marcas falsas, e 10 graus é quente demais.
+Pense na sua resposta.
 
 **Resposta: letra C, a uma temperatura entre 2 graus Celsius até 4 graus Celsius, com divisórias isoladas e sensores de temperatura por prateleira.**
+
+**Por quê.** Grave esta faixa: câmara fria de conservação funciona entre 2 e 4 graus Celsius. Divisórias isoladas evitam contaminação cruzada entre corpos em estágios diferentes, e sensores por prateleira garantem a temperatura certa em todo lugar. Empilhar corpos é proibido, porque deforma e cria marcas falsas, e 10 graus é quente demais.
 
 ---
 
@@ -238,11 +238,11 @@ Letra C: maca rígida com espuma ortopédica e fixadores laterais para suporte e
 
 Letra D: maca dobrável de alumínio leve para manobrabilidade em espaços restritos.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Lesão de coluna pede apoio rígido, para não dobrar o corpo e não alterar as fraturas que o legista vai analisar. A maca rígida com fixadores laterais mantém o alinhamento. Lona e inflável cedem com o peso, e a dobrável prioriza manobra, não o alinhamento.
+Pense na sua resposta.
 
 **Resposta: letra C, maca rígida com espuma ortopédica e fixadores laterais para suporte espinhal.**
+
+**Por quê.** Lesão de coluna pede apoio rígido, para não dobrar o corpo e não alterar as fraturas que o legista vai analisar. A maca rígida com fixadores laterais mantém o alinhamento. Lona e inflável cedem com o peso, e a dobrável prioriza manobra, não o alinhamento.
 
 ---
 
@@ -262,11 +262,11 @@ Letra C: conferir a documentação de entrada (guia de remoção/requisição), 
 
 Letra D: registrar o corpo como "não identificado" e encaminhá-lo diretamente para a câmara fria, aguardando a chegada de familiares para reconhecimento.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Recepção correta tem três passos: conferir a guia de remoção, registrar marcas e objetos, como tatuagens, cicatrizes, roupas e documentos, e fotografar antes de acondicionar. Objetos pessoais são vestígios e nunca são descartados. Pular a identificação ou só esperar a família são condutas erradas.
+Pense na sua resposta.
 
 **Resposta: letra C, conferir a documentação de entrada (guia de remoção/requisição), verificar e registrar quaisquer marcas ou objetos que possam auxiliar na identificação, e documentar fotograficamente o estado do corpo antes do acondicionamento adequado.**
+
+**Por quê.** Recepção correta tem três passos: conferir a guia de remoção, registrar marcas e objetos, como tatuagens, cicatrizes, roupas e documentos, e fotografar antes de acondicionar. Objetos pessoais são vestígios e nunca são descartados. Pular a identificação ou só esperar a família são condutas erradas.
 
 ---
 
@@ -286,11 +286,11 @@ Letra C: câmera fotográfica com tripé.
 
 Letra D: balança para órgãos.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A pergunta é sobre assepsia e segurança da equipe, e só o desinfetante de amplo espectro atende a isso. Lanterna U V, câmera e balança são úteis no exame, mas não protegem ninguém contra contaminação. Leia sempre o objetivo pedido no enunciado.
+Pense na sua resposta.
 
 **Resposta: letra B, solução desinfetante de amplo espectro para superfícies.**
+
+**Por quê.** A pergunta é sobre assepsia e segurança da equipe, e só o desinfetante de amplo espectro atende a isso. Lanterna U V, câmera e balança são úteis no exame, mas não protegem ninguém contra contaminação. Leia sempre o objetivo pedido no enunciado.
 
 ---
 
@@ -310,11 +310,11 @@ Letra C: coletar o sangue com uma pipeta descartável e depositá-lo em um saco 
 
 Letra D: coletar o sangue em um frasco genérico, rotulando-o apenas após a conclusão do exame.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Coletar material biológico é atribuição do auxiliar, prevista no próprio edital, então a A está errada. O correto é seringa e agulha estéreis, vaso calibroso, como a veia femoral, tubo adequado e identificação imediata. Rotular só depois quebra a cadeia de custódia, que é o registro de quem pegou o vestígio, quando e onde.
+Pense na sua resposta.
 
 **Resposta: letra B, utilizar seringa e agulha estéreis para coletar o sangue diretamente de um vaso calibroso, transferindo-o para tubo adequado, identificando-o imediatamente.**
+
+**Por quê.** Coletar material biológico é atribuição do auxiliar, prevista no próprio edital, então a A está errada. O correto é seringa e agulha estéreis, vaso calibroso, como a veia femoral, tubo adequado e identificação imediata. Rotular só depois quebra a cadeia de custódia, que é o registro de quem pegou o vestígio, quando e onde.
 
 ---
 
@@ -334,11 +334,11 @@ Letra C: manter a flexibilidade dos tecidos para futura reconstrução facial.
 
 Letra D: eliminar completamente todos os microrganismos presentes na amostra.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O formol é fixador: ele trava as proteínas das células e congela a estrutura do tecido como estava. Assim impede a autólise, que é a autodigestão das células, e a putrefação, permitindo o exame no microscópio depois. Ele endurece o tecido, não deixa flexível, e não garante eliminar todos os microrganismos.
+Pense na sua resposta.
 
 **Resposta: letra A, fixar as estruturas celulares, prevenindo a autólise e a putrefação dos tecidos e permitindo exames histopatológicos posteriores.**
+
+**Por quê.** O formol é fixador: ele trava as proteínas das células e congela a estrutura do tecido como estava. Assim impede a autólise, que é a autodigestão das células, e a putrefação, permitindo o exame no microscópio depois. Ele endurece o tecido, não deixa flexível, e não garante eliminar todos os microrganismos.
 
 ---
 
@@ -358,11 +358,11 @@ Letra C: descartar os materiais descartáveis em recipiente específico para res
 
 Letra D: descartar todos os materiais juntos em um único saco de lixo, para agilizar o processo.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Material descartável usado em necropsia teve contato com material biológico, então é resíduo infectante, do grupo A, e vai em saco branco leitoso com símbolo de risco biológico, nunca no lixo comum. Por isso a B erra. Os instrumentos metálicos passam por pré-limpeza e desinfecção para reuso.
+Pense na sua resposta.
 
 **Resposta: letra C, descartar os materiais descartáveis em recipiente específico para resíduos biológicos infectantes e encaminhar os instrumentos metálicos para pré-limpeza e desinfecção.**
+
+**Por quê.** Material descartável usado em necropsia teve contato com material biológico, então é resíduo infectante, do grupo A, e vai em saco branco leitoso com símbolo de risco biológico, nunca no lixo comum. Por isso a B erra. Os instrumentos metálicos passam por pré-limpeza e desinfecção para reuso.
 
 ---
 
@@ -382,11 +382,11 @@ Letra C: isolar o corpo em um ambiente separado por 24 horas, para aguardar uma 
 
 Letra D: preparar os instrumentos de rotina, aguardando instruções específicas do médico legista durante o exame.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Sem rosto e sem digitais, a identificação vai por D N A e por arcada dentária, a odontologia legal. Então o auxiliar se antecipa e deixa prontos frascos estéreis para fluidos e recipientes para ossos e dentes. A câmera é útil, mas não basta. Esperar a família ou só preparar o básico não otimiza a coleta.
+Pense na sua resposta.
 
 **Resposta: letra A, assegurar a disponibilidade de frascos estéreis e tubos adequados para a coleta de fluidos, além de recipientes apropriados para acondicionamento de ossos ou dentes para análise de D N A e odontologia legal.**
+
+**Por quê.** Sem rosto e sem digitais, a identificação vai por D N A e por arcada dentária, a odontologia legal. Então o auxiliar se antecipa e deixa prontos frascos estéreis para fluidos e recipientes para ossos e dentes. A câmera é útil, mas não basta. Esperar a família ou só preparar o básico não otimiza a coleta.
 
 ---
 
@@ -406,11 +406,11 @@ Letra C: desinfetantes de baixo nível (por exemplo, sabão neutro).
 
 Letra D: desinfetantes antissépticos para pele (por exemplo, clorexidina).
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Para superfícies e equipamentos com alto risco, usam-se desinfetantes de nível intermediário a alto, como o hipoclorito, que é composto clorado, e os fenólicos. O glutaraldeído é tóxico demais para uso contínuo em superfícies. Sabão neutro só limpa. Clorexidina é antisséptico, feito para a pele, não para bancada.
+Pense na sua resposta.
 
 **Resposta: letra B, desinfetantes de nível intermediário a alto (por exemplo, compostos clorados, fenólicos).**
+
+**Por quê.** Para superfícies e equipamentos com alto risco, usam-se desinfetantes de nível intermediário a alto, como o hipoclorito, que é composto clorado, e os fenólicos. O glutaraldeído é tóxico demais para uso contínuo em superfícies. Sabão neutro só limpa. Clorexidina é antisséptico, feito para a pele, não para bancada.
 
 ---
 
@@ -430,11 +430,11 @@ Letra C: a exposição prolongada ao frio causa endurecimento irreversível dos 
 
 Letra D: a refrigeração impede a coleta de amostras para toxicologia após 24 horas.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** A geladeira desacelera, mas não para. Entre 0 e 4 graus, a autólise e a putrefação continuam, só que mais devagar. Por isso, para guardar por muito tempo, é preciso fixar com formol ou congelar. O frio não favorece bactérias, nem impede toxicologia.
+Pense na sua resposta.
 
 **Resposta: letra B, a refrigeração não impede completamente a ocorrência de processos autolíticos e putrefativos, apenas os retarda.**
+
+**Por quê.** A geladeira desacelera, mas não para. Entre 0 e 4 graus, a autólise e a putrefação continuam, só que mais devagar. Por isso, para guardar por muito tempo, é preciso fixar com formol ou congelar. O frio não favorece bactérias, nem impede toxicologia.
 
 ---
 
@@ -454,11 +454,11 @@ Letra C: solicitar que o médico legista realize toda a coleta e limpeza, pois a
 
 Letra D: coletar as amostras em recipientes abertos para rápida evaporação do cianeto; lavar os instrumentos com água quente e sabão; e descartar resíduos no lixo comum.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O cianeto é volátil e tóxico se inalado. Então: máscara com filtro e luvas duplas; frasco hermético, que protege a equipe e não deixa a substância escapar da amostra; limpeza com oxidante, como o hipoclorito, que neutraliza o cianeto, em ambiente ventilado; e descarte como resíduo químico. Recipiente aberto envenena a equipe e perde a prova.
+Pense na sua resposta.
 
 **Resposta: letra A, utilizar equipamentos de proteção individual (E P I) adequados (máscara com filtro, luvas duplas); coletar as amostras em frascos herméticos com vedação segura; e, para a limpeza, utilizar desinfetantes oxidantes (como hipoclorito diluído) em ambiente ventilado, descartando os resíduos quimicamente perigosos em recipiente específico.**
+
+**Por quê.** O cianeto é volátil e tóxico se inalado. Então: máscara com filtro e luvas duplas; frasco hermético, que protege a equipe e não deixa a substância escapar da amostra; limpeza com oxidante, como o hipoclorito, que neutraliza o cianeto, em ambiente ventilado; e descarte como resíduo químico. Recipiente aberto envenena a equipe e perde a prova.
 
 ---
 
@@ -478,11 +478,11 @@ Letra C: A amostra deve ser classificada como resíduo do grupo C (radioativo), 
 
 Letra D: A amostra deve ser classificada como resíduo do grupo A (infectante), devendo ser incinerada ou submetida a tratamento por autoclave.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Grupos de resíduos de saúde: A infectante, B químico, C radioativo, D comum e E perfurocortante. O formol já inativou os agentes biológicos da peça, então o risco que sobra é o químico do formaldeído, que é tóxico e cancerígeno: grupo B. Atenção também para autoclave: aquecer formol libera vapores perigosos.
+Pense na sua resposta.
 
 **Resposta: letra B, a amostra deve ser classificada como resíduo do grupo B (químico), exigindo tratamento específico para desativação do formaldeído antes do descarte em aterro sanitário licenciado.**
+
+**Por quê.** Grupos de resíduos de saúde: A infectante, B químico, C radioativo, D comum e E perfurocortante. O formol já inativou os agentes biológicos da peça, então o risco que sobra é o químico do formaldeído, que é tóxico e cancerígeno: grupo B. Atenção também para autoclave: aquecer formol libera vapores perigosos.
 
 ---
 
@@ -502,11 +502,11 @@ Letra C: O cumprimento das normas de biossegurança é responsabilidade individu
 
 Letra D: A avaliação de risco em biossegurança deve considerar agente, atividade, vias de exposição e condições do ambiente de trabalho.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Avaliar risco é olhar o conjunto: qual o agente, o que se faz, por onde ele entra no corpo e como é o ambiente. A biossegurança minimiza riscos, não promete zerar, e o E P I é a última barreira, depois das medidas coletivas e administrativas, como você conhece da N R-9 e da N R-32. Precaução é agir antes da prova científica. E a responsabilidade é de todos, empregador incluído.
+Pense na sua resposta.
 
 **Resposta: letra D, a avaliação de risco em biossegurança deve considerar agente, atividade, vias de exposição e condições do ambiente de trabalho.**
+
+**Por quê.** Avaliar risco é olhar o conjunto: qual o agente, o que se faz, por onde ele entra no corpo e como é o ambiente. A biossegurança minimiza riscos, não promete zerar, e o E P I é a última barreira, depois das medidas coletivas e administrativas, como você conhece da N R-9 e da N R-32. Precaução é agir antes da prova científica. E a responsabilidade é de todos, empregador incluído.
 
 ---
 
@@ -526,11 +526,11 @@ Letra C: A descontaminação e a esterilização são processos conceitualmente 
 
 Letra D: A desinfecção elimina todas as formas de vida microbiana, inclusive esporos bacterianos.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Quatro conceitos que confundem. Esterilização: elimina toda forma de vida microbiana, inclusive esporos. Desinfecção: elimina a maioria dos microrganismos, mas não necessariamente os esporos. Descontaminação: reduz a carga microbiana para o manuseio ficar seguro. Desinfestação: combate insetos e roedores, os vetores. As alternativas A e D trocam os conceitos de esterilização e desinfecção.
+Pense na sua resposta.
 
 **Resposta: letra B, a desinfestação está relacionada ao controle de insetos e roedores, e não à eliminação direta de microrganismos.**
+
+**Por quê.** Quatro conceitos que confundem. Esterilização: elimina toda forma de vida microbiana, inclusive esporos. Desinfecção: elimina a maioria dos microrganismos, mas não necessariamente os esporos. Descontaminação: reduz a carga microbiana para o manuseio ficar seguro. Desinfestação: combate insetos e roedores, os vetores. As alternativas A e D trocam os conceitos de esterilização e desinfecção.
 
 ---
 
@@ -550,11 +550,11 @@ Letra C: Materiais perfurocortantes caracterizam risco físico, segundo a classi
 
 Letra D: Riscos biológicos estão restritos a cadáveres recentes e não ocorrem na manipulação de remanescentes ósseos, sobretudo quando secos.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O formol é risco químico: na hora irrita olhos e vias respiratórias, e a longo prazo é cancerígeno. Pela classificação usada no Brasil, no mapa de riscos, perfurocortante é risco de acidente, na cor azul, e não risco físico, que é verde. Riscos físicos incluem ruído, radiação e outros, não só frio. E ossos podem guardar agentes biológicos.
+Pense na sua resposta.
 
 **Resposta: letra B, o formol, amplamente utilizado em atividades forenses, representa risco químico com potencial de efeitos agudos e crônicos.**
+
+**Por quê.** O formol é risco químico: na hora irrita olhos e vias respiratórias, e a longo prazo é cancerígeno. Pela classificação usada no Brasil, no mapa de riscos, perfurocortante é risco de acidente, na cor azul, e não risco físico, que é verde. Riscos físicos incluem ruído, radiação e outros, não só frio. E ossos podem guardar agentes biológicos.
 
 ---
 
@@ -574,11 +574,11 @@ Letra C: A notificação do acidente somente é obrigatória se houver confirma�
 
 Letra D: O acompanhamento clínico será dispensável se comprovado que o trabalhador utilizava E P I no momento do acidente.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Após o acidente, avalia-se o tipo de material, como sangue ou outro fluido; a via, como corte, mucosa ou pele; e a sorologia da fonte, quando conhecida. Pelo Ministério da Saúde, a pele atingida é lavada com água e sabão, sem álcool ou outros produtos que irritem e aumentem a lesão. A notificação é obrigatória sempre, com comunicação de acidente de trabalho, e o acompanhamento clínico acontece mesmo com E P I.
+Pense na sua resposta.
 
 **Resposta: letra A, a avaliação do risco deve considerar o tipo de material, a via de exposição e a situação sorológica, quando conhecida.**
+
+**Por quê.** Após o acidente, avalia-se o tipo de material, como sangue ou outro fluido; a via, como corte, mucosa ou pele; e a sorologia da fonte, quando conhecida. Pelo Ministério da Saúde, a pele atingida é lavada com água e sabão, sem álcool ou outros produtos que irritem e aumentem a lesão. A notificação é obrigatória sempre, com comunicação de acidente de trabalho, e o acompanhamento clínico acontece mesmo com E P I.
 
 ---
 
@@ -598,11 +598,11 @@ Letra C: Os coletores de perfurocortantes podem ser reutilizados após desinfec�
 
 Letra D: O descarte deve ocorrer imediatamente após o uso, em recipientes rígidos e resistentes à perfuração.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Regras de ouro da N R-32: descarte logo após o uso, em coletor rígido e resistente a perfuração; reencapar agulha com as mãos é proibido; e o coletor é de uso único, nunca reutilizado. O risco também é biológico, como hepatite B, hepatite C e H I V, e não só de corte.
+Pense na sua resposta.
 
 **Resposta: letra D, o descarte deve ocorrer imediatamente após o uso, em recipientes rígidos e resistentes à perfuração.**
+
+**Por quê.** Regras de ouro da N R-32: descarte logo após o uso, em coletor rígido e resistente a perfuração; reencapar agulha com as mãos é proibido; e o coletor é de uso único, nunca reutilizado. O risco também é biológico, como hepatite B, hepatite C e H I V, e não só de corte.
 
 ---
 
@@ -622,11 +622,11 @@ Letra C: O gerenciamento inadequado desses resíduos impacta apenas a etapa de d
 
 Letra D: A segregação dos resíduos pode ocorrer em local distinto daquele onde eles são gerados, sem violação das normas de segurança.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Acondicionar bem, em saco e recipiente certos, evita vazamento, acidente e contaminação. Pela R D C 222 de 2018 da Anvisa, a segregação deve ocorrer no local e no momento da geração, por isso a D erra. O tratamento pode ser feito por empresa externa licenciada, e um erro em qualquer etapa afeta todas as outras.
+Pense na sua resposta.
 
 **Resposta: letra A, o acondicionamento adequado desses resíduos, conforme as normas vigentes, previne vazamentos, acidentes e contaminações.**
+
+**Por quê.** Acondicionar bem, em saco e recipiente certos, evita vazamento, acidente e contaminação. Pela R D C 222 de 2018 da Anvisa, a segregação deve ocorrer no local e no momento da geração, por isso a D erra. O tratamento pode ser feito por empresa externa licenciada, e um erro em qualquer etapa afeta todas as outras.
 
 ---
 
@@ -646,11 +646,11 @@ Letra C: O consentimento de familiar da pessoa cujo corpo será submetido à nec
 
 Letra D: A necropsia médico-legal depende sempre de autorização de familiar da pessoa cujo corpo será submetido à necropsia.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O respeito ao morto é dever ético o tempo todo, e o vilipêndio de cadáver é inclusive crime, no artigo 212 do Código Penal. A necropsia médico-legal é obrigatória em morte violenta ou suspeita, pelo artigo 162 do Código de Processo Penal, e não depende de autorização da família, por isso a D erra. Para divulgar imagens, não basta informar a família, e interesse acadêmico não dispensa consentimento.
+Pense na sua resposta.
 
 **Resposta: letra B, a dignidade do cadáver deve ser respeitada durante todo o procedimento necroscópico.**
+
+**Por quê.** O respeito ao morto é dever ético o tempo todo, e o vilipêndio de cadáver é inclusive crime, no artigo 212 do Código Penal. A necropsia médico-legal é obrigatória em morte violenta ou suspeita, pelo artigo 162 do Código de Processo Penal, e não depende de autorização da família, por isso a D erra. Para divulgar imagens, não basta informar a família, e interesse acadêmico não dispensa consentimento.
 
 ---
 
@@ -670,11 +670,11 @@ Letra C: A exposição biológica decorrente do manuseio de materiais perfurocor
 
 Letra D: A habilitação em nível de pós-graduação na área da saúde ou biossegurança, desde que devidamente comprovada, dispensa a necessidade de treinamento e protocolos institucionais voltados à segurança laboratorial e ao gerenciamento de riscos associados a materiais perfurocortantes.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O coletor tem uma linha de limite de enchimento, em geral três quartos da capacidade. Encher além disso faz agulhas ficarem expostas e causa acidente, mesmo que cada descarte tenha sido correto. O risco continua depois do descarte, para quem transporta e trata o resíduo, e nenhum diploma dispensa treinamento.
+Pense na sua resposta.
 
 **Resposta: letra B, o excesso de preenchimento do coletor de perfurocortantes, mesmo quando o descarte é realizado de forma tecnicamente correta, compromete a eficácia da medida de biossegurança.**
+
+**Por quê.** O coletor tem uma linha de limite de enchimento, em geral três quartos da capacidade. Encher além disso faz agulhas ficarem expostas e causa acidente, mesmo que cada descarte tenha sido correto. O risco continua depois do descarte, para quem transporta e trata o resíduo, e nenhum diploma dispensa treinamento.
 
 ---
 
@@ -694,11 +694,11 @@ Letra C: Apenas os itens um e dois estão certos.
 
 Letra D: Apenas os itens dois e três estão certos.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** O item um está certo: biossegurança vale no local de crime e na exumação também. O item dois está certo: ela junta medidas técnicas, administrativas e de comportamento, de forma contínua. O item três está errado: E P I sozinho nunca é suficiente, é a última barreira. Então apenas um e dois.
+Pense na sua resposta.
 
 **Resposta: letra C, apenas os itens um e dois estão certos.**
+
+**Por quê.** O item um está certo: biossegurança vale no local de crime e na exumação também. O item dois está certo: ela junta medidas técnicas, administrativas e de comportamento, de forma contínua. O item três está errado: E P I sozinho nunca é suficiente, é a última barreira. Então apenas um e dois.
 
 ---
 
@@ -718,8 +718,8 @@ Letra C: A atuação do técnico em necropsia limita-se à execução material d
 
 Letra D: Em casos excepcionais, como crimes de impacto ou de grande comoção pública, a autorização judicial pode desatender momentaneamente as normas éticas na execução das atividades de necropsia, visando oferecer uma resposta rápida, concisa e eficaz à sociedade.
 
-Pense na sua resposta antes de ouvir a explicação.
-
-**A explicação.** Mesmo em aula ou artigo científico, a imagem de necropsia precisa ser anonimizada, de modo que ninguém reconheça a vítima: isso protege a dignidade dela e da família. A objeção religiosa não impede a necropsia médico-legal, que é obrigatória por lei. O técnico também tem responsabilidade ética. E nenhuma ordem suspende a ética.
+Pense na sua resposta.
 
 **Resposta: letra A, a anonimização e a impossibilidade de reconhecimento da vítima são condições eticamente indispensáveis para a utilização de imagens necroscópicas, inclusive para fins didáticos ou acadêmicos.**
+
+**Por quê.** Mesmo em aula ou artigo científico, a imagem de necropsia precisa ser anonimizada, de modo que ninguém reconheça a vítima: isso protege a dignidade dela e da família. A objeção religiosa não impede a necropsia médico-legal, que é obrigatória por lei. O técnico também tem responsabilidade ética. E nenhuma ordem suspende a ética.
