@@ -191,7 +191,7 @@ async function baixarParte(id) {
 // ---------- modo guiado: tudo em sequencia, como um cao-guia ----------
 // Ordem pensada para memorizar: apresentacao e plano -> cada materia do curso,
 // seguida na hora da sua revisao relampago (consolidacao) -> provas anteriores
-// do Investigador (teste de memoria) -> recomeca. O material do outro concurso
+// do Investigador (teste de memoria) -> licoes das provas -> recomeca. O material do outro concurso
 // (Tecnico Assistente) fica fora da sequencia, so na lista.
 function sequencia() {
   const porId = (a, b) => a.id.localeCompare(b.id);
@@ -204,8 +204,8 @@ function sequencia() {
     const prox = curso[i + 1];
     if (revisao[p.materia] && (!prox || prox.materia !== p.materia)) { seq.push(revisao[p.materia]); delete revisao[p.materia]; }
   });
-  Object.values(revisao).forEach((id) => seq.push(id));
   partes.filter((p) => p.dia === "prova").sort(porId).forEach((p) => seq.push(p.id));
+  Object.values(revisao).forEach((id) => seq.push(id)); // licoes das provas: logo depois das provas
   return seq;
 }
 function vizinha(id, passo) {

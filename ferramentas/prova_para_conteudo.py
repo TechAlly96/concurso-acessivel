@@ -117,13 +117,19 @@ def questao_md(q, textos):
     explicacao = para_voz(sem_resposta_final(q['explicacao']))
     if q["gabarito"] == "anulada":
         linhas += ["**Questão anulada pela banca.** Na prova, ela valeu ponto para todos os candidatos.", ""]
-        linhas += [f"**Por quê.** {explicacao}", "", "---", ""]
+        linhas += [f"**Por quê.** {explicacao}", ""]
+        if q.get("gravar"):
+            linhas += [f"**Para gravar.** {para_voz(q['gravar'])}", ""]
+        linhas += ["---", ""]
         return linhas
     certa = para_voz(q["alternativas"][q["gabarito"]]).rstrip(".")
     # Resposta logo depois da pausa (confirmacao imediata), com o texto da alternativa certa,
     # e so depois o porque: e a ordem que melhor grava na memoria quem estuda ouvindo.
     linhas += [f"**Resposta: letra {q['gabarito']}, {certa[:1].lower() + certa[1:]}.**", ""]
-    linhas += [f"**Por quê.** {explicacao}", "", "---", ""]
+    linhas += [f"**Por quê.** {explicacao}", ""]
+    if q.get("gravar"):
+        linhas += [f"**Para gravar.** {para_voz(q['gravar'])}", ""]
+    linhas += ["---", ""]
     return linhas
 
 

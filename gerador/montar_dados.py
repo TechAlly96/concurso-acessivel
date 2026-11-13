@@ -151,7 +151,7 @@ def ler_parte(arquivo):
 def main(saida):
     saida = Path(saida)
     saida.mkdir(parents=True, exist_ok=True)
-    partes, revisoes = [], {}
+    partes, revisoes, licoes = [], {}, {}
     for arquivo in sorted(CONTEUDO.glob("*.md")):
         pid = arquivo.stem
         titulo, caps = ler_parte(arquivo)
@@ -165,6 +165,13 @@ def main(saida):
             dia, curto = ("prova" if "_pcmginv_" in pid else "outro"), curto_prova(pid)
         else:
             dia, curto = "geral", titulo
+        if dia == "prova":
+            for c in caps:
+                d = re.search(r"Disciplina\. (.+?)\. ", c["fala"])
+                g = re.search(r"Para gravar\. (.+?)$", c["fala"])
+                n = re.match(r"Questão (\d+)", c["titulo"])
+                if d and g and n:
+                    licoes.setdefault(d.group(1), []).append((n.group(1), g.group(1)))
         if dia == "curso" and materia_de(pid):
             revisoes.setdefault(materia_de(pid), []).extend(c for c in caps if c["titulo"].startswith("Revisão"))
         questoes = sum(1 for c in caps if c["resposta"]) if dia != "curso" else 0
@@ -193,6 +200,26 @@ def main(saida):
         partes.append({"id": pid, "titulo": titulo, "curto": nome, "dia": "revisao", "materia": chave,
                        "capitulos": len(caps), "questoes": 0, "aulas": 0})
         print(f"{pid}: {len(caps)} capitulos (revisao automatica)")
+    if licoes:
+        pid = "r99_licoes_das_provas"
+        titulo = "Revisão relâmpago: as lições da prova anterior do Investigador"
+        texto = ("Revisão relâmpago das provas. Aqui estão, matéria por matéria, as frases para gravar de cada "
+                 "questão da prova anterior do Investigador, sem o enunciado e sem a explicação longa. É o que a "
+                 "banca já cobrou, e costuma cobrar de novo. Depois de cada frase, repita em voz alta. Se uma frase "
+                 "não fizer sentido, volte à questão na prova resolvida.")
+        caps = [{"id": "c00", "titulo": "Abertura", "html": f"<p>{inline_html(texto)}</p>",
+                 "fala": f"{titulo}. Abertura. {texto}", "resposta": None}]
+        for i, (disc, itens) in enumerate(licoes.items(), 1):
+            pars = [f"Questão {n}: {frase}" for n, frase in itens]
+            caps.append(capitulo(f"c{i:02d}", f"Lições de {disc}", pars))
+        pasta = saida / pid
+        pasta.mkdir(exist_ok=True)
+        (pasta / "conteudo.json").write_text(json.dumps(
+            {"id": pid, "titulo": titulo, "curto": "Lições da prova anterior", "dia": "revisao", "capitulos": caps},
+            ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        partes.append({"id": pid, "titulo": titulo, "curto": "Lições da prova anterior", "dia": "revisao",
+                       "materia": "provas", "capitulos": len(caps), "questoes": 0, "aulas": 0})
+        print(f"{pid}: {len(caps)} capitulos (licoes automaticas)")
     (saida / "partes.json").write_text(json.dumps(partes, ensure_ascii=False, separators=(",", ":")),
                                        encoding="utf-8")
     print(f"Total: {len(partes)} partes, {sum(p['questoes'] for p in partes)} questoes")

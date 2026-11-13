@@ -20,7 +20,9 @@ Logo no fim de cada matéria, toca a **revisão relâmpago** daquela matéria: t
 
 Por último, as **provas anteriores do Investigador, resolvidas**, questão por questão. Elas funcionam como um teste: você vai ver o que já ficou na memória.
 
-Quando a última prova termina, tudo recomeça. E é exatamente isso que você quer: cada volta grava um pouco mais fundo.
+Cada questão termina com uma frase curta, chamada **Para gravar**: a lição daquela questão em uma linha. Logo depois das provas, toca a revisão relâmpago com **as lições da prova**, todas essas frases em sequência, matéria por matéria.
+
+Quando essa revisão termina, tudo recomeça. E é exatamente isso que você quer: cada volta grava um pouco mais fundo.
 
 Na lista de partes há também o material de um outro concurso da Polícia Civil, o de Técnico Assistente. Ele fica fora da sequência, para não misturar as matérias. Só ouça se for fazer aquele concurso.
 

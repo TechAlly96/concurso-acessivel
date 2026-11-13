@@ -32,6 +32,8 @@ Pense na sua resposta.
 
 **Por quê.** O cartaz mostra água, flor, borboleta e beija-flor formando um coração: as imagens dizem que a água sustenta a vida, e é isso que a letra E afirma. A letra A está errada porque o cartaz mistura tratamentos: "lembre-se", que é você, com "te sustenta", que é tu; isso fere a uniformidade de tratamento. A letra B erra porque "que te sustenta" é oração adjetiva, caracteriza a água, não conclui nada. A C erra porque o conselho é ambiental, de economia, e não medicinal. A D tira uma conclusão que o cartaz não autoriza.
 
+**Para gravar.** Cartaz que mistura você e tu fere a uniformidade de tratamento; e imagem também é texto: leia o que ela diz.
+
 ---
 
 ## Questão 2. Linguagem figurada
@@ -56,7 +58,9 @@ Pense na sua resposta.
 
 **Resposta: letra B, nosso objetivo é dominar o mundo, como a Microsoft.**
 
-**Por quê.** Linguagem figurada é quando as palavras não estão no sentido literal. "Dominar o mundo" é um exagero, uma hipérbole: ninguém domina literalmente o planeta; a ideia é ter enorme sucesso. As demais frases são opiniões ditas em sentido literal, mesmo que sejam polêmicas.
+**Por quê.** Linguagem figurada é quando as palavras não estão no sentido literal. Na letra B, "dominar o mundo" é um exagero, uma hipérbole: ninguém domina literalmente o planeta; a ideia é ter enorme sucesso. As outras frases são opiniões, polêmicas ou não, mas ditas no sentido literal. Na A, castigo é a opinião sobre trabalhar sem receber. Na C, é uma comparação direta entre ter pouco e ter muito dinheiro. Na D, apontar um futuro significa, literalmente, mostrar um objetivo. E a E é uma crítica dita ao pé da letra.
+
+**Para gravar.** Linguagem figurada é sentido não literal; dominar o mundo é hipérbole, exagero.
 
 ---
 
@@ -84,6 +88,8 @@ Pense na sua resposta.
 
 **Por quê.** Texto descritivo caracteriza um ser, atribuindo-lhe qualidades, geralmente com verbo de ligação, como "é". "A riqueza é a felicidade na Terra" define e caracteriza a riqueza. As letras A, C e D têm verbo no imperativo, dando ordem ou conselho: são injuntivas. A letra E conta ações em sequência no tempo: é narrativa.
 
+**Para gravar.** Descritivo caracteriza, com verbo de ligação; imperativo é injuntivo; ações em sequência são narrativa.
+
 ---
 
 ## Questão 4. Discurso direto e indireto
@@ -108,7 +114,9 @@ Pense na sua resposta.
 
 **Resposta: letra D, já foi dito que dinheiro disponível é uma lâmpada de Aladim.**
 
-**Por quê.** No discurso indireto, o narrador conta com as próprias palavras o que alguém disse, usando um verbo de dizer seguido de "que". "Já foi dito que..." é exatamente essa estrutura. As outras frases são afirmações feitas diretamente, sem relatar a fala de ninguém.
+**Por quê.** No discurso indireto, quem fala relata, com as próprias palavras, o que outra pessoa disse, usando um verbo de dizer seguido de "que". "Já foi dito que dinheiro disponível é uma lâmpada de Aladim" tem exatamente essa estrutura: o verbo dizer, a palavra que, e o conteúdo do que foi dito. As letras A, B e E são afirmações feitas diretamente por quem escreve, sem relatar fala de ninguém. A letra C é uma pergunta seguida de um conselho dirigido ao leitor, também sem relato de fala.
+
+**Para gravar.** Discurso indireto: verbo de dizer, mais a palavra que, mais o que foi dito. Já foi dito que.
 
 ---
 
@@ -136,6 +144,8 @@ Pense na sua resposta.
 
 **Por quê.** Estado é uma condição passageira, resultado de algo que aconteceu. "Arranhada" mostra a situação em que a mesa ficou depois de ser arranhada. "Alto" é característica permanente; "feliz", aplicado a país, é qualidade; "importado" indica origem; e "presidencial" é adjetivo de relação, quer dizer "do presidente".
 
+**Para gravar.** Adjetivo de estado é condição que resultou de algo: mesa arranhada. Presidencial é adjetivo de relação.
+
 ---
 
 ## Questão 6. Inferência
@@ -160,7 +170,9 @@ Pense na sua resposta.
 
 **Resposta: letra C, muita gente no Rio de Janeiro vive nas favelas. / As favelas do Rio são lugares aprazíveis.**
 
-**Por quê.** Uma inferência adequada decorre logicamente do que foi dito. O fato de muita gente morar em favelas não permite concluir que elas sejam lugares agradáveis; pode indicar justamente falta de moradia. Nas outras opções, a conclusão é razoável a partir do fato apresentado.
+**Por quê.** A questão pede a dedução inadequada. Uma inferência adequada decorre do que foi dito. Na letra C, o fato de muita gente no Rio morar em favelas não permite concluir que elas sejam lugares agradáveis; pode indicar justamente o contrário, a falta de moradia digna. Nas outras, a conclusão é razoável: ganhar o mundial mostra um time magnífico; mulheres nas Forças Armadas mostram ascensão social; uma multidão atacando supermercado de alimentos sugere crise social; e quarenta graus no estádio justificam mudar horários de jogos.
+
+**Para gravar.** Inferência só vale se decorre do texto; o fato de muita gente morar ali não prova que o lugar é bom.
 
 ---
 
@@ -188,6 +200,8 @@ Pense na sua resposta.
 
 **Por quê.** O gerente apenas pendurou o cartaz; quem produziu a mensagem foi a empresa de publicidade, em nome da loja. Por isso dizer que o emissor é o gerente é inadequado. As outras afirmativas estão certas: a mensagem é publicitária, usa palavras e imagens, mira possíveis clientes e argumenta com preço baixo.
 
+**Para gravar.** Emissor é quem produz a mensagem, não quem a pendura; o cartaz é da empresa de publicidade, em nome da loja.
+
 ---
 
 ## Questão 8. Semântica: intensificação
@@ -214,6 +228,8 @@ Pense na sua resposta.
 
 **Por quê.** Intensificar é dizer a mesma ideia com mais força. Separar-se é afastar-se; abandonar é separar-se de forma mais forte, deixando a pessoa desamparada. "Abatida" muda o sentido de "magra"; "se uniram" e "escreveu" enfraquecem ou neutralizam a ideia; e "apavorada" troca uma aparência física por um sentimento.
 
+**Para gravar.** Intensificar é dizer a mesma ideia com mais força: separar-se vira abandonar.
+
 ---
 
 ## Questão 9. Precisão das informações
@@ -238,7 +254,9 @@ Pense na sua resposta.
 
 **Resposta: letra E, não se trata das importações, mas das exportações / utilização de palavras de sentido próximo.**
 
-**Por quê.** Importação e exportação têm sentidos opostos, não próximos. A precisão, nesse caso, vem do contraste, da oposição entre as duas palavras. Nas demais opções, o recurso indicado corresponde ao que a frase faz: enumerar, acrescentar informação, quantificar e citar nome próprio.
+**Por quê.** A questão pede a forma de precisão indicada de modo errado. Na letra E, importação e exportação têm sentidos opostos, e não próximos: a precisão vem do contraste entre as duas palavras. As demais indicações estão certas. Na A, a lista entre travessões é uma enumeração. Na B, o dado de que o Brasil é quatorze vezes maior que a França é um elemento informativo acrescentado. Na C, o número exato de pessoas é quantificação precisa. E, na D, o nome Henry Ford é o emprego de nome próprio.
+
+**Para gravar.** Importação e exportação são opostos: a precisão vem do contraste, não de sentido próximo.
 
 ---
 
@@ -266,6 +284,8 @@ Pense na sua resposta.
 
 **Por quê.** O substantivo precisa ter exatamente o mesmo sentido da oração. Quem vive sozinho é o solitário. Surdo-mudo também não fala, não é só quem não escuta; viúvo já foi casado; quem pede na rua é o pedinte, não necessariamente o desempregado; e quem vive de herança é o herdeiro, não o preguiçoso.
 
+**Para gravar.** O substantivo precisa ter o mesmo sentido da oração: quem vive sozinho é o solitário.
+
 ---
 
 ## Questão 11. Porcentagem
@@ -292,6 +312,8 @@ Pense na sua resposta.
 
 **Por quê.** Vá por etapas, como uma escada. 55 por cento de 600 dá 330 documentos com indícios. 30 por cento de 330 dá 99. Um terço de 99 dá 33. Dica: porcentagem de porcentagem se calcula em sequência, multiplicando, nunca somando.
 
+**Para gravar.** Porcentagem de porcentagem: multiplique em sequência. Seiscentos, trezentos e trinta, noventa e nove, trinta e três.
+
 ---
 
 ## Questão 12. Probabilidade condicional
@@ -317,6 +339,8 @@ Pense na sua resposta.
 **Resposta: letra B, 49%.**
 
 **Por quê.** Imagine 100 denúncias. Roubo: 44, e 90 por cento procedentes, dá 39,6. Fraude: 36, com 70 por cento procedentes, dá 25,2. Tráfico: 20, com 80 por cento procedentes, dá 16. Total de procedentes: 80,8. Como já sabemos que a denúncia é procedente, o universo agora é 80,8. A chance de ser roubo é 39,6 dividido por 80,8, cerca de 0,49, ou 49 por cento. Essa é a probabilidade condicional: o "sabendo que" reduz o universo.
+
+**Para gravar.** Sabendo que reduz o universo: probabilidade condicional é a parte dividida pelo novo total.
 
 ---
 
@@ -346,6 +370,8 @@ Pense na sua resposta.
 
 **Por quê.** No roubo, 135 solucionados em 180 ocorrências: 75 por cento. Essa proporção vale para todos. Tráfico: 45 solucionados são 75 por cento de 60 ocorrências. Lesão corporal: 30 solucionados são 75 por cento de 40. Total de ocorrências: 180 mais 60 mais 120 mais 40, igual a 400. Roubo: 180 de 400, ou seja, 45 por cento.
 
+**Para gravar.** Ache a proporção onde a linha está completa, aplique às outras, e só então some o total.
+
 ---
 
 ## Questão 14. Proporção inversa
@@ -372,6 +398,8 @@ Pense na sua resposta.
 
 **Por quê.** Inversamente proporcional quer dizer que o produto é constante: 3 policiais vezes 20 dias dá 60 dias de trabalho. Com 4 policiais, 60 dividido por 4 dá 15 dias. Antecipa 20 menos 15, ou seja, 5 dias. Cuidado: a pergunta é quanto antecipa, não quanto tempo leva.
 
+**Para gravar.** Inversamente proporcional: o produto é constante. Três vezes vinte dá sessenta; sessenta dividido por quatro dá quinze.
+
 ---
 
 ## Questão 15. Sequências e calendário
@@ -397,6 +425,8 @@ Pense na sua resposta.
 **Resposta: letra D, no domingo, dia 15 de dezembro, a 15 km da delegacia.**
 
 **Por quê.** Os dias são 1, 3, 6 e 10: os intervalos crescem 2, 3, 4, então o próximo é mais 5, dia 15. As distâncias são 5, 6, 8 e 11: os aumentos crescem 1, 2, 3, então o próximo é mais 4, igual a 15 quilômetros. Se o dia 1º foi domingo, os dias 8 e 15 também são domingos. Resposta: domingo, dia 15, a 15 quilômetros.
+
+**Para gravar.** Em sequência, olhe as diferenças: dois, três, quatro, então cinco. E de sete em sete dias o dia da semana se repete.
 
 ---
 
@@ -426,6 +456,8 @@ Pense na sua resposta.
 
 **Por quê.** Ordene os valores conhecidos: 22, 24, 25, 26, 29, 30 e 34. Com oito valores, a mediana é a média do quarto com o quinto. Para a mediana dar 27, o valor perdido precisa ficar entre 26 e 29, e 26 mais x, dividido por 2, igual a 27, dá x igual a 28. Some tudo: 22, 30, 26, 25, 28, 34, 29 e 24 dão 218. Dividido por 8, a média é 27,25.
 
+**Para gravar.** Com número par de valores, a mediana é a média dos dois do meio.
+
 ---
 
 ## Questão 17. Redes: I P versão 4 e I P versão 6
@@ -451,6 +483,8 @@ Pense na sua resposta.
 **Resposta: letra D, o I P versão 6 inclui o suporte nativo a funcionalidades como segurança e mobilidade, que são apenas opcionais no I P versão 4.**
 
 **Por quê.** O I P versão 6 foi projetado com segurança, o IPsec, e mobilidade como recursos nativos, enquanto no I P versão 4 eles são acréscimos opcionais. A letra A erra o tamanho: o I P versão 4 tem 32 bits, não 64. A E erra feio: 128 bits contra 32 não dá quatro vezes mais endereços, dá 2 elevado a 96 vezes mais, um número astronômico. A B usa "elimina completamente", palavra absoluta. E o cabeçalho do I P versão 6, apesar de maior, é mais simples e eficiente para rotear.
+
+**Para gravar.** I P versão 4 tem 32 bits; I P versão 6 tem 128 bits, com segurança e mobilidade nativas.
 
 ---
 
@@ -478,6 +512,8 @@ Pense na sua resposta.
 
 **Por quê.** O cabo é mais estável, mais rápido e mais difícil de espionar, porque é preciso acesso físico; o Wi-Fi ganha em mobilidade e facilidade de instalação. O Wi-Fi tem latência maior, sofre interferência, opera em várias frequências, como 2,4 e 5 gigahertz, e o padrão das redes cabeadas hoje é o par trançado, não o coaxial.
 
+**Para gravar.** Cabo: estabilidade, velocidade e segurança física. Wi-Fi: mobilidade e facilidade de instalação.
+
 ---
 
 ## Questão 19. Word e Writer
@@ -503,6 +539,8 @@ Pense na sua resposta.
 **Resposta: letra D, colaboração em tempo real com múltiplos usuários diretamente no arquivo.**
 
 **Por quê.** Os dois programas têm tabelas, estilos, mala direta e exportação para P D F. Edição simultânea por várias pessoas em tempo real não é recurso nativo dos dois: no Word depende da nuvem da Microsoft, e o Writer de mesa não oferece isso. Repare no comando "à exceção de uma": procure a que não é comum.
+
+**Para gravar.** Word e Writer têm em comum tabelas, estilos, mala direta e exportar P D F; edição simultânea nativa, não.
 
 ---
 
@@ -530,6 +568,8 @@ Pense na sua resposta.
 
 **Por quê.** As macros do Excel são escritas em V B A, o Visual Basic for Applications. O Calc aceita macros em Basic e também em Python. Como o Excel não programa macros em Python, esse recurso não é comum aos dois. Gráficos, filtros, tabelas dinâmicas e importação de C S V existem em ambos.
 
+**Para gravar.** Macros: Excel usa V B A; Calc aceita Basic e Python. Python no Excel não é recurso comum aos dois.
+
 ---
 
 ## Questão 21. Malware: worm e cavalo de Troia
@@ -555,6 +595,8 @@ Pense na sua resposta.
 **Resposta: letra B, worms podem se replicar automaticamente e se espalhar por redes, enquanto cavalos de Troia precisam ser instalados pelo usuário como se fossem programas legítimos.**
 
 **Por quê.** O worm, que quer dizer verme, se copia sozinho e se espalha pela rede explorando falhas. O cavalo de Troia, como o presente grego da história, se disfarça de programa útil e depende de a vítima instalar. As letras A e E invertem os papéis. A C descreve spyware e ransomware.
+
+**Para gravar.** Worm se copia sozinho pela rede; cavalo de Troia se disfarça e depende de a vítima instalar.
 
 ---
 
@@ -582,6 +624,8 @@ Pense na sua resposta.
 
 **Por quê.** Mensagem falsa, com urgência, que leva a uma página falsa onde a própria vítima digita a senha: é phishing, a pescaria de dados. Não houve sequestro de arquivos, que seria ransomware, nem derrubada de serviço, que seria D o S, nem instalação de programa. Spoofing é falsificar a identidade de origem, como o remetente; aqui ele pode até ter sido usado, mas o golpe como um todo é phishing.
 
+**Para gravar.** Mensagem falsa e urgente que leva a página falsa onde a vítima digita a senha: phishing.
+
 ---
 
 ## Questão 23. Criptografia assimétrica
@@ -607,6 +651,8 @@ Pense na sua resposta.
 **Resposta: letra B, usando a chave pública de João, garantindo que somente João possa descriptografar com sua chave privada.**
 
 **Por quê.** Regra de ouro para sigilo: cifra com a chave pública do destinatário; só a chave privada dele abre. Pense num cadeado aberto que João distribui para todos: qualquer um tranca, só João tem a chave. Cifrar com a própria chave privada serve para assinatura, para provar autoria, não para sigilo. E Maria nunca tem a chave privada de João.
+
+**Para gravar.** Sigilo: cifra com a chave pública do destinatário. Assinatura: cifra com a sua chave privada.
 
 ---
 
@@ -634,6 +680,8 @@ Pense na sua resposta.
 
 **Por quê.** A G P L versão 3, de 2007, trouxe proteções contra D R M e contra a chamada tivoização, que é usar software livre em aparelhos travados para o usuário não poder modificar. A B S D é permissiva: deixa usar o código até em programas fechados e não obriga a manter a mesma licença. As G P L são copyleft: obrigam quem distribui versões modificadas a manter a mesma liberdade. E a compatibilidade da G P L versão 2 com a versão 3 só existe se o autor usar a cláusula "ou qualquer versão posterior".
 
+**Para gravar.** B S D é permissiva; G P L é copyleft; a G P L versão 3 trouxe proteção contra D R M e tivoização.
+
 ---
 
 ## Questão 25. L C 129: competências das superintendências
@@ -659,6 +707,8 @@ Pense na sua resposta.
 **Resposta: letra C, superintendência de Investigação e Polícia Judiciária.**
 
 **Por quê.** É o artigo 38 da Lei Complementar 129. A Superintendência de Investigação e Polícia Judiciária tem a finalidade de planejar, coordenar e supervisionar a execução da investigação criminal, e o inciso cinco do artigo lhe dá a competência para remover investigadores de polícia e escrivães de polícia, a pedido ou por permuta. A Corregedoria cuida da disciplina; a Inteligência, das informações; e a Planejamento, Gestão e Finanças, da administração de recursos.
+
+**Para gravar.** Remoção de investigador e escrivão, a pedido ou por permuta: Superintendência de Investigação e Polícia Judiciária.
 
 ---
 
@@ -686,6 +736,8 @@ Pense na sua resposta.
 
 **Por quê.** Os itens dois e três estão no artigo 158 da Lei 5.406, que lista os casos de demissão: o inciso 6 fala em exercer atividade remunerada estando licenciado para tratamento de saúde, e o inciso 2 em procedimento irregular de natureza grave. O item um é a pegadinha da troca de número: a lei exige ausência sem causa justificável por mais de quarenta e cinco dias, interpoladamente, durante um ano, e não trinta. Trinta dias aparece em outro lugar: o abandono de cargo, que é a falta por mais de trinta dias consecutivos. Macete: trinta seguidos é abandono; quarenta e cinco salteados no ano também demite.
 
+**Para gravar.** Lei 5406: trinta dias seguidos é abandono; quarenta e cinco dias salteados no ano também demite.
+
 ---
 
 ## Questão 27. Lei 5.406: causas de justificação
@@ -711,6 +763,8 @@ Pense na sua resposta.
 **Resposta: letra B, apresentar motivo de força maior plenamente comprovado e justificado.**
 
 **Por quê.** O artigo 153 da Lei 5.406 separa causas justificativas, que afastam a punição, de circunstâncias atenuantes, que só diminuem a pena. O motivo de força maior plenamente comprovado e justificado está no parágrafo 1º, inciso 2: é causa justificativa. Já ter cometido a falta para evitar mal maior, a confissão espontânea perante a autoridade sindicante, o bom comportamento anterior e a relevância dos serviços prestados estão no parágrafo 2º: são atenuantes. A pegadinha está na letra C, que lembra o estado de necessidade do Direito Penal, mas na Lei 5.406 é atenuante. Atenção: a legítima defesa e a obediência a ordem superior, sim, são causas justificativas.
+
+**Para gravar.** Lei 5406: força maior, legítima defesa e ordem superior justificam; evitar mal maior, confissão e bons serviços só atenuam.
 
 ---
 
@@ -738,6 +792,8 @@ Pense na sua resposta.
 
 **Por quê.** O artigo 49 da Lei Complementar 129 lista as indenizações e gratificações. O item um está certo: o auxílio-natalidade, do inciso 14, é devido pelo nascimento de filho ou adoção, no valor da remuneração do servidor, com uma única percepção quando pai e mãe são da P C M G. O item três também está certo: o translado ou remoção quando ferido, acidentado ou falecido em serviço está no inciso 6. O item dois é a pegadinha: pelo inciso 1, a ajuda de custo é devida em caso de remoção de ofício, ou seja, por interesse da Administração, ou de designação para serviço ou estudo que importe alteração do domicílio. A questão incluiu a remoção a pedido, que a lei não prevê. A F G V acrescentou duas palavras, "ou a pedido", e isso bastou para tornar o item falso.
 
+**Para gravar.** Ajuda de custo é para remoção de ofício, nunca a pedido. A F G V acrescenta duas palavras e o item fica falso.
+
 ---
 
 ## Questão 29. L C 129: afastamento para estudo
@@ -764,6 +820,8 @@ Pense na sua resposta.
 
 **Por quê.** Só o item três reproduz a lei: é o artigo 69 da Lei Complementar 129. O policial afastado não pode exercer nenhuma de suas funções, ou outra, pública ou particular, diversa da que motivou o ato, sob pena de cassação do afastamento e retorno imediato. Os itens um e dois trocaram os números do artigo 68. O afastamento para curso é concedido pelo prazo de três meses, prorrogável até o máximo de três meses, e não seis. E quem se afasta para estudo, sem prejuízo da remuneração ou com ônus para a P C M G, fica obrigado a prestar serviços por mais três anos depois do afastamento, e não cinco, ou a ressarcir o Estado. Macete: no afastamento para curso, tudo é três: três meses, mais três de prorrogação, e três anos de serviço depois.
 
+**Para gravar.** Afastamento para curso: tudo é três. Três meses, mais três de prorrogação, e três anos de serviço depois.
+
 ---
 
 ## Questão 30. Lei 5.406: revisão do processo administrativo
@@ -789,3 +847,5 @@ Pense na sua resposta.
 **Resposta: letra A, a revisão poderá ser pedida pelo próprio punido ou por procurador legalmente habilitado, vedada, em caso de morte, a postulação por cônjuge sobrevivente.**
 
 **Por quê.** Atenção, a questão pede a incorreta. Pelo artigo 197 da Lei 5.406, a revisão pode ser pedida pelo próprio punido ou por procurador e, no caso de morte do punido, pelo cônjuge, ascendente, descendente ou irmão. Dizer que é vedado ao cônjuge é o erro. As outras estão certas: quem integrou a comissão do processo fica impedido de atuar na revisão, pelo artigo 199; julgada procedente, a revisão reduz ou cancela a pena, pelo artigo 204; pode ser pedida a qualquer tempo e não autoriza agravar a pena, pelo artigo 196; e a simples alegação de injustiça não é fundamento, pelo artigo 198.
+
+**Para gravar.** Revisão disciplinar: a qualquer tempo, nunca agrava a pena, e, se o punido morreu, o cônjuge pode pedir.
