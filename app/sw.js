@@ -1,4 +1,6 @@
 "use strict";
+// So apaga caches com o prefixo "concurso-": o site github.io e compartilhado com os outros apps
+// (Enem, Concurso, Ingles, GIN) e os audios baixados de um nunca podem ser apagados por outro.
 // Concurso Acessivel - service worker (mesmo desenho do GIN):
 // rede primeiro para o app e os dados; audio baixado fica guardado e e entregue em pedacos
 // (Range) para permitir pular entre questoes sem internet.
@@ -14,7 +16,7 @@ self.addEventListener("install", (e) => {
 
 self.addEventListener("activate", (e) => {
   e.waitUntil(caches.keys()
-    .then((chaves) => Promise.all(chaves.filter((k) => ![CACHE_APP, CACHE_AUDIO, CACHE_DADOS].includes(k)).map((k) => caches.delete(k))))
+    .then((chaves) => Promise.all(chaves.filter((k) => k.startsWith("concurso-") && ![CACHE_APP, CACHE_AUDIO, CACHE_DADOS].includes(k)).map((k) => caches.delete(k))))
     .then(() => self.clients.claim()));
 });
 
